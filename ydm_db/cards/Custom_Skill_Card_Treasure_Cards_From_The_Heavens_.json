@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "Generic / Skill\nFlip this card over when you activate this Skill.\nIf your LP are 2000 or lower, you can activate this Skill during your next Draw Phase. During your Draw Phase, you can activate this Skill instead of conducting your normal draw:\n? Each player draws until they have 6 cards in their hand. At the end of the turn you use this Skill, you lose the Duel.",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/Customs/Custom_Skill_Card_Treasure_Cards_From_The_Heavens_.jpg"
   ],
   "type": "Spell",
   "spell_type": "Normal"

@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "Generic / Skill\nAt the start of the Duel, flip this card over.\nBoth players can Normal Summon/Set Level 5 or Level 6 monsters with 2000 or less ATK and DEF without Tribute(s), unless that monster can already be Normal Summoned without Tribute(s). If the monster being Summoned/Set using this Skill is an Effect monster, the controller of that monster must pay 1200 LP.",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/Customs/Custom_Skill_Card_Semi_Advance_Summons.jpg"
   ],
   "type": "Spell",
   "spell_type": "Normal"
