@@ -1,0 +1,21 @@
+{
+  "id": 2000000022,
+  "name": "Bubonic King Vermin",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "\"Bubonic Vermin\" + \"Bubonic Vermin\" + \"Bubonic Vermin\"\nIf this card is Fusion Summoned: Shuffle all \"Bubonic Vermin\" in the GY into the Deck. This card's name becomes \"Bubonic Vermin\" when in the GY.\n\nConcept by TheLoneCarrot/bloco100",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2700,
+  "species": "Beast",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1800,
+  "level": 7,
+  "is_tuner": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 2027827272,
+  "name": "Makiu, the Magical Mist (Anime)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Until the End Phase, all face-up Thunder monsters or face-up monsters named \"Summoned Skull\" or \"Skull Archfiend of Lightning\", gain 700 ATK, and all face-up Machine monsters lose 300 ATK/DEF.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

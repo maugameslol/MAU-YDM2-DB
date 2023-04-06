@@ -1,0 +1,21 @@
+{
+  "id": 2029155212,
+  "name": "Pumpking the King of Ghosts (Anime)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When this card is Summoned: All other Zombie-Type monsters you control gain 100 ATK. Once per turn, during your Standby Phase: All other Zombie-Type monsters you control gain 100 ATK.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1800,
+  "species": "Zombie",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 6,
+  "is_tuner": false
+}

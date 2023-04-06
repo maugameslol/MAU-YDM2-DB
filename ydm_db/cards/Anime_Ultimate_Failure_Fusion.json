@@ -1,0 +1,21 @@
+{
+  "id": 2023995346,
+  "name": "Ultimate Failure Fusion (Anime)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "2 monsters with different Attributes and Types\nMust be Fusion Summoned, and cannot be Special Summoned by other ways. This card\u0027s original ATK/DEF, Level, Attribute, and name become that of the Fusion Material with the highest ATK, but loses ATK equal to that of the Fusion Material with the lowest ATK during your End Phase. This card cannot be Tributed or used as Fusion, Synchro, XYZ, or Link Material.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Zombie",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 1,
+  "is_tuner": false
+}

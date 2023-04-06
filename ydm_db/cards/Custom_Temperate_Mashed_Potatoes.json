@@ -1,0 +1,12 @@
+{
+  "id": 2000000004,
+  "name": "Temperate Mashed Potatoes",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When a card or effect that increases LP is activated; No LP is gained instead. If this was activated during your opponent\u0027s turn, your opponent cannot increase their LP for the rest of their turn.\n\nConcept by pek",
+  "images": [
+    ""
+  ],
+  "type": "Trap",
+  "trap_type": "Counter"
+}

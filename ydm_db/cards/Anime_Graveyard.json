@@ -1,0 +1,12 @@
+{
+  "id": 2023424603,
+  "name": "Graveyard (Anime)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "All Zombie monsters on the field gain 200 ATK/DEF.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Field"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "mcdonald_s_pack_1",
+  "pulls": [
+    {
+      "weight": 64,
+      "entries": [
+        {
+          "count": 2,
+          "rarities": [
+            "Common"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 16,
+      "entries": [
+        {
+          "count": 1,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Super Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 4,
+      "entries": [
+        {
+          "count": 1,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

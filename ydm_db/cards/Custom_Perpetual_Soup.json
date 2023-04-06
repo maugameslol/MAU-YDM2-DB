@@ -1,0 +1,12 @@
+{
+  "id": 2000000003,
+  "name": "Perpetual Soup",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Once per turn, you can activate 1 of these effects:\n? Gain 500 LP.\n? Inflict 500 damage to your opponent.\nIf this card is in your GY: You can shuffle it back into the Deck, then draw 1 card. You can only use this effect of \"Perpetual Soup\" once per turn.\n\nArt \u0026 Concept by pek",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

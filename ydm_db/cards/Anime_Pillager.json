@@ -1,0 +1,12 @@
+{
+  "id": 2045986603,
+  "name": "Pillager (Anime)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Look at your opponent\u0027s hand. Select 1 card and add it to your hand.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

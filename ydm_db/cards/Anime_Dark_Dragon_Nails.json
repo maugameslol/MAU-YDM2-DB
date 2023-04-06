@@ -1,0 +1,12 @@
+{
+  "id": 2001435851,
+  "name": "Dark Dragon Nails (Anime)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Equip only to a DARK Dragon-Type monster. It gains 700 ATK.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Equip"
+}

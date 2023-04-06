@@ -1,0 +1,12 @@
+{
+  "id": 2018807109,
+  "name": "Spellbinding Circle (Anime)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Activate this card by targeting 1 monster your opponent controls; it loses 700 ATK, its effects are negated, and cannot attack or change its battle position. When that monster is destroyed, destroy this card.",
+  "images": [
+    ""
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

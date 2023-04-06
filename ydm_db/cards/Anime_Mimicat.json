@@ -1,0 +1,12 @@
+{
+  "id": 2088032456,
+  "name": "Mimicat (Anime)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If you control \"Toon World\": Target 1 card in your opponent\u0027s GY; if it is a monster, Special Summon it to your field, or if it is a Spell/Trap, use that card\u0027s effect as this card\u0027s effect.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

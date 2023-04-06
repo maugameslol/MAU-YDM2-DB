@@ -1,0 +1,12 @@
+{
+  "id": 2000000046,
+  "name": "PokeItem - Light Ball",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Equip only to a \"Pikachu\" monster. The equipped monster\u0027s original ATK is doubled.\n\nConcept by MauGamesLOL",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Equip"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 2036607978,
+  "name": "Full Moon (Anime)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Equip only to a Beast-Type monster. It gains 300 ATK and DEF.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Equip"
+}

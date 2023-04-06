@@ -1,0 +1,21 @@
+{
+  "id": 2099551425,
+  "name": "Labyrinth Tank (Anime)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "A tank that races around a labyrinth hunting down its enemies.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2400,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 2400,
+  "level": 7,
+  "is_tuner": false
+}

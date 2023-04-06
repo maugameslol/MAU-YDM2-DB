@@ -1,0 +1,12 @@
+{
+  "id": 2000000031,
+  "name": "DB Kamehameha",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Target 1 face-up \"DB\" Beast-Warrior or Warrior monster you control and 1 face-up monster your opponent controls in the same column as your monster; The first target cannot declare an attack this turn, and inflict damage equal to it\u0027s ATK, and if you do, destroy all cards your opponent controls in the same column as the second target.\n\nConcept by MauGamesLOL",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

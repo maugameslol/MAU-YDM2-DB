@@ -1,0 +1,21 @@
+{
+  "id": 2000000050,
+  "name": "Fear Goblin",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Once per turn, you can target 1 monster your opponent controls; It is changed to Defense Position at the end of the Battle Phase, and its battle position cannot be changed until the End Phase of your next turn. This card must be face-up on the field to activate and resolve this effect.\n\nConcept by TheLoneCarrot/bloco100",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2000,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}

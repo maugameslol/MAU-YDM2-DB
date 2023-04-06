@@ -1,0 +1,21 @@
+{
+  "id": 32344688,
+  "name": "Dark Chimera",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A monster that feeds on oxygen, suffocating any who stand near.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/32344688.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1610,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1460,
+  "level": 5,
+  "is_tuner": false
+}

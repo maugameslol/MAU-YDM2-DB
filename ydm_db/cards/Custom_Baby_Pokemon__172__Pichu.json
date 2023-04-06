@@ -1,0 +1,21 @@
+{
+  "id": 2000000034,
+  "name": "Baby Pokemon #172: Pichu",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Once per turn, you can add 1 \"Baby Pokemon\" monster from your Deck to your hand. You can only use this effect of \"Baby Pokemon #172: Pichu\" once per turn, and this card cannot attack the turn this effect is activated. If this card is attacked, Flip a coin: If tails, negate the attack.\n\nConcept by MauGamesLOL",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 300,
+  "species": "Thunder",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 500,
+  "level": 1,
+  "is_tuner": true
+}

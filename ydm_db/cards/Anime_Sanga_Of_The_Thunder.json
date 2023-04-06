@@ -1,0 +1,21 @@
+{
+  "id": 2025955164,
+  "name": "Sanga of the Thunder (Anime)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can place this card face-up in your Spell/Trap Zone. If you have \"Suijin\" and \"Kazejin\" in your Spell/Trap Zone: You can Special Summon this card, 1 \"Suijin\", and 1 \"Kazejin\" from your Spell/Trap Zone. During your turn, if this card battles (Quick Effect): You can target 1 \"Suijin\" and/or 1 \"Kazejin\" you control; this card\u0027s ATK becomes equal to half of the combined ATK of the targeted monster(s) and this card during that damage calculation only, but the targeted monster(s) cannot declare an attack this turn.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2600,
+  "species": "Thunder",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2200,
+  "level": 7,
+  "is_tuner": false
+}

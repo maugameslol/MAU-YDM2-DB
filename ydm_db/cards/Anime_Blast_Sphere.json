@@ -1,0 +1,21 @@
+{
+  "id": 2026302522,
+  "name": "Blast Sphere (Anime)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When this card is Summoned: Target 1 monster your opponent controls; Equip this card to that target, and if you cannot, destroy this card. During the next turn\u0027s Standby Phase: Destroy this card and apply 1 of the following effects:\n? If the equipped monster\u0027s ATK was equal to or less than this card\u0027s ATK it had on the field, destroy the equipped monster, and if you do, inflict damage to your opponent equal to the difference.\n? If the equipped monster\u0027s ATK was higher than this card\u0027s ATK it had on the field, take damage equal to the difference.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2900,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1400,
+  "level": 4,
+  "is_tuner": false
+}

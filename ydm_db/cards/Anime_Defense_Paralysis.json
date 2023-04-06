@@ -1,0 +1,12 @@
+{
+  "id": 2063102017,
+  "name": "Defense Paralysis (Anime)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When an opponent\u0027s monster is changed to Defense Position: Change all monsters your opponent controls to Attack Position.",
+  "images": [
+    ""
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

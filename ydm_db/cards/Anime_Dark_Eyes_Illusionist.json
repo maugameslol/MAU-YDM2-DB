@@ -1,0 +1,21 @@
+{
+  "id": 2038247752,
+  "name": "Dark-Eyes Illusionist (Anime)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If this face-up card is attacked; Target the attacking monster; negate the attack, then that target cannot attack while this card is face-up on the field.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 2,
+  "is_tuner": false
+}

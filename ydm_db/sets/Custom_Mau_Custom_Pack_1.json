@@ -1,0 +1,221 @@
+{
+  "name": "Mau Custom Pack 1",
+  "code": "MAUPACK01",
+  "type": "Custom Pack",
+  "date": "29-01-2023",
+  "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
+  "pull_type": "distribution",
+  "distribution": "duelist_pack",
+  "cards": [
+    {
+      "id": 2000000001,
+      "code": "MAUPACK01-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2000000002,
+      "code": "MAUPACK01-002",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000003,
+      "code": "MAUPACK01-003",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000004,
+      "code": "MAUPACK01-004",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000005,
+      "code": "MAUPACK01-005",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000022,
+      "code": "MAUPACK01-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2000000023,
+      "code": "MAUPACK01-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2000000024,
+      "code": "MAUPACK01-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2000000025,
+      "code": "MAUPACK01-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2000000026,
+      "code": "MAUPACK01-010",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000027,
+      "code": "MAUPACK01-011",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000028,
+      "code": "MAUPACK01-012",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000029,
+      "code": "MAUPACK01-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2000000030,
+      "code": "MAUPACK01-014",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000031,
+      "code": "MAUPACK01-015",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000032,
+      "code": "MAUPACK01-016",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000033,
+      "code": "MAUPACK01-017",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000034,
+      "code": "MAUPACK01-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2000000035,
+      "code": "MAUPACK01-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2000000036,
+      "code": "MAUPACK01-020",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000037,
+      "code": "MAUPACK01-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2000000038,
+      "code": "MAUPACK01-022",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000039,
+      "code": "MAUPACK01-023",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000040,
+      "code": "MAUPACK01-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2000000041,
+      "code": "MAUPACK01-025",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000042,
+      "code": "MAUPACK01-026",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000043,
+      "code": "MAUPACK01-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2000000044,
+      "code": "MAUPACK01-028",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000045,
+      "code": "MAUPACK01-029",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000046,
+      "code": "MAUPACK01-030",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000047,
+      "code": "MAUPACK01-031",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000048,
+      "code": "MAUPACK01-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2000000049,
+      "code": "MAUPACK01-033",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000050,
+      "code": "MAUPACK01-034",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000051,
+      "code": "MAUPACK01-035",
+      "rarity": "Rare",
+      "image_index": 0
+    }
+  ]
+}

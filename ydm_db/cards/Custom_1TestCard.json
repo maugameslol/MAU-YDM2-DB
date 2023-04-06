@@ -1,0 +1,21 @@
+{
+  "id": 2000000000,
+  "name": "TEST CARD",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "An \u00A7laggressive\u00A7r baby dinosaur which lives in snowy forests. When threatened, it will \u00A74retaliate\u00A7r by spitting snowballs.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/back_high.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "THUNDER",
+  "atk": 500,
+  "species": "Saiyan",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "Pokemon",
+  "has_effect": true,
+  "def": 1500,
+  "level": 2,
+  "is_tuner": true
+}

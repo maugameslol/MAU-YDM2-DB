@@ -1,0 +1,365 @@
+{
+  "name": "Anime Card Pack Mini - Domino City Battles",
+  "code": "AMDC",
+  "type": "Anime Card Pack Mini",
+  "date": "05-10-2022",
+  "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
+  "pull_type": "distribution",
+  "distribution": "anime_pack_mini",
+  "cards": [
+	{
+      "id": 28933734,
+      "code": "AMDC-001",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 78010363,
+      "code": "AMDC-002",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 79759861,
+      "code": "AMDC-003",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 32012841,
+      "code": "AMDC-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 20436034,
+      "code": "AMDC-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 11384280,
+      "code": "AMDC-006",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 11324436,
+      "code": "AMDC-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 60694662,
+      "code": "AMDC-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2018591904,
+      "code": "AMDC-009",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 5758500,
+      "code": "AMDC-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 9076207,
+      "code": "AMDC-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 7805359,
+      "code": "AMDC-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 26932788,
+      "code": "AMDC-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 41182875,
+      "code": "AMDC-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 3627449,
+      "code": "AMDC-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 43694075,
+      "code": "AMDC-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 33951077,
+      "code": "AMDC-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 54539105,
+      "code": "AMDC-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 69123138,
+      "code": "AMDC-019",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 81756897,
+      "code": "AMDC-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 77414722,
+      "code": "AMDC-021",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 4206964,
+      "code": "AMDC-022",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 73051941,
+      "code": "AMDC-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 1929294,
+      "code": "AMDC-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 91996584,
+      "code": "AMDC-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 55784832,
+      "code": "AMDC-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 21817254,
+      "code": "AMDC-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 86088138,
+      "code": "AMDC-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 35565537,
+      "code": "AMDC-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 53129443,
+      "code": "AMDC-030",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+      "id": 36304921,
+      "code": "AMDC-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 17881964,
+      "code": "AMDC-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 46461247,
+      "code": "AMDC-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2099267150,
+      "code": "AMDC-034",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 99267150,
+      "code": "AMDC-035",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 2099267151,
+      "code": "AMDC-036",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 2062873545,
+      "code": "AMDC-037",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 62873545,
+      "code": "AMDC-038",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 2050913601,
+      "code": "AMDC-039",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 66927994,
+      "code": "AMDC-040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 51345461,
+      "code": "AMDC-041",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 67049542,
+      "code": "AMDC-042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 79870141,
+      "code": "AMDC-043",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 37580756,
+      "code": "AMDC-044",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 87511987,
+      "code": "AMDC-045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 78658564,
+      "code": "AMDC-046",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 10992251,
+      "code": "AMDC-047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 23171610,
+      "code": "AMDC-048",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 97687912,
+      "code": "AMDC-049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 15303296,
+      "code": "AMDC-050",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 71280811,
+      "code": "AMDC-051",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 32864,
+      "code": "AMDC-052",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 87796900,
+      "code": "AMDC-053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 41949033,
+      "code": "AMDC-054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 5053103,
+      "code": "AMDC-055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 41006930,
+      "code": "AMDC-056",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+      "id": 15744417,
+      "code": "AMDC-057",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 46986414,
+      "code": "AMDC-058",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 41139112,
+      "code": "AMDC-059",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

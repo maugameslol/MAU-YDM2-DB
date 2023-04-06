@@ -1,0 +1,21 @@
+{
+  "id": 2050005633,
+  "name": "Swordstalker (Anime)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If this card is Summoned and a monster(s) you control was destroyed by battle and sent to the GY last turn: You can make this card gain 400 ATK for all monsters that were destroyed by battle and were sent to the GY last turn.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2000,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1600,
+  "level": 6,
+  "is_tuner": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 2093108433,
+  "name": "Monster Recovery (Anime)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Shuffle all monsters you control (min. 1), all cards in your Spell \u0026 Trap Zone, and your entire hand into the Deck, then draw 5 cards. (You cannot activate this card if you have a card in your hand or field that is owned by your opponent.)",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 2034016756,
+  "name": "Riryoku (Anime)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Target 1 face-up monster you control; halve your opponent\u0027s LP, and if you do, the targeted monster gains ATK equal to your opponent\u0027s current LP, also, you cannot declare an attack this turn.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

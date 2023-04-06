@@ -1,0 +1,21 @@
+{
+  "id": 2000000023,
+  "name": "Hot Spring Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Many hot springs are actually a result of these dragons regularly heating up the earth underneath in order to lure in some creatures seeking relaxation.\n\nConcept by TheLoneCarrot/bloco100",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1300,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
+}

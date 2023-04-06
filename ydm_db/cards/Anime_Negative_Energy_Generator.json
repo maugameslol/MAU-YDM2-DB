@@ -1,0 +1,12 @@
+{
+  "id": 2004614116,
+  "name": "Negative Energy Generator (Anime)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Target 1 face-up DARK monster you control; triple its original ATK.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Exclusive Pack",
+  "code": "EP1",
+  "type": "Movie Pack",
+  "date": "25-07-2004",
+  "image": "https://ygoprodeck.com/pics_sets/EP1.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 87997872,
+      "code": "EP1-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15013468,
+      "code": "EP1-002",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51402177,
+      "code": "EP1-003",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25236056,
+      "code": "EP1-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 52624755,
+      "code": "EP1-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 89731911,
+      "code": "EP1-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 14391920,
+      "code": "EP1-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 27174286,
+      "code": "EP1-008",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

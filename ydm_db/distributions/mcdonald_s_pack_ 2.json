@@ -1,0 +1,33 @@
+{
+  "name": "mcdonald_s_pack_2",
+  "pulls": [
+    {
+      "weight": 65,
+      "entries": [
+        {
+          "count": 3,
+          "rarities": [
+            "Common"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 6,
+      "entries": [
+        {
+          "count": 2,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

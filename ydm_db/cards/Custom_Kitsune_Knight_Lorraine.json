@@ -1,0 +1,21 @@
+{
+  "id": 2000000026,
+  "name": "Kitsune Knight Lorraine",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Cannot be destroyed by battle with a monster that has the same ATK. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. If your opponent controls a Fiend-type monster, you can Normal Summon this card without Tributes, and if you do, this card gains 600 ATK.\n\nConcept by MauGamesLOL",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1900,
+  "species": "Beast-Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2500,
+  "level": 6,
+  "is_tuner": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 2018591904,
+  "name": "Judgement Blaster (Anime)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Discard 5 cards from your hand; Destroy all monsters on the field.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

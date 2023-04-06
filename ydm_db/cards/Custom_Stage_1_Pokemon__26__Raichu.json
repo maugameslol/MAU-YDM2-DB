@@ -1,0 +1,21 @@
+{
+  "id": 2000000036,
+  "name": "Stage 1 Pokemon #25: Raichu",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Cannot be Normal Summoned/Set. You can Special Summon this card from your hand by Tributing 1 \"Pikachu\" monster that was Summoned at least 1 turn before this turn. Once per turn, you can activate this effect:\n? Flip a coin: If heads, during your opponent\u0027s next turn, this card is unaffected by your opponent\u0027s card effects, cannot be destroyed by battle, and you take no battle damage in battles involving this card until the End Phase.\n\nConcept by MauGamesLOL",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2500,
+  "species": "Thunder",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2100,
+  "level": 5,
+  "is_tuner": false
+}

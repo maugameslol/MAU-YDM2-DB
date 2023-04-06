@@ -1,0 +1,12 @@
+{
+  "id": 2048642904,
+  "name": "Mesmeric Control (Anime)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Target 1 face-up monster your opponent controls; It cannot attack, change its battle position, or activate its effects. Also, its effects are negated and it loses 800 ATK.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

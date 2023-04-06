@@ -1,0 +1,21 @@
+{
+  "id": 2071625222,
+  "name": "Time Wizard (Anime)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can Set this card from your hand to your Spell \u0026 Trap Zone as a Spell or you can activate this card as a Spell. When this card is activated as a Spell or Summoned, you can activate this effect:\n? Roll a six-sided die and call 2 numbers. If you call it right, all monsters on the field lose 1500 ATK/DEF. (This counts as applying the effect of \"Time Wizard\" in which you called the coin toss right for both players.) If you call it wrong, destroy this card and all monsters you control as possible.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 500,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 400,
+  "level": 2,
+  "is_tuner": false
+}

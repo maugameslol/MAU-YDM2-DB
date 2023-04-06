@@ -1,0 +1,83 @@
+{
+  "name": "anime_pack_mini",
+  "pulls": [
+    {
+      "weight": 8,
+      "entries": [
+        {
+          "count": 4,
+          "rarities": [
+            "Common"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Anime Featured"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 3,
+      "entries": [
+        {
+          "count": 4,
+          "rarities": [
+            "Common",
+			"Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Super Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Anime Featured"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 3,
+          "rarities": [
+            "Common",
+			"Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Rare",
+			"Super Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Anime Featured"
+          ]
+        }
+      ]
+    }
+  ]
+}

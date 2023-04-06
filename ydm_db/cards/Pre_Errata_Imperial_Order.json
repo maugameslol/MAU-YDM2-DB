@@ -1,0 +1,12 @@
+{
+  "id": 2061740673,
+  "name": "Imperial Order (Pre-Errata)",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Negate all Spell effects on the field. Once per turn, during each of your Standby Phases, pay 700 Life Points or destroy this card.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/61740673.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2010248389,
+  "name": "Cyber Blader (Pre-Errata)",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\"Etoile Cyber\" + \"Blade Skater\"\nA Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. This card gains the following effect, based on the number of monsters your opponent controls. \n? 1: This card cannot be destroyed by battle. \n? 2: Double this card\u0027s ATK. \n? 3: Negate the effects of your opponent\u0027s Spell, Trap, and Effect Monster Cards.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/10248389.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2100,
+  "species": "Warrior",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 800,
+  "level": 7,
+  "is_tuner": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 2077007920,
+  "name": "Lev. 2 Power Boost (Anime)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Equip only to an Insect monster. It gains 1200 ATK and 200 DEF.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Equip"
+}

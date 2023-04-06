@@ -1,0 +1,12 @@
+{
+  "id": 2026725158,
+  "name": "Sun Shower (Anime)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Destroy all Zombie monsters on the field.",
+  "images": [
+    ""
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

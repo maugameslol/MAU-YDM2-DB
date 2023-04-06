@@ -1,0 +1,14 @@
+{
+  "name": "Retro Pack (Set)",
+  "code": "RP01_S",
+  "type": "Reprint Pack",
+  "date": "08-07-2008",
+  "image": "https://ygoprodeck.com/pics_sets/RP01.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "RP01",
+    "RP01",
+	"RP01",
+    "RP01_VC"
+  ]
+}

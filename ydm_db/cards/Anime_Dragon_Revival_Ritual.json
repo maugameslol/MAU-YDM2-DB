@@ -1,0 +1,12 @@
+{
+  "id": 2099267151,
+  "name": "Dragon Revival Ritual (Anime)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "This card is used to Ritual Summon \"Five-Headed Dragon\". You must also Tribute 1 DARK, EARTH, FIRE, WATER, and WIND monster from your hand or field within the next 5 turns.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Ritual"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 2015800838,
+  "name": "Prophecy (Anime)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Choose 1 card in your opponent\u0027s hand and guess whether its ATK is above, below or equal to 2000. If you guess correctly, add that card to your hand.",
+  "images": [
+    ""
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

@@ -36,6 +36,18 @@
       "rarity": "Common",
       "image_index": 0
     },
+	{
+      "id": 77044671,
+      "code": "SD2-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 77044671,
+      "code": "SD2-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
     {
       "id": 23205979,
       "code": "SD2-006",
@@ -48,7 +60,19 @@
       "rarity": "Common",
       "image_index": 0
     },
+	{
+      "id": 71200730,
+      "code": "SD2-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
     {
+      "id": 57281778,
+      "code": "SD2-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
       "id": 57281778,
       "code": "SD2-008",
       "rarity": "Common",
@@ -73,6 +97,12 @@
       "image_index": 0
     },
     {
+      "id": 70821187,
+      "code": "SD2-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
       "id": 70821187,
       "code": "SD2-012",
       "rarity": "Common",
@@ -126,7 +156,19 @@
       "rarity": "Common",
       "image_index": 0
     },
+	{
+      "id": 31036355,
+      "code": "SD2-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
     {
+      "id": 2204140,
+      "code": "SD2-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
       "id": 2204140,
       "code": "SD2-021",
       "rarity": "Common",
@@ -138,7 +180,25 @@
       "rarity": "Common",
       "image_index": 0
     },
+	{
+      "id": 4861205,
+      "code": "SD2-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 4861205,
+      "code": "SD2-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
     {
+      "id": 22589918,
+      "code": "SD2-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
       "id": 22589918,
       "code": "SD2-023",
       "rarity": "Common",
@@ -169,6 +229,18 @@
       "image_index": 0
     },
     {
+      "id": 94192409,
+      "code": "SD2-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 94192409,
+      "code": "SD2-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
       "id": 94192409,
       "code": "SD2-028",
       "rarity": "Common",

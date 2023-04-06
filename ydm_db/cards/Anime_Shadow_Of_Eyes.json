@@ -1,0 +1,12 @@
+{
+  "id": 2058621589,
+  "name": "Shadow of Eyes (Anime)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Equip only to a \"Harpie Lady\" or \"Harpie Lady Sisters\" you control. All monsters your opponent controls are changed to Attack Position, and cannot change their battle positions while this card is face-up on the field. All monsters your opponent controls must attack the equipped monster while this card is face-up on the field, if able.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Equip"
+}

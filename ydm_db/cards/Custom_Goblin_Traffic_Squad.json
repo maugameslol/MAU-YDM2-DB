@@ -1,0 +1,21 @@
+{
+  "id": 2000000049,
+  "name": "Goblin Traffic Squad",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If this card attacks, change all Attack Position monsters to Defense Position and vice-versa at the end of the Battle Phase, and their battle positions cannot be changed until the End Phase of your next turn.\n\nConcept by TheLoneCarrot/bloco100",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2100,
+  "species": "Thunder",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}

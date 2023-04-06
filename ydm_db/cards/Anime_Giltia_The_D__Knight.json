@@ -1,0 +1,21 @@
+{
+  "id": 2051828629,
+  "name": "Giltia the D. Knight (Anime)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "A sorcerer-like knight who uses magic to attack his foes. He bears a spear that is said to steal the souls of his victims.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1850,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1500,
+  "level": 5,
+  "is_tuner": false
+}

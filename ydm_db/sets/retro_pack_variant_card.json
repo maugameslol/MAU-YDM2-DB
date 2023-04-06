@@ -1,0 +1,13 @@
+{
+  "code": "RP01_VC",
+  "type": "Sub-Set",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 23995346,
+      "code": "RP01-000",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

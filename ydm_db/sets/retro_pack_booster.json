@@ -1,0 +1,611 @@
+{
+  "name": "Retro Pack (Booster Pack)",
+  "code": "RP01",
+  "type": "Reprint Pack",
+  "date": "08-07-2008",
+  "image": "https://ygoprodeck.com/pics_sets/RP01.jpg",
+  "pull_type": "distribution",
+  "distribution": "booster_pack_old",
+  "cards": [
+    {
+      "id": 89631139,
+      "code": "RP01-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45231177,
+      "code": "RP01-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46986414,
+      "code": "RP01-003",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6368038,
+      "code": "RP01-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12580477,
+      "code": "RP01-005",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66788016,
+      "code": "RP01-006",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 4206964,
+      "code": "RP01-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24094653,
+      "code": "RP01-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28279543,
+      "code": "RP01-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13039848,
+      "code": "RP01-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74677422,
+      "code": "RP01-011",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72302403,
+      "code": "RP01-012",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9076207,
+      "code": "RP01-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54652250,
+      "code": "RP01-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7089711,
+      "code": "RP01-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83764719,
+      "code": "RP01-016",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8124921,
+      "code": "RP01-017",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44519536,
+      "code": "RP01-018",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70903634,
+      "code": "RP01-019",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7902349,
+      "code": "RP01-020",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33396948,
+      "code": "RP01-021",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66889139,
+      "code": "RP01-022",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25833572,
+      "code": "RP01-023",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70781052,
+      "code": "RP01-024",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 76812113,
+      "code": "RP01-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12206212,
+      "code": "RP01-026",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28933734,
+      "code": "RP01-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11901678,
+      "code": "RP01-028",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90219263,
+      "code": "RP01-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25955164,
+      "code": "RP01-030",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62340868,
+      "code": "RP01-031",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98434877,
+      "code": "RP01-032",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31560081,
+      "code": "RP01-033",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88819587,
+      "code": "RP01-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71625222,
+      "code": "RP01-035",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26202165,
+      "code": "RP01-036",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40640057,
+      "code": "RP01-037",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 95727991,
+      "code": "RP01-038",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94773007,
+      "code": "RP01-039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31786629,
+      "code": "RP01-040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11384280,
+      "code": "RP01-041",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54752875,
+      "code": "RP01-042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5818798,
+      "code": "RP01-043",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81480461,
+      "code": "RP01-044",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41420027,
+      "code": "RP01-045",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77414722,
+      "code": "RP01-046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3819470,
+      "code": "RP01-047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19613556,
+      "code": "RP01-048",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41462083,
+      "code": "RP01-049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53183600,
+      "code": "RP01-050",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 40619825,
+      "code": "RP01-051",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 65169794,
+      "code": "RP01-052",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93013676,
+      "code": "RP01-053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64631466,
+      "code": "RP01-054",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16762927,
+      "code": "RP01-055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70368879,
+      "code": "RP01-056",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5318639,
+      "code": "RP01-057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42703248,
+      "code": "RP01-058",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74191942,
+      "code": "RP01-059",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41426869,
+      "code": "RP01-060",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22046459,
+      "code": "RP01-061",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 38369349,
+      "code": "RP01-062",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65458948,
+      "code": "RP01-063",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91842653,
+      "code": "RP01-064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62397231,
+      "code": "RP01-065",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15259703,
+      "code": "RP01-066",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97017120,
+      "code": "RP01-067",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23401839,
+      "code": "RP01-068",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60806437,
+      "code": "RP01-069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95178994,
+      "code": "RP01-070",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22567609,
+      "code": "RP01-071",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95956346,
+      "code": "RP01-072",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57839750,
+      "code": "RP01-073",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84834865,
+      "code": "RP01-074",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57617178,
+      "code": "RP01-075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83011278,
+      "code": "RP01-076",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56594520,
+      "code": "RP01-077",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82999629,
+      "code": "RP01-078",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19384334,
+      "code": "RP01-079",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45778932,
+      "code": "RP01-080",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81777047,
+      "code": "RP01-081",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44656491,
+      "code": "RP01-082",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13945283,
+      "code": "RP01-083",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72892473,
+      "code": "RP01-084",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97590747,
+      "code": "RP01-085",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17985575,
+      "code": "RP01-086",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 43973174,
+      "code": "RP01-087",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79571449,
+      "code": "RP01-088",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93920745,
+      "code": "RP01-089",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73915051,
+      "code": "RP01-090",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26302522,
+      "code": "RP01-091",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 26376390,
+      "code": "RP01-092",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37507488,
+      "code": "RP01-093",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86871614,
+      "code": "RP01-094",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34627841,
+      "code": "RP01-095",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80316585,
+      "code": "RP01-096",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29654737,
+      "code": "RP01-097",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 28649820,
+      "code": "RP01-098",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17484499,
+      "code": "RP01-099",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54912977,
+      "code": "RP01-100",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

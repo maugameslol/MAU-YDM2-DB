@@ -1,0 +1,12 @@
+{
+  "id": 2037820550,
+  "name": "Rose Whip (Anime)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Equip only to \"Harpie Lady\" or \"Harpie Lady Sisters\". It gains 300 ATK.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Equip"
+}

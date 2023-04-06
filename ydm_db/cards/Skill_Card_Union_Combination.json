@@ -1,0 +1,12 @@
+{
+  "id": 300302020,
+  "name": "Union Combination (Skill Card)",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Kaiba / Skill\nFlip this card over when you activate this Skill.\nActivate this Skill during your Main Phase. Once per turn, you can Fusion Summon 1 LIGHT Machine Fusion Monster from your Extra Deck, using monsters from your GY or field as Fusion Material. For the rest of this turn, your opponent takes no damage.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/300302020.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

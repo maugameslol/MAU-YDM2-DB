@@ -1,0 +1,431 @@
+{
+  "name": "Anime Sneak Peek Pack",
+  "code": "ANIMESNEAKPEEK",
+  "type": "Anime Sneak Peek Pack",
+  "date": "21-03-2023",
+  "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
+  "pull_type": "distribution",
+  "distribution": "anime_sneak_peek_pack",
+  "cards": [
+    {
+      "id": 10000010,
+      "code": "ANIMESNEAKPEEK-001",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 10000020,
+      "code": "ANIMESNEAKPEEK-002",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 10000000,
+      "code": "ANIMESNEAKPEEK-003",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 10000080,
+      "code": "ANIMESNEAKPEEK-004",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 10000090,
+      "code": "ANIMESNEAKPEEK-005",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 31709826,
+      "code": "ANIMESNEAKPEEK-006",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 26905245,
+      "code": "ANIMESNEAKPEEK-007",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 42166000,
+      "code": "ANIMESNEAKPEEK-008",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 89194033,
+      "code": "ANIMESNEAKPEEK-009",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 29762407,
+      "code": "ANIMESNEAKPEEK-010",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 39238953,
+      "code": "ANIMESNEAKPEEK-011",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 59750328,
+      "code": "ANIMESNEAKPEEK-012",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 12930501,
+      "code": "ANIMESNEAKPEEK-013",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 86541496,
+      "code": "ANIMESNEAKPEEK-014",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 80280944,
+      "code": "ANIMESNEAKPEEK-015",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 11808215,
+      "code": "ANIMESNEAKPEEK-016",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 47292920,
+      "code": "ANIMESNEAKPEEK-017",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 84797028,
+      "code": "ANIMESNEAKPEEK-018",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 43730887,
+      "code": "ANIMESNEAKPEEK-019",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 70124586,
+      "code": "ANIMESNEAKPEEK-020",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 70914287,
+      "code": "ANIMESNEAKPEEK-021",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 44632120,
+      "code": "ANIMESNEAKPEEK-022",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 71036835,
+      "code": "ANIMESNEAKPEEK-023",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 7021574,
+      "code": "ANIMESNEAKPEEK-024",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 34419588,
+      "code": "ANIMESNEAKPEEK-025",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 40640057,
+      "code": "ANIMESNEAKPEEK-026",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 16404809,
+      "code": "ANIMESNEAKPEEK-027",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 34710660,
+      "code": "ANIMESNEAKPEEK-028",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 18175965,
+      "code": "ANIMESNEAKPEEK-029",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 81954378,
+      "code": "ANIMESNEAKPEEK-030",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 7634581,
+      "code": "ANIMESNEAKPEEK-031",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 1784686,
+      "code": "ANIMESNEAKPEEK-032",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 46232525,
+      "code": "ANIMESNEAKPEEK-033",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 11082056,
+      "code": "ANIMESNEAKPEEK-034",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 46986414,
+      "code": "ANIMESNEAKPEEK-035",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 38033121,
+      "code": "ANIMESNEAKPEEK-036",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 75380687,
+      "code": "ANIMESNEAKPEEK-037",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 41721210,
+      "code": "ANIMESNEAKPEEK-038",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 43892408,
+      "code": "ANIMESNEAKPEEK-039",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 74677422,
+      "code": "ANIMESNEAKPEEK-040",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 71625222,
+      "code": "ANIMESNEAKPEEK-041",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 25652259,
+      "code": "ANIMESNEAKPEEK-042",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 30860696,
+      "code": "ANIMESNEAKPEEK-043",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 19747827,
+      "code": "ANIMESNEAKPEEK-044",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 10960419,
+      "code": "ANIMESNEAKPEEK-045",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 83743222,
+      "code": "ANIMESNEAKPEEK-046",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 46354113,
+      "code": "ANIMESNEAKPEEK-047",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 57728570,
+      "code": "ANIMESNEAKPEEK-048",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 44095762,
+      "code": "ANIMESNEAKPEEK-049",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 83555666,
+      "code": "ANIMESNEAKPEEK-050",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 57470761,
+      "code": "ANIMESNEAKPEEK-051",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 89631139,
+      "code": "ANIMESNEAKPEEK-052",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 22804644,
+      "code": "ANIMESNEAKPEEK-053",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 84687358,
+      "code": "ANIMESNEAKPEEK-054",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 44373896,
+      "code": "ANIMESNEAKPEEK-055",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 58293343,
+      "code": "ANIMESNEAKPEEK-056",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 11443677,
+      "code": "ANIMESNEAKPEEK-057",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 89397517,
+      "code": "ANIMESNEAKPEEK-058",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 80019195,
+      "code": "ANIMESNEAKPEEK-059",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 84565800,
+      "code": "ANIMESNEAKPEEK-060",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 85800949,
+      "code": "ANIMESNEAKPEEK-061",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 53315891,
+      "code": "ANIMESNEAKPEEK-062",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 82103466,
+      "code": "ANIMESNEAKPEEK-063",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 48179391,
+      "code": "ANIMESNEAKPEEK-064",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 18803791,
+      "code": "ANIMESNEAKPEEK-065",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 71408082,
+      "code": "ANIMESNEAKPEEK-066",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 45410988,
+      "code": "ANIMESNEAKPEEK-067",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 19025379,
+      "code": "ANIMESNEAKPEEK-068",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 15381252,
+      "code": "ANIMESNEAKPEEK-069",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 83764719,
+      "code": "ANIMESNEAKPEEK-070",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

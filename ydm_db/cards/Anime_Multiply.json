@@ -1,0 +1,12 @@
+{
+  "id": 2040703222,
+  "name": "Multiply (Anime)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Special Summon any number of copies in the same position of 1 monster you control with 500 or less ATK.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

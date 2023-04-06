@@ -1,0 +1,12 @@
+{
+  "id": 2000000009,
+  "name": "Clash of the Elements! (Skill Card)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Generic / Skill\nFlip this card over when you activate this Skill.\nActivate this Skill during your Main Phase.\nOnce per turn, during your Main Phase, you can pay 2000 LP and declare 2 Attributes; Until the End Phase, monsters with the first Attribute have their ATK doubled against monsters with the second Attribute during damage calculation.\nYou can only use this Skill twice per Duel.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

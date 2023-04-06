@@ -1,0 +1,21 @@
+{
+  "id": 2006840573,
+  "name": "Barox (Anime)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "A winged creature that flies about freely in full darkness. It punches foes with its long and hairy arms.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1380,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1530,
+  "level": 5,
+  "is_tuner": false
+}

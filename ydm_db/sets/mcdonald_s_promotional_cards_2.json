@@ -1,0 +1,131 @@
+{
+  "name": "McDonald\u0027s Promotional Cards 2",
+  "code": "MDP2",
+  "type": "McDonald\u0027s Promotional Cards",
+  "date": "22-12-2006",
+  "image": "https://ygoprodeck.com/pics_sets/MP2.jpg",
+  "pull_type": "distribution",
+  "distribution": "mcdonald_s_pack_2",
+  "cards": [
+    {
+      "id": 29343734,
+      "code": "MDP2-001",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 52031567,
+      "code": "MDP2-002",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 58932615,
+      "code": "MDP2-003",
+      "rarity": "Rare",
+      "image_index": 1
+    },
+	{
+      "id": 20065322,
+      "code": "MDP2-004",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 47529357,
+      "code": "MDP2-005",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 73891874,
+      "code": "MDP2-006",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 97590747,
+      "code": "MDP2-007",
+      "rarity": "Rare",
+      "image_index": 1
+    },
+	{
+      "id": 64271667,
+      "code": "MDP2-008",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 15367030,
+      "code": "MDP2-009",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 68339286,
+      "code": "MDP2-010",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 94566432,
+      "code": "MDP2-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 40173854,
+      "code": "MDP2-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 86164529,
+      "code": "MDP2-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 33691040,
+      "code": "MDP2-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 86100785,
+      "code": "MDP2-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2830619,
+      "code": "MDP2-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 42348802,
+      "code": "MDP2-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 51228280,
+      "code": "MDP2-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 45909477,
+      "code": "MDP2-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 68171737,
+      "code": "MDP2-020",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

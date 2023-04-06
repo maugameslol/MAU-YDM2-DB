@@ -1,0 +1,12 @@
+{
+  "id": 2004206964,
+  "name": "Parasite Worm (Anime)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When your opponent Summons exactly 1 monster a monster or declares an attack with a monster: Destroy it and inflict damage to your opponent equal to its ATK.",
+  "images": [
+    ""
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

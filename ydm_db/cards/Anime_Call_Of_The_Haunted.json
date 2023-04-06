@@ -1,0 +1,12 @@
+{
+  "id": 2097077563,
+  "name": "Call of the Haunted (Anime)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When this card is activated: Special Summon any number of monsters in your GY in face-up Attack Position as Zombie-Type with 0 DEF. If a monster you control whose original Type is not Zombie is destroyed by battle and sent to the GY, Special Summon it in face-up Attack Position as a Zombie-Type with 0 DEF and increase its ATK by 100.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}

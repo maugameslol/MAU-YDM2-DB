@@ -1,0 +1,12 @@
+{
+  "id": 2061705417,
+  "name": "Graverobber (Anime)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Target 1 Card in your opponent\u0027s GY; apply the approptiate effect:\n? Monster: Special Summon it on your side of the field. If it cannot be Special Summoned, add it to your hand instead.\n? Spell/Trap: Activate it on your side of the field. If it cannot be activated, Set it instead.",
+  "images": [
+    ""
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

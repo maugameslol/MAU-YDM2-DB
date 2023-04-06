@@ -1,0 +1,12 @@
+{
+  "id": 2057728571,
+  "name": "Crush Card Virus (Anime)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Target 1 DARK face-up monster you control with 1000 or less ATK; if it is destroyed while it has 1000 or less ATK, destroy all monsters your opponent controls, in their hand, and Deck with 1500 or more ATK.",
+  "images": [
+    ""
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

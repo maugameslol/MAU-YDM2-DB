@@ -1,0 +1,21 @@
+{
+  "id": 2033066139,
+  "name": "Reaper of the Cards (Anime)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Each time this card declares an attack: You can Special Summon 1 face-down Spell/Trap your opponent controls on the field to your opponent\u0027s side of the field as a Normal Monster (0 ATK / 0 DEF) in face-down Defense Position and change the attack target to that card. (If the card Special Summoned by this effect isn\u0027t destroyed by battle by the end of the Battle Phase, return it to its original position in the Spell/Trap Zone.)",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1380,
+  "species": "Fiend",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1930,
+  "level": 5,
+  "is_tuner": false
+}

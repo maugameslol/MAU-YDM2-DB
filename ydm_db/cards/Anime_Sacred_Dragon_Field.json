@@ -1,0 +1,12 @@
+{
+  "id": 2050913601,
+  "name": "Sacred Dragon Field (Anime)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Only Dragon-Type monsters can attack.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Field"
+}

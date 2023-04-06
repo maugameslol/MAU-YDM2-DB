@@ -1,0 +1,21 @@
+{
+  "id": 2050321796,
+  "name": "Brionac, Dragon of the Ice Barrier (Pre-Errata)",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "1 Tuner + 1+ non-Tuner monsters\nYou can discard any number of cards to the GY, then target the same number of cards on the field; return those cards to the hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/50321796.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2300,
+  "species": "Sea Serpent",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1400,
+  "level": 6,
+  "is_tuner": false
+}

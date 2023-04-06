@@ -1,0 +1,21 @@
+{
+  "id": 2087756343,
+  "name": "Larvae Moth (Anime)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Because it is only an undeveloped larva, it is very weak. However, it grows into an enormous moth.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 500,
+  "species": "Insect",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 400,
+  "level": 2,
+  "is_tuner": false
+}

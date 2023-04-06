@@ -1,0 +1,12 @@
+{
+  "id": 2000000018,
+  "name": "Attribute Battle (Rule Card)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "RULES:\n? Monster Attributes have Strengths and Weaknesses. If a monster attacks an Attribute that it is Strong against, its original ATK is doubled, but if it is Weak to that Attribute, its original ATK is halved.\n? FIRE: Strong against EARTH, Weak to WATER.\n? WATER: Strong against FIRE, Weak to WIND.\n? WIND: Strong against WATER, Weak to EARTH.\n? EARTH: Strong against WIND, Weak to FIRE.\n? LIGHT: Strong against DARK.\n? DARK: Strong against LIGHT.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

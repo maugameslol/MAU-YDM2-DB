@@ -1,0 +1,12 @@
+{
+  "id": 2059197169,
+  "name": "Night (Anime)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "All DARK monsters on the field gain 200 ATK/DEF.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Field"
+}

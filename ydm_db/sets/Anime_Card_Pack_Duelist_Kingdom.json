@@ -1,0 +1,2075 @@
+{
+  "name": "Anime Card Pack - Duelist Kingdom Arc",
+  "code": "ADKA",
+  "type": "Anime Card Pack",
+  "date": "17-05-2022",
+  "image": "",
+  "pull_type": "distribution",
+  "distribution": "anime_pack",
+  "cards": [
+    {
+      "id": 80600490,
+      "code": "ADKA-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 18710707,
+      "code": "ADKA-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 41218256,
+      "code": "ADKA-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 54844990,
+      "code": "ADKA-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 15401633,
+      "code": "ADKA-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 87564352,
+      "code": "ADKA-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 89631139,
+      "code": "ADKA-007",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 8353769,
+      "code": "ADKA-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 89904598,
+      "code": "ADKA-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 89832901,
+      "code": "ADKA-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 18246479,
+      "code": "ADKA-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 12146024,
+      "code": "ADKA-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 9540040,
+      "code": "ADKA-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 44865098,
+      "code": "ADKA-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 60862676,
+      "code": "ADKA-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 87322377,
+      "code": "ADKA-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 47986555,
+      "code": "ADKA-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 35712107,
+      "code": "ADKA-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 39239728,
+      "code": "ADKA-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 23659124,
+      "code": "ADKA-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 33878931,
+      "code": "ADKA-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 25880422,
+      "code": "ADKA-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 58074572,
+      "code": "ADKA-023",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 24094653,
+      "code": "ADKA-024",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+      "id": 38199696,
+      "code": "ADKA-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 51482758,
+      "code": "ADKA-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 15237615,
+      "code": "ADKA-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2051828629,
+      "code": "ADKA-028",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 51828629,
+      "code": "ADKA-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2099551425,
+      "code": "ADKA-030",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 99551425,
+      "code": "ADKA-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 74703140,
+      "code": "ADKA-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 19066538,
+      "code": "ADKA-033",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 32355828,
+      "code": "ADKA-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 76184692,
+      "code": "ADKA-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 87796900,
+      "code": "ADKA-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 66602787,
+      "code": "ADKA-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2004614116,
+      "code": "ADKA-038",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 26202165,
+      "code": "ADKA-039",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 80813021,
+      "code": "ADKA-040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 6368038,
+      "code": "ADKA-041",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 69669405,
+      "code": "ADKA-042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 32452818,
+      "code": "ADKA-043",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 72302403,
+      "code": "ADKA-044",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+      "id": 26378150,
+      "code": "ADKA-045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 30113682,
+      "code": "ADKA-046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 46986414,
+      "code": "ADKA-047",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 8124921,
+      "code": "ADKA-048",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 44519536,
+      "code": "ADKA-049",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 70903634,
+      "code": "ADKA-050",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 7902349,
+      "code": "ADKA-051",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 33396948,
+      "code": "ADKA-052",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 68846917,
+      "code": "ADKA-053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 99030164,
+      "code": "ADKA-054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 20101223,
+      "code": "ADKA-055",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 73481154,
+      "code": "ADKA-056",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 53832650,
+      "code": "ADKA-057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 56342351,
+      "code": "ADKA-058",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 92731455,
+      "code": "ADKA-059",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 63432835,
+      "code": "ADKA-060",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 94119974,
+      "code": "ADKA-061",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 89091579,
+      "code": "ADKA-062",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2054109233,
+      "code": "ADKA-063",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 54109233,
+      "code": "ADKA-064",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 3492538,
+      "code": "ADKA-065",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 67724379,
+      "code": "ADKA-066",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2050045299,
+      "code": "ADKA-067",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 50045299,
+      "code": "ADKA-068",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 90357090,
+      "code": "ADKA-069",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2055763552,
+      "code": "ADKA-070",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 55763552,
+      "code": "ADKA-071",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2026725158,
+      "code": "ADKA-072",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 2031339260,
+      "code": "ADKA-073",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 31339260,
+      "code": "ADKA-074",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 91595718,
+      "code": "ADKA-075",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 28546905,
+      "code": "ADKA-076",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2028546905,
+      "code": "ADKA-077",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 91152256,
+      "code": "ADKA-078",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 70781052,
+      "code": "ADKA-079",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+      "id": 2071625222,
+      "code": "ADKA-080",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 71625222,
+      "code": "ADKA-081",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 88819587,
+      "code": "ADKA-082",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 32268901,
+      "code": "ADKA-083",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2052097679,
+      "code": "ADKA-084",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 52097679,
+      "code": "ADKA-085",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2037390589,
+      "code": "ADKA-086",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 37390589,
+      "code": "ADKA-087",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 76812113,
+      "code": "ADKA-088",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 63224564,
+      "code": "ADKA-089",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2058621589,
+      "code": "ADKA-090",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 58621589,
+      "code": "ADKA-091",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 90219263,
+      "code": "ADKA-092",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 87430998,
+      "code": "ADKA-093",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 23424603,
+      "code": "ADKA-094",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 88979991,
+      "code": "ADKA-095",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 40374923,
+      "code": "ADKA-096",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 52584282,
+      "code": "ADKA-097",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 41392891,
+      "code": "ADKA-098",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 64047146,
+      "code": "ADKA-099",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 77007920,
+      "code": "ADKA-100",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2077007920,
+      "code": "ADKA-101",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 53829412,
+      "code": "ADKA-102",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 15367030,
+      "code": "ADKA-103",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 53606874,
+      "code": "ADKA-104",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 68928540,
+      "code": "ADKA-105",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 44095762,
+      "code": "ADKA-106",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+      "id": 2087756343,
+      "code": "ADKA-107",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 87756343,
+      "code": "ADKA-108",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2093108433,
+      "code": "ADKA-109",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 93108433,
+      "code": "ADKA-110",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 2040640057,
+      "code": "ADKA-111",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 40640057,
+      "code": "ADKA-112",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 2004206964,
+      "code": "ADKA-113",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 2040240595,
+      "code": "ADKA-114",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 40240595,
+      "code": "ADKA-115",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 28279543,
+      "code": "ADKA-116",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 24294108,
+      "code": "ADKA-117",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2014141448,
+      "code": "ADKA-118",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 14141448,
+      "code": "ADKA-119",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 66889139,
+      "code": "ADKA-120",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 2027827272,
+      "code": "ADKA-121",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 27827272,
+      "code": "ADKA-122",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 50913601,
+      "code": "ADKA-123",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 86318356,
+      "code": "ADKA-124",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 44287299,
+      "code": "ADKA-125",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 49791927,
+      "code": "ADKA-126",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 1184620,
+      "code": "ADKA-127",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 12206212,
+      "code": "ADKA-128",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 2041462083,
+      "code": "ADKA-129",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 41462083,
+      "code": "ADKA-130",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 38035986,
+      "code": "ADKA-131",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2022702055,
+      "code": "ADKA-132",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 22702055,
+      "code": "ADKA-133",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 77456781,
+      "code": "ADKA-134",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 14851496,
+      "code": "ADKA-135",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2036607978,
+      "code": "ADKA-136",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 36607978,
+      "code": "ADKA-137",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 76634149,
+      "code": "ADKA-138",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 13039848,
+      "code": "ADKA-139",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2013429800,
+      "code": "ADKA-140",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 13429800,
+      "code": "ADKA-141",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 83715234,
+      "code": "ADKA-142",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+      "id": 49127943,
+      "code": "ADKA-143",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 76512652,
+      "code": "ADKA-144",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 68516705,
+      "code": "ADKA-145",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2063102017,
+      "code": "ADKA-146",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 2081210420,
+      "code": "ADKA-147",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 81210420,
+      "code": "ADKA-148",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 2018807109,
+      "code": "ADKA-149",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 18807109,
+      "code": "ADKA-150",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 2906250,
+      "code": "ADKA-151",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2015025844,
+      "code": "ADKA-152",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 15025844,
+      "code": "ADKA-153",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2014315573,
+      "code": "ADKA-154",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 14315573,
+      "code": "ADKA-155",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 83764719,
+      "code": "ADKA-156",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 10538007,
+      "code": "ADKA-157",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 48305365,
+      "code": "ADKA-158",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 13069066,
+      "code": "ADKA-159",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 75390004,
+      "code": "ADKA-160",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2045231177,
+      "code": "ADKA-161",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 45231177,
+      "code": "ADKA-162",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 38289717,
+      "code": "ADKA-163",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 1784619,
+      "code": "ADKA-164",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 40453765,
+      "code": "ADKA-165",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 66516792,
+      "code": "ADKA-166",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 20394040,
+      "code": "ADKA-167",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 42348802,
+      "code": "ADKA-168",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 74677422,
+      "code": "ADKA-169",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+      "id": 2001435851,
+      "code": "ADKA-170",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 6400512,
+      "code": "ADKA-171",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 15150365,
+      "code": "ADKA-172",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 33508719,
+      "code": "ADKA-173",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 31560081,
+      "code": "ADKA-174",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 24068492,
+      "code": "ADKA-175",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 98069388,
+      "code": "ADKA-176",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 54652250,
+      "code": "ADKA-177",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 17358176,
+      "code": "ADKA-178",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 4031928,
+      "code": "ADKA-179",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 2033066139,
+      "code": "ADKA-180",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 33066139,
+      "code": "ADKA-181",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2666666666,
+      "code": "ADKA-182",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 2059197169,
+      "code": "ADKA-183",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 59197169,
+      "code": "ADKA-184",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2000062121,
+      "code": "ADKA-185",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 62121,
+      "code": "ADKA-186",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2006840573,
+      "code": "ADKA-187",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 6840573,
+      "code": "ADKA-188",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 32344688,
+      "code": "ADKA-189",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 69455834,
+      "code": "ADKA-190",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2004542651,
+      "code": "ADKA-191",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 4542651,
+      "code": "ADKA-192",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 68339286,
+      "code": "ADKA-193",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2095727992,
+      "code": "ADKA-194",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 95727991,
+      "code": "ADKA-195",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+      "id": 49888191,
+      "code": "ADKA-196",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2066765023,
+      "code": "ADKA-197",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 66765023,
+      "code": "ADKA-198",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+      "id": 5053103,
+      "code": "ADKA-199",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 94905343,
+      "code": "ADKA-200",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 15480588,
+      "code": "ADKA-201",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 14977074,
+      "code": "ADKA-202",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 29491031,
+      "code": "ADKA-203",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2023424603,
+      "code": "ADKA-204",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 30090452,
+      "code": "ADKA-205",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 67494157,
+      "code": "ADKA-206",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 93889755,
+      "code": "ADKA-207",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2097077563,
+      "code": "ADKA-208",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 97077563,
+      "code": "ADKA-209",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+      "id": 20277860,
+      "code": "ADKA-210",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 66672569,
+      "code": "ADKA-211",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 92667214,
+      "code": "ADKA-212",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2029155212,
+      "code": "ADKA-213",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 29155212,
+      "code": "ADKA-214",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 63102017,
+      "code": "ADKA-215",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 55550921,
+      "code": "ADKA-216",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 67284908,
+      "code": "ADKA-217",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 30778711,
+      "code": "ADKA-218",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2063162310,
+      "code": "ADKA-219",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 63162310,
+      "code": "ADKA-220",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2094773007,
+      "code": "ADKA-221",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 94773007,
+      "code": "ADKA-222",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 6285791,
+      "code": "ADKA-223",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 36039163,
+      "code": "ADKA-224",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 64389297,
+      "code": "ADKA-225",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2051228280,
+      "code": "ADKA-226",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 51228280,
+      "code": "ADKA-227",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2025774450,
+      "code": "ADKA-228",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 25774450,
+      "code": "ADKA-229",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 98374133,
+      "code": "ADKA-230",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2097612389,
+      "code": "ADKA-231",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 97612389,
+      "code": "ADKA-232",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2025955164,
+      "code": "ADKA-233",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 25955164,
+      "code": "ADKA-234",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 2098434877,
+      "code": "ADKA-235",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 98434877,
+      "code": "ADKA-236",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2062340868,
+      "code": "ADKA-237",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 62340868,
+      "code": "ADKA-238",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 25833572,
+      "code": "ADKA-239",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 31122090,
+      "code": "ADKA-240",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 11901678,
+      "code": "ADKA-241",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 2034016756,
+      "code": "ADKA-242",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 34016756,
+      "code": "ADKA-243",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2026376390,
+      "code": "ADKA-244",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 26376390,
+      "code": "ADKA-245",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 2059560625,
+      "code": "ADKA-246",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 59560625,
+      "code": "ADKA-247",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 24611934,
+      "code": "ADKA-248",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2054912977,
+      "code": "ADKA-249",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 54912977,
+      "code": "ADKA-250",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2040703222,
+      "code": "ADKA-251",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 40703222,
+      "code": "ADKA-252",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2034694160,
+      "code": "ADKA-253",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 34694160,
+      "code": "ADKA-254",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2050005633,
+      "code": "ADKA-255",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 50005633,
+      "code": "ADKA-256",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 97590747,
+      "code": "ADKA-257",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 19159413,
+      "code": "ADKA-258",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2057728571,
+      "code": "ADKA-259",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 57728570,
+      "code": "ADKA-260",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+      "id": 98299011,
+      "code": "ADKA-261",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 23995346,
+      "code": "ADKA-262",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 2093260132,
+      "code": "ADKA-263",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 93260132,
+      "code": "ADKA-264",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+      "id": 2023995346,
+      "code": "ADKA-265",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 38142739,
+      "code": "ADKA-266",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 68401546,
+      "code": "ADKA-267",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 1557499,
+      "code": "ADKA-268",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 12607053,
+      "code": "ADKA-269",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2037820550,
+      "code": "ADKA-270",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 18144507,
+      "code": "ADKA-271",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+      "id": 82085619,
+      "code": "ADKA-272",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 39897277,
+      "code": "ADKA-273",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2048642904,
+      "code": "ADKA-274",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 48642904,
+      "code": "ADKA-275",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 59383041,
+      "code": "ADKA-276",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 62762898,
+      "code": "ADKA-277",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2015800838,
+      "code": "ADKA-278",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 2018161786,
+      "code": "ADKA-279",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 99261403,
+      "code": "ADKA-280",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2015259703,
+      "code": "ADKA-281",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 15259703,
+      "code": "ADKA-282",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 53183600,
+      "code": "ADKA-283",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+      "id": 82878489,
+      "code": "ADKA-284",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 29267084,
+      "code": "ADKA-285",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 2088032456,
+      "code": "ADKA-286",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 88032456,
+      "code": "ADKA-287",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+      "id": 2025655502,
+      "code": "ADKA-288",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 25655502,
+      "code": "ADKA-289",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2022359980,
+      "code": "ADKA-290",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 22359980,
+      "code": "ADKA-291",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 52040216,
+      "code": "ADKA-292",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 87910978,
+      "code": "ADKA-293",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+      "id": 55761792,
+      "code": "ADKA-294",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 5405694,
+      "code": "ADKA-295",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 24433920,
+      "code": "ADKA-296",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 24311372,
+      "code": "ADKA-297",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2068540059,
+      "code": "ADKA-298",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 68540059,
+      "code": "ADKA-299",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 50705071,
+      "code": "ADKA-300",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 75902998,
+      "code": "ADKA-301",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+      "id": 2081480461,
+      "code": "ADKA-302",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 81480461,
+      "code": "ADKA-303",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+      "id": 80987696,
+      "code": "ADKA-304",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 3797883,
+      "code": "ADKA-305",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 64335805,
+      "code": "ADKA-306",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 86198326,
+      "code": "ADKA-307",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2026302522,
+      "code": "ADKA-308",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 26302522,
+      "code": "ADKA-309",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 73911410,
+      "code": "ADKA-310",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 49587396,
+      "code": "ADKA-311",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 19737320,
+      "code": "ADKA-312",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2045986603,
+      "code": "ADKA-313",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 2061705417,
+      "code": "ADKA-314",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 61705417,
+      "code": "ADKA-315",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 33621868,
+      "code": "ADKA-316",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2092377303,
+      "code": "ADKA-317",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 92377303,
+      "code": "ADKA-318",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+      "id": 65570596,
+      "code": "ADKA-319",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2065570596,
+      "code": "ADKA-320",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 2964201,
+      "code": "ADKA-321",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2017653779,
+      "code": "ADKA-322",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 65458948,
+      "code": "ADKA-323",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 38369349,
+      "code": "ADKA-324",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2052648457,
+      "code": "ADKA-325",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 52648457,
+      "code": "ADKA-326",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 91842653,
+      "code": "ADKA-327",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 79323590,
+      "code": "ADKA-328",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2019613556,
+      "code": "ADKA-329",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 2038247752,
+      "code": "ADKA-330",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 38247752,
+      "code": "ADKA-331",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 41426869,
+      "code": "ADKA-332",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2064631466,
+      "code": "ADKA-333",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 64631466,
+      "code": "ADKA-334",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+	{
+      "id": 2090020065,
+      "code": "ADKA-335",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 90020065,
+      "code": "ADKA-336",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 76792184,
+      "code": "ADKA-337",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 30208479,
+      "code": "ADKA-338",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 27125110,
+      "code": "ADKA-339",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2063519819,
+      "code": "ADKA-340",
+      "rarity": "Anime Featured",
+      "image_index": 0
+    },
+	{
+      "id": 63519819,
+      "code": "ADKA-341",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 16972957,
+      "code": "ADKA-342",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 2295831,
+      "code": "ADKA-343",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 14731897,
+      "code": "ADKA-344",
+      "rarity": "Rare",
+      "image_index": 0
+    }
+  ]
+}

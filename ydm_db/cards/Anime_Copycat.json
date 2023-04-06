@@ -1,0 +1,21 @@
+{
+  "id": 2026376390,
+  "name": "Copycat (Anime)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can activate this card as a Spell Card.\nIf activated as a Spell Card: Target 1 Spell/Trap in your opponent\u0027s GY; activate its effect as this card\u0027s.\nIf this card is Summoned: Target 1 face-up monster your opponent controls; this card\u0027s name, Level, Attribute, Type and ATK/DEF become that monster\u0027s original ATK/DEF, and replace this effect with that monster's original effects.",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 100,
+  "level": 5,
+  "is_tuner": false
+}

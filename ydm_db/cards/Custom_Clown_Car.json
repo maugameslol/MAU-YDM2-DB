@@ -1,0 +1,21 @@
+{
+  "id": 2000000048,
+  "name": "Clown Car",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Once per turn, you can discard 1 card from your hand to the GY; Special Summon 1 \"Clown\" monster in face-down Defense Position.\n\nConcept by TheLoneCarrot/bloco100",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1000,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1000,
+  "level": 3,
+  "is_tuner": false
+}
