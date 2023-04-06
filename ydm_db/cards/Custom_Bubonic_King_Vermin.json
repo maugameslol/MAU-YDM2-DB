@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "\"Bubonic Vermin\" + \"Bubonic Vermin\" + \"Bubonic Vermin\"\nIf this card is Fusion Summoned: Shuffle all \"Bubonic Vermin\" in the GY into the Deck. This card's name becomes \"Bubonic Vermin\" when in the GY.\n\nConcept by TheLoneCarrot/bloco100",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/Placeholders/customcard_placeholder_fusion.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",

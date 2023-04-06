@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 monster, while you control \"Toon World\". Cannot attack the turn it is Summoned. You must pay 500 LP to declare an attack with this monster. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack your opponent directly. You can only control 1 \"Toon Exodia the Forbidden One\".\nIf this card has attacked your opponent directly 5 times this game, you win the Duel.\n\nConcept by TheLoneCarrot/bloco100",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/Placeholders/customcard_placeholder_effect.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",

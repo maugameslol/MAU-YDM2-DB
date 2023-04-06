@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "Once per turn, you can discard 1 card from your hand to the GY; Special Summon 1 \"Clown\" monster in face-down Defense Position.\n\nConcept by TheLoneCarrot/bloco100",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/Placeholders/customcard_placeholder_effect.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",

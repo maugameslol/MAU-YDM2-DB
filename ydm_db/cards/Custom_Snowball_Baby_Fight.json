@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "Once per turn, you can target 1 card your opponent controls; send 1 \"Cryobino\" monster from your hand to the GY, and if you do, destroy that target.\n\nConcept by MauGamesLOL",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/Placeholders/customcard_placeholder_spell.jpg"
   ],
   "type": "Spell",
   "spell_type": "Continuous"

@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "Once per turn, you can Special Summon 1 \"Slime Token\" (Aqua-Type/WATER/LEVEL 1/ATK 500/DEF 500) and if you do, you cannot Summon any monsters, except \"Slime\" or \"Jam\" Monsters.\n\nConcept by MauGamesLOL",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/Placeholders/customcard_placeholder_spell.jpg"
   ],
   "type": "Spell",
   "spell_type": "Field"

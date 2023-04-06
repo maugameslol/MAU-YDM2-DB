@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "Once per turn, you can add 1 \"Baby Pokemon\" monster from your Deck to your hand. You can only use this effect of \"Baby Pokemon #172: Pichu\" once per turn, and this card cannot attack the turn this effect is activated. If this card is attacked, Flip a coin: If tails, negate the attack.\n\nConcept by MauGamesLOL",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/Placeholders/customcard_placeholder_effect.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",

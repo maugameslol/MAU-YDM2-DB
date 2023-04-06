@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "Equip only to a Warrior-Type or Beast-Warrior-Type Monster. The equipped monster is also treated as Thunder-Type in addition to its original Type and gains 700 ATK/DEF. Once per turn, you can pay 1000 LP; destroy 1 Spell/Trap card your opponent controls. You can only use this effect of \"Naginata of Thunder\" once per turn. Only 1 \"Naginata of Thunder\" can be equipped to a monster at a time.\n\nConcept by MauGamesLOL",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/Placeholders/customcard_placeholder_spell.jpg"
   ],
   "type": "Spell",
   "spell_type": "Equip"

@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "If this card attacks, it is changed to Defense Position at the end of the Battle Phase, and its battle position cannot be changed until the End Phase of your next turn. When this card inflicts battle damage, Flip a coin; If you call it right, banish a card from the top of the opponent\u0027s Deck.\n\nConcept by TheLoneCarrot/bloco100",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/Placeholders/customcard_placeholder_effect.jpg"
   ],
   "type": "Monster",
   "attribute": "FIRE",

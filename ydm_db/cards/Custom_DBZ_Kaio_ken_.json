@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "The equipped monster gains 400 ATK and can make up to 2 attacks on monsters during each Battle Phase this turn. During each of your Standby Phases, pay 1000 LP or destroy this card.\n\nConcept by MauGamesLOL",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/Placeholders/customcard_placeholder_spell.jpg"
   ],
   "type": "Spell",
   "spell_type": "Equip"

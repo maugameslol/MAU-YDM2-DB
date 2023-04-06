@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "Cannot be destroyed by battle with a monster that has the same ATK. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. If your opponent controls a Fiend-type monster, you can Normal Summon this card without Tributes, and if you do, this card gains 600 ATK.\n\nConcept by MauGamesLOL",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/Placeholders/customcard_placeholder_effect.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",
