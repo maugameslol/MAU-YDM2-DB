@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "When an opponent\u0027s monster declares an attack: Target 1 face-up monster on the field; equip this card to that target. It gains 400 ATK/DEF, becomes Machine-Type, and gains the following effect:\n? This card is unaffected by your opponent\u0027s Spell Cards.",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Magic_Metal_Force.jpg"
   ],
   "type": "Trap",
   "trap_type": "Normal"

@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "At the start of your Battle Phase: You can toss a coin 3 times and this card can attack a number of times this Battle Phase, up to the number of Heads.",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Barrel_Dragon.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",

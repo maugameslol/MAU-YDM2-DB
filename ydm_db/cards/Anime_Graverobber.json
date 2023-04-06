@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "Target 1 Card in your opponent\u0027s GY; apply the approptiate effect:\n? Monster: Special Summon it on your side of the field. If it cannot be Special Summoned, add it to your hand instead.\n? Spell/Trap: Activate it on your side of the field. If it cannot be activated, Set it instead.",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Graverobber.jpg"
   ],
   "type": "Trap",
   "trap_type": "Normal"

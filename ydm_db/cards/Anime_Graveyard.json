@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "All Zombie monsters on the field gain 200 ATK/DEF.",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Graveyard.jpg"
   ],
   "type": "Spell",
   "spell_type": "Field"

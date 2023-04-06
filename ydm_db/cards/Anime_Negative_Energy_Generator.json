@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "Target 1 face-up DARK monster you control; triple its original ATK.",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Negative_Energy_Generator.jpg"
   ],
   "type": "Spell",
   "spell_type": "Normal"

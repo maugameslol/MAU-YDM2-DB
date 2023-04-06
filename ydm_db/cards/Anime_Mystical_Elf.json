@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "Target 1 other monster you control; this card\u0027s ATK becomes 0, and the targeted monster gains ATK equal to this card\u0027s previous ATK. This effect can only be used once while this card is face-up on the field.",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Mystical_Elf.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",

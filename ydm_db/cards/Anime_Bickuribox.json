@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "A birdlike fiend that hides inside a Jack-In-The-Box case. It springs out without warning to strike.",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Bickuribox.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",

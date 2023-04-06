@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "Activate only If you control a \"La Jinn the Mystical Genie of the Lamp\". When an opponent\u0027s monster declares an attack: You can target 1 monster your opponent controls, except the attacking monster; the attacking monster attacks it instead, and you proceed to damage calculation, then Special Summon this card as an Effect Monster Card (Spellcaster/WIND/Level 3/ATK 900/DEF 1400). (This card is still treated as a Trap Card). While this card is an Effect Monster, when an opponent\u0027s monster declares an attack: You can target 1 monster your opponent controls, except the attacking monster; the attacking monster attacks it instead, and you proceed to damage calculation.",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Ancient_Lamp.jpg"
   ],
   "type": "Trap",
   "trap_type": "Continuous"

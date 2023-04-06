@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "You can activate this card as a Spell Card.\nIf activated as a Spell Card: Target 1 Spell/Trap in your opponent\u0027s GY; activate its effect as this card\u0027s.\nIf this card is Summoned: Target 1 face-up monster your opponent controls; this card\u0027s name, Level, Attribute, Type and ATK/DEF become that monster\u0027s original ATK/DEF, and replace this effect with that monster's original effects.",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Copycat.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",

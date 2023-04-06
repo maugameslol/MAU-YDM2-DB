@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "Equip only to an Insect monster. It gains 1200 ATK and 200 DEF.",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Lev__2_Power_Boost.jpg"
   ],
   "type": "Spell",
   "spell_type": "Equip"

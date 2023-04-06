@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "When this card destroys a monster by battle: it gains 100 ATK.\nDuring either player\u0027s Main Phase(Quick Effect): You can make this card gain/lose this effect:\n? Cannot be targeted for attacks, but does not prevent your opponent from attacking you directly. Cannot attack.\nOnce per turn, During either player\u0027s Battle Phase(Quick Effect): You can make this card gain/lose this effect:\n? Cannot be targeted for attacks, but does not prevent your opponent from attacking you directly. Cannot attack.",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Dungeon_Worm.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",

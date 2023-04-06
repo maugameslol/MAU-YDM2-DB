@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "You can target 1 \"Petit Moth\" or \"Larvae Moth\" you control; equip this card from your hand to that target. The equipped monster is also treated as \"Cocoon of Evolution\". While equipped, the original ATK/DEF of that \"Petit Moth\" or \"Larvae Moth\" becomes the ATK/DEF of \"Cocoon of Evolution\". While this card is equipped, you can only use cards from your hand. Once per turn, during your 5th Standby Phase after equipping this card, you can tribute the equipped monster to Special Summon 1 \"Perfectly Ultimate Great Moth\" from your hand or Deck, ignoring its Summoning conditions. If the equipped monster is destroyed by battle or card effect, apply 1 of these effects depending on the number of turns that have passed since this card was equipped:\n? 1, 2: Special Summon 1 \"Larvae Moth\" from your hand or Deck, ignoring its Summoning conditions.\n? 3, 4: Special Summon 1 \"Great Moth\" from your hand or Deck, ignoring its Summoning conditions.\n? 5+: Special Summon 1 \"Perfectly Ultimate Great Moth\" from your hand or Deck, ignoring its Summoning conditions.",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Cocoon_Of_Evolution.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",

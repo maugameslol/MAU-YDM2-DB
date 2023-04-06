@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "Once per turn: You can active 1 of these effects:\n? Tribute 1 monster; inflict damage to your opponent equal to half the Tributed monster\u0027s ATK on the field.\n? Tribute 1 monster; destroy 1 face-up Spell/Trap your opponent controls and then inflict damage equal to half the Tributed monster\u0027s ATK on the field to the monster\u0027s original owner.\n? Target 1 face-up monster you control; increase its ATK by 600. Then Tribute that monster; destroy 1 monster on your opponent\u0027s side of the field whose DEF is lower than the ATK of the Tributed monster and then inflict damage equal to half the Tributed monster\u0027s ATK on the field to the monster\u0027s original owner.",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Catapult_Turtle.jpg"
   ],
   "type": "Monster",
   "attribute": "WATER",

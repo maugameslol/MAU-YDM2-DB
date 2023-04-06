@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "Equip only to a DARK Dragon-Type monster. It gains 700 ATK.",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Dragon_Nails.jpg"
   ],
   "type": "Spell",
   "spell_type": "Equip"

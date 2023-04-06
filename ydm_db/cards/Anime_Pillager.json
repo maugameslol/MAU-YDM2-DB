@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "Look at your opponent\u0027s hand. Select 1 card and add it to your hand.",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Pillager.jpg"
   ],
   "type": "Spell",
   "spell_type": "Normal"

@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "When your opponent Summons exactly 1 monster a monster or declares an attack with a monster: Destroy it and inflict damage to your opponent equal to its ATK.",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Parasite_Worm.jpg"
   ],
   "type": "Trap",
   "trap_type": "Normal"

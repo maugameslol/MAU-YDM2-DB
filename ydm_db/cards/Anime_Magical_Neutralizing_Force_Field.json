@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "Choose 1 player\u0027s field; Negate the effects of Spell Cards other than this card and destroy all face-up Spell Cards on that field.",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Magical_Neutralizing_Force_Field.jpg"
   ],
   "type": "Spell",
   "spell_type": "Normal"

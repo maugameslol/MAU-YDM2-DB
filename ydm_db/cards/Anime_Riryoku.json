@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "Target 1 face-up monster you control; halve your opponent\u0027s LP, and if you do, the targeted monster gains ATK equal to your opponent\u0027s current LP, also, you cannot declare an attack this turn.",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Riryoku.jpg"
   ],
   "type": "Spell",
   "spell_type": "Normal"

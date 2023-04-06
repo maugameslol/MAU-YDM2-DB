@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "Once per turn, you can: Target 1 face-up monster on the field; it gains 600 ATK, and if the targeted monster is a monster you do not control, take control of it. Both of these effects last until the End Phase.",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Monster_Tamer.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",

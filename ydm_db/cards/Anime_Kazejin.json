@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "You can place this card face-up in your Spell/Trap Zone. Once per turn, when a monster declares an attack: You can negate the attack. During your turn, if this card battles (Quick Effect): You can target 1 \"Sanga of the Thunder\" and/or 1 \"Suijin\" you control; this card\u0027s ATK becomes equal to half of the combined ATK of the targeted monster(s) and this card during that damage calculation only, but the targeted monster(s) cannot declare an attack this turn.",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Kazejin.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",

@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "Activate 1 or both of these effects (simultaneously).\n? When an opponent\u0027s monster declares an attack: Target the attacking monster; negate the attack or change that target to Defense Position.\n? Target 1 face-up monster you control; equip this card to that target. It gains 500 ATK. All other monsters you control also gain 500 ATK until the End Phase.\nIf you activate both of these effects, the opponent\u0027s monster that was targetted cannot change its battle position while this card is equipped to a monster you control.",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Kunai_With_Chain.jpg"
   ],
   "type": "Trap",
   "trap_type": "Normal"

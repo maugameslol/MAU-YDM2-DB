@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "As it floats in the sky, it is unaffected by ground-based attacks.",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Flying_Elephant.jpg"
   ],
   "type": "Monster",
   "attribute": "WIND",

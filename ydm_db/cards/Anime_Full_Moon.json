@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "Equip only to a Beast-Type monster. It gains 300 ATK and DEF.",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Full_Moon.jpg"
   ],
   "type": "Spell",
   "spell_type": "Equip"

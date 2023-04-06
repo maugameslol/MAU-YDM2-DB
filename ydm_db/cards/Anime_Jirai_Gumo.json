@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "Special Summon this card as an Effect Monster (Insect/EARTH/Level 5/ATK 2100/DEF 1000). (This card is also still a Trap Card.) While this card is an Effect Monster, the ATK of a monster that battles this card becomes its original ATK.",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Jirai_Gumo.jpg"
   ],
   "type": "Trap",
   "trap_type": "Continuous"

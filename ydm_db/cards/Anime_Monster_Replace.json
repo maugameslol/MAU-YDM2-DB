@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "Target 1 monster you control; return it to the hand, then, Special Summon 1 other monster in your hand with the highest ATK in the same position as the monster you returned, then if the target was being attacked, redirect the attack target to the Special Summoned monster.",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Monster_Replace.jpg"
   ],
   "type": "Spell",
   "spell_type": "Quick-Play"

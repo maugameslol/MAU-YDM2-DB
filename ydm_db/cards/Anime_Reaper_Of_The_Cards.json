@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "Each time this card declares an attack: You can Special Summon 1 face-down Spell/Trap your opponent controls on the field to your opponent\u0027s side of the field as a Normal Monster (0 ATK / 0 DEF) in face-down Defense Position and change the attack target to that card. (If the card Special Summoned by this effect isn\u0027t destroyed by battle by the end of the Battle Phase, return it to its original position in the Spell/Trap Zone.)",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Reaper_Of_The_Cards.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",

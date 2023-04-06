@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "When an opponent\u0027s monster declares an attack: Negate that attack. Then, it cannot attack while it is face-up on the field.",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Vortex.jpg"
   ],
   "type": "Trap",
   "trap_type": "Normal"

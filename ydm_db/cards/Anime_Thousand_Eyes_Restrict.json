@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "\"Relinquished\" + \"Thousand-Eyes Idol\"\nOther monsters on the field cannot change their battle positions or attack. Once per turn: You can target up to any number of monsters your opponent controls; equip those target to this card. This card\u0027s ATK/DEF become equal to the combined ATK and combined DEF, respectively, of all monsters currently equipped. If this card would be destroyed by battle, destroy that equipped monster instead. While equipped with a monster, any battle damage you take from battles involving this card inflicts equal effect damage to your opponent. This cannot be destroyed while it has monsters equipped to it.",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Thousand_Eyes_Restrict.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",

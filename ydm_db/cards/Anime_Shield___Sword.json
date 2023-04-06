@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "Switch the ATK and DEF of all face-up monsters currently on the field, until the end of this turn. Any increases to a monster\u0027s DEF are applied to their ATK and any increases to a monster\u0027s ATK are applied to their DEF, until the end of the turn.",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Shield___Sword.jpg"
   ],
   "type": "Spell",
   "spell_type": "Normal"

@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "A tank that races around a labyrinth hunting down its enemies.",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Labyrinth_Tank.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",

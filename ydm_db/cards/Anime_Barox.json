@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "A winged creature that flies about freely in full darkness. It punches foes with its long and hairy arms.",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Barox.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",

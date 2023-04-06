@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "Discard 5 cards from your hand; Destroy all monsters on the field.",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Judgement_Blaster.jpg"
   ],
   "type": "Spell",
   "spell_type": "Normal"

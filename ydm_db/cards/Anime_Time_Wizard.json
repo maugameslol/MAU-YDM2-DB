@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "You can Set this card from your hand to your Spell \u0026 Trap Zone as a Spell or you can activate this card as a Spell. When this card is activated as a Spell or Summoned, you can activate this effect:\n? Roll a six-sided die and call 2 numbers. If you call it right, all monsters on the field lose 1500 ATK/DEF. (This counts as applying the effect of \"Time Wizard\" in which you called the coin toss right for both players.) If you call it wrong, destroy this card and all monsters you control as possible.",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Time_Wizard.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",

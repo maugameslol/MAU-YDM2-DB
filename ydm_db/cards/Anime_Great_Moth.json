@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "This monster cannot be Normal Summoned or Set. Must first be Special Summoned by Tributing \"Petit Moth\" or \"Larvae Moth\" during your 4th turn after it was been equipped with \"Cocoon of Evolution\". Once while face-up on the field, at the end of the Damage Step if this card battled: this card gains this effect:\n? At the start of each Phase, all monsters your opponent controls lose 100 ATK and DEF.",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Great_Moth.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",

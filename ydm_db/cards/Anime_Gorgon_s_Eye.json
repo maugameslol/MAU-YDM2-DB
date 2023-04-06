@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "Change all face-down Defense Position monsters your opponent controls to face-up Defense Position (if any). Face-up Defense Position monsters your opponent controls cannot change their battle positions. If a Defense Position monster your opponent controls is destroyed by battle: Inflict damage to your opponent equal to half of the original DEF of the destroyed monster.",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Gorgon_s_Eye.jpg"
   ],
   "type": "Trap",
   "trap_type": "Continuous"

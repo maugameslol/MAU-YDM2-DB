@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "Special Summon this card as an Effect Monster (Rock/EARTH/Level 2/ATK 100/DEF 200). (This card is also still a Trap Card.) While this card is on the field, all Dragon-Type monsters that you and your opponent control are banished. This card gains DEF equal to the total combined DEF of all monsters that are banished by this card's effect.",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Dragon_Capture_Jar.jpg"
   ],
   "type": "Trap",
   "trap_type": "Continuous"

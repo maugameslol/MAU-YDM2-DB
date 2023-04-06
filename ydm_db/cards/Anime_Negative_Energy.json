@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "Double the ATK of all DARK monsters on the field. During this turn, if a DARK monster is Summoned: its ATK is doubled while face-up on the field.",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Negative_Energy.jpg"
   ],
   "type": "Spell",
   "spell_type": "Normal"

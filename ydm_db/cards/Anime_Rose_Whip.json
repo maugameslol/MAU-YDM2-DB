@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "Equip only to \"Harpie Lady\" or \"Harpie Lady Sisters\". It gains 300 ATK.",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Rose_Whip.jpg"
   ],
   "type": "Spell",
   "spell_type": "Equip"

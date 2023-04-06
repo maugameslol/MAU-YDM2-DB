@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "\"Labyrinth Wall\" + \"Shadow Ghoul\"\nDuring your Main Phase: You can move this card to an unoccupied Monster Zone. Once per turn, during your opponent\u0027s Main Phase or Battle Phase: You can move this card to an unoccupied Monster Zone. If your opponent controls no monsters in the same column as this card, this card can attack directly. This card can only be targeted for an attack by monsters in the same column as this card. When this card is targeted for an attack: You can change it to Defense Position.",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Wall_Shadow.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",

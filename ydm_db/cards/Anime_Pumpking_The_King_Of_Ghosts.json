@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "When this card is Summoned: All other Zombie-Type monsters you control gain 100 ATK. Once per turn, during your Standby Phase: All other Zombie-Type monsters you control gain 100 ATK.",
   "images": [
-    ""
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Pumpking_The_King_Of_Ghosts.jpg"
   ],
   "type": "Monster",
   "attribute": "DARK",
