@@ -3,7 +3,7 @@
   "name": "Toon World (Anime)",
   "is_illegal": false,
   "is_custom": true,
-  "text": "Activate this card by paying 1000 LP. Monsters you control become Toon monsters. Toon monsters you control cannot be destroyed by battle by non-Toon monsters. On your turn, at the End Phase, you can activate this effect:\n? Target any number of Toon monsters you control that battled this turn; Those targets cannot be selected as attack targets, and are destroyed if \"Toon World\" leaves the field. (This does not prevent your opponent from attacking you directly.)\nThis effect lasts until the end of your opponent\u0027s turn.",
+  "text": "Activate this card by paying 1000 LP. Once per turn, during the Standby Phase, you can pay 500 LP, or destroy this card. Monsters you control become Toon monsters. Toon monsters you control cannot be destroyed by battle by non-Toon monsters. During your End Phase, you can activate this effect:\n? Target any number of Toon monsters you control that battled this turn; Those targets are flipped face-down, cannot be selected as attack targets, and are destroyed if \"Toon World\" leaves the field. (This does not prevent your opponent from attacking you directly.)\nThis effect lasts until the end of your opponent\u0027s turn.",
   "images": [
     "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Toon_World.jpg"
   ],
