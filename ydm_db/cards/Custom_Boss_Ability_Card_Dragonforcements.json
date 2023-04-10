@@ -1,0 +1,12 @@
+{
+  "id": 2000000053,
+  "name": "Dragonforcements (Boss Ability Card)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Legendary Lord of Dragons / Boss Ability \nFlip this card over and activate it as a Normal Spell in your Spell/Trap Zone when you activate this ability. \nPay 1000 LP; You can Normal Summon 1 Dragon monster in addition to your Normal Summon/Set. \nThis Boss Ability can only be done once per turn. \nIf this card would return to your hand or Deck, return it to your Extra Zone instead. \nDuring your End Phase: Return this card from anywhere to your Extra Zone. (even if this card is face-down.) \n\nConcept by MauGamesLOL",
+  "images": [
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/Placeholders/customcard_placeholder_spell.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

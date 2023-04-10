@@ -1,483 +1,483 @@
 {
-  "name": "Anime Sneak Peek Pack",
-  "code": "ANIMESNEAKPEEK",
-  "type": "Anime Sneak Peek Pack",
+  "name": "YGOCRAFT Sneak Peek Pack",
+  "code": "YGOCSPP",
+  "type": "Custom Pack",
   "date": "21-03-2023",
   "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
   "pull_type": "distribution",
-  "distribution": "anime_sneak_peek_pack",
+  "distribution": "ygocraft_sneak_peek_pack",
   "cards": [
     {
       "id": 10000010,
-      "code": "ANIMESNEAKPEEK-001",
+      "code": "YGOCSPP-001",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 10000020,
-      "code": "ANIMESNEAKPEEK-002",
+      "code": "YGOCSPP-002",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 10000000,
-      "code": "ANIMESNEAKPEEK-003",
+      "code": "YGOCSPP-003",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 10000080,
-      "code": "ANIMESNEAKPEEK-004",
+      "code": "YGOCSPP-004",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 10000090,
-      "code": "ANIMESNEAKPEEK-005",
+      "code": "YGOCSPP-005",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 31709826,
-      "code": "ANIMESNEAKPEEK-006",
+      "code": "YGOCSPP-006",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 26905245,
-      "code": "ANIMESNEAKPEEK-007",
+      "code": "YGOCSPP-007",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 42166000,
-      "code": "ANIMESNEAKPEEK-008",
+      "code": "YGOCSPP-008",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 89194033,
-      "code": "ANIMESNEAKPEEK-009",
+      "code": "YGOCSPP-009",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 29762407,
-      "code": "ANIMESNEAKPEEK-010",
+      "code": "YGOCSPP-010",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 39238953,
-      "code": "ANIMESNEAKPEEK-011",
+      "code": "YGOCSPP-011",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 59750328,
-      "code": "ANIMESNEAKPEEK-012",
+      "code": "YGOCSPP-012",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 12930501,
-      "code": "ANIMESNEAKPEEK-013",
+      "code": "YGOCSPP-013",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 86541496,
-      "code": "ANIMESNEAKPEEK-014",
+      "code": "YGOCSPP-014",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 80280944,
-      "code": "ANIMESNEAKPEEK-015",
+      "code": "YGOCSPP-015",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 11808215,
-      "code": "ANIMESNEAKPEEK-016",
+      "code": "YGOCSPP-016",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 47292920,
-      "code": "ANIMESNEAKPEEK-017",
+      "code": "YGOCSPP-017",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 84797028,
-      "code": "ANIMESNEAKPEEK-018",
+      "code": "YGOCSPP-018",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 43730887,
-      "code": "ANIMESNEAKPEEK-019",
+      "code": "YGOCSPP-019",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 70124586,
-      "code": "ANIMESNEAKPEEK-020",
+      "code": "YGOCSPP-020",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 70914287,
-      "code": "ANIMESNEAKPEEK-021",
+      "code": "YGOCSPP-021",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 44632120,
-      "code": "ANIMESNEAKPEEK-022",
+      "code": "YGOCSPP-022",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 71036835,
-      "code": "ANIMESNEAKPEEK-023",
+      "code": "YGOCSPP-023",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 7021574,
-      "code": "ANIMESNEAKPEEK-024",
+      "code": "YGOCSPP-024",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 34419588,
-      "code": "ANIMESNEAKPEEK-025",
+      "code": "YGOCSPP-025",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 40640057,
-      "code": "ANIMESNEAKPEEK-026",
+      "code": "YGOCSPP-026",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 16404809,
-      "code": "ANIMESNEAKPEEK-027",
+      "code": "YGOCSPP-027",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 34710660,
-      "code": "ANIMESNEAKPEEK-028",
+      "code": "YGOCSPP-028",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 18175965,
-      "code": "ANIMESNEAKPEEK-029",
+      "code": "YGOCSPP-029",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 81954378,
-      "code": "ANIMESNEAKPEEK-030",
+      "code": "YGOCSPP-030",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 7634581,
-      "code": "ANIMESNEAKPEEK-031",
+      "code": "YGOCSPP-031",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 1784686,
-      "code": "ANIMESNEAKPEEK-032",
+      "code": "YGOCSPP-032",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 46232525,
-      "code": "ANIMESNEAKPEEK-033",
+      "code": "YGOCSPP-033",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 11082056,
-      "code": "ANIMESNEAKPEEK-034",
+      "code": "YGOCSPP-034",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 46986414,
-      "code": "ANIMESNEAKPEEK-035",
+      "code": "YGOCSPP-035",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 38033121,
-      "code": "ANIMESNEAKPEEK-036",
+      "code": "YGOCSPP-036",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 75380687,
-      "code": "ANIMESNEAKPEEK-037",
+      "code": "YGOCSPP-037",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 41721210,
-      "code": "ANIMESNEAKPEEK-038",
+      "code": "YGOCSPP-038",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 43892408,
-      "code": "ANIMESNEAKPEEK-039",
+      "code": "YGOCSPP-039",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 74677422,
-      "code": "ANIMESNEAKPEEK-040",
+      "code": "YGOCSPP-040",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 71625222,
-      "code": "ANIMESNEAKPEEK-041",
+      "code": "YGOCSPP-041",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 25652259,
-      "code": "ANIMESNEAKPEEK-042",
+      "code": "YGOCSPP-042",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 30860696,
-      "code": "ANIMESNEAKPEEK-043",
+      "code": "YGOCSPP-043",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 19747827,
-      "code": "ANIMESNEAKPEEK-044",
+      "code": "YGOCSPP-044",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 10960419,
-      "code": "ANIMESNEAKPEEK-045",
+      "code": "YGOCSPP-045",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 83743222,
-      "code": "ANIMESNEAKPEEK-046",
+      "code": "YGOCSPP-046",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 46354113,
-      "code": "ANIMESNEAKPEEK-047",
+      "code": "YGOCSPP-047",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 57728570,
-      "code": "ANIMESNEAKPEEK-048",
+      "code": "YGOCSPP-048",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 44095762,
-      "code": "ANIMESNEAKPEEK-049",
+      "code": "YGOCSPP-049",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 83555666,
-      "code": "ANIMESNEAKPEEK-050",
+      "code": "YGOCSPP-050",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 57470761,
-      "code": "ANIMESNEAKPEEK-051",
+      "code": "YGOCSPP-051",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 89631139,
-      "code": "ANIMESNEAKPEEK-052",
+      "code": "YGOCSPP-052",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 22804644,
-      "code": "ANIMESNEAKPEEK-053",
+      "code": "YGOCSPP-053",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 84687358,
-      "code": "ANIMESNEAKPEEK-054",
+      "code": "YGOCSPP-054",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 44373896,
-      "code": "ANIMESNEAKPEEK-055",
+      "code": "YGOCSPP-055",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 58293343,
-      "code": "ANIMESNEAKPEEK-056",
+      "code": "YGOCSPP-056",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 11443677,
-      "code": "ANIMESNEAKPEEK-057",
+      "code": "YGOCSPP-057",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 89397517,
-      "code": "ANIMESNEAKPEEK-058",
+      "code": "YGOCSPP-058",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 80019195,
-      "code": "ANIMESNEAKPEEK-059",
+      "code": "YGOCSPP-059",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 84565800,
-      "code": "ANIMESNEAKPEEK-060",
+      "code": "YGOCSPP-060",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 85800949,
-      "code": "ANIMESNEAKPEEK-061",
+      "code": "YGOCSPP-061",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 53315891,
-      "code": "ANIMESNEAKPEEK-062",
+      "code": "YGOCSPP-062",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 82103466,
-      "code": "ANIMESNEAKPEEK-063",
+      "code": "YGOCSPP-063",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 48179391,
-      "code": "ANIMESNEAKPEEK-064",
+      "code": "YGOCSPP-064",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 18803791,
-      "code": "ANIMESNEAKPEEK-065",
+      "code": "YGOCSPP-065",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 71408082,
-      "code": "ANIMESNEAKPEEK-066",
+      "code": "YGOCSPP-066",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 45410988,
-      "code": "ANIMESNEAKPEEK-067",
+      "code": "YGOCSPP-067",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 19025379,
-      "code": "ANIMESNEAKPEEK-068",
+      "code": "YGOCSPP-068",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 15381252,
-      "code": "ANIMESNEAKPEEK-069",
+      "code": "YGOCSPP-069",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 83764719,
-      "code": "ANIMESNEAKPEEK-070",
+      "code": "YGOCSPP-070",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 76076738,
-      "code": "ANIMESNEAKPEEK-071",
+      "code": "YGOCSPP-071",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 48680970,
-      "code": "ANIMESNEAKPEEK-072",
+      "code": "YGOCSPP-072",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 2314238,
-      "code": "ANIMESNEAKPEEK-073",
+      "code": "YGOCSPP-073",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 63391643,
-      "code": "ANIMESNEAKPEEK-074",
+      "code": "YGOCSPP-074",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 62089826,
-      "code": "ANIMESNEAKPEEK-075",
+      "code": "YGOCSPP-075",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 17655904,
-      "code": "ANIMESNEAKPEEK-076",
+      "code": "YGOCSPP-076",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 93437091,
-      "code": "ANIMESNEAKPEEK-077",
+      "code": "YGOCSPP-077",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 41139112,
-      "code": "ANIMESNEAKPEEK-078",
+      "code": "YGOCSPP-078",
       "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
       "id": 15744417,
-      "code": "ANIMESNEAKPEEK-079",
+      "code": "YGOCSPP-079",
       "rarity": "Secret Rare",
       "image_index": 0
     }

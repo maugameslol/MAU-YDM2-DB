@@ -3,7 +3,7 @@
   "name": "Ultimate Failure Fusion (Anime)",
   "is_illegal": false,
   "is_custom": true,
-  "text": "2 monsters with different Attributes and Types\nMust be Fusion Summoned, and cannot be Special Summoned by other ways. This card\u0027s original ATK/DEF, Level, Attribute, and name become that of the Fusion Material with the highest ATK, but loses ATK equal to that of the Fusion Material with the lowest ATK during your End Phase. This card cannot be Tributed or used as Extra Deck Material.",
+  "text": "2 monsters with different Attributes and Types\nMust be Fusion Summoned, and cannot be Special Summoned by other ways.\nThis card cannot be Tributed or used as Extra Deck Material. This card\u0027s original ATK/DEF, Level, Attribute, and name become that of the Fusion Material with the highest ATK. Once per turn, During your End Phase: This card loses ATK equal to that of the Fusion Material with the lowest ATK.",
   "images": [
     "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/AnimeCards/Anime_Ultimate_Failure_Fusion.jpg"
   ],
