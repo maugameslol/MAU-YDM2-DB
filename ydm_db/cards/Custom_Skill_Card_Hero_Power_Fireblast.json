@@ -1,0 +1,12 @@
+{
+  "id": 2000020007,
+  "name": "Fireblast (Skill Card)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Mage / Skill / Hero Power\nAt the start of the Duel, flip this card over.\nYou cannot use this Skill on your first turn.\nOnce per turn, during your Main Phase, you can use 1 of the following Skills:\n? Inflict 300 damage to your opponent\u0027s LP. \n? Target 1 face-up monster on the field; decrease its DEF by 500. If its DEF was 0 or becomes 0 by this effect: Destroy that monster.\n\u00A73Hearthstone Rule:\nThis Skill can be used on your first turn. This Skill costs 2 Mana to use.\u00A7r",
+  "images": [
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/Customs/Custom_Skill_Card_Fireblast.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

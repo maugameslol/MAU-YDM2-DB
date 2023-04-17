@@ -1,0 +1,12 @@
+{
+  "id": 2000020006,
+  "name": "Steady Shot (Skill Card)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Hunter / Skill / Hero Power\nAt the start of the Duel, flip this card over.\nYou cannot use this Skill on your first turn.\nOnce per turn, during your Main Phase, you can activate this Skill: \n? Inflict 600 damage to your opponent\u0027s LP.\n\u00A73Hearthstone Rule:\nThis Skill can be used on your first turn. This Skill costs 2 Mana to use.\u00A7r",
+  "images": [
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/Customs/Custom_Skill_Card_Steady_Shot.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}
