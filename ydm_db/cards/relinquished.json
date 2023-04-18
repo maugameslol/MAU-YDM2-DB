@@ -10,7 +10,7 @@
   "type": "Monster",
   "attribute": "DARK",
   "atk": 0,
-  "species": "Spellcaster",
+  "species": "Illusionist",
   "monster_type": "Ritual",
   "is_pendulum": false,
   "ability": "",
