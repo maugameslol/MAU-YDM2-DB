@@ -1,0 +1,12 @@
+{
+  "id": 2000030008,
+  "name": "Double Up! Speed Duel (Rule Card)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "RULES:\n? Main Deck size is 20-30 cards.\n? Extra Deck size is 0-6 cards.\n? Side Deck size is 0-6 cards.\n? Players can use up to 2 different Skill Cards instead of 1.\n? Starting LP is 4000.\n? Starting hand is 4 cards.\n? Only 3 columns on field. Pendulum Scales go in the leftmost and rightmost Spell/Trap Zone.\n? No Main Phase 2. You cannot use cards that need a Main Phase 2.",
+  "images": [
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/Customs/Custom_Rule_Card_Speed_Duel.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 2000030009,
+  "name": "Unnerfed Pendulums (Rule Card)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "RULES:\n? Face-up Pendulum Monsters on the Extra Deck can be Pendulum Summoned to the Main Monster Zones without Link Arrows pointing to those Zones.",
+  "images": [
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/Placeholders/customcard_placeholder_rule.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

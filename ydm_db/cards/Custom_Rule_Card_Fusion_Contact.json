@@ -1,0 +1,12 @@
+{
+  "id": 2000030010,
+  "name": "Fusion Contact (Rule Card)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "RULES:\n? During their Main Phase, players can Fusion Summon monsters without \"Polymerization\" by sending materials they control on the field or in their hand to the GY.",
+  "images": [
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/Placeholders/customcard_placeholder_rule.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}
