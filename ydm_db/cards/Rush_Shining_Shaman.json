@@ -3,7 +3,7 @@
   "name": "Shining Shaman (Rush)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\n[REQUIREMENT] Send this face-up card from your field to the Graveyard. \n[EFFECT] 1 face-up Level 4 or lower Spellcaster Type monster on your field can attack directly this turn.",
+  "text": "[REQUIREMENT] Send this face-up card from your field to the Graveyard. \n[EFFECT] 1 face-up Level 4 or lower Spellcaster Type monster on your field can attack directly this turn.",
   "images": [
     "https://images.rushcard.io/images/card/720905.jpg"
   ],

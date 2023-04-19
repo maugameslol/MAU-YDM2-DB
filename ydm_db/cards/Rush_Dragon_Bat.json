@@ -1,0 +1,21 @@
+{
+  "id": 720911,
+  "name": "Dragon Bat (Rush)",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Even scholars argue whether this mysterious creature is a bird or a beast. When flying in swarms, they somewhat resemble dragons, so it is possible that's what they are.",
+  "images": [
+    "https://images.rushcard.io/images/card/720911.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1000,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 400,
+  "level": 3,
+  "is_tuner": false
+}

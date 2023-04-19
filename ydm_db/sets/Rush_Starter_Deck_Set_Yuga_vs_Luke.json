@@ -1,0 +1,13 @@
+{
+  "name": "Starter Deck Set - Yuga vs. Luke",
+  "code": "RDVS01-JP",
+  "type": "Rush Duel Starter Deck Vs Set",
+  "date": "04-04-2020",
+  "image": "https://images.rushcard.io/images/set/708136.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "RDST01-JP",
+    "RDST02-JP",
+    "RDVS01-JP_C"
+  ]
+}

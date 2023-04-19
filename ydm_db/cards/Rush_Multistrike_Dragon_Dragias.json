@@ -1,0 +1,21 @@
+{
+  "id": 720208,
+  "name": "Multistrike Dragon Dragias (Rush)",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "[REQUIREMENT] Send the top card of your Deck to the Graveyard.\n[EFFECT] This turn, if this card destroyed a monster by battle, it can make a second attack during that Battle Phase.",
+  "images": [
+    "https://images.rushcard.io/images/card/720208.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2500,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1500,
+  "level": 7,
+  "is_tuner": false
+}

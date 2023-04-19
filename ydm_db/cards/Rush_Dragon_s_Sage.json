@@ -1,0 +1,21 @@
+{
+  "id": 720914,
+  "name": "Dragon's Sage (Rush)",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A young priestess from a bloodline of ancient dragons. She offers daily prayers for the peace of her people. It is said her clear eyes have the power to alter the fate of those reflected in them.",
+  "images": [
+    "https://images.rushcard.io/images/card/720914.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1100,
+  "species": "Dragon",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 100,
+  "level": 3,
+  "is_tuner": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 723057,
+  "name": "Dragon Encounter (Rush)",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "[REQUIREMENT] When your opponent Normal or Special Summons a monster.\n[EFFECT] Special Summon 1 Dragon Type monster from your hand face-up to your field.",
+  "images": [
+    "https://images.rushcard.io/images/card/723057.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

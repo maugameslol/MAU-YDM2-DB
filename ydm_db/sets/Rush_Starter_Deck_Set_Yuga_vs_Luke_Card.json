@@ -1,0 +1,13 @@
+{
+  "code": "RDVS01-JP_C",
+  "type": "Sub-Set",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 720292,
+      "code": "RDVS01-JP001",
+      "rarity": "Super Parallel Rare",
+      "image_index": 0
+    }
+  ]
+}

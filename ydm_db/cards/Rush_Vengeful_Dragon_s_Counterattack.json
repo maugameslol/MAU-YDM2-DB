@@ -1,0 +1,12 @@
+{
+  "id": 720923,
+  "name": "Vengeful Dragon's Counterattack (Rush)",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "[REQUIREMENT] When a Dragon Type monster on your field is destroyed by an opponent's attack, send 1 card from your hand to the Graveyard.\n[EFFECT] Destroy 1 monster on your opponent's field.",
+  "images": [
+    "https://images.rushcard.io/images/card/720923.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}
