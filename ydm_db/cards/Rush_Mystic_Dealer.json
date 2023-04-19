@@ -1,0 +1,21 @@
+{
+  "id": 722804,
+  "name": "Mystic Dealer (Rush)",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "\n[REQUIREMENT] Send 1 Spellcaster Type monster from your hand to the Graveyard. \n[EFFECT] Draw 1 card.",
+  "images": [
+    "https://images.rushcard.io/images/card/722804.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1000,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 3,
+  "is_tuner": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 722806,
+  "name": "Ansler the Magical Swordsman (Rush)",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A magical sword that uses a flame spirit puppet to wield itself. It is said that the sword recognizes the one who can best the flame spirit as its true wielder.",
+  "images": [
+    "https://images.rushcard.io/images/card/722806.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "FIRE",
+  "atk": 2000,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 500,
+  "level": 6,
+  "is_tuner": false
+}
