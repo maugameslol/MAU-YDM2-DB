@@ -3,7 +3,7 @@
   "name": "Sevens Road Magician (Rush)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\n[REQUIREMENT] \nSend the top card of your Deck to the Graveyard. \n[EFFECT] \nThis card gains ATK equal to [the number of different Attributes in your Graveyard] x 300, until the end of this turn.",
+  "text": "[REQUIREMENT] \nSend the top card of your Deck to the Graveyard. \n[EFFECT] \nThis card gains ATK equal to [the number of different Attributes in your Graveyard] x 300, until the end of this turn.",
   "images": [
     "https://images.rushcard.io/images/card/720202.jpg"
   ],

@@ -1,0 +1,250 @@
+{
+  "name": "Starter Deck Yuga - Cut Through! Sevens Road!! (JP)",
+  "code": "RD/ST01-JP",
+  "type": "Rush Duel Starter Deck",
+  "date": "04-04-2020",
+  "image": "https://images.rushcard.io/images/set/708134.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 720202,
+      "code": "RD/ST01-JP001",
+      "rarity": "Super Parallel Rare",
+      "image_index": 0
+    },
+    {
+      "id": 720203,
+      "code": "RD/ST01-JP002",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 720203,
+      "code": "RD/ST01-JP002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 720203,
+      "code": "RD/ST01-JP002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 722806,
+      "code": "RD/ST01-JP003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 722806,
+      "code": "RD/ST01-JP003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 722806,
+      "code": "RD/ST01-JP003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 720875,
+      "code": "RD/ST01-JP004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 720875,
+      "code": "RD/ST01-JP004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 720875,
+      "code": "RD/ST01-JP004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 720205,
+      "code": "RD/ST01-JP005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 720205,
+      "code": "RD/ST01-JP005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 720205,
+      "code": "RD/ST01-JP005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 722804,
+      "code": "RD/ST01-JP006",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 722804,
+      "code": "RD/ST01-JP006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 722804,
+      "code": "RD/ST01-JP006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 720879,
+      "code": "RD/ST01-JP007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 720879,
+      "code": "RD/ST01-JP007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 720879,
+      "code": "RD/ST01-JP007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 720857,
+      "code": "RD/ST01-JP008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 720857,
+      "code": "RD/ST01-JP008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 720857,
+      "code": "RD/ST01-JP008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 720905,
+      "code": "RD/ST01-JP009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 720905,
+      "code": "RD/ST01-JP009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 720905,
+      "code": "RD/ST01-JP009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 721152,
+      "code": "RD/ST01-JP010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 721152,
+      "code": "RD/ST01-JP010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 721152,
+      "code": "RD/ST01-JP010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 720206,
+      "code": "RD/ST01-JP011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 720206,
+      "code": "RD/ST01-JP011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 720206,
+      "code": "RD/ST01-JP011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 721007,
+      "code": "RD/ST01-JP012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 721007,
+      "code": "RD/ST01-JP012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 721007,
+      "code": "RD/ST01-JP012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 723130,
+      "code": "RD/ST01-JP013",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 723130,
+      "code": "RD/ST01-JP013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 723130,
+      "code": "RD/ST01-JP013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 720902,
+      "code": "RD/ST01-JP014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 720902,
+      "code": "RD/ST01-JP014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 720902,
+      "code": "RD/ST01-JP014",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}
