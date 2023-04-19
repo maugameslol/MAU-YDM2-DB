@@ -1,0 +1,21 @@
+{
+  "id": 720857,
+  "name": "Spell Archer (Rush)",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "A young bowman loved by the wind. His arrows are made from magic and fly endlessly.",
+  "images": [
+    "https://images.rushcard.io/images/card/720857.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "WIND",
+  "atk": 1000,
+  "species": "Spellcaster",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 400,
+  "level": 3,
+  "is_tuner": false
+}

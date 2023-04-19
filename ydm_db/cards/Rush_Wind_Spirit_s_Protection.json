@@ -1,0 +1,12 @@
+{
+  "id": 720206,
+  "name": "Wind Spirit's Protection (Rush)",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "[REQUIREMENT] Send 1 card from your hand to the Graveyard.\n[EFFECT] 1 face-up Spellcaster Type monster on your field gains 1000 ATK until the end of the turn.",
+  "images": [
+    "https://images.rushcard.io/images/card/720206.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}
