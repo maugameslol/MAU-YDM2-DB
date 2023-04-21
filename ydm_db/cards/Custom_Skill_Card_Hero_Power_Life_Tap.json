@@ -3,7 +3,7 @@
   "name": "Life Tap (Skill Card)",
   "is_illegal": false,
   "is_custom": true,
-  "text": "Warlock / Skill / Hero Power\nAt the start of the Duel, flip this card over.\nYou cannot use this Skill on your first turn.\nOnce per turn, during your Main Phase, you can activate this Skill:\n? Take 1200 damage and draw 1 card.\n\u00A73Hearthstone Rule:\nThis Skill can be used on your first turn. This Skill costs 2 Mana to use.\u00A7r",
+  "text": "Warlock / Skill / Hero Power\nAt the start of the Duel, flip this card over.\nYou cannot use this Skill on your first turn.\nOnce per turn, during your Main Phase, you can activate this Skill:\n? Take 1200 damage, and if you do, draw 1 card.\n\u00A73Hearthstone Rule:\nThis Skill can be used on your first turn. This Skill costs 2 Mana to use.\u00A7r",
   "images": [
     "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/Customs/Custom_Skill_Card_Life_Tap.jpg"
   ],
