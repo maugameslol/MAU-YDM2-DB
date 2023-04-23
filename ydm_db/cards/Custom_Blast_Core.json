@@ -3,7 +3,7 @@
   "name": "Blast Core",
   "is_illegal": false,
   "is_custom": true,
-  "text": "Equip only to a Thunder-type monster. It gains 500 ATK/DEF.\n\nConcept by bloco100",
+  "text": "Equip only to a Thunder-type monster. It gains 500 ATK/DEF.\n\nConcept by TheLoneCarrot/bloco100",
   "images": [
     "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/Placeholders/customcard_placeholder_spell.jpg"
   ],
