@@ -1,9 +1,9 @@
 {
   "id": 2000000019,
-  "name": "Basic Pokemon #25: Pikachu",
+  "name": "Pokemon #25: Pikachu LV12",
   "is_illegal": false,
   "is_custom": true,
-  "text": "When this card attacks, Flip a coin:\n? Heads: This card gains 300 ATK during damage calculation.\n? Tails: Inflict 100 damage to your own LP.\n\nConcept by MauGamesLOL",
+  "text": "When this card attacks, you can flip a coin: If Tails: Inflict 100 damage to your own LP. If you use this effect: this card gains 300 ATK during damage calculation.\n\nConcept by MauGamesLOL",
   "images": [
     "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/Placeholders/customcard_placeholder_effect.jpg"
   ],

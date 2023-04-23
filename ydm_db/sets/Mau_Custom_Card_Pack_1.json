@@ -216,6 +216,84 @@
       "code": "MAUPACK01-035",
       "rarity": "Rare",
       "image_index": 0
+    },
+    {
+      "id": 2000000036,
+      "code": "MAUPACK01-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2000000037,
+      "code": "MAUPACK01-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2000000038,
+      "code": "MAUPACK01-038",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000039,
+      "code": "MAUPACK01-039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2000000040,
+      "code": "MAUPACK01-040",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2000000041,
+      "code": "MAUPACK01-041",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2000000042,
+      "code": "MAUPACK01-042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2000000043,
+      "code": "MAUPACK01-043",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000044,
+      "code": "MAUPACK01-044",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000045,
+      "code": "MAUPACK01-045",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000046,
+      "code": "MAUPACK01-046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2000000047,
+      "code": "MAUPACK01-047",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2000000048,
+      "code": "MAUPACK01-048",
+      "rarity": "Common",
+      "image_index": 0
     }
   ]
 }

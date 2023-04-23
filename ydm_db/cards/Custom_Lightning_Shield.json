@@ -1,0 +1,12 @@
+{
+  "id": 2000000047,
+  "name": "Lightning Shield",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You must control a Thunder monster in order to activate this card, and in order to activate and resolve its effects. You can only control 1 \"Lightning Shield.\" Each time a Spell Card is activated, increase a Thunder monster's ATK by 100. If you do, you can negate the effect(s) of that Spell, and if you do that, destroy this card. \n\nConcept by bloco100",
+  "images": [
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/Placeholders/customcard_placeholder_spell.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Equip"
+}

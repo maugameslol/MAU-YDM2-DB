@@ -1,0 +1,21 @@
+{
+  "id": 2000000046,
+  "name": "Electric Man",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "After getting his powers and seeing his home destroyed, he is determined to become more powerful in order to be in control of his destiny.\n\nConcept by TheLoneCarrot/bloco100",
+  "images": [
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/Placeholders/customcard_placeholder_normal.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 1800,
+  "species": "Thunder",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1800,
+  "level": 4,
+  "is_tuner": false
+}
