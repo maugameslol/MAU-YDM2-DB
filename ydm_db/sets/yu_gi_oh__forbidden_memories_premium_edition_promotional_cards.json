@@ -1,0 +1,28 @@
+{
+  "name": "Yu-Gi-Oh! Forbidden Memories Premium Edition promotional cards",
+  "code": "FMR",
+  "type": "Video Game Promotional Cards",
+  "date": "19-03-2002",
+  "image": "https://images.ygoprodeck.com/images/sets/FMR.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 64335804,
+      "code": "FMR-001",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 52040216,
+      "code": "FMR-002",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68540058,
+      "code": "FMR-003",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 1
+    }
+  ]
+}
