@@ -1,0 +1,28 @@
+{
+  "name": "Yu-Gi-Oh! The Duelists of the Roses promotional cards",
+  "code": "DOR",
+  "type": "Video Game Promotional Cards",
+  "date": "16-02-2003",
+  "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 99785935,
+      "code": "DOR-001",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 39256679,
+      "code": "DOR-002",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11549357,
+      "code": "DOR-003",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

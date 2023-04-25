@@ -1,0 +1,28 @@
+{
+  "name": "Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel promotional cards",
+  "code": "SDD",
+  "type": "Video Game Promotional Cards",
+  "date": "15-04-2003",
+  "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 75347539,
+      "code": "SDD-001",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8131171,
+      "code": "SDD-002",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18144507,
+      "code": "SDD-003",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 0
+    }
+  ]
+}
