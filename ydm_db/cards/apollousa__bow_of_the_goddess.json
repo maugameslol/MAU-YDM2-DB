@@ -10,7 +10,7 @@
   ],
   "type": "Monster",
   "attribute": "WIND",
-  "atk": 0,
+  "atk": -1,
   "species": "Fairy",
   "monster_type": "Link",
   "is_pendulum": false,

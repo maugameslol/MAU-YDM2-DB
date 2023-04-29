@@ -9,7 +9,7 @@
   ],
   "type": "Monster",
   "attribute": "DARK",
-  "atk": 0,
+  "atk": -1,
   "species": "Dragon",
   "monster_type": "",
   "is_pendulum": false,

@@ -9,7 +9,7 @@
   ],
   "type": "Monster",
   "attribute": "EARTH",
-  "atk": 0,
+  "atk": -1,
   "species": "Fiend",
   "monster_type": "Fusion",
   "is_pendulum": false,
