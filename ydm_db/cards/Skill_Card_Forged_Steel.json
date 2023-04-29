@@ -1,0 +1,12 @@
+{
+  "id": 2000020018,
+  "name": "Forged Steel (Skill Card)",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Nightshroud / Skill\nFlip this card over when you activate this Skill.\nOnce per Duel, during your Main Phase, you can change the name of 1 \"Red-Eyes\" monster or 1 Dragon Normal Monster you control to \"Red-Eyes Black Dragon\" while it's face-up on the field. Each \"Red-Eyes Darkness Dragon\" you control gains the following effect.\n? Once per turn, during your Main Phase: You can Special Summon 1 Dragon monster from your GY that can be Normal Summoned/Set.",
+  "images": [
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/Temporary/ForgedSteel-SGX3-EN-C-1E.png"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

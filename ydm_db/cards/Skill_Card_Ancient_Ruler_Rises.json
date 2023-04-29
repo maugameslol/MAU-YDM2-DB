@@ -1,0 +1,12 @@
+{
+  "id": 2000020034,
+  "name": "Ancient Ruler Rises (Skill Card)",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Abidos / Skill\nAt the start of the Duel, flip this card over.\nApply the following Skills:\n? Once per turn, you can send 1 Level 2 Zombie monster from your Deck to the GY and place 1 of your \"The First Sarcophagus\", \"The Second Sarcophagus\", or \"The Third Sarcophagus\" from your Deck, GY, or that is banished, face-up in your Spell & Trap Zone. (This is treated as being placed by the effect of \"The First Sarcophagus\".)\n? Each \"Spirit of the Pharaoh\" you control gains ATK equal to the total number of \"Pharaoh's Servant\" and \"Pharaonic Protector\" on your field and in your GY x 900.",
+  "images": [
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/Temporary/AncientRulerRises-SGX3-EN-C-1E.png"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

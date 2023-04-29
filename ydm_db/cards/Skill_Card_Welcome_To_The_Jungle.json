@@ -1,0 +1,12 @@
+{
+  "id": 2000020020,
+  "name": "Welcome to the Jungle (Skill Card)",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Tania / Skill\nAt the start of the Duel, flip this card over.\nAfter damage calculation, if you took battle damage from a battle involving an opponent's monster and your Attack Position \"Amazoness\" monster, that opponent's monster loses ATK/DEF equal to the ATK of the \"Amazoness\" monster it battled, until the end of this turn.",
+  "images": [
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/Temporary/WelcometotheJungle-SGX3-EN-C-1E.png"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}
