@@ -1,0 +1,13 @@
+{
+  "code": "RP02_VC_NA",
+  "type": "Sub-Set",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 46668237,
+      "code": "RP02-099",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}
