@@ -3,7 +3,7 @@
   "name": "Ritual Ceremony (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Emma / Skill\nFlip this card over when you activate this Skill.\nActivate this Skill during your Main Phase. You can reveal 1 Ritual Monster from your hand, then add 1 Ritual Spell from your Deck to your hand whose name is listed on that Ritual Monster. This Skill can only be used once per Duel.",
+  "text": "Emma / Skill\nFlip this card over when you activate this Skill.\nOnce per Duel, during your Main Phase, you can reveal 1 Ritual Monster from your hand, add 1 Ritual Spell from your Deck to your hand whose name is mentioned on that Ritual Monster, then place 1 card from your hand on the bottom of your Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300302002.jpg"
   ],

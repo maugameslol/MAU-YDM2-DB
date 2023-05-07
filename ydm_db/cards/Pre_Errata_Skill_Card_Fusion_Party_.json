@@ -1,0 +1,12 @@
+{
+  "id": 500302001,
+  "name": "Fusion Party! (Pre-Errata, Skill Card)",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Christine / Skill\nFlip this card over when you activate this Skill.\nActivate this Skill during your Main Phase. You can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. This Skill can only be used once per Duel.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/300302001.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

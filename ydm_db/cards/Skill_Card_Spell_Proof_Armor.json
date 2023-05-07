@@ -3,7 +3,7 @@
   "name": "Spell Proof Armor (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Keith / Skill\nFlip this card over when you activate this Skill.\nActivate this Skill during your Main Phase. All Machine monsters you control are unaffected by your opponent\u0027s Spell effects. You can Normal Summon Machine Normal Monsters with 1 less Tribute. If a non-Machine monster is in your GY, flip this Skill over. This Skill can only be used once per Duel.",
+  "text": "Keith / Skill\nFlip this card over when you activate this Skill.\nActivate this Skill during your Main Phase and apply the following: \n? Machine Normal Monsters you control are unaffected by your opponent\u0027s Spell Cards or effects.\n? While you control no monsters, you can Normal Summon Machine Normal Monsters with 1 less Tribute.\nIf you have a non-Machine monster on your field or GY, flip this card over. This Skill can only be used once per Duel.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300103002.jpg"
   ],

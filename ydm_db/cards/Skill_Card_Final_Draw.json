@@ -3,7 +3,7 @@
   "name": "Final Draw (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Yami Yugi / Skill\nFlip this card over when you activate this Skill.\nActivate this Skill during your Main Phase.\nOnce per turn, during your turn, you may place a counter on this Skill. If it has 3 or more counters when you would draw a card, you may search your Deck for any card and add it to your hand instead. At the end of the turn you use this Skill, you lose the Duel.",
+  "text": "Yami Yugi / Skill\nFlip this card over when you activate this Skill.\nActivate this Skill during your Main Phase, by placing 3 counters on this card.\nOnce per turn, during your Main Phase, you can remove 1 counter from this card. Once, if this card has no counters, the next time you would draw a card(s), do the following instead.\n? Add 1 card from your Deck to your hand, but at the start of the End Phase of this turn, you lose the Duel.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300201003.jpg"
   ],
