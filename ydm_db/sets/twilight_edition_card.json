@@ -1,0 +1,13 @@
+{
+  "code": "TWED_C",
+  "type": "Sub-Set",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 37742478,
+      "code": "TWED-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

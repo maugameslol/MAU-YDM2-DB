@@ -1,0 +1,14 @@
+{
+  "name": "Twilight Edition: Light \u0026 Dark",
+  "code": "TWED",
+  "type": "Special Edition",
+  "date": "05-01-2010",
+  "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "LODT",
+    "PTDN",
+	"TAEV",
+    "TWED_C"
+  ]
+}
