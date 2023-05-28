@@ -1,0 +1,12 @@
+{
+  "id": 100207001,
+  "name": "Eye of Illusion",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If you control an Illusion or Spellcaster monster: Activate 1 of these effects;\n? Your Illusion and Spellcaster monsters cannot be destroyed by battle this turn.\n? During your opponent\u0027s turn: Target 1 face-up monster your opponent controls; take control of it until the End Phase.\n? When an opponent\u0027s monster declares an attack: Target 1 face-up monster your opponent controls, except the attacking monster; change the attack target to it and perform damage calculation.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/100207001.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}

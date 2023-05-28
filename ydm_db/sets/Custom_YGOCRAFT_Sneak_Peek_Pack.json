@@ -480,6 +480,66 @@
       "code": "YGOCSPP-079",
       "rarity": "Secret Rare",
       "image_index": 0
+    },
+	{
+      "id": 65687442,
+      "code": "YGOCSPP-080",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 2204038,
+      "code": "YGOCSPP-081",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 66809920,
+      "code": "YGOCSPP-082",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 30411385,
+      "code": "YGOCSPP-083",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 3026686,
+      "code": "YGOCSPP-084",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 91969909,
+      "code": "YGOCSPP-085",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 64961254,
+      "code": "YGOCSPP-086",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 38576155,
+      "code": "YGOCSPP-087",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 92182447,
+      "code": "YGOCSPP-088",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 45584727,
+      "code": "YGOCSPP-089",
+      "rarity": "Secret Rare",
+      "image_index": 0
     }
   ]
 }
