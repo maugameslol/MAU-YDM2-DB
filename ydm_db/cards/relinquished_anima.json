@@ -13,7 +13,7 @@
   "species": "Spellcaster",
   "monster_type": "Link",
   "is_pendulum": false,
-  "ability": "Illusion",
+  "ability": "",
   "has_effect": true,
   "link_rating": 1,
   "link_arrows": [
