@@ -5,60 +5,60 @@
   "date": "21-03-2023",
   "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
   "pull_type": "distribution",
-  "distribution": "ygocraft_sneak_peek_pack",
+  "distribution": "duelist_pack",
   "cards": [
     {
       "id": 10000010,
       "code": "YGOCSPP-001",
-      "rarity": "Secret Rare",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
 	{
       "id": 10000020,
       "code": "YGOCSPP-002",
-      "rarity": "Secret Rare",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
 	{
       "id": 10000000,
       "code": "YGOCSPP-003",
-      "rarity": "Secret Rare",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
 	{
       "id": 10000080,
       "code": "YGOCSPP-004",
-      "rarity": "Secret Rare",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
 	{
       "id": 10000090,
       "code": "YGOCSPP-005",
-      "rarity": "Secret Rare",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
 	{
       "id": 31709826,
       "code": "YGOCSPP-006",
-      "rarity": "Secret Rare",
+      "rarity": "Common",
       "image_index": 0
     },
 	{
       "id": 26905245,
       "code": "YGOCSPP-007",
-      "rarity": "Secret Rare",
+      "rarity": "Common",
       "image_index": 0
     },
 	{
       "id": 42166000,
       "code": "YGOCSPP-008",
-      "rarity": "Secret Rare",
+      "rarity": "Super Rare",
       "image_index": 0
     },
 	{
       "id": 89194033,
       "code": "YGOCSPP-009",
-      "rarity": "Secret Rare",
+      "rarity": "Common",
       "image_index": 0
     },
 	{
