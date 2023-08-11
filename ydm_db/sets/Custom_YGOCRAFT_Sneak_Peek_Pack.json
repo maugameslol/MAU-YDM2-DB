@@ -5,7 +5,7 @@
   "date": "21-03-2023",
   "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
   "pull_type": "distribution",
-  "distribution": "duelist_pack",
+  "distribution": "custom_duelist_pack_edit",
   "cards": [
     {
       "id": 10000010,

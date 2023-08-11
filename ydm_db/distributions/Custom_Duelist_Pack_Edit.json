@@ -1,0 +1,81 @@
+{
+  "name": "custom_duelist_pack_edit",
+  "pulls": [
+    {
+      "weight": 9,
+      "entries": [
+        {
+          "count": 6,
+          "rarities": [
+            "Common",
+			"Rare"
+          ]
+        },
+		{
+          "count": 1,
+          "rarities": [
+			"Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Rare",
+			"Super Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 2,
+      "entries": [
+        {
+          "count": 6,
+          "rarities": [
+            "Common",
+			"Rare"
+          ]
+        },
+		{
+          "count": 1,
+          "rarities": [
+			"Super Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Super Rare",
+			"Ultra Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 4,
+          "rarities": [
+            "Common",
+			"Rare"
+          ]
+        },
+		{
+          "count": 3,
+          "rarities": [
+			"Super Rare",
+			"Ultra Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Ultra Rare",
+            "Ultimate Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}
