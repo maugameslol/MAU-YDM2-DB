@@ -1,7 +1,6 @@
 # Mau's YDM2-DB Fork
 This is for use in my server. If you want to make your own "Database", I suggest forking the [original YDM "Database".](https://github.com/CAS-ual-TY/YDM2-DB)
-## Important Notice
-The "ydm_db" folder automatically gets deleted entirely whenever a new database is downloaded. Do not leave any files in there!
+
 ## Original Ygo Dueling Mod Repository:
 Original Mod:
 [https://github.com/CAS-ual-TY/YgoDuelingMod](https://github.com/CAS-ual-TY/YgoDuelingMod)
