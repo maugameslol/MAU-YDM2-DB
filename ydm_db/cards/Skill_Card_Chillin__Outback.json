@@ -1,0 +1,12 @@
+{
+  "id": 300302047,
+  "name": "Chillin\u0027 Outback (Skill Card)",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Chumley / Skill\nAt the start of the Duel, flip this card over.\nOnce per turn, you can change 1 face-up \"Koala\" or \"Kangaroo\" monster\u0027s battle position. \"Koala\" and \"Kangaroo\" monsters you control can attack while in face-up Defense Position. If they do, apply their DEF for damage calculation.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/300302047.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

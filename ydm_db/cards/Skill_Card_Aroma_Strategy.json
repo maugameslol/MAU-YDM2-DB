@@ -1,0 +1,12 @@
+{
+  "id": 300202007,
+  "name": "Aroma Strategy (Skill Card)",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Mai / Skill\nAt the start of the Duel, flip this card over.\nYou may look at the top card of your Deck at any time.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/300202007.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

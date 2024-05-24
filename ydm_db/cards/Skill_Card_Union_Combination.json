@@ -1,0 +1,12 @@
+{
+  "id": 300302020,
+  "name": "Union Combination (Skill Card)",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Kaiba / Skill\nFlip this card over when you activate this Skill.\nOnce per turn, during your Main Phase, you can place 1 card from your hand on the bottom of your Deck, then Special Summon 1 LIGHT Machine Fusion Monster from your Extra Deck, that cannot be Fusion Summoned, by banishing Fusion Materials mentioned on it from your field or your GY, ignoring its Summoning conditions. For the rest of this turn, your opponent takes no damage.\n\n\u00A7cThis text is unofficial and has been altered in order to describe the card\u0027s presumed intended functionality in the TCG Speed Duel format.\u00A7r",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/300302020.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}
