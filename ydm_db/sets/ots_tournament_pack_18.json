@@ -1,159 +1,159 @@
 {
-  "name": "OTS Tournament Pack 12",
-  "code": "OP12",
+  "name": "OTS Tournament Pack 18",
+  "code": "OP18",
   "type": "OTS Tournament Pack",
-  "date": "05-12-2019",
-  "image": "https://ygoprodeck.com/pics_sets/OP12.jpg",
+  "date": "23-02-2022",
+  "image": "https://ygoprodeck.com/pics_sets/OP18.jpg",
   "pull_type": "distribution",
   "distribution": "ots_tournament_pack",
   "cards": [
     {
-      "id": 55878038,
-      "code": "OP12-001",
+      "id": 60303688,
+      "code": "OP18-EN001",
       "rarity": "Ultimate Rare",
       "image_index": 0
     },
     {
-      "id": 43898403,
-      "code": "OP12-002",
+      "id": 90448279,
+      "code": "OP18-EN002",
       "rarity": "Ultimate Rare",
       "image_index": 0
     },
     {
-      "id": 41420027,
-      "code": "OP12-003",
+      "id": 52947044,
+      "code": "OP18-EN003",
       "rarity": "Ultimate Rare",
       "image_index": 0
     },
     {
-      "id": 36584821,
-      "code": "OP12-004",
+      "id": 81866673,
+      "code": "OP18-EN004",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
-      "id": 28031913,
-      "code": "OP12-005",
+      "id": 36042004,
+      "code": "OP18-EN005",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
-      "id": 56003780,
-      "code": "OP12-006",
+      "id": 19353570,
+      "code": "OP18-EN006",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
-      "id": 21441617,
-      "code": "OP12-007",
+      "id": 87170768,
+      "code": "OP18-EN007",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
-      "id": 92559258,
-      "code": "OP12-008",
+      "id": 43534808,
+      "code": "OP18-EN008",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
-      "id": 98159737,
-      "code": "OP12-009",
+      "id": 95144193,
+      "code": "OP18-EN009",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
-      "id": 23431858,
-      "code": "OP12-010",
+      "id": 62709239,
+      "code": "OP18-EN010",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
-      "id": 55285840,
-      "code": "OP12-011",
+      "id": 97273514,
+      "code": "OP18-EN011",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
-      "id": 14934922,
-      "code": "OP12-012",
+      "id": 32519092,
+      "code": "OP18-EN012",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
-      "id": 47606319,
-      "code": "OP12-013",
+      "id": 95492061,
+      "code": "OP18-EN013",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 44860890,
-      "code": "OP12-014",
+      "id": 14677495,
+      "code": "OP18-EN014",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 71696014,
-      "code": "OP12-015",
+      "id": 13455953,
+      "code": "OP18-EN015",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 53309998,
-      "code": "OP12-016",
+      "id": 36426778,
+      "code": "OP18-EN016",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 80794697,
-      "code": "OP12-017",
+      "id": 63362460,
+      "code": "OP18-EN017",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 89662401,
-      "code": "OP12-018",
+      "id": 34250214,
+      "code": "OP18-EN018",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 9653271,
-      "code": "OP12-019",
+      "id": 70645913,
+      "code": "OP18-EN019",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 74168099,
-      "code": "OP12-020",
+      "id": 80701178,
+      "code": "OP18-EN020",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 42110604,
-      "code": "OP12-021",
+      "id": 82085295,
+      "code": "OP18-EN021",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 53129443,
-      "code": "OP12-022",
+      "id": 53334641,
+      "code": "OP18-EN022",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 27827272,
-      "code": "OP12-023",
+      "id": 90207654,
+      "code": "OP18-EN023",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 69035382,
-      "code": "OP12-024",
+      "id": 47222536,
+      "code": "OP18-EN024",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 57103969,
-      "code": "OP12-025",
+      "id": 80802524,
+      "code": "OP18-EN025",
       "rarity": "Common",
       "image_index": 0
     }
