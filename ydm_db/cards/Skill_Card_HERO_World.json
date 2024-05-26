@@ -3,7 +3,7 @@
   "name": "HERO World (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Jaden / Skill\nAt the start of the Duel, flip this card over.\nOnce per turn, if you control a \"HERO\" Normal Monster or \"HERO\" Fusion Monster, you can discard 1 card to activate 1 of these Skills based on the Attribute(s) of that monster:\n? EARTH: Destroy 1 EARTH monster you control and 1 face-up monster your opponent controls.\n? WIND: Destroy 1 face-up Spell/Trap on the field.\n? FIRE: Return all face-up non-FIRE Special Summoned monsters on the field to the hand.\n? WATER: Draw 1 card, also until the end of the next turn, you can activate 1 Normal Trap Card from your hand.\n? LIGHT: Change the battle position of 1 face-up monster on the field.",
+  "text": "Jaden / Skill\nAt the start of the Duel, flip this card over.\nOnce per turn, if you control a \"HERO\" Normal Monster or \"HERO\" Fusion Monster, you can discard 1 card to activate 1 of these Skills based on the Attribute(s) of that monster:\n\u25cf EARTH: Destroy 1 EARTH monster you control and 1 face-up monster your opponent controls.\n\u25cf WIND: Destroy 1 face-up Spell/Trap on the field.\n\u25cf FIRE: Return all face-up non-FIRE Special Summoned monsters on the field to the hand.\n\u25cf WATER: Draw 1 card, also until the end of the next turn, you can activate 1 Normal Trap Card from your hand.\n\u25cf LIGHT: Change the battle position of 1 face-up monster on the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300302049.jpg"
   ],

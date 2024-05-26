@@ -3,7 +3,7 @@
   "name": "Morphtronic Boarden",
   "is_illegal": false,
   "is_custom": false,
-  "text": "? While in Attack Position: \"Morphtronic\" monsters you control can attack your opponent directly.\n? While in Defense Position: Other \"Morphtronic\" monsters you control cannot be destroyed by battle.",
+  "text": "? While in Attack Position: \"Morphtronic\" monsters you control can attack your opponent directly.\n\u25cf While in Defense Position: Other \"Morphtronic\" monsters you control cannot be destroyed by battle.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/48381268.jpg"
   ],

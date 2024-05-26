@@ -18,7 +18,7 @@
   "def": 3000,
   "level": 12,
   "is_tuner": false,
-  "pendulum_text": "You can activate 1 of these effects;\n? Special Summon this card to your Main Monster Zone in its same column.\n? Move 1 monster in your Main Monster Zone to an adjacent (horizontal) Monster Zone.\nYou can only use this effect of \"Arktos XII - Chronochasm Vaylantz\" once per turn.",
+  "pendulum_text": "You can activate 1 of these effects;\n\u25cf Special Summon this card to your Main Monster Zone in its same column.\n\u25cf Move 1 monster in your Main Monster Zone to an adjacent (horizontal) Monster Zone.\nYou can only use this effect of \"Arktos XII - Chronochasm Vaylantz\" once per turn.",
   "pendulum_scale_left_blue": 12,
   "pendulum_scale_right_red": 12
 }
