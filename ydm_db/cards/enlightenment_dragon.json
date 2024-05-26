@@ -3,7 +3,7 @@
   "name": "Enlightenment Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Judgment Dragon\" + \"Punishment Dragon\"\r\nMust be Special Summoned by banishing the above cards, 1 each from your Monster Zone and GY. Once per turn (Quick Effect): You can pay 2000 LP; banish all other cards on the field and in the GYs. Once per turn, during your End Phase: Send the top 4 cards of your Deck to the GY. If this card in its owner\u0027s possession is destroyed by an opponent\u0027s card: You can add 1 each of your banished \"Judgment Dragon\" and \"Punishment Dragon\" to your hand, then you can Special Summon both, ignoring their Summoning conditions.",
+  "text": "\"Judgment Dragon\" + \"Punishment Dragon\"\nMust be Special Summoned by banishing the above cards, 1 each from your Monster Zone and GY. Once per turn (Quick Effect): You can pay 2000 LP; banish all other cards on the field and in the GYs. Once per turn, during your End Phase: Send the top 4 cards of your Deck to the GY. If this card in its owner\u0027s possession is destroyed by an opponent\u0027s card: You can add 1 each of your banished \"Judgment Dragon\" and \"Punishment Dragon\" to your hand, then you can Special Summon both, ignoring their Summoning conditions.",
   "images": ["https://images.ygoprodeck.com/images/cards/46186135.jpg"],
   "type": "Monster",
   "attribute": "LIGHT",
