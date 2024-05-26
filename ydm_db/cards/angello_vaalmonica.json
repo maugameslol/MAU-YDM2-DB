@@ -16,7 +16,7 @@
   "def": 2100,
   "level": 4,
   "is_tuner": false,
-  "pendulum_text": "Each time you gain LP while you control a Fiend Monster Card in your other Pendulum Zone, place 1 Resonance Counter on this card. Once per turn, when an opponent's monster declares an attack, you can: Immediately after this effect resolves, Link Summon 1 \"Vaalmonica\" Link Monster.",
+  "pendulum_text": "Each time you gain LP while you control a Fiend Monster Card in your other Pendulum Zone, place 1 Resonance Counter on this card. Once per turn, when an opponent\u0027s monster declares an attack, you can: Immediately after this effect resolves, Link Summon 1 \"Vaalmonica\" Link Monster.",
   "pendulum_scale_left_blue": 3,
   "pendulum_scale_right_red": 3
 }

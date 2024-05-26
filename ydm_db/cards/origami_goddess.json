@@ -3,7 +3,7 @@
   "name": "Origami Goddess",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, during your Main Phase: You can toss a coin until the result is tails, and if you do, draw 1 card for every 2 heads. Each time a coin tossing effect resolves while this monster is on the field: Double this card's ATK for each heads from that effect.",
+  "text": "Once per turn, during your Main Phase: You can toss a coin until the result is tails, and if you do, draw 1 card for every 2 heads. Each time a coin tossing effect resolves while this monster is on the field: Double this card\u0027s ATK for each heads from that effect.",
   "images": ["https://images.ygoprodeck.com/images/cards/7930346.jpg"],
   "type": "Monster",
   "attribute": "DARK",

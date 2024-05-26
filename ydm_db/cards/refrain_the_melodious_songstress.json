@@ -16,7 +16,7 @@
   "def": 800,
   "level": 4,
   "is_tuner": false,
-  "pendulum_text": "You can target 1 \"Melodious\" Fusion Monster you control; send 1 \"Melodious\" monster from your Deck to the GY, and if you do, the targeted monster gains ATK equal to the sent monster's Level x 200 until the end of this turn. You can only use this effect of \"Refrain the Melodious Songstress\" once per turn.",
+  "pendulum_text": "You can target 1 \"Melodious\" Fusion Monster you control; send 1 \"Melodious\" monster from your Deck to the GY, and if you do, the targeted monster gains ATK equal to the sent monster\u0027s Level x 200 until the end of this turn. You can only use this effect of \"Refrain the Melodious Songstress\" once per turn.",
   "pendulum_scale_left_blue": 1,
   "pendulum_scale_right_red": 1
 }

@@ -16,7 +16,7 @@
   "def": 2100,
   "level": 5,
   "is_tuner": false,
-  "pendulum_text": "Once per turn, when an opponent's monster declares an attack: You can add 1 \"Odd-Eyes\" Pendulum Monster from your GY to the Extra Deck face-up, and if you do, negate the attack, then you can gain LP equal to that Pendulum Monster's ATK.",
+  "pendulum_text": "Once per turn, when an opponent\u0027s monster declares an attack: You can add 1 \"Odd-Eyes\" Pendulum Monster from your GY to the Extra Deck face-up, and if you do, negate the attack, then you can gain LP equal to that Pendulum Monster\u0027s ATK.",
   "pendulum_scale_left_blue": 2,
   "pendulum_scale_right_red": 2
 }
