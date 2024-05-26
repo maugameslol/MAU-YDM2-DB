@@ -1,11 +1,11 @@
 {
-  "name": "King's Court",
+  "name": "King\u0027s Court",
   "code": "KICO",
   "type": "65 Card Set",
   "date": "07-08-2020",
   "image": "https://ygoprodeck.com/pics_sets/KICO.jpg",
   "pull_type": "distribution",
-  "distribution": "toon_chaos",
+  "distribution": "60_card_set_with_collector_s_rare",
   "cards": [
     {
       "id": 93880808,
