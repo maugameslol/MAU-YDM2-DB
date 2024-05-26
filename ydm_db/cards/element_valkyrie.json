@@ -3,7 +3,7 @@
   "name": "Element Valkyrie",
   "is_illegal": false,
   "is_custom": false,
-  "text": "(This card is not treated as a \"Valkyrie\" card.)\nThis monster gets the following effect(s) while there is a monster(s) with the following Attribute(s) on the field:\n? FIRE: This card gains 500 ATK.\n? WATER: Control of this card cannot switch.",
+  "text": "(This card is not treated as a \"Valkyrie\" card.)\nThis monster gets the following effect(s) while there is a monster(s) with the following Attribute(s) on the field:\n\u25cf FIRE: This card gains 500 ATK.\n\u25cf WATER: Control of this card cannot switch.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/97623219.jpg"
   ],
