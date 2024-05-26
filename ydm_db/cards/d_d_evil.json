@@ -18,7 +18,7 @@
   "def": 0,
   "level": 4,
   "is_tuner": false,
-  "pendulum_text": "Once, while this card is in your Pendulum Zone, when your opponent Pendulum Summons a monster(s) (except during the Damage Step): You can activate this effect; this turn, that Pendulum Summoned monster cannot attack, also its effects are negated.\n[ Monster Effect ] Cannot attack unless you control another \"D/D\" monster. During your opponent\u0027s Main Phase (Quick Effect): You can target 1 face-up Pendulum Summoned monster your opponent controls; negate that face-up monster\u0027s effects until the end of this turn. You can only use this effect of \"D/D Evil\" once per turn.",
+  "pendulum_text": "Once, while this card is in your Pendulum Zone, when your opponent Pendulum Summons a monster(s) (except during the Damage Step): You can activate this effect; this turn, that Pendulum Summoned monster cannot attack, also its effects are negated.",
   "pendulum_scale_left_blue": 8,
   "pendulum_scale_right_red": 8
 }
