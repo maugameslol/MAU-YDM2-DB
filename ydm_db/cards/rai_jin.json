@@ -9,7 +9,7 @@
   ],
   "type": "Monster",
   "attribute": "LIGHT",
-  "atk": -1,
+  "atk": 0,
   "species": "Thunder",
   "monster_type": "",
   "is_pendulum": false,

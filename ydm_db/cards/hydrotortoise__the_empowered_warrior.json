@@ -13,7 +13,7 @@
   "species": "Warrior",
   "monster_type": "",
   "is_pendulum": false,
-  "ability": "",
+  "ability": "Flip",
   "has_effect": true,
   "def": 900,
   "level": 3,

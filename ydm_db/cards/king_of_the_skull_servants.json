@@ -9,7 +9,7 @@
   ],
   "type": "Monster",
   "attribute": "DARK",
-  "atk": -1,
+  "atk": 0,
   "species": "Zombie",
   "monster_type": "",
   "is_pendulum": false,

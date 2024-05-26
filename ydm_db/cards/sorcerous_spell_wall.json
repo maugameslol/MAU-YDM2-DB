@@ -3,7 +3,7 @@
   "name": "Sorcerous Spell Wall",
   "is_illegal": false,
   "is_custom": false,
-  "text": "All monsters you control gain 300 ATK during your turn only. All monsters you control gain 300 DEF during your opponent's turn only.",
+  "text": "All monsters you control gain 300 ATK during your turn only. All monsters you control gain 300 DEF during your opponent\u0027s turn only.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/81231742.jpg"
   ],

@@ -3,7 +3,7 @@
   "name": "Qliphort Scout",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Booting in Replica Modeï¿½\nAn error has occurred while executing C:\\\\sophia\\\\zefra.exe\nUnknown publisher.\nAllow C:\\\\tierra\\\\qliphort.exe ? <Y/N>ï¿½[Y]\nBooting in Autonomy Modeï¿½",
+  "text": "Booting in Replica Mode…\nAn error has occurred while executing C:\\\\sophia\\\\zefra.exe\nUnknown publisher.\nAllow C:\\\\tierra\\\\qliphort.exe ? \u003cY/N\u003e…[Y]\nBooting in Autonomy Mode…",
   "images": [
     "https://images.ygoprodeck.com/images/cards/65518099.jpg"
   ],

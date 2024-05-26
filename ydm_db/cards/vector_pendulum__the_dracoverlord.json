@@ -14,11 +14,11 @@
   "monster_type": "",
   "is_pendulum": true,
   "ability": "",
-  "has_effect": true,
+  "has_effect": false,
   "def": 0,
   "level": 4,
   "is_tuner": false,
-  "pendulum_text": "Negate all card effects in your opponent's Pendulum Zones.\n",
+  "pendulum_text": "Negate all card effects in your opponent\u0027s Pendulum Zones.\n",
   "pendulum_scale_left_blue": 3,
   "pendulum_scale_right_red": 3
 }

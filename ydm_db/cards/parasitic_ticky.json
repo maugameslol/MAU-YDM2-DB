@@ -9,13 +9,13 @@
   ],
   "type": "Monster",
   "attribute": "EARTH",
-  "atk": -1,
+  "atk": 0,
   "species": "Insect",
   "monster_type": "",
   "is_pendulum": false,
   "ability": "",
   "has_effect": true,
-  "def": -1,
+  "def": 0,
   "level": 1,
   "is_tuner": false
 }

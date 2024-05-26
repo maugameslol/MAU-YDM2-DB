@@ -10,7 +10,7 @@
   "type": "Monster",
   "attribute": "DIVINE",
   "atk": 0,
-  "species": "Creator God",
+  "species": "Creator-God",
   "monster_type": "",
   "is_pendulum": false,
   "ability": "",
