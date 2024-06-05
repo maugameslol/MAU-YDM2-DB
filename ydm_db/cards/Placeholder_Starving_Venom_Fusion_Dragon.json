@@ -1,0 +1,21 @@
+{
+  "id": 41209828,
+  "name": "Placeholder (Starving Venom Fusion Dragon)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "This card is unusable, replace with \"Starving Venom Fusion Dragon.\" This card only exists to prevent errors.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/back_high.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 0,
+  "species": "Dragon",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 1,
+  "is_tuner": false
+}
