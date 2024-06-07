@@ -1,7 +1,7 @@
 {
   "name": "King\u0027s Court",
   "code": "KICO",
-  "type": "60 Card Set",
+  "type": "65 Card Set",
   "date": "07-08-2021",
   "image": "https://ygoprodeck.com/pics_sets/KICO.jpg",
   "pull_type": "distribution",
@@ -202,13 +202,13 @@
     {
       "id": 25652259,
       "code": "KICO-026",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Rare",
       "image_index": 0
     },
     {
       "id": 25652259,
       "code": "KICO-026",
-      "rarity": "Rare",
+      "rarity": "Collector\u0027s Rare",
       "image_index": 0
     },
     {
@@ -268,13 +268,13 @@
     {
       "id": 85138716,
       "code": "KICO-034",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Rare",
       "image_index": 0
     },
     {
       "id": 85138716,
       "code": "KICO-034",
-      "rarity": "Rare",
+      "rarity": "Collector\u0027s Rare",
       "image_index": 0
     },
     {
@@ -322,13 +322,13 @@
     {
       "id": 84013237,
       "code": "KICO-042",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Rare",
       "image_index": 0
     },
     {
       "id": 84013237,
       "code": "KICO-042",
-      "rarity": "Rare",
+      "rarity": "Collector\u0027s Rare",
       "image_index": 0
     },
     {
@@ -382,13 +382,13 @@
     {
       "id": 32807846,
       "code": "KICO-051",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Rare",
       "image_index": 0
     },
     {
       "id": 32807846,
       "code": "KICO-051",
-      "rarity": "Rare",
+      "rarity": "Collector\u0027s Rare",
       "image_index": 0
     },
     {
@@ -424,13 +424,13 @@
     {
       "id": 14532163,
       "code": "KICO-057",
-      "rarity": "Collector\u0027s Rare",
+      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
       "id": 14532163,
       "code": "KICO-057",
-      "rarity": "Ultra Rare",
+      "rarity": "Collector\u0027s Rare",
       "image_index": 0
     },
     {
