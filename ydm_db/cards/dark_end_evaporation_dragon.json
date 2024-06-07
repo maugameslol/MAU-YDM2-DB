@@ -1,10 +1,10 @@
 {
-  "id": 101205011,
+  "id": 62002838,
   "name": "Dark End Evaporation Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can banish 1 Level 8 Dragon monster from your Extra Deck; Special Summon this card from your hand, also you cannot Special Summon for the rest of this turn, except Dragon monsters. You can activate 1 of these effects; \n\u25cfFusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as material. \n\u25cfTarget 1 other Attack Position monster; this card loses exactly 500 ATK/DEF, and if it does, destroy that target. You can only use each effect of \"Dark End Evaporation Dragon\" once per turn.",
-  "images": ["https://images.ygoprodeck.com/images/cards/101205011.jpg"],
+  "text": "You can banish 1 Level 8 Dragon monster from your Extra Deck; Special Summon this card from your hand, also you cannot Special Summon for the rest of this turn, except Dragon monsters. You can activate 1 of these effects; \n\u25cf Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as material. \n\u25cf Target 1 other Attack Position monster; this card loses exactly 500 ATK/DEF, and if it does, destroy that target. You can only use each effect of \"Dark End Evaporation Dragon\" once per turn.",
+  "images": ["https://images.ygoprodeck.com/images/cards/62002838.jpg"],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 2600,
