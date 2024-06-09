@@ -1,10 +1,10 @@
 {
-  "id": 101205036,
+  "id": 82135803,
   "name": "Fiendsmith Dies Irae",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"The Fiendsmith\" + 2 LIGHT Fiend monsters\nMust be Fusion Summoned. Monsters you control gain 200 ATK for each different Attribute you control. You can only use each of the following effects of \"Elemental HERO Sunrise\" once per turn.\n\u25cf If this card is Special Summoned: You can add 1 \"Miracle Fusion\" from your Deck to your hand.\n\u25cf When an attack is declared involving another \"HERO\" monster you control: You can target 1 card on the field; destroy it.",
-  "images": ["https://images.ygoprodeck.com/images/cards/101205036.jpg"],
+  "text": "\"The Fiendsmith\" + 2 LIGHT Fiend monsters\n(Quick Effect): You can negate the effects of a number of face-up cards on the field up to the total Link Ratings of the Link Monsters equipped to this card, until the end of this turn. If this card is sent to the GY: You can shuffle 1 other LIGHT Fiend monster from your GY into the Deck/Extra Deck, then target 1 card on the field; send it to the GY. You can only use each effect of \"Fiendsmith Dies Irae\" once per turn.",
+  "images": ["https://images.ygoprodeck.com/images/cards/82135803.jpg"],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 2800,

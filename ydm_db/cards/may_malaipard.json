@@ -1,10 +1,10 @@
 {
-  "id": 101205031,
+  "id": 10474647,
   "name": "May Malaipard",
   "is_illegal": false,
   "is_custom": false,
   "text": "If this is the only card in your hand: You can Special Summon this card. If Summoned this way: Its ATK becomes 2500 until the end of your opponent\u0027s turn. If this card battles an opponent\u0027s monster, you take any battle damage your opponent would have taken from that battle, instead. If you take damage from a battle involving this card: Change its ATK to 0, then, if your LP are 2000 or less, its ATK becomes 5000.",
-  "images": ["https://images.ygoprodeck.com/images/cards/101205031.jpg"],
+  "images": ["https://images.ygoprodeck.com/images/cards/10474647.jpg"],
   "type": "Monster",
   "attribute": "LIGHT",
   "atk": 100,
