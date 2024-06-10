@@ -1,0 +1,12 @@
+{
+  "id": 300302105,
+  "name": "\"Invitation\" to the Society (Skill Card)",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Society / Skill\nAt the start of the Duel, flip this card over.\nIf your opponent\u0027s monster is equipped with \"White Veil\" you control, take control of that monster while it\u0027s equipped with \"White Veil\". You can only attack with monsters equipped with \"White Veil\" the turn you activate \"White Veil\".",
+  "images": [
+    "https://ms.yugipedia.com//7/75/InvitationtotheSociety-SGX4-NA-C-1E.png"
+	]
+  "type": "Spell",
+  "spell_type": "Normal"
+}
