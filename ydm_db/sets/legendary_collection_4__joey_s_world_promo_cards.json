@@ -1,0 +1,25 @@
+{
+  "code": "LC04_PC",
+  "type": "Sub-Set",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 50903514,
+      "code": "LC04-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 86308219,
+      "code": "LC04-002",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 450000130,
+      "code": "LC04-003",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

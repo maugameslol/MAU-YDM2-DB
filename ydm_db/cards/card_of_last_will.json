@@ -1,0 +1,12 @@
+{
+  "id": 450000130,
+  "name": "Card of Last Will",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "If the ATK of a monster(s) you control becomes 0 by a card effect: Draw until you have 5 cards in your hand.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/450000130.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}
