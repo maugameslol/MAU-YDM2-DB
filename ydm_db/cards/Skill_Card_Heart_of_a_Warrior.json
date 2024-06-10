@@ -1,0 +1,12 @@
+{
+  "id": 300302086,
+  "name": "Heart of a Warrior (Skill Card)",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Joey / Skill\nFlip this card over when you activate this Skill.\nOnce per turn, you can discard 1 card, then Special Summon 1 Level 5 or lower Warrior non-Effect Fusion Monster from your Extra Deck. (This is treated as a Fusion Summon.) You cannot Normal Summon/Set the turn you activate this Skill.",
+  "images": [
+    "https://ms.yugipedia.com//5/52/HeartofaWarrior-SBC1-EN-C-1E.png"
+	],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -1,0 +1,12 @@
+{
+  "id": 300302080,
+  "name": "Insect Infestation (Skill Card)",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Weevil / Skill\nAt the start of the Duel, flip this card over.\n\"Parasite Paracide(s)\" on the field cannot be Tributed. If all monsters on the field are Insect monster(s), Level 7 or higher Insect monsters you control can attack directly. Once per Duel, you can discard 1 card, then place 1 \"Parasite Paracide\" from your GY on top of your opponent\u0027s Deck face-up. Treat it as if it were added to their Deck by its effect.",
+  "images": [
+    "https://ms.yugipedia.com//7/71/InsectInfestation-SBC1-EN-C-1E.png"
+	],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

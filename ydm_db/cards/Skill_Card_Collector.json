@@ -1,0 +1,12 @@
+{
+  "id": 300302090,
+  "name": "Collector (Skill Card)",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Rare Hunter / Skill\nFlip this card over when you activate this Skill.\nOnce per Duel, if your opponent controls a monster, discard 2 cards with different card types (Monster, Spell, Trap) then add 1 card from your Deck to your hand of the third type.",
+  "images": [
+    "https://ms.yugipedia.com//4/49/Collector-SBC1-EN-C-1E.png"
+	],
+  "type": "Spell",
+  "spell_type": "Normal"
+}
