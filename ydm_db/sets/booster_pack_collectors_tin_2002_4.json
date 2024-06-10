@@ -1,0 +1,16 @@
+{
+  "name": "Booster Pack Collectors Tins 2002 (Lord of D.)",
+  "code": "BPT4",
+  "type": "Collectible Tin",
+  "date": "04-10-2002",
+  "image": "https://ms.yugipedia.com//7/73/BPT-PromoEN-Ver4.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "LOB",
+	"LOB",
+    "MRD",
+	"MRD",
+	"SRL",
+    "BPT4_C"
+  ]
+}

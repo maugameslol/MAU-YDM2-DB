@@ -1,0 +1,16 @@
+{
+  "name": "Booster Pack Collectors Tins 2002 (Summoned Skull)",
+  "code": "BPT2",
+  "type": "Collectible Tin",
+  "date": "04-10-2002",
+  "image": "https://ms.yugipedia.com//3/3d/BPT-PromoEN-Ver2.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "LOB",
+	"LOB",
+    "MRD",
+	"MRD",
+	"SRL",
+    "BPT2_C"
+  ]
+}
