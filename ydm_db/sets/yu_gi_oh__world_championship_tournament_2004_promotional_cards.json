@@ -1,0 +1,28 @@
+{
+  "name": "Yu-Gi-Oh! World Championship Tournament 2004",
+  "code": "WC4",
+  "type": "Video Game Promotional Cards",
+  "date": "10-02-2004",
+  "image": "https://ms.yugipedia.com//2/2a/WC4-VideoGame-NA.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 45425051,
+      "code": "WC4-001",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79853073,
+      "code": "WC4-002",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78636495,
+      "code": "WC4-003",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

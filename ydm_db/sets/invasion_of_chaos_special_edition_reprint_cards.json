@@ -1,0 +1,31 @@
+{
+  "code": "IOCSE_RC",
+  "type": "Sub-Set",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 69140098,
+      "code": "IOC-SE1",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 102380,
+      "code": "IOC-SE2",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62279055,
+      "code": "IOC-SE3",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83555666,
+      "code": "IOC-SE4",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

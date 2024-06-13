@@ -1,0 +1,28 @@
+{
+  "name": "Yu-Gi-Oh! The Dawn of Destiny",
+  "code": "DOD",
+  "type": "Video Game Promotional Cards",
+  "date": "23-03-2004",
+  "image": "https://ms.yugipedia.com//b/b7/DOD-VideoGame-NA.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 10000010,
+      "code": "DOD-001",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 92377303,
+      "code": "DOD-002",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77754944,
+      "code": "DOD-003",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

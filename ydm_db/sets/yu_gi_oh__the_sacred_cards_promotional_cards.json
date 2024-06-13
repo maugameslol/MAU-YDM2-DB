@@ -1,0 +1,28 @@
+{
+  "name": "Yu-Gi-Oh! The Sacred Cards",
+  "code": "TSC",
+  "type": "Video Game Promotional Cards",
+  "date": "04-11-2003",
+  "image": "https://ms.yugipedia.com//8/8f/TSC-VideoGame-NA.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 48579379,
+      "code": "TSC-001",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34016756,
+      "code": "TSC-002",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14315573,
+      "code": "TSC-003",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 0
+    }
+  ]
+}
