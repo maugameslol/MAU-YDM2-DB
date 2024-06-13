@@ -37,8 +37,20 @@
       "image_index": 0
     },
     {
+      "id": 45894482,
+      "code": "SD09-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
       "id": 65287621,
       "code": "SD09-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2671330,
+      "code": "SD09-007",
       "rarity": "Common",
       "image_index": 0
     },
@@ -57,6 +69,12 @@
     {
       "id": 83235263,
       "code": "SD09-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22587018,
+      "code": "SD09-010",
       "rarity": "Common",
       "image_index": 0
     },
@@ -159,6 +177,12 @@
     {
       "id": 69162969,
       "code": "SD09-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85852291,
+      "code": "SD09-027",
       "rarity": "Common",
       "image_index": 0
     },
