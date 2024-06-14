@@ -1,0 +1,13 @@
+{
+  "name": "Duel Master\u0027s Guide",
+  "code": "DMG",
+  "type": "Special Edition",
+  "date": "28-10-2003",
+  "image": "https://ms.yugipedia.com//7/7e/BPT-PromoEN-Ver1.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "SDY",
+    "SDK",
+    "DMG_C"
+  ]
+}

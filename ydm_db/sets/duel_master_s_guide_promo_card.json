@@ -1,0 +1,13 @@
+{
+  "code": "DMG_C",
+  "type": "Sub-Set",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 98502113,
+      "code": "DMG-001",
+      "rarity": "Secret Rare",
+      "image_index": 2
+    }
+  ]
+}
