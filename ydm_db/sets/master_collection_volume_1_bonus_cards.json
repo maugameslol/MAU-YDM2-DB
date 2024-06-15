@@ -1,0 +1,43 @@
+{
+  "code": "MC1_C",
+  "type": "Sub-Set",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 33396948,
+      "code": "MC1-001",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81480460,
+      "code": "MC1-002",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64631466,
+      "code": "MC1-003",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63519819,
+      "code": "MC1-004",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31829185,
+      "code": "MC1-005",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53982768,
+      "code": "MC1-006",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

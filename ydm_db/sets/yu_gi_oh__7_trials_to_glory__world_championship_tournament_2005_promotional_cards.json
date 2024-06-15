@@ -1,0 +1,28 @@
+{
+  "name": "Yu-Gi-Oh! 7 Trials to Glory: World Championship Tournament 2005",
+  "code": "WC5",
+  "type": "Video Game Promotional Cards",
+  "date": "15-02-2005",
+  "image": "https://ms.yugipedia.com//2/28/WC5-VideoGame-NA.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 37267041,
+      "code": "WC5-001",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34627841,
+      "code": "WC5-002",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 37520316,
+      "code": "WC5-003",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 0
+    }
+  ]
+}
