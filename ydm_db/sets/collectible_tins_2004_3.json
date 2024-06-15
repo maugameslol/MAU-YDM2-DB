@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins 2004 (Command Knight)",
+  "code": "CT1_3",
+  "type": "Collectible Tin",
+  "date": "01-09-2004",
+  "image": "https://ms.yugipedia.com//d/dc/CT1-PromoEN-Ver3.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "PGD",
+	"MFC",
+    "DCR",
+	"IOC",
+	"AST",
+    "CT1_3_C"
+  ]
+}

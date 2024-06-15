@@ -1,0 +1,28 @@
+{
+  "name": "Yu-Gi-Oh! Power of Chaos: Yugi the Destiny",
+  "code": "PCY",
+  "type": "Video Game Promotional Cards",
+  "date": "18-11-2003",
+  "image": "https://ms.yugipedia.com//0/05/PCY-VideoGameNA.png",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 59744639,
+      "code": "PCY-001",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58921041,
+      "code": "PCY-002",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63391643,
+      "code": "PCY-003",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

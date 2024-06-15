@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins 2004 (Obnoxious Celtic Guard)",
+  "code": "CT1_6",
+  "type": "Collectible Tin",
+  "date": "01-09-2004",
+  "image": "https://ms.yugipedia.com//3/33/CT1-PromoEN-Ver6.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "PGD",
+	"MFC",
+    "DCR",
+	"IOC",
+	"AST",
+    "CT1_6_C"
+  ]
+}

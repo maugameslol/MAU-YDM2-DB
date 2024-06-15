@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins 2004 (Total Defense Shogun)",
+  "code": "CT1_1",
+  "type": "Collectible Tin",
+  "date": "01-09-2004",
+  "image": "https://ms.yugipedia.com//1/12/CT1-PromoEN-Ver1.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "PGD",
+	"MFC",
+    "DCR",
+	"IOC",
+	"AST",
+    "CT1_1_C"
+  ]
+}

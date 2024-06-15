@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins 2004 (Blade Knight)",
+  "code": "CT1_2",
+  "type": "Collectible Tin",
+  "date": "01-09-2004",
+  "image": "https://ms.yugipedia.com//b/ba/CT1-PromoEN-Ver2.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "PGD",
+	"MFC",
+    "DCR",
+	"IOC",
+	"AST",
+    "CT1_2_C"
+  ]
+}

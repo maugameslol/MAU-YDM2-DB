@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins 2004 (Swift Gaia the Fierce Knight)",
+  "code": "CT1_4",
+  "type": "Collectible Tin",
+  "date": "01-09-2004",
+  "image": "https://ms.yugipedia.com//4/45/CT1-PromoEN-Ver4.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "PGD",
+	"MFC",
+    "DCR",
+	"IOC",
+	"AST",
+    "CT1_4_C"
+  ]
+}

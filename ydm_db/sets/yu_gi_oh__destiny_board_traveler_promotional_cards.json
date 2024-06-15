@@ -1,0 +1,28 @@
+{
+  "name": "Yu-Gi-Oh! Destiny Board Traveler",
+  "code": "DBT",
+  "type": "Video Game Promotional Cards",
+  "date": "26-10-2004",
+  "image": "https://ms.yugipedia.com//5/56/DBT-VideoGame-NA.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 43580269,
+      "code": "DBT-001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70074904,
+      "code": "DBT-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 82035781,
+      "code": "DBT-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}

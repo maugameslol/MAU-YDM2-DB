@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins 2004 (Insect Queen)",
+  "code": "CT1_5",
+  "type": "Collectible Tin",
+  "date": "01-09-2004",
+  "image": "https://ms.yugipedia.com//b/bb/CT1-PromoEN-Ver5.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "PGD",
+	"MFC",
+    "DCR",
+	"IOC",
+	"AST",
+    "CT1_5_C"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Yu-Gi-Oh! Reshef of Destruction",
+  "code": "ROD",
+  "type": "Video Game Promotional Cards",
+  "date": "29-06-2004",
+  "image": "https://ms.yugipedia.com//6/64/ROD-VideoGame-NA.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 50725996,
+      "code": "ROD-001",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87210505,
+      "code": "ROD-002",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13604200,
+      "code": "ROD-003",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

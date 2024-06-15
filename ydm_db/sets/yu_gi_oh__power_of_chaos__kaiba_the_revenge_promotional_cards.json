@@ -1,0 +1,28 @@
+{
+  "name": "Yu-Gi-Oh! Power of Chaos: Kaiba the Revenge",
+  "code": "PCK",
+  "type": "Video Game Promotional Cards",
+  "date": "06-04-2004",
+  "image": "https://ms.yugipedia.com//7/7f/PCK-VideoGameNA.png",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 89631139,
+      "code": "PCK-001",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 2
+    },
+    {
+      "id": 95132338,
+      "code": "PCK-002",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 97809599,
+      "code": "PCK-003",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

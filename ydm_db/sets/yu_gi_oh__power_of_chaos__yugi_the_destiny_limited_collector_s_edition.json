@@ -1,0 +1,40 @@
+{
+  "name": "Yu-Gi-Oh! Power of Chaos: Yugi the Destiny Limited Collector\u0027s Edition",
+  "code": "PCY_LCE",
+  "type": "Video Game Promotional Cards",
+  "date": "28-11-2003",
+  "image": "https://ms.yugipedia.com//8/8e/PCY-VideoGameFR-CollectorsEdition.png",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 59744639,
+      "code": "PCY-001",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58921041,
+      "code": "PCY-002",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63391643,
+      "code": "PCY-003",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 46986414,
+      "code": "PCY-004",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 1
+    },
+    {
+      "id": 40640057,
+      "code": "PCY-005",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 2
+    }
+  ]
+}

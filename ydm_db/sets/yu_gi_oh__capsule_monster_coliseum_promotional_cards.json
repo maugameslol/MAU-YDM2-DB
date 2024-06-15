@@ -1,0 +1,28 @@
+{
+  "name": "Yu-Gi-Oh! Capsule Monster Coliseum",
+  "code": "CMC",
+  "type": "Video Game Promotional Cards",
+  "date": "26-11-2004",
+  "image": "https://ms.yugipedia.com//c/ca/CMC-VideoGameNA.png",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 18318842,
+      "code": "CMC-001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17185260,
+      "code": "CMC-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16469012,
+      "code": "CMC-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}
