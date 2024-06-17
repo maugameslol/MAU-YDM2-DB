@@ -1,0 +1,14 @@
+{
+  "name": "Speed Duel Starter Decks: Destiny Masters",
+  "code": "SS01",
+  "type": "Speed Duel Starter Deck",
+  "date": "25-01-2019",
+  "image": "https://ms.yugipedia.com//7/76/SS01-DeckEN.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "SS01_A",
+	"SS01_B",
+    "SS01_C",
+	"SS01_VC"
+  ]
+}

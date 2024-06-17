@@ -1,0 +1,25 @@
+{
+  "code": "SS01_VC",
+  "type": "Sub-Set",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 33904024,
+      "code": "SS01-V01",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42671151,
+      "code": "SS01-V02",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88032456,
+      "code": "SS01-V03",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

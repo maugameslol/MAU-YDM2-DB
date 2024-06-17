@@ -1,0 +1,148 @@
+{
+  "name": "Speed Duel Starter Decks: Destiny Masters (Maximillion Pegasus)",
+  "code": "SS01_C",
+  "type": "Speed Duel Starter Deck",
+  "date": "25-01-2019",
+  "image": "https://ms.yugipedia.com//thumb/e/e0/SS01-PegasusBoxEN.png/419px-SS01-PegasusBoxEN.png",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 300201007,
+      "code": "SS01-CS1",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300201008,
+      "code": "SS01-CS2",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300201009,
+      "code": "SS01-CS3",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91939608,
+      "code": "SS01-C01",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59383041,
+      "code": "SS01-C02",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59383041,
+      "code": "SS01-C02",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62762898,
+      "code": "SS01-C03",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99261403,
+      "code": "SS01-C04",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16392422,
+      "code": "SS01-C05",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16392422,
+      "code": "SS01-C05",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65458948,
+      "code": "SS01-C06",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91842653,
+      "code": "SS01-C07",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64631466,
+      "code": "SS01-C08",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41426869,
+      "code": "SS01-C09",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41426869,
+      "code": "SS01-C10",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70560957,
+      "code": "SS01-C11",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15259703,
+      "code": "SS01-C12",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15259703,
+      "code": "SS01-C12",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59197169,
+      "code": "SS01-C13",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98495314,
+      "code": "SS01-C14",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43509019,
+      "code": "SS01-C15",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83968380,
+      "code": "SS01-C16",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47766694,
+      "code": "SS01-C17",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}
