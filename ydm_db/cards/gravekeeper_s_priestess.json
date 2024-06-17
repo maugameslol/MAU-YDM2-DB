@@ -3,7 +3,7 @@
   "name": "Gravekeeper\u0027s Priestess",
   "is_illegal": false,
   "is_custom": false,
-  "text": "While there is no face-up Field Spell, the field is treated as \"Necrovalley\". All \"Gravekeeper\u0027s\" monsters on the field gain 200 ATK/DEF.",
+  "text": "While there is no face-up Field Spell, the field is treated as \"Necrovalley\". \nAll \"Gravekeeper\u0027s\" monsters on the field gain 200 ATK/DEF.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/3381441.jpg"
   ],
