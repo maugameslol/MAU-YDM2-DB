@@ -3,7 +3,7 @@
   "name": "Volcanic Cannon (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Axel / Skill\nFlip this card over when you activate this Skill.\nOnce per Duel, you can send 1 face-up \"Tri-Blaze Accelerator\" you control to the GY, then Special Summon 1 \"Volcanic Doomfire\" from your hand, Deck, or GY, ignoring its Summoning conditions. Your opponent takes no effect damage the turn you activate this Skill.",
+  "text": "Axel / Skill\n[ACTIVATION]\nFlip this card over when you activate this Skill.\n[EFFECT]\nOnce per Duel, you can send 1 face-up \"Tri-Blaze Accelerator\" you control to the GY, then Special Summon 1 \"Volcanic Doomfire\" from your hand, Deck, or GY, ignoring its Summoning conditions. \nYour opponent takes no effect damage the turn you activate this Skill.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300302042.jpg"
   ],

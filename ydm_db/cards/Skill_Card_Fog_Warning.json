@@ -3,7 +3,7 @@
   "name": "Fog Warning (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Adrian / Skill\nAt the start of the Duel, flip this card over.\nEach time you place a Fog Counter(s) on a monster(s), give it an additional Fog Counter.",
+  "text": "Adrian / Skill\n[ACTIVATION]\nAt the start of the Duel, flip this card over.\n[EFFECT]\nEach time you place a Fog Counter(s) on a monster(s), give it an additional Fog Counter.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300302065.jpg"
   ],

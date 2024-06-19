@@ -3,7 +3,7 @@
   "name": "Energizing Elements (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Bastion / Skill\nFlip this card over when you activate this Skill.\nYou can declare FIRE, WATER, EARTH, or WIND. This turn, monsters with the declared Attribute gain 500 ATK and lose 400 DEF, also any battle damage they inflict is halved. If you control no monsters with the declared Attribute, flip this card over.",
+  "text": "Bastion / Skill\n[ACTIVATION]\nFlip this card over when you activate this Skill.\n[EFFECT]\nYou can declare FIRE, WATER, EARTH, or WIND. This turn, monsters with the declared Attribute gain 500 ATK and lose 400 DEF, also any battle damage they inflict is halved. \nIf you control no monsters with the declared Attribute, flip this card over.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300302029.jpg"
   ],

@@ -3,7 +3,7 @@
   "name": "Battle City Siren (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Mai / Skill\nFlip this card over when you activate this Skill.\nOnce per turn, during your Main Phase, you can change the battle position of 1 monster your opponent controls. This turn, the first attack you declare must target that monster. This Skill can only be used twice per Duel.",
+  "text": "Mai / Skill\nFlip this card over when you activate this Skill.\nOnce per turn, during your Main Phase, you can change the battle position of 1 monster your opponent controls. \nThis turn, the first attack you declare must target that monster. \nThis Skill can only be used twice per Duel.",
   "images": [
     "https://ms.yugipedia.com//f/fc/BattleCitySiren-SBC1-EN-C-1E.png"
 	],
