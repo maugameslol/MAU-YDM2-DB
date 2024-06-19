@@ -3,7 +3,7 @@
   "name": "Power Bond (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Syrus / Skill\nFlip this card over when you activate this Skill.\nActivate this Skill during your Main Phase. Discard 1 card, then Fusion Summon 1 Machine Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. If you do, it gains ATK equal to its original ATK until the end of this turn, but it cannot attack your opponent directly this turn. During the End Phase of this turn, you take damage equal to the amount of ATK gained at the time of the Summon.",
+  "text": "Syrus / Skill\n[ACTIVATION]\nFlip this card over when you activate this Skill.\n[EFFECT]\nActivate this Skill during your Main Phase. \nDiscard 1 card, then Fusion Summon 1 Machine Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material. \nIf you do, it gains ATK equal to its original ATK until the end of this turn, but it cannot attack your opponent directly this turn. \nDuring the End Phase of this turn, you take damage equal to the amount of ATK gained at the time of the Summon.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300302051.jpg"
   ],

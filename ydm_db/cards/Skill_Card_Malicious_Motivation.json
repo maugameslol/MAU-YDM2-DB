@@ -3,7 +3,7 @@
   "name": "Malicious Motivation (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Joey / Skill\nFlip this card over when you activate this Skill.\nOnce per Duel, if your opponent controls 3 monsters, discard 1 card, then destroy all monsters your opponent controls, also for the rest of this turn, any damage your opponent takes is halved.",
+  "text": "Joey / Skill\n[ACTIVATION]\nFlip this card over when you activate this Skill.\n[EFFECT]\nOnce per Duel, if your opponent controls 3 monsters, discard 1 card, then destroy all monsters your opponent controls, also for the rest of this turn, any damage your opponent takes is halved.",
   "images": [
     "https://ms.yugipedia.com//1/1d/MaliciousMotivation-SBC1-EN-C-1E.png"
 	],

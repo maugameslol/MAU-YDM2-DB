@@ -3,7 +3,7 @@
   "name": "My Precious Queen! (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Weevil / Skill\nAt the start of the Duel, flip this card over.\nYou can Normal Summon Level 7 Insect monsters for 1 less Tribute. Once per turn, during the End Phase, you can Special Summon 1 \"Insect Monster Token\" (Insect/EARTH/Level 1/ATK 100/DEF 100). This Token cannot be Tributed, except for the Tribute Summon of an Insect monster or their effects. You can Tribute 1 Insect monster from your hand instead, when attacking with \"Insect Queen\" monsters you control.",
+  "text": "Weevil / Skill\n[ACTIVATION]\nAt the start of the Duel, flip this card over.\n[EFFECT]\nYou can Normal Summon Level 7 Insect monsters for 1 less Tribute. \nOnce per turn, during the End Phase, you can Special Summon 1 \"Insect Monster Token\" (Insect/EARTH/Level 1/ATK 100/DEF 100). \nThis Token cannot be Tributed, except for the Tribute Summon of an Insect monster or their effects. \nYou can Tribute 1 Insect monster from your hand instead, when attacking with \"Insect Queen\" monsters you control.",
   "images": [
     "https://ms.yugipedia.com//9/95/MyPreciousQueen-SBC1-EN-C-1E.png"
 	],

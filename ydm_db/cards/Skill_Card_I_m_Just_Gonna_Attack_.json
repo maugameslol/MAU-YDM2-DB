@@ -3,7 +3,7 @@
   "name": "I\u0027m Just Gonna Attack! (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Joey / Skill\nAt the start of the Duel, flip this card over.\nApply the following Skill(s):\n\u25cf During your Main Phase, you can make 1 monster you control gain 100 ATK until the end of this turn.\n\u25cf During your Battle Phase, when your opponent activates a Trap Card, you can negate its effect and Set that card.\nEach of these Skills can only be used once per turn.",
+  "text": "Joey / Skill\n[ACTIVATION]\nAt the start of the Duel, flip this card over.\n[EFFECT]\nApply the following Skill(s):\n\u25cf During your Main Phase, you can make 1 monster you control gain 100 ATK until the end of this turn.\n\u25cf During your Battle Phase, when your opponent activates a Trap Card, you can negate its effect and Set that card.\nEach of these Skills can only be used once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300302010.jpg"
   ],

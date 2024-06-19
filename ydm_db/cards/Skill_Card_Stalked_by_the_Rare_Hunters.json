@@ -3,7 +3,7 @@
   "name": "Stalked by the Rare Hunters (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Rare Hunter / Skill\nFlip this card over when you activate this Skill.\nOnce per Duel, during your End Phase, discard 1 card, then choose 1 monster in your opponent\u0027s GY that was destroyed and sent there this turn, and Set it on your field.",
+  "text": "Rare Hunter / Skill\n[ACTIVATION]\nFlip this card over when you activate this Skill.\n[EFFECT]\nOnce per Duel, during your End Phase, discard 1 card, then choose 1 monster in your opponent\u0027s GY that was destroyed and sent there this turn, and Set it on your field.",
   "images": [
     "https://ms.yugipedia.com//5/5c/StalkedbytheRareHunters-SBC1-EN-C-1E.png"
 	],
