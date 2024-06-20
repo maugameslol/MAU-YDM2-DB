@@ -1,0 +1,148 @@
+{
+  "name": "Speed Duel Starter Decks: Duelists of Tomorrow (Mai Valentine)",
+  "code": "SS02_C",
+  "type": "Speed Duel Starter Deck",
+  "date": "25-01-2019",
+  "image": "https://ms.yugipedia.com//thumb/f/f5/SS02-MaiBoxEN.png/421px-SS02-MaiBoxEN.png",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 300202007,
+      "code": "SS02-CS1",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300202008,
+      "code": "SS02-CS2",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300202009,
+      "code": "SS02-CS3",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91932350,
+      "code": "SS02-C01",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27927359,
+      "code": "SS02-C02",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54415063,
+      "code": "SS02-C03",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12206212,
+      "code": "SS02-C04",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29654737,
+      "code": "SS02-C05",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94004268,
+      "code": "SS02-C06",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53162898,
+      "code": "SS02-C07",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45547649,
+      "code": "SS02-C08",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45547649,
+      "code": "SS02-C08",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40384720,
+      "code": "SS02-C09",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90219263,
+      "code": "SS02-C10",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90219263,
+      "code": "SS02-C10",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12181376,
+      "code": "SS02-C11",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63224564,
+      "code": "SS02-C12",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75782277,
+      "code": "SS02-C13",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79965360,
+      "code": "SS02-C14",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67987611,
+      "code": "SS02-C15",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59744639,
+      "code": "SS02-C16",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58621589,
+      "code": "SS02-C17",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47766694,
+      "code": "SS02-C18",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

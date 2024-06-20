@@ -1,0 +1,14 @@
+{
+  "name": "Speed Duel Starter Decks: Duelists of Tomorrow",
+  "code": "SS02",
+  "type": "Speed Duel Starter Deck",
+  "date": "25-01-2019",
+  "image": "hhttps://ms.yugipedia.com//2/29/SS02-DeckEN.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "SS02_A",
+	"SS02_B",
+    "SS02_C",
+	"SS02_VC"
+  ]
+}
