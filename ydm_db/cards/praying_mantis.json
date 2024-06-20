@@ -3,7 +3,7 @@
   "name": "Praying Mantis",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, when an opponent\u0027s monster declares an attack: You can send 1 card from your Spell \u0026 Trap Zone to the GY; return that opponent\u0027s monster to the hand. You can only use each of the following effects of \"Praying Mantis\" once per turn. During your Standby Phase: You can Special Summon 1 \"Baby Mantis Token\" (Insect/WIND/Level 1/ATK 500/DEF 500). You can banish this card from your GY; Special Summon 1 \"Baby Mantis Token\".",
+  "text": "Once per turn, when an opponent\u0027s monster declares an attack: You can send 1 card from your Spell \u0026 Trap Zone to the GY; return that opponent\u0027s monster to the hand. \nYou can only use each of the following effects of \"Praying Mantis\" once per turn. \nDuring your Standby Phase: You can Special Summon 1 \"Baby Mantis Token\" (Insect/WIND/Level 1/ATK 500/DEF 500). \nYou can banish this card from your GY; Special Summon 1 \"Baby Mantis Token\".",
   "images": ["https://images.ygoprodeck.com/images/cards/31600513.jpg"],
   "type": "Monster",
   "attribute": "WIND",

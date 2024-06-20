@@ -3,7 +3,7 @@
   "name": "Enigmaster Packbit",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned, or sent to the GY: You can target 1 monster in your GY, or 1 face-up monster your opponent controls; discard 1 card, and if you do, place that monster in its owner\u0027s Spell \u0026 Trap Zone as a face-up Continuous Trap. During either player\u0027s turn, if this card is a Continuous Trap: You can Special Summon 1 face-up Monster Card from your Spell \u0026 Trap Zone. You can only use each effect of \"Enigmaster Packbit\" once per turn.",
+  "text": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned, or sent to the GY: You can target 1 monster in your GY, or 1 face-up monster your opponent controls; discard 1 card, and if you do, place that monster in its owner\u0027s Spell \u0026 Trap Zone as a face-up Continuous Trap. \nDuring either player\u0027s turn, if this card is a Continuous Trap: You can Special Summon 1 face-up Monster Card from your Spell \u0026 Trap Zone. \nYou can only use each effect of \"Enigmaster Packbit\" once per turn.",
   "images": ["https://images.ygoprodeck.com/images/cards/72444406.jpg"],
   "type": "Monster",
   "attribute": "WATER",

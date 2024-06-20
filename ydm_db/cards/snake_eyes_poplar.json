@@ -3,7 +3,7 @@
   "name": "Snake-Eyes Poplar",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is added to your hand, except by drawing it: You can Special Summon this card. If this card is Normal or Special Summoned: You can add 1 \"Snake-Eye\" Spell/Trap from your Deck to your hand. If this card is sent to the GY: You can target 1 FIRE monster in your GY; place it face-up in its owner\u0027s Spell \u0026 Trap Zone as a Continuous Spell. You can only use each effect of \"Snake-Eyes Poplar\" once per turn.",
+  "text": "If this card is added to your hand, except by drawing it: You can Special Summon this card. \nIf this card is Normal or Special Summoned: You can add 1 \"Snake-Eye\" Spell/Trap from your Deck to your hand. \nIf this card is sent to the GY: You can target 1 FIRE monster in your GY; place it face-up in its owner\u0027s Spell \u0026 Trap Zone as a Continuous Spell. \nYou can only use each effect of \"Snake-Eyes Poplar\" once per turn.",
   "images": ["https://images.ygoprodeck.com/images/cards/90241276.jpg"],
   "type": "Monster",
   "attribute": "FIRE",

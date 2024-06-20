@@ -3,19 +3,19 @@
   "name": "Fortune Lady Earth",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card\u0027s ATK and DEF are equal to its Level x 400. During each of your Standby Phases, increase the Level of this card by 1 (max 12). When the Level of this card increases, inflict 400 damage to your opponent.",
+  "text": "This card\u0027s ATK and DEF are equal to its Level x 400. \nDuring each of your Standby Phases, increase the Level of this card by 1 (max 12). \nWhen the Level of this card increases, inflict 400 damage to your opponent.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/82971335.jpg"
   ],
   "type": "Monster",
   "attribute": "EARTH",
-  "atk": 0,
+  "atk": -1,
   "species": "Spellcaster",
   "monster_type": "",
   "is_pendulum": false,
   "ability": "",
   "has_effect": true,
-  "def": 0,
+  "def": -1,
   "level": 6,
   "is_tuner": false
 }

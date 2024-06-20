@@ -3,7 +3,7 @@
   "name": "Snake-Eyes Diabellstar",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When an attack is declared involving this card and an opponent\u0027s monster: You can place both that opponent\u0027s monster and this card face-up in their owners\u0027 Spell \u0026 Trap Zone as Continuous Spells. While this card is treated as a Continuous Spell: You can target 1 FIRE monster in your GY, except \"Snake-Eyes Diabellstar\"; place it face-up in its owner\u0027s Spell \u0026 Trap Zone as a Continuous Spell, and if you do, Special Summon this card. You can only use each effect of \"Snake-Eyes Diabellstar\" once per turn.",
+  "text": "When an attack is declared involving this card and an opponent\u0027s monster: You can place both that opponent\u0027s monster and this card face-up in their owners\u0027 Spell \u0026 Trap Zone as Continuous Spells. \nWhile this card is treated as a Continuous Spell: You can target 1 FIRE monster in your GY, except \"Snake-Eyes Diabellstar\"; place it face-up in its owner\u0027s Spell \u0026 Trap Zone as a Continuous Spell, and if you do, Special Summon this card. \nYou can only use each effect of \"Snake-Eyes Diabellstar\" once per turn.",
   "images": ["https://images.ygoprodeck.com/images/cards/27260347.jpg"],
   "type": "Monster",
   "attribute": "FIRE",
