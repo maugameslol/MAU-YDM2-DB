@@ -3,7 +3,7 @@
   "name": "Ultimate Flame Swordsman",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Flame Swordsman\" + \"Fighting Flame Dragon\"\nYou can target 1 monster your opponent controls; destroy it, and if you do, inflict 500 damage to your opponent. This is a Quick Effect if this card is equipped with an Equip Card. At the start of the Damage Step, if this card battles: You can double this card\u0027s ATK until the end of this turn, but if you do, destroy it during the End Phase of this turn. You can only use each effect of \"Ultimate Flame Swordsman\" once per turn.",
+  "text": "\"Flame Swordsman\" + \"Fighting Flame Dragon\"\nYou can target 1 monster your opponent controls; destroy it, and if you do, inflict 500 damage to your opponent. \nThis is a Quick Effect if this card is equipped with an Equip Card. \nAt the start of the Damage Step, if this card battles: You can double this card\u0027s ATK until the end of this turn, but if you do, destroy it during the End Phase of this turn. \nYou can only use each effect of \"Ultimate Flame Swordsman\" once per turn.",
   "images": ["https://images.ygoprodeck.com/images/cards/324483.jpg"],
   "type": "Monster",
   "attribute": "FIRE",

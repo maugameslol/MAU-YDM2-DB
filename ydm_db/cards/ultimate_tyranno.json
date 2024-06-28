@@ -3,7 +3,7 @@
   "name": "Ultimate Tyranno",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card can attack all monsters your opponent controls, once each. During your Battle Phase, if you control an \"Ultimate Tyranno\" that can attack, monsters other than \"Ultimate Tyranno\" cannot attack.",
+  "text": "This card can attack all monsters your opponent controls, once each. \nDuring your Battle Phase, if you control an \"Ultimate Tyranno\" that can attack, monsters other than \"Ultimate Tyranno\" cannot attack.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/15894048.jpg"
   ],
