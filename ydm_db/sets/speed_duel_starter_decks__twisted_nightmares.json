@@ -1,0 +1,13 @@
+{
+  "name": "Speed Duel Starter Decks: Twisted Nightmares",
+  "code": "SS05",
+  "type": "Speed Duel Starter Deck",
+  "date": "15-05-2020",
+  "image": "https://ms.yugipedia.com//9/92/SS05-DeckEN.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "SS05_A",
+    "SS05_B",
+    "SS05_VC"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Speed Duel Starter Decks: Match of the Millennium",
+  "code": "SS04",
+  "type": "Speed Duel Starter Deck",
+  "date": "15-05-2020",
+  "image": "https://ms.yugipedia.com//0/09/SS04-DeckEN.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "SS04_A",
+    "SS04_B",
+    "SS04_VC"
+  ]
+}

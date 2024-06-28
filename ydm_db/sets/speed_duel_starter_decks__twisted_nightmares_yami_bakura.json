@@ -1,0 +1,202 @@
+{
+  "name": "Speed Duel Starter Decks: Twisted Nightmares (Yami Bakura)",
+  "code": "SS05_A",
+  "type": "Speed Duel Starter Deck",
+  "date": "02-08-2019",
+  "image": "https://ms.yugipedia.com//9/92/SS05-DeckEN.png",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 300205001,
+      "code": "SS05-AS1",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300205002,
+      "code": "SS05-AS2",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31829185,
+      "code": "SS05-A01",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70084224,
+      "code": "SS05-A02",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66989694,
+      "code": "SS05-A03",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52367652,
+      "code": "SS05-A04",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91996584,
+      "code": "SS05-A05",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68049471,
+      "code": "SS05-A06",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5434080,
+      "code": "SS05-A07",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67105242,
+      "code": "SS05-A08",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63125616,
+      "code": "SS05-A09",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37955049,
+      "code": "SS05-A10",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53982768,
+      "code": "SS05-A11",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41442341,
+      "code": "SS05-A12",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16475472,
+      "code": "SS05-A13",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88132637,
+      "code": "SS05-A14",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82213171,
+      "code": "SS05-A15",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79418153,
+      "code": "SS05-A16",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1102515,
+      "code": "SS05-A17",
+      "rarity": "Common",
+      "image_index": 0
+    },
+        {
+      "id": 74713516,
+      "code": "SS05-A18",
+      "rarity": "Common",
+      "image_index": 0
+    },
+        {
+      "id": 28933734,
+      "code": "SS05-A19",
+      "rarity": "Common",
+      "image_index": 0
+    },
+        {
+      "id": 31034919,
+      "code": "SS05-A20",
+      "rarity": "Common",
+      "image_index": 0
+    },
+        {
+      "id": 37120512,
+      "code": "SS05-A21",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 19230407,
+      "code": "SS05-A22",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45939841,
+      "code": "SS05-A23",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 674561,
+      "code": "SS05-A24",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90434926,
+      "code": "SS05-A25",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1475311,
+      "code": "SS05-A26",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78811937,
+      "code": "SS05-A27",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79852326,
+      "code": "SS05-A28",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40465719,
+      "code": "SS05-A29",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94861297,
+      "code": "SS05-A30",
+      "rarity": "Common",
+      "image_index": 0
+    },
+  ]
+}
