@@ -1,0 +1,17 @@
+{
+  "name": "Speed Duel GX: Midterm Paradox",
+  "code": "SGX2",
+  "type": "Speed Duel Collector\u0027s Set",
+  "date": "07-10-2022",
+  "image": "https://ms.yugipedia.com//e/ed/SGX2-BoxEN.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "SGX2_1",
+    "SGX2_2",
+    "SGX2_3",
+    "SGX2_4",
+    "SGX2_5",
+    "SGX2_6",
+    "SGX2_VC"
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "name": "Speed Duel: Battle City Box (Misc.)",
+  "code": "SBCB_9",
+  "type": "Speed Duel Collector\u0027s Set",
+  "date": "11-12-2020",
+  "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 74677422,
+      "code": "SBCB-167",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12493482,
+      "code": "SBCB-168",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89386122,
+      "code": "SBCB-169",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5640330,
+      "code": "SBCB-170",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61528025,
+      "code": "SBCB-171",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30860696,
+      "code": "SBCB-172",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80316585,
+      "code": "SBCB-173",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84636823,
+      "code": "SBCB-174",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41006930,
+      "code": "SBCB-175",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25551951,
+      "code": "SBCB-176",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70821187,
+      "code": "SBCB-177",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88975532,
+      "code": "SBCB-178",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94853057,
+      "code": "SBCB-179",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70050374,
+      "code": "SBCB-180",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88901771,
+      "code": "SBCB-181",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3428069,
+      "code": "SBCB-182",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4849037,
+      "code": "SBCB-183",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99721536,
+      "code": "SBCB-184",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73398797,
+      "code": "SBCB-185",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43417563,
+      "code": "SBCB-186",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31066283,
+      "code": "SBCB-187",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67227834,
+      "code": "SBCB-188",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9786492,
+      "code": "SBCB-189",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22796548,
+      "code": "SBCB-190",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13210191,
+      "code": "SBCB-191",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40703393,
+      "code": "SBCB-192",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22359980,
+      "code": "SBCB-193",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55256016,
+      "code": "SBCB-194",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28649820,
+      "code": "SBCB-195",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1669772,
+      "code": "SBCB-196",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70406920,
+      "code": "SBCB-197",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21843307,
+      "code": "SBCB-198",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50277973,
+      "code": "SBCB-199",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87772572,
+      "code": "SBCB-200",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

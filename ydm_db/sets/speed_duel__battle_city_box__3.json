@@ -1,0 +1,136 @@
+{
+  "name": "Speed Duel: Battle City Box (Phantom Beast)",
+  "code": "SBCB_3",
+  "type": "Speed Duel Collector\u0027s Set",
+  "date": "11-12-2020",
+  "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 5818798,
+      "code": "SBCB-042",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77207191,
+      "code": "SBCB-043",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 71181155,
+      "code": "SBCB-044",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7576264,
+      "code": "SBCB-045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34961968,
+      "code": "SBCB-046",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97017120,
+      "code": "SBCB-047",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40133511,
+      "code": "SBCB-048",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77121851,
+      "code": "SBCB-049",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76909279,
+      "code": "SBCB-050",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13386503,
+      "code": "SBCB-051",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 22996376,
+      "code": "SBCB-052",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46668237,
+      "code": "SBCB-053",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61166988,
+      "code": "SBCB-054",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1689516,
+      "code": "SBCB-055",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69112325,
+      "code": "SBCB-056",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57103969,
+      "code": "SBCB-057",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82386016,
+      "code": "SBCB-058",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70344351,
+      "code": "SBCB-059",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97922283,
+      "code": "SBCB-060",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21350571,
+      "code": "SBCB-061",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4796100,
+      "code": "SBCB-062",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

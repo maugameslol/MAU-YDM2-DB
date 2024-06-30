@@ -1,0 +1,130 @@
+{
+  "name": "Speed Duel: Battle City Box (Blue-Eyes White Dragon)",
+  "code": "SBCB_5",
+  "type": "Speed Duel Collector\u0027s Set",
+  "date": "11-12-2020",
+  "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 89631139,
+      "code": "SBCB-087",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66602787,
+      "code": "SBCB-088",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50005633,
+      "code": "SBCB-089",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97590747,
+      "code": "SBCB-090",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14898066,
+      "code": "SBCB-091",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11321183,
+      "code": "SBCB-092",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93013676,
+      "code": "SBCB-093",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88472456,
+      "code": "SBCB-094",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31553716,
+      "code": "SBCB-095",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52824910,
+      "code": "SBCB-096",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24874630,
+      "code": "SBCB-097",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68005187,
+      "code": "SBCB-098",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55713623,
+      "code": "SBCB-099",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83746708,
+      "code": "SBCB-100",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42534368,
+      "code": "SBCB-101",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41356845,
+      "code": "SBCB-102",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14315573,
+      "code": "SBCB-103",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59344077,
+      "code": "SBCB-104",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52503575,
+      "code": "SBCB-105",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25005816,
+      "code": "SBCB-106",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

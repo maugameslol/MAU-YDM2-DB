@@ -1,0 +1,21 @@
+{
+  "name": "Speed Duel GX: Duelists of Shadows",
+  "code": "SGX3",
+  "type": "Speed Duel Collector\u0027s Set",
+  "date": "31-03-2023",
+  "image": "https://ms.yugipedia.com//thumb/a/a3/SGX3-BoxEN.png/721px-SGX3-BoxEN.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "SGX3_1",
+    "SGX3_2",
+    "SGX3_3",
+    "SGX3_4",
+    "SGX3_5",
+    "SGX3_6",
+    "SGX3_7",
+    "SGX3_8",
+    "SGX3_9",
+    "SGX3_10",
+    "SGX3_VC"
+  ]
+}

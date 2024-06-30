@@ -1,0 +1,130 @@
+{
+  "name": "Speed Duel: Battle City Box (Skill Cards)",
+  "code": "SBCB_10",
+  "type": "Speed Duel Collector\u0027s Set",
+  "date": "11-12-2020",
+  "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 300302005,
+      "code": "SBCB-S01",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302012,
+      "code": "SBCB-S02",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302009,
+      "code": "SBCB-S03",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302011,
+      "code": "SBCB-S04",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302019,
+      "code": "SBCB-S05",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302008,
+      "code": "SBCB-S06",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302020,
+      "code": "SBCB-S07",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302018,
+      "code": "SBCB-S08",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302013,
+      "code": "SBCB-S09",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302007,
+      "code": "SBCB-S10",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302015,
+      "code": "SBCB-S11",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302010,
+      "code": "SBCB-S12",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302017,
+      "code": "SBCB-S13",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302006,
+      "code": "SBCB-S14",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302014,
+      "code": "SBCB-S15",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302016,
+      "code": "SBCB-S16",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302001,
+      "code": "SBCB-S17",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302002,
+      "code": "SBCB-S18",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302003,
+      "code": "SBCB-S19",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302004,
+      "code": "SBCB-S20",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

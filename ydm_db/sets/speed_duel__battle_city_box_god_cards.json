@@ -1,0 +1,25 @@
+{
+  "code": "SBCB_PC",
+  "type": "Sub-Set",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 10000020,
+      "code": "SBCB-201",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10000000,
+      "code": "SBCB-202",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10000010,
+      "code": "SBCB-203",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

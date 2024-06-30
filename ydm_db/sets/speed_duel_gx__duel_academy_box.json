@@ -1,0 +1,21 @@
+{
+  "name": "Speed Duel GX: Duel Academy Box",
+  "code": "SGX1",
+  "type": "Speed Duel Collector\u0027s Set",
+  "date": "01-04-2022",
+  "image": "https://ms.yugipedia.com//5/59/SGX1-BoxEN.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "SGX1_1",
+    "SGX1_2",
+    "SGX1_3",
+    "SGX1_4",
+    "SGX1_5",
+    "SGX1_6",
+    "SGX1_7",
+    "SGX1_8",
+    "SGX1_9",
+    "SGX1_10",
+    "SGX1_VC"
+  ]
+}
