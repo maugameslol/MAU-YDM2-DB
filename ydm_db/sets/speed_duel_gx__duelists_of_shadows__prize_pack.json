@@ -1,0 +1,12 @@
+{
+  "name": "Speed Duel GX: Duelists of Shadows (Prize Pack)",
+  "code": "SGX3_PP",
+  "type": "Speed Duel Collector\u0027s Set",
+  "date": "31-03-2023",
+  "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "SGX3_SU",
+    "SGX3_PC"
+  ]
+}

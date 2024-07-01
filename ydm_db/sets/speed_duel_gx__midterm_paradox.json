@@ -6,12 +6,12 @@
   "image": "https://ms.yugipedia.com//e/ed/SGX2-BoxEN.png",
   "pull_type": "composition",
   "sub_sets": [
-    "SGX2_1",
-    "SGX2_2",
-    "SGX2_3",
-    "SGX2_4",
-    "SGX2_5",
-    "SGX2_6",
-    "SGX2_VC"
+    "SGX2_A",
+    "SGX2_B",
+    "SGX2_C",
+    "SGX2_D",
+    "SGX2_E",
+    "SGX2_S",
+    "SGX2_PP"
   ]
 }

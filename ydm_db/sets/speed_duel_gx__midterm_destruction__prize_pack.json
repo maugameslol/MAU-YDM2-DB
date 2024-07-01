@@ -1,0 +1,131 @@
+{
+  "name": "Speed Duel GX: Midterm Destruction (Prize Pack)",
+  "code": "SGX4_PP",
+  "type": "Speed Duel Collector\u0027s Set",
+  "date": "29-03-2024",
+  "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
+  "pull_type": "distribution",
+  "distribution": "4_secret_rare_upgrades",
+  "cards": [
+    {
+      "id": 89943723,
+      "code": "SGX4-A01",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69884162,
+      "code": "SGX4-A02",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85087012,
+      "code": "SGX4-A03",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15341821,
+      "code": "SGX4-A05",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17955766,
+      "code": "SGX4-A07",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80344569,
+      "code": "SGX4-A10",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23846921,
+      "code": "SGX4-B01",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5861892,
+      "code": "SGX4-B10",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49010598,
+      "code": "SGX4-B18",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15894048,
+      "code": "SGX4-C01",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36042004,
+      "code": "SGX4-C05",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 47325505,
+      "code": "SGX4-C14",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14258627,
+      "code": "SGX4-D01",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42009836,
+      "code": "SGX4-D02",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 67169062,
+      "code": "SGX4-D12",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5318639,
+      "code": "SGX4-D14",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56120475,
+      "code": "SGX4-D16",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84425220,
+      "code": "SGX4-E01",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89312388,
+      "code": "SGX4-E03",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45906428,
+      "code": "SGX4-E05",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

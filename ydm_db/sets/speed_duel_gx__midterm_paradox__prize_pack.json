@@ -1,0 +1,83 @@
+{
+  "name": "Speed Duel GX: Midterm Paradox (Prize Pack)",
+  "code": "SGX2_PP",
+  "type": "Speed Duel Collector\u0027s Set",
+  "date": "07-10-2022",
+  "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
+  "pull_type": "distribution",
+  "distribution": "4_secret_rare_upgrades",
+  "cards": [
+    {
+      "id": 79979666,
+      "code": "SGX2-A08",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 8949584,
+      "code": "SGX2-A16",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83121692,
+      "code": "SGX2-A21",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71218746,
+      "code": "SGX2-B04",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36256625,
+      "code": "SGX2-B22",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85066822,
+      "code": "SGX2-C01",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 93332803,
+      "code": "SGX2-C08",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25833572,
+      "code": "SGX2-D01",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25955164,
+      "code": "SGX2-D07",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62340868,
+      "code": "SGX2-D08",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 98434877,
+      "code": "SGX2-D09",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32752319,
+      "code": "SGX2-E10",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}
