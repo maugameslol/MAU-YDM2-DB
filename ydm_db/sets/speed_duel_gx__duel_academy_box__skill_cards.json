@@ -1,0 +1,130 @@
+{
+  "name": "Speed Duel GX: Duel Academy Box (Skill Cards)",
+  "code": "SGX1_S",
+  "type": "Speed Duel Collector\u0027s Set",
+  "date": "01-04-2022",
+  "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 300302031,
+      "code": "SGX1-S01",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302037,
+      "code": "SGX1-S02",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302033,
+      "code": "SGX1-S03",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302022,
+      "code": "SGX1-S04",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302027,
+      "code": "SGX1-S05",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302026,
+      "code": "SGX1-S06",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302030,
+      "code": "SGX1-S07",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302024,
+      "code": "SGX1-S08",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302041,
+      "code": "SGX1-S09",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302034,
+      "code": "SGX1-S10",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302023,
+      "code": "SGX1-S11",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302036,
+      "code": "SGX1-S12",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302035,
+      "code": "SGX1-S13",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302038,
+      "code": "SGX1-S14",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302028,
+      "code": "SGX1-S15",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302042,
+      "code": "SGX1-S16",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302029,
+      "code": "SGX1-S17",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302039,
+      "code": "SGX1-S18",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302032,
+      "code": "SGX1-S19",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302025,
+      "code": "SGX1-S20",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

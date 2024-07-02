@@ -1,0 +1,136 @@
+{
+  "name": "Speed Duel GX: Duel Academy Box (Alexis Rhodes)",
+  "code": "SGX1_E",
+  "type": "Speed Duel Collector\u0027s Set",
+  "date": "01-04-2022",
+  "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 97023549,
+      "code": "SGX1-E01",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23401839,
+      "code": "SGX1-E02",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 57617178,
+      "code": "SGX1-E03",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7572887,
+      "code": "SGX1-E04",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5438492,
+      "code": "SGX1-E05",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11460577,
+      "code": "SGX1-E06",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49375719,
+      "code": "SGX1-E07",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 76763417,
+      "code": "SGX1-E08",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2158562,
+      "code": "SGX1-E09",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77235086,
+      "code": "SGX1-E10",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 3629090,
+      "code": "SGX1-E11",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91668401,
+      "code": "SGX1-E12",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95281259,
+      "code": "SGX1-E13",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54351224,
+      "code": "SGX1-E14",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39996157,
+      "code": "SGX1-E15",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52497105,
+      "code": "SGX1-E16",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8267140,
+      "code": "SGX1-E17",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88789641,
+      "code": "SGX1-E18",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79997591,
+      "code": "SGX1-E19",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98954106,
+      "code": "SGX1-E20",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10248389,
+      "code": "SGX1-E21",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

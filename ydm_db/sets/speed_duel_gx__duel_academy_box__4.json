@@ -1,0 +1,136 @@
+{
+  "name": "Speed Duel GX: Duel Academy Box (Dr. Vellian Crowler)",
+  "code": "SGX1_D",
+  "type": "Speed Duel Collector\u0027s Set",
+  "date": "01-04-2022",
+  "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 83104731,
+      "code": "SGX1-D01",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7359741,
+      "code": "SGX1-D02",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97017120,
+      "code": "SGX1-D03",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38479725,
+      "code": "SGX1-D04",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87621407,
+      "code": "SGX1-D05",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10509340,
+      "code": "SGX1-D06",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56094445,
+      "code": "SGX1-D07",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31557782,
+      "code": "SGX1-D08",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1953925,
+      "code": "SGX1-D09",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39303359,
+      "code": "SGX1-D10",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18486927,
+      "code": "SGX1-D11",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82828051,
+      "code": "SGX1-D12",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 92001300,
+      "code": "SGX1-D13",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37694547,
+      "code": "SGX1-D14",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75652080,
+      "code": "SGX1-D15",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52112003,
+      "code": "SGX1-D16",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68540058,
+      "code": "SGX1-D17",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65810489,
+      "code": "SGX1-D18",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28378427,
+      "code": "SGX1-D19",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 34815282,
+      "code": "SGX1-D20",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12652643,
+      "code": "SGX1-D21",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}
