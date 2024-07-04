@@ -3,7 +3,7 @@
   "name": "Millennium Eye (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Pegasus / Skill\n[ACTIVATION]\nFlip this card over when you activate this Skill.\n[EFFECT]\nAt the start of the Duel, look at your opponent\u0027s opening hand. \nYou may choose to have that player shuffle their hand into their Deck and draw a new hand. (If both players use a Skill at the same time, the Turn player resolves their Skill first.)",
+  "text": "Pegasus / Skill\n[ACTIVATION]\nFlip this card over when you activate this Skill.\n\n[EFFECT]\nAt the start of the Duel, look at your opponent\u0027s opening hand. \nYou may choose to have that player shuffle their hand into their Deck and draw a new hand. (If both players use a Skill at the same time, the Turn player resolves their Skill first.)",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300201009.jpg"
   ],

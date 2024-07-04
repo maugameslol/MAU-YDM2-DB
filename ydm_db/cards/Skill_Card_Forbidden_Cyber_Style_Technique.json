@@ -3,7 +3,7 @@
   "name": "Forbidden Cyber Style Technique (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Zane / Skill\n[ACTIVATION]\nFlip this card over when you activate this Skill.\n[EFFECT]\nActivate this Skill once per Duel, if your LP are 1500 or less and you control no monsters. \nReduce your LP to 50, then Special Summon up to 3 Machine \"Cyber\" monsters from your hand, Deck, and/or GY. \nThey each become \"Cyber Dragon\" (Machine/LIGHT/Level 5/ATK 2100/DEF 1600), and cannot be Tributed. \nFor the rest of this turn, you cannot Summon/Set except by Fusion Summoning, nor attack except with Fusion Monsters. \nDestroy any monsters Summoned by this Skill during your End Phase.",
+  "text": "Zane / Skill\n[ACTIVATION]\nFlip this card over when you activate this Skill.\n\n[EFFECT]\nActivate this Skill once per Duel, if your LP are 1500 or less and you control no monsters. \nReduce your LP to 50, then Special Summon up to 3 Machine \"Cyber\" monsters from your hand, Deck, and/or GY. \nThey each become \"Cyber Dragon\" (Machine/LIGHT/Level 5/ATK 2100/DEF 1600), and cannot be Tributed. \nFor the rest of this turn, you cannot Summon/Set except by Fusion Summoning, nor attack except with Fusion Monsters. \nDestroy any monsters Summoned by this Skill during your End Phase.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300302030.jpg"
   ],

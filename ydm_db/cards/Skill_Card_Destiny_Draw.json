@@ -3,7 +3,7 @@
   "name": "Destiny Draw (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Yami Yugi / Skill\n[ACTIVATION]\nFlip this card over when you activate this Skill.\n[EFFECT]\nIf you lose 2000 or more LP, you can activate this Skill during your next Draw Phase.\nDuring your Draw Phase, you may search your Deck for any card, reveal it to your opponent, and add it to your hand instead of drawing. \nIf you do that, flip this card over.",
+  "text": "Yami Yugi / Skill\n[ACTIVATION]\nFlip this card over when you activate this Skill.\n\n[EFFECT]\nIf you lose 2000 or more LP, you can activate this Skill during your next Draw Phase.\nDuring your Draw Phase, you may search your Deck for any card, reveal it to your opponent, and add it to your hand instead of drawing. \nIf you do that, flip this card over.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300201002.jpg"
   ],

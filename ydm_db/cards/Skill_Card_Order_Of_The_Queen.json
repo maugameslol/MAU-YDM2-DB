@@ -3,7 +3,7 @@
   "name": "Order of the Queen (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Tania / Skill\n[ACTIVATION]\nAt the start of the Duel, flip this card over.\n[EFFECT]\nWhile you control \"Amazoness Queen\", negate the effects of Effect Monsters destroyed by battle with attacking \"Amazoness\" monsters you control.",
+  "text": "Tania / Skill\n[ACTIVATION]\nAt the start of the Duel, flip this card over.\n\n[EFFECT]\nWhile you control \"Amazoness Queen\", negate the effects of Effect Monsters destroyed by battle with attacking \"Amazoness\" monsters you control.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300302069.jpg"
   ],

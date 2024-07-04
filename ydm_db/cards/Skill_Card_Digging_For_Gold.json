@@ -3,7 +3,7 @@
   "name": "Digging For Gold (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "David / Skill\n[ACTIVATION]\nFlip this card over when you activate this Skill.\n[EFFECT]\nActivate this Skill during your Main Phase. You can banish 3 cards from your GY, then draw 1 card. \nThis Skill can only be used once per Duel.",
+  "text": "David / Skill\n[ACTIVATION]\nFlip this card over when you activate this Skill.\n\n[EFFECT]\nActivate this Skill during your Main Phase. You can banish 3 cards from your GY, then draw 1 card. \nThis Skill can only be used once per Duel.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300302004.jpg"
   ],

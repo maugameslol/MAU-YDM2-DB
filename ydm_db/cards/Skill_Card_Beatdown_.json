@@ -3,7 +3,7 @@
   "name": "Beatdown! (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Kaiba / Skill\n[ACTIVATION]\nFlip this card over when you activate this Skill.\n[EFFECT]\nIf you control a Level 5 or higher monster, you can activate this Skill.\nAll monsters you currently control gain 300 ATK for each Level 5 or higher monster you control. \nAt the end of your turn, flip this card over.",
+  "text": "Kaiba / Skill\n[ACTIVATION]\nFlip this card over when you activate this Skill.\n\n[EFFECT]\nIf you control a Level 5 or higher monster, you can activate this Skill.\nAll monsters you currently control gain 300 ATK for each Level 5 or higher monster you control. \nAt the end of your turn, flip this card over.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300202002.jpg"
   ],

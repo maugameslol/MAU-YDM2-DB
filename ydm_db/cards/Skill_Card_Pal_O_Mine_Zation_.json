@@ -3,7 +3,7 @@
   "name": "Pal\u0027O-Mine-zation! (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Joey / Skill\n[ACTIVATION]\nFlip this card over when you activate this Skill.\n[EFFECT]\nDuring your turn, you may reveal 1 Normal Monster in your hand. \nThis turn, that Monster can substitute for any 1 Fusion Material. \nIf you do, the other Fusion Material(s) must be the correct one(s).\nThis Skill can only be used once per Duel.",
+  "text": "Joey / Skill\n[ACTIVATION]\nFlip this card over when you activate this Skill.\n\n[EFFECT]\nDuring your turn, you may reveal 1 Normal Monster in your hand. \nThis turn, that Monster can substitute for any 1 Fusion Material. \nIf you do, the other Fusion Material(s) must be the correct one(s).\nThis Skill can only be used once per Duel.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300202006.jpg"
   ],

@@ -3,7 +3,7 @@
   "name": "The Dragon Hunting Swordsman (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Yami Yugi / Skill\n[ACTIVATION]\nAt the start of the Duel, flip this card over.\n[EFFECT]\nOnce per Duel, you can discard 1 card, then Fusion Summon 1 Fusion Monster that mentions \"Buster Blader\", using monsters from your hand or field as material. \nWhile the only monster you control is \"Buster Blader\" or a Fusion Monster that mentions it, monsters in your opponent\u0027s GY become Dragons.",
+  "text": "Yami Yugi / Skill\n[ACTIVATION]\nAt the start of the Duel, flip this card over.\n\n[EFFECT]\nOnce per Duel, you can discard 1 card, then Fusion Summon 1 Fusion Monster that mentions \"Buster Blader\", using monsters from your hand or field as material. \nWhile the only monster you control is \"Buster Blader\" or a Fusion Monster that mentions it, monsters in your opponent\u0027s GY become Dragons.",
   "images": [
     "https://ms.yugipedia.com//0/0e/TheDragonHuntingSwordsman-SBC1-EN-C-1E.png"
 	],
