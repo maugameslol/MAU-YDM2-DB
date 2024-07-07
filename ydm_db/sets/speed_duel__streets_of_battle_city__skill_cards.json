@@ -1,0 +1,130 @@
+{
+  "name": "Speed Duel: Streets of Battle City (Skill Cards)",
+  "code": "SBC1_S",
+  "type": "Speed Duel Collector\u0027s Set",
+  "date": "25-08-2023",
+  "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 300302077,
+      "code": "SBC1-S01",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302078,
+      "code": "SBC1-S02",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302079,
+      "code": "SBC1-S03",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302080,
+      "code": "SBC1-S04",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302081,
+      "code": "SBC1-S05",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302082,
+      "code": "SBC1-S06",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302083,
+      "code": "SBC1-S07",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302084,
+      "code": "SBC1-S08",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302085,
+      "code": "SBC1-S09",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302086,
+      "code": "SBC1-S10",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302087,
+      "code": "SBC1-S11",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302088,
+      "code": "SBC1-S12",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302089,
+      "code": "SBC1-S13",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302090,
+      "code": "SBC1-S14",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302091,
+      "code": "SBC1-S15",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302092,
+      "code": "SBC1-S16",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302093,
+      "code": "SBC1-S17",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302094,
+      "code": "SBC1-S18",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302095,
+      "code": "SBC1-S19",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 300302096,
+      "code": "SBC1-S20",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

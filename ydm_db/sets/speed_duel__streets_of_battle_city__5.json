@@ -1,0 +1,130 @@
+{
+  "name": "Speed Duel: Streets of Battle City (Espa Roba)",
+  "code": "SBC1_E",
+  "type": "Speed Duel Collector\u0027s Set",
+  "date": "25-08-2023",
+  "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 77585513,
+      "code": "SBC1-E01",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35803249,
+      "code": "SBC1-E02",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9418534,
+      "code": "SBC1-E03",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2851070,
+      "code": "SBC1-E04",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11232355,
+      "code": "SBC1-E05",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27995943,
+      "code": "SBC1-E06",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66362965,
+      "code": "SBC1-E07",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84636823,
+      "code": "SBC1-E08",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39978267,
+      "code": "SBC1-E09",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7526150,
+      "code": "SBC1-E10",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38265153,
+      "code": "SBC1-E11",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 91654806,
+      "code": "SBC1-E12",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98792570,
+      "code": "SBC1-E13",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 303660,
+      "code": "SBC1-E14",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81439173,
+      "code": "SBC1-E15",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8267140,
+      "code": "SBC1-E16",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31036355,
+      "code": "SBC1-E17",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72563071,
+      "code": "SBC1-E18",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15800838,
+      "code": "SBC1-E19",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43250041,
+      "code": "SBC1-E20",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}
