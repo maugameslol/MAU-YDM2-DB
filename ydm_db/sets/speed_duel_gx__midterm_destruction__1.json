@@ -1,0 +1,166 @@
+{
+  "name": "Speed Duel GX: Midterm Destruction (Jaden Yuki)",
+  "code": "SGX4_A",
+  "type": "Speed Duel Collector\u0027s Set",
+  "date": "29-03-2024",
+  "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 89943723,
+      "code": "SGX4-A01",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69884162,
+      "code": "SGX4-A02",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85087012,
+      "code": "SGX4-A03",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73146473,
+      "code": "SGX4-A04",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15341821,
+      "code": "SGX4-A05",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54959865,
+      "code": "SGX4-A06",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17955766,
+      "code": "SGX4-A07",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43237273,
+      "code": "SGX4-A08",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17732278,
+      "code": "SGX4-A09",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80344569,
+      "code": "SGX4-A10",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42015635,
+      "code": "SGX4-A11",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85787173,
+      "code": "SGX4-A12",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 63703130,
+      "code": "SGX4-A13",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41933425,
+      "code": "SGX4-A14",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82639107,
+      "code": "SGX4-A15",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10186633,
+      "code": "SGX4-A16",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5133471,
+      "code": "SGX4-A17",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74414885,
+      "code": "SGX4-A18",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37412656,
+      "code": "SGX4-A19",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27551,
+      "code": "SGX4-A20",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55171412,
+      "code": "SGX4-A21",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 85507811,
+      "code": "SGX4-A22",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28677304,
+      "code": "SGX4-A23",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48996569,
+      "code": "SGX4-A24",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49352945,
+      "code": "SGX4-A25",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64655485,
+      "code": "SGX4-A26",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

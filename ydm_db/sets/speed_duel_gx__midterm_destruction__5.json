@@ -1,0 +1,64 @@
+{
+  "name": "Speed Duel GX: Midterm Destruction (Misc.)",
+  "code": "SGX4_E",
+  "type": "Speed Duel Collector\u0027s Set",
+  "date": "29-03-2024",
+  "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 84425220,
+      "code": "SGX4-E01",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45078193,
+      "code": "SGX4-E02",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89312388,
+      "code": "SGX4-E03",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99910751,
+      "code": "SGX4-E04",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45906428,
+      "code": "SGX4-E05",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49306994,
+      "code": "SGX4-E06",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44612603,
+      "code": "SGX4-E07",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13803864,
+      "code": "SGX4-E08",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10526791,
+      "code": "SGX4-E09",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

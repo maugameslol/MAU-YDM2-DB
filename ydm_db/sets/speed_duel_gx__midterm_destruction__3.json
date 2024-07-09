@@ -1,0 +1,136 @@
+{
+  "name": "Speed Duel GX: Midterm Destruction (Tyranno Hassleberry)",
+  "code": "SGX4_C",
+  "type": "Speed Duel Collector\u0027s Set",
+  "date": "29-03-2024",
+  "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 15894048,
+      "code": "SGX4-C01",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41753322,
+      "code": "SGX4-C02",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37265642,
+      "code": "SGX4-C03",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98022050,
+      "code": "SGX4-C04",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36042004,
+      "code": "SGX4-C05",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52319752,
+      "code": "SGX4-C06",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83235263,
+      "code": "SGX4-C07",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80186010,
+      "code": "SGX4-C08",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39396763,
+      "code": "SGX4-C09",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 65287621,
+      "code": "SGX4-C10",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 45894482,
+      "code": "SGX4-C11",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 84808313,
+      "code": "SGX4-C12",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83682725,
+      "code": "SGX4-C13",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47325505,
+      "code": "SGX4-C14",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 10080320,
+      "code": "SGX4-C15",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39041729,
+      "code": "SGX4-C16",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14883228,
+      "code": "SGX4-C17",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 58419204,
+      "code": "SGX4-C18",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42175079,
+      "code": "SGX4-C19",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98414735,
+      "code": "SGX4-C20",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 75780818,
+      "code": "SGX4-C21",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}
