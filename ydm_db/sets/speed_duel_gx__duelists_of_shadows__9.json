@@ -1,0 +1,238 @@
+{
+  "name": "Speed Duel GX: Duelists of Shadows (Misc.)",
+  "code": "SGX3_I",
+  "type": "Speed Duel Collector\u0027s Set",
+  "date": "31-03-2023",
+  "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 61587183,
+      "code": "SGX3-I01",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6967870,
+      "code": "SGX3-I02",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52550973,
+      "code": "SGX3-I03",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89959682,
+      "code": "SGX3-I04",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25343280,
+      "code": "SGX3-I05",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31076103,
+      "code": "SGX3-I06",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 4081094,
+      "code": "SGX3-I07",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78697395,
+      "code": "SGX3-I08",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49003308,
+      "code": "SGX3-I09",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 44702857,
+      "code": "SGX3-I10",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90464188,
+      "code": "SGX3-I11",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 7459013,
+      "code": "SGX3-I12",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6214884,
+      "code": "SGX3-I13",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 99458769,
+      "code": "SGX3-I14",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25773409,
+      "code": "SGX3-I15",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52248570,
+      "code": "SGX3-I16",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70595331,
+      "code": "SGX3-I17",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88975532,
+      "code": "SGX3-I18",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80485722,
+      "code": "SGX3-I19",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40916023,
+      "code": "SGX3-I20",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 12800777,
+      "code": "SGX3-I21",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80887952,
+      "code": "SGX3-I22",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17286057,
+      "code": "SGX3-I23",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56597272,
+      "code": "SGX3-I24",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25366484,
+      "code": "SGX3-I25",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 78060096,
+      "code": "SGX3-I26",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59464593,
+      "code": "SGX3-I27",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 70095154,
+      "code": "SGX3-I28",
+      "rarity": "Common",
+      "image_index": 1
+    },
+    {
+      "id": 1371589,
+      "code": "SGX3-I29",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1475311,
+      "code": "SGX3-I30",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14087893,
+      "code": "SGX3-I31",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 38834303,
+      "code": "SGX3-I32",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 39956951,
+      "code": "SGX3-I33",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 95132338,
+      "code": "SGX3-I34",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11593137,
+      "code": "SGX3-I35",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30353551,
+      "code": "SGX3-I36",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 54704216,
+      "code": "SGX3-I37",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79852326,
+      "code": "SGX3-I38",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

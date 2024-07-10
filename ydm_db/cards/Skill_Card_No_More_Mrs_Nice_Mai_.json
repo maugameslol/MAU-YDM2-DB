@@ -3,7 +3,7 @@
   "name": "No More Mrs. Nice Mai! (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Mai / Skill\n[ACTIVATION]\nFlip this card over when you activate this Skill.\n\n[EFFECT]\nOnce per turn, when your monster inflicts battle damage to your opponent, destroy 1 Spell/Trap on the field.",
+  "text": "Mai / Skill\n[ACTIVATION]\nFlip this card over when you activate this Skill.\n\n[EFFECT]\nOnce per turn, at the end of your Battle Phase, if a monster you control inflicted battle damage to your opponent this turn, you can destroy 1 Spell/Trap on the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300302015.jpg"
   ],

@@ -1,0 +1,112 @@
+{
+  "name": "Speed Duel GX: Duelists of Shadows (Kagemaru)",
+  "code": "SGX3_G",
+  "type": "Speed Duel Collector\u0027s Set",
+  "date": "31-03-2023",
+  "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 87917187,
+      "code": "SGX3-G04",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31034919,
+      "code": "SGX3-G05",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79279397,
+      "code": "SGX3-G06",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 79279397,
+      "code": "SGX3-G06",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29216198,
+      "code": "SGX3-G07",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 18590133,
+      "code": "SGX3-G08",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 11448373,
+      "code": "SGX3-G09",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13301895,
+      "code": "SGX3-G10",
+      "rarity": "Common",
+      "image_index": 1
+    },
+    {
+      "id": 54828837,
+      "code": "SGX3-G11",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90434926,
+      "code": "SGX3-G12",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28486799,
+      "code": "SGX3-G13",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56460688,
+      "code": "SGX3-G14",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53701259,
+      "code": "SGX3-G15",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69452756,
+      "code": "SGX3-G16",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 47060347,
+      "code": "SGX3-G17",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50277973,
+      "code": "SGX3-G18",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52503575,
+      "code": "SGX3-G19",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "name": "Speed Duel GX: Duelists of Shadows (Shadow Rider Titan)",
+  "code": "SGX3_E",
+  "type": "Speed Duel Collector\u0027s Set",
+  "date": "31-03-2023",
+  "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 61370518,
+      "code": "SGX3-E01",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49881766,
+      "code": "SGX3-E02",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35975813,
+      "code": "SGX3-E03",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 8581705,
+      "code": "SGX3-E04",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73219648,
+      "code": "SGX3-E05",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9603356,
+      "code": "SGX3-E06",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 35798491,
+      "code": "SGX3-E07",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 72192100,
+      "code": "SGX3-E08",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73698349,
+      "code": "SGX3-E09",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 28601770,
+      "code": "SGX3-E10",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 29603180,
+      "code": "SGX3-E11",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48675364,
+      "code": "SGX3-E12",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81439173,
+      "code": "SGX3-E13",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94585852,
+      "code": "SGX3-E14",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 69313735,
+      "code": "SGX3-E15",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40619825,
+      "code": "SGX3-E16",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 24096228,
+      "code": "SGX3-E17",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56246017,
+      "code": "SGX3-E18",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94463200,
+      "code": "SGX3-E19",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41925941,
+      "code": "SGX3-E20",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}
