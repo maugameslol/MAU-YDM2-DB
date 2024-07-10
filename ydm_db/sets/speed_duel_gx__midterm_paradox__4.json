@@ -1,0 +1,130 @@
+{
+  "name": "Speed Duel GX: Midterm Paradox (Paradox Brothers)",
+  "code": "SGX2_D",
+  "type": "Speed Duel Collector\u0027s Set",
+  "date": "07-10-2022",
+  "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 25833572,
+      "code": "SGX2-D01",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67284908,
+      "code": "SGX2-D02",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93889755,
+      "code": "SGX2-D03",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13215230,
+      "code": "SGX2-D04",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94773007,
+      "code": "SGX2-D05",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 30778711,
+      "code": "SGX2-D06",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25955164,
+      "code": "SGX2-D07",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 62340868,
+      "code": "SGX2-D08",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 98434877,
+      "code": "SGX2-D09",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 31812496,
+      "code": "SGX2-D10",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42647539,
+      "code": "SGX2-D11",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 17444133,
+      "code": "SGX2-D12",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 92084010,
+      "code": "SGX2-D13",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15090429,
+      "code": "SGX2-D14",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 68005187,
+      "code": "SGX2-D15",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97687912,
+      "code": "SGX2-D16",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2903036,
+      "code": "SGX2-D17",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 43422537,
+      "code": "SGX2-D18",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55256016,
+      "code": "SGX2-D19",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 66526672,
+      "code": "SGX2-D20",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "name": "Speed Duel GX: Midterm Paradox (Misc.)",
+  "code": "SGX2_E",
+  "type": "Speed Duel Collector\u0027s Set",
+  "date": "07-10-2022",
+  "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 69579761,
+      "code": "SGX2-E01",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81383947,
+      "code": "SGX2-E02",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 9637706,
+      "code": "SGX2-E03",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55589254,
+      "code": "SGX2-E04",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87685879,
+      "code": "SGX2-E05",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 61465001,
+      "code": "SGX2-E06",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 55428811,
+      "code": "SGX2-E07",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42149850,
+      "code": "SGX2-E08",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74270067,
+      "code": "SGX2-E09",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 32752319,
+      "code": "SGX2-E10",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 81003500,
+      "code": "SGX2-E11",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}
