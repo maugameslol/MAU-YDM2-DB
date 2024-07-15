@@ -5,13 +5,13 @@
       "weight": 8,
       "entries": [
         {
-          "count": 11,
+          "count": 9,
           "rarities": [
             "Common"
           ]
         },
         {
-          "count": 1,
+          "count": 3,
           "rarities": [
             "Common",
             "Super Rare"
@@ -23,13 +23,13 @@
       "weight": 3,
       "entries": [
         {
-          "count": 9,
+          "count": 8,
           "rarities": [
             "Common"
           ]
         },
         {
-          "count": 2,
+          "count": 3,
           "rarities": [
             "Common",
             "Super Rare"
@@ -47,20 +47,20 @@
       "weight": 1,
       "entries": [
         {
-          "count": 6,
+          "count": 3,
           "rarities": [
             "Common"
           ]
         },
         {
-          "count": 3,
+          "count": 5,
           "rarities": [
             "Common",
             "Super Rare"
           ]
         },
         {
-          "count": 2,
+          "count": 3,
           "rarities": [
             "Super Rare",
             "Ultra Rare"
