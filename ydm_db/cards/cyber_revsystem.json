@@ -3,7 +3,7 @@
   "name": "Cyber Revsystem",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Special Summon 1 \"Cyber Dragon\" from your hand or GY. It cannot be destroyed by card effects.",
+  "text": "Special Summon 1 \"Cyber Dragon\" from your hand or GY. \nIt cannot be destroyed by card effects.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/33041277.jpg"
   ],
