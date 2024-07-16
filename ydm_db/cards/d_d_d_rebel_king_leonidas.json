@@ -3,7 +3,7 @@
   "name": "D/D/D Rebel King Leonidas",
   "is_illegal": false,
   "is_custom": false,
-  "text": "When you take effect damage (except during the Damage Step): You can Special Summon this card from your hand, and if you do, gain LP equal to the damage you took. You take no effect damage.",
+  "text": "[ Monster Effect ]\nWhen you take effect damage (except during the Damage Step): You can Special Summon this card from your hand, and if you do, gain LP equal to the damage you took.\nYou take no effect damage.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/92536468.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 1200,
   "level": 7,
   "is_tuner": false,
-  "pendulum_text": "When you take effect damage (except during the Damage Step): You can destroy this card, and if you do, any effect that would inflict damage to a player this turn increases their LP by the same amount, instead.\n",
+  "pendulum_text": "[ Pendulum Effect ]\nWhen you take effect damage (except during the Damage Step): You can destroy this card, and if you do, any effect that would inflict damage to a player this turn increases their LP by the same amount, instead.",
   "pendulum_scale_left_blue": 3,
   "pendulum_scale_right_red": 3
 }

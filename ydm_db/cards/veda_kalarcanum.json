@@ -3,7 +3,7 @@
   "name": "Veda Kalarcanum",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[MONSTER EFFECT]\nCannot be Normal Summoned/Set. Must be Special Summoned by its own Pendulum Effect.\nYou can only Special Summon \"Veda Kalarcanum(s)\" once per turn.\nOnce per turn, if your opponent Special Summons a monster(s) from the Extra Deck (except during the Damage Step): You can banish 12 cards from your hand, field, and/or GY, face-down; it becomes the End Phase of this turn.\nOnce per turn, during your Standby Phase: Return this card to the hand, then you can Special Summon 1 of your \"Veda\" monsters that is banished or in your hand, Deck, or GY.",
+  "text": "[ Monster Effect ]\nCannot be Normal Summoned/Set. Must be Special Summoned by its own Pendulum Effect.\nYou can only Special Summon \"Veda Kalarcanum(s)\" once per turn.\nOnce per turn, if your opponent Special Summons a monster(s) from the Extra Deck (except during the Damage Step): You can banish 12 cards from your hand, field, and/or GY, face-down; it becomes the End Phase of this turn.\nOnce per turn, during your Standby Phase: Return this card to the hand, then you can Special Summon 1 of your \"Veda\" monsters that is banished or in your hand, Deck, or GY.",
   "images": ["https://images.ygoprodeck.com/images/cards/40785230.jpg"],
   "type": "Monster",
   "attribute": "DARK",
@@ -16,7 +16,7 @@
   "def": 4000,
   "level": 12,
   "is_tuner": false,
-  "pendulum_text": "[PENDULUM EFFECT]\nOnce per Chain, if a monster(s) is destroyed: Place 3 counters on this card.\nThis card\u0027s Pendulum Scale is increased by the number of counters on it.\nYou can remove 12 counters from this card; Special Summon it.",
+  "pendulum_text": "[ Pendulum Effect ]\nOnce per Chain, if a monster(s) is destroyed: Place 3 counters on this card.\nThis card\u0027s Pendulum Scale is increased by the number of counters on it.\nYou can remove 12 counters from this card; Special Summon it.",
   "pendulum_scale_left_blue": 0,
   "pendulum_scale_right_red": 0
 }

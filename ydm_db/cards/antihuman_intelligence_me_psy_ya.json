@@ -3,7 +3,7 @@
   "name": "Antihuman Intelligence ME-PSY-YA",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[MONSTER EFFECT]\nYou can reveal this card in your hand; add 1 other Pendulum Monster from your hand, or 1 card from your Pendulum Zone, to its owner\u0027s Extra Deck face-up, and if you do, Special Summon this card.\nYou can only use this effect of \"Antihuman Intelligence ME-PSY-YA\" once per turn.\nIf another monster(s) is Normal or Special Summoned while you control this card: Send that monster(s) to the GY during the End Phase of this turn.",
+  "text": "[ Monster Effect ]\nYou can reveal this card in your hand; add 1 other Pendulum Monster from your hand, or 1 card from your Pendulum Zone, to its owner\u0027s Extra Deck face-up, and if you do, Special Summon this card.\nYou can only use this effect of \"Antihuman Intelligence ME-PSY-YA\" once per turn.\nIf another monster(s) is Normal or Special Summoned while you control this card: Send that monster(s) to the GY during the End Phase of this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/58844135.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 3000,
   "level": 8,
   "is_tuner": false,
-  "pendulum_text": "[PENDULUM EFFECT]\nAny card sent to the GY is banished instead, except Monster Cards.",
+  "pendulum_text": "[ Pendulum Effect ]\nAny card sent to the GY is banished instead, except Monster Cards.",
   "pendulum_scale_left_blue": 0,
   "pendulum_scale_right_red": 0
 }

@@ -3,7 +3,7 @@
   "name": "Acrobatic Magician",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[MONSTER EFFECT]\nIf the activation of a Spell/Trap Card is negated (except during the Damage Step): You can Special Summon this card from your hand.\nWhen this card is destroyed by battle: You can place this card in your Pendulum Zone.",
+  "text": "[ Monster Effect ]\nIf the activation of a Spell/Trap Card is negated (except during the Damage Step): You can Special Summon this card from your hand.\nWhen this card is destroyed by battle: You can place this card in your Pendulum Zone.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/33656832.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 2300,
   "level": 5,
   "is_tuner": false,
-  "pendulum_text": "[PENDULUM EFFECT]\nWhen a monster(s) you control is destroyed by a card effect (except during the Damage Step): You can Special Summon this card from your Pendulum Zone.\nYou can only use this effect of \"Acrobatic Magician\" once per turn.",
+  "pendulum_text": "[ Pendulum Effect ]\nWhen a monster(s) you control is destroyed by a card effect (except during the Damage Step): You can Special Summon this card from your Pendulum Zone.\nYou can only use this effect of \"Acrobatic Magician\" once per turn.",
   "pendulum_scale_left_blue": 2,
   "pendulum_scale_right_red": 2
 }

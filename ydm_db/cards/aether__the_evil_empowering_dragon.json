@@ -3,7 +3,7 @@
   "name": "Aether, the Evil Empowering Dragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[MONSTER EFFECT]\nWhen this card is Normal or Special Summoned: You can target 1 monster on the field; banish it.",
+  "text": "[ Monster Effect ]\nWhen this card is Normal or Special Summoned: You can target 1 monster on the field; banish it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/28865322.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 1600,
   "level": 6,
   "is_tuner": false,
-  "pendulum_text": "[PENDULUM EFFECT]\nOnce per turn: You can banish 1 \"Empowered Warrior\" monster from your Graveyard, then target 1 card on the field; destroy it.",
+  "pendulum_text": "[ Pendulum Effect ]\nOnce per turn: You can banish 1 \"Empowered Warrior\" monster from your Graveyard, then target 1 card on the field; destroy it.",
   "pendulum_scale_left_blue": 4,
   "pendulum_scale_right_red": 4
 }

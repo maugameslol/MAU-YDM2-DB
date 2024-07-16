@@ -3,7 +3,7 @@
   "name": "Zefrasaber, Swordmaster of the Nekroz",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[MONSTER EFFECT]\nYou can Tribute this card from your hand or face-up from your side of the field; Tribute monsters from your hand or field, then Ritual Summon 1 \"Nekroz\" Ritual Monster from your hand whose Level exactly equals the total Levels of those monsters.\nYou can only use this effect of \"Zefrasaber, Swordmaster of the Nekroz\" once per turn.",
+  "text": "[ Monster Effect ]\nYou can Tribute this card from your hand or face-up from your side of the field; Tribute monsters from your hand or field, then Ritual Summon 1 \"Nekroz\" Ritual Monster from your hand whose Level exactly equals the total Levels of those monsters.\nYou can only use this effect of \"Zefrasaber, Swordmaster of the Nekroz\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/84388461.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 800,
   "level": 4,
   "is_tuner": false,
-  "pendulum_text": "[PENDULUM EFFECT]\nYou cannot Pendulum Summon monsters, except \"Nekroz\" and \"Zefra\" monsters.\nThis effect cannot be negated.",
+  "pendulum_text": "[ Pendulum Effect ]\nYou cannot Pendulum Summon monsters, except \"Nekroz\" and \"Zefra\" monsters.\nThis effect cannot be negated.",
   "pendulum_scale_left_blue": 1,
   "pendulum_scale_right_red": 1
 }
