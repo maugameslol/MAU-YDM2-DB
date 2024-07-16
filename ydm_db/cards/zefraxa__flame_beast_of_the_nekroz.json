@@ -3,7 +3,7 @@
   "name": "Zefraxa, Flame Beast of the Nekroz",
   "is_illegal": false,
   "is_custom": false,
-  "text": "While this card is in your hand or Graveyard, if a face-up \"Nekroz\" or \"Zefra\" card(s), except \"Zefraxa, Flame Beast of the Nekroz\", is destroyed by battle or card effect while in your Monster Zone or Pendulum Zone: You can Special Summon this card. You can only use this effect of \"Zefraxa, Flame Beast of the Nekroz\" once per turn.",
+  "text": "[MONSTER EFFECT]\nWhile this card is in your hand or Graveyard, if a face-up \"Nekroz\" or \"Zefra\" card(s), except \"Zefraxa, Flame Beast of the Nekroz\", is destroyed by battle or card effect while in your Monster Zone or Pendulum Zone: You can Special Summon this card.\nYou can only use this effect of \"Zefraxa, Flame Beast of the Nekroz\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/20773176.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 1000,
   "level": 5,
   "is_tuner": false,
-  "pendulum_text": "You cannot Pendulum Summon monsters, except \"Nekroz\" and \"Zefra\" monsters. This effect cannot be negated.\n",
+  "pendulum_text": "[PENDULUM EFFECT]\nYou cannot Pendulum Summon monsters, except \"Nekroz\" and \"Zefra\" monsters.\nThis effect cannot be negated.",
   "pendulum_scale_left_blue": 7,
   "pendulum_scale_right_red": 7
 }
