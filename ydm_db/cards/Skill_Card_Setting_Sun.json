@@ -3,7 +3,7 @@
   "name": "Setting Sun (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Amnael / Skill\n[ACTIVATION]\nAt the start of the Duel, flip this card over.\n\n[EFFECT]\nOnce per turn, during your Main Phase, if you control a monster whose ATK was ? in the Deck, you can banish 1 card from your hand, then add 1 monster from your Deck to your hand with ? ATK, but with a different name than the cards you control. \n\"Helios\" monsters you control cannot be banished.",
+  "text": "Amnael / Skill\n[ Skill Activation ]\nAt the start of the Duel, flip this card over.\n\n[ Skill Effect ]\nOnce per turn, during your Main Phase, if you control a monster whose ATK was ? in the Deck, you can banish 1 card from your hand, then add 1 monster from your Deck to your hand with ? ATK, but with a different name than the cards you control. \n\"Helios\" monsters you control cannot be banished.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300302072.jpg"
   ],

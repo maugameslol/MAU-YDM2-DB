@@ -3,7 +3,7 @@
   "name": "Magician\u0027s Act (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Arkana / Skill\n[ACTIVATION]\nAt the start of the Duel, flip this card over.\n\n[EFFECT]\nActivate 1 of the following Skills at the start of the Duel.\n\u25cf Add 1 \"Dark Magician\" from your Deck to your hand, then shuffle 1 card from your hand into the Deck.\n\u25cf Shuffle 1 \"Dark Magician\" from your hand into the Deck, then draw 1 card.\nDuring your Main Phase, you can Tribute 1 monster whose original name is \"Dark Magician\" to draw 2 cards.\nEach of these Skills can only be used once per Duel.",
+  "text": "Arkana / Skill\n[ Skill Activation ]\nAt the start of the Duel, flip this card over.\n\n[ Skill Effect ]\nActivate 1 of the following Skills at the start of the Duel.\n\u25cf Add 1 \"Dark Magician\" from your Deck to your hand, then shuffle 1 card from your hand into the Deck.\n\u25cf Shuffle 1 \"Dark Magician\" from your hand into the Deck, then draw 1 card.\nDuring your Main Phase, you can Tribute 1 monster whose original name is \"Dark Magician\" to draw 2 cards.\nEach of these Skills can only be used once per Duel.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300302013.jpg"
   ],

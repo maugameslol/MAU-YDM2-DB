@@ -3,7 +3,7 @@
   "name": "White Wing Magician",
   "is_illegal": false,
   "is_custom": false,
-  "text": "(This card is always treated as a \"Synchro Dragon\" card.)\nIf this Pendulum Summoned card is used for a Synchro Summon, banish it.",
+  "text": "[MONSTER EFFECT]\n(This card is always treated as a \"Synchro Dragon\" card.)\nIf this Pendulum Summoned card is used for a Synchro Summon, banish it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/11067666.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 1400,
   "level": 4,
   "is_tuner": true,
-  "pendulum_text": "Once per turn, when an activated card or effect resolves that targets a DARK Spellcaster-Type monster you control, negate that effect, then destroy this card.\n",
+  "pendulum_text": "[PENDULUM EFFECT]\nOnce per turn, when an activated card or effect resolves that targets a DARK Spellcaster-Type monster you control, negate that effect, then destroy this card.",
   "pendulum_scale_left_blue": 1,
   "pendulum_scale_right_red": 1
 }
