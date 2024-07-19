@@ -3,7 +3,7 @@
   "name": "Dinomight Powerload, the Dracoslayer",
   "is_illegal": false,
   "is_custom": false,
-  "text": "(This card is always treated as a \"Dinomist\" card.)\nIf this card is Tributed: You can add 1 face-up \"Dracoslayer\" or \"Dinomist\" Pendulum Monster from your Extra Deck to your hand, except \"Dinomight Powerload, the Dracoslayer\". You can only use this effect of \"Dinomight Powerload, the Dracoslayer\" once per turn.",
+  "text": "[ Monster Effect ]\n(This card is always treated as a \"Dinomist\" card.)\nIf this card is Tributed: You can add 1 face-up \"Dracoslayer\" or \"Dinomist\" Pendulum Monster from your Extra Deck to your hand, except \"Dinomight Powerload, the Dracoslayer\".\nYou can only use this effect of \"Dinomight Powerload, the Dracoslayer\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/28720123.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 1800,
   "level": 4,
   "is_tuner": false,
-  "pendulum_text": "You can target 1 \"Dracoslayer\" or \"Dinomist\" card in your other Pendulum Zone; Special Summon it. You can only use this effect of \"Dinomight Powerload, the Dracoslayer\" once per turn.",
+  "pendulum_text": "[ Pendulum Effect ]\nYou can target 1 \"Dracoslayer\" or \"Dinomist\" card in your other Pendulum Zone; Special Summon it.\nYou can only use this effect of \"Dinomight Powerload, the Dracoslayer\" once per turn.",
   "pendulum_scale_left_blue": 6,
   "pendulum_scale_right_red": 6
 }

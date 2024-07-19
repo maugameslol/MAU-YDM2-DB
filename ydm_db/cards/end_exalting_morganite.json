@@ -1,0 +1,12 @@
+{
+  "id": 101206065,
+  "name": "End-Exalting Morganite",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "For the rest of this Duel, apply the following effects.\n\u25cf You cannot activate monster effects in the hand.\n\u25cf Your monsters can make up to 2 attacks on monsters during each Battle Phase.\n\u25cf If your monster battles an opponent's monster, any battle damage it inflicts to your opponent is doubled.\nYou can banish this card from your GY; add 1 \"Morganite\" card from your Deck to your hand, then place 1 card from your hand on the bottom of the Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/101206065.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

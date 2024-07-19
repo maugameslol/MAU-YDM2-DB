@@ -1,0 +1,21 @@
+{
+  "id": 501000013,
+  "name": "Grizzly, the Red Star Beast",
+  "is_illegal": true,
+  "is_custom": false,
+  "text": "1 EARTH Tuner + 2+ non-Tuner Beast-Type monsters\nMust be Synchro Summoned, and cannot be Special Summoned by other ways. If this card attacks your opponent directly and reduces their LP to 0, you win the Match.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/501000013.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 2700,
+  "species": "Beast",
+  "ability": "Synchro",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
+  "def": 2300,
+  "level": 8,
+  "is_tuner": false
+}

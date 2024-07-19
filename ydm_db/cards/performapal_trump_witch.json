@@ -3,7 +3,7 @@
   "name": "Performapal Trump Witch",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Tribute this card; add 1 \"Polymerization\" from your Deck or Graveyard to your hand.",
+  "text": "[ Monster Effect ]\nYou can Tribute this card; add 1 \"Polymerization\" from your Deck or Graveyard to your hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/91584698.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 100,
   "level": 1,
   "is_tuner": false,
-  "pendulum_text": "Once per turn: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters you control as Fusion Materials.\n",
+  "pendulum_text": "[ Pendulum Effect ]\nOnce per turn: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters you control as Fusion Materials.",
   "pendulum_scale_left_blue": 4,
   "pendulum_scale_right_red": 4
 }
