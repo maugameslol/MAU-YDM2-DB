@@ -3,7 +3,7 @@
   "name": "Toon Masked Sorcerer",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot attack the turn it is Summoned. \nIf \"Toon World\" on the field is destroyed, destroy this card. \nWhile you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack your opponent directly. \nIf this card inflicts battle damage to your opponent: Draw 1 card.",
+  "text": "Cannot attack the turn it is Summoned.\nIf \"Toon World\" on the field is destroyed, destroy this card.\nWhile you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack your opponent directly.\nIf this card inflicts battle damage to your opponent: Draw 1 card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/16392422.jpg"
   ],

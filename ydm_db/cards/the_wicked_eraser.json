@@ -3,7 +3,7 @@
   "name": "The Wicked Eraser",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card cannot be Special Summoned. This card cannot be Normal Summoned or Set except by Tributing 3 monsters. \nThe ATK and DEF of this card are each equal to the number of cards your opponent controls x 1000. \nWhen this card is destroyed and sent to the Graveyard, destroy all cards on the field. \nDuring your Main Phase, you can destroy this card.",
+  "text": "This card cannot be Special Summoned. This card cannot be Normal Summoned or Set except by Tributing 3 monsters.\nThe ATK and DEF of this card are each equal to the number of cards your opponent controls x 1000.\nWhen this card is destroyed and sent to the Graveyard, destroy all cards on the field.\nDuring your Main Phase, you can destroy this card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/57793869.jpg"
   ],

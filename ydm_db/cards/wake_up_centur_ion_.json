@@ -3,7 +3,7 @@
   "name": "Wake Up Centur-Ion!",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If a face-up Monster Card is in your Spell \u0026 Trap Zone: Declare a Level of 4 or 8; Special Summon 1 \"Centur-Ion Token\" (Pyro/DARK/ATK 0/DEF 0) with that Level, but it cannot be used as Fusion or Link Material. \nDuring your Main Phase: You can banish this card from your GY; send 1 \"Centur-Ion\" card from your Deck to the GY, except \"Wake Up Centur-Ion!\". \nYou can only use each effect of \"Wake Up Centur-Ion!\" once per turn.",
+  "text": "If a face-up Monster Card is in your Spell \u0026 Trap Zone: Declare a Level of 4 or 8; Special Summon 1 \"Centur-Ion Token\" (Pyro/DARK/ATK 0/DEF 0) with that Level, but it cannot be used as Fusion or Link Material.\nDuring your Main Phase: You can banish this card from your GY; send 1 \"Centur-Ion\" card from your Deck to the GY, except \"Wake Up Centur-Ion!\".\nYou can only use each effect of \"Wake Up Centur-Ion!\" once per turn.",
   "images": ["https://images.ygoprodeck.com/images/cards/92907248.jpg"],
   "type": "Spell",
   "spell_type": "Quick-Play"

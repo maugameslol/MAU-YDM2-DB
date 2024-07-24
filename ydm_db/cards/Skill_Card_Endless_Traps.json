@@ -3,7 +3,7 @@
   "name": "Endless Traps (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Odion / Skill\n[ Skill Activation ]\nFlip this card over when you activate this Skill.\n\n[ Skill Effect ]\nIf you have exactly 3 Traps in your GY, randomly add 1 Trap from your GY to your hand, randomly shuffle 1 Trap from your GY into your Deck, then randomly banish 1 Trap from your GY. \nThis Skill can only be used once per Duel.",
+  "text": "Odion / Skill\n[ Skill Activation ]\nFlip this card over when you activate this Skill.\n\n[ Skill Effect ]\nIf you have exactly 3 Traps in your GY, randomly add 1 Trap from your GY to your hand, randomly shuffle 1 Trap from your GY into your Deck, then randomly banish 1 Trap from your GY.\nThis Skill can only be used once per Duel.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300302007.jpg"
   ],
