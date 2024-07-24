@@ -3,9 +3,9 @@
   "name": "Cursed Fire King Doom Burst",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If you control a Fiend Tuner: You can Special Summon this card from the hand. If this card is Special Summoned: You can target 1 face-up monster your opponent controls; it loses 600 ATK until the end of this turn. You can only use each of the previous effects of \"Cursed Fire King Doom Burst\" once per turn. If this card is destroyed and sent to the GY: You can target 1 face-up monster your opponent controls; it loses 400 ATK until the end of this turn.",
+  "text": "If you control a Fiend Tuner: You can Special Summon this card from the hand.\nIf this card is Special Summoned: You can target 1 face-up monster your opponent controls; it loses 600 ATK until the end of this turn.\nYou can only use each of the previous effects of \"Cursed Fire King Doom Burst\" once per turn.\nIf this card is destroyed and sent to the GY: You can target 1 face-up monster your opponent controls; it loses 400 ATK until the end of this turn.",
   "images": [
-    "https://api.cardcluster.com/storage/tmp/TMP-CARD-13260-f2512d2c90.jpg"
+    "https://images.ygoprodeck.com/images/cards/26857786.jpg"
   ],
   "type": "Monster",
   "attribute": "FIRE",
