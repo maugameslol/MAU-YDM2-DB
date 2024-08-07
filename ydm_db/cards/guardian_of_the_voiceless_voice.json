@@ -3,7 +3,7 @@
   "name": "Guardian of the Voiceless Voice",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If a non-Ritual Monster(s) you control is destroyed by battle or card effect: You can Special Summon 1 \"Skull Guardian\" from your hand or Deck. You can send this face-up card from the Spell \u0026 Trap Zone to the GY, then target 1 Ritual Monster you control; it gains ATK equal to the total original ATK of all other monsters currently on the field, until the end of this turn. You can only use each effect of \"Guardian of the Voiceless Voice\" once per turn, and cannot activate more than 1 in the same Chain.",
+  "text": "If a non-Ritual Monster(s) you control is destroyed by battle or card effect: You can Special Summon 1 \"Skull Guardian\" from your hand or Deck. You can send this face-up card from the Spell \u0026 Trap Zone to the GY, then target 1 Ritual Monster you control; it gains ATK equal to the total original ATK of all other monsters currently on the field, until the end of this turn.\nYou can only use each effect of \"Guardian of the Voiceless Voice\" once per turn, and cannot activate more than 1 in the same Chain.",
   "images": ["https://ms.yugipedia.com//4/4f/GuardianoftheVoicelessVoice-INFO-JP-C.png"],
   "type": "Trap",
   "trap_type": "Continuous"

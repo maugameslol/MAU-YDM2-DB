@@ -3,7 +3,7 @@
   "name": "Fiendsmith Dies Irae",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"The Fiendsmith\" + 2 LIGHT Fiend monsters\n(Quick Effect): You can negate the effects of a number of face-up cards on the field up to the total Link Ratings of the Link Monsters equipped to this card, until the end of this turn. If this card is sent to the GY: You can shuffle 1 other LIGHT Fiend monster from your GY into the Deck/Extra Deck, then target 1 card on the field; send it to the GY. You can only use each effect of \"Fiendsmith Dies Irae\" once per turn.",
+  "text": "\"The Fiendsmith\" + 2 LIGHT Fiend monsters\n(Quick Effect): You can negate the effects of a number of face-up cards on the field up to the total Link Ratings of the Link Monsters equipped to this card, until the end of this turn. If this card is sent to the GY: You can shuffle 1 other LIGHT Fiend monster from your GY into the Deck/Extra Deck, then target 1 card on the field; send it to the GY.\nYou can only use each effect of \"Fiendsmith Dies Irae\" once per turn.",
   "images": ["https://images.ygoprodeck.com/images/cards/82135803.jpg"],
   "type": "Monster",
   "attribute": "LIGHT",

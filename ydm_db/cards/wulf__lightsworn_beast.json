@@ -3,7 +3,7 @@
   "name": "Wulf, Lightsworn Beast",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect. If this card is sent from your Deck to the GY: Special Summon it.",
+  "text": "Cannot be Normal Summoned/Set.\nMust be Special Summoned by a card effect. If this card is sent from your Deck to the GY: Special Summon it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/58996430.jpg"
   ],

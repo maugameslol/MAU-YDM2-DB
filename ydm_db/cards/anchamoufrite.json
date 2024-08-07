@@ -3,7 +3,7 @@
   "name": "Anchamoufrite",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ MONSTER EFFECT ]\nCannot be Normal Summoned/Set. Must be Special Summoned (from your face-up Extra Deck) by having no cards in your Extra Deck except \"Anchamoufrite\".\nYou can only Special Summon \"Anchamoufrite\" once per turn this way.\nIf this face-up card in the Monster Zone leaves the field, banish it.",
+  "text": "[ MONSTER EFFECT ]\nCannot be Normal Summoned/Set.\nMust be Special Summoned (from your face-up Extra Deck) by having no cards in your Extra Deck except \"Anchamoufrite\".\nYou can only Special Summon \"Anchamoufrite\" once per turn this way.\nIf this face-up card in the Monster Zone leaves the field, banish it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/52296675.jpg"
   ],

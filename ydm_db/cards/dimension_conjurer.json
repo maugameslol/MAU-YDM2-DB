@@ -3,7 +3,7 @@
   "name": "Dimension Conjurer",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is Normal or Special Summoned: You can add 1 \"Magical Dimension\" from your Deck or GY to your hand. If this card is sent from the Monster Zone to the GY: You can draw cards equal to the number of Spellcaster monsters you control, then place the same number of cards from your hand on top of the Deck in any order. You can only use each effect of \"Dimension Conjurer\" once per turn.",
+  "text": "If this card is Normal or Special Summoned: You can add 1 \"Magical Dimension\" from your Deck or GY to your hand. If this card is sent from the Monster Zone to the GY: You can draw cards equal to the number of Spellcaster monsters you control, then place the same number of cards from your hand on top of the Deck in any order.\nYou can only use each effect of \"Dimension Conjurer\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/77683371.jpg"
   ],

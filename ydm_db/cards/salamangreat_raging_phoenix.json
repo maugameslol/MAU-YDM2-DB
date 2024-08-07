@@ -3,7 +3,7 @@
   "name": "Salamangreat Raging Phoenix",
   "is_illegal": false,
   "is_custom": false,
-  "text": "2+ FIRE Effect Monsters\nIf this card is Link Summoned using \"Salamangreat Raging Phoenix\" as material: You can add 1 \"Salamangreat\" card from your Deck to your hand. If a face-up FIRE monster(s) you control is destroyed by battle or card effect while this card is in your GY: You can target 1 of those monsters; Special Summon this card, and if you do, this card gains ATK equal to that monster\u0027s ATK. You can only use each effect of \"Salamangreat Raging Phoenix\" once per turn.",
+  "text": "2+ FIRE Effect Monsters\nIf this card is Link Summoned using \"Salamangreat Raging Phoenix\" as material: You can add 1 \"Salamangreat\" card from your Deck to your hand. If a face-up FIRE monster(s) you control is destroyed by battle or card effect while this card is in your GY: You can target 1 of those monsters; Special Summon this card, and if you do, this card gains ATK equal to that monster\u0027s ATK.\nYou can only use each effect of \"Salamangreat Raging Phoenix\" once per turn.",
   "images": ["https://images.ygoprodeck.com/images/cards/57134592.jpg"],
   "type": "Monster",
   "attribute": "FIRE",

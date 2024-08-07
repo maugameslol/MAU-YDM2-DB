@@ -3,7 +3,7 @@
   "name": "Photon Thrasher",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) while you control no monsters. Cannot attack if you control another monster.",
+  "text": "Cannot be Normal Summoned/Set.\nMust first be Special Summoned (from your hand) while you control no monsters. Cannot attack if you control another monster.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/65367484.jpg"
   ],

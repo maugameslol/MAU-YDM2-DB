@@ -3,7 +3,7 @@
   "name": "Ghost Ship",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Normal Summoned or Set. Must first be Special Summoned (from your hand) by banishing 1 LIGHT monster from your Graveyard.",
+  "text": "Cannot be Normal Summoned/Set.\nMust first be Special Summoned (from your hand) by banishing 1 LIGHT monster from your Graveyard.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/33347467.jpg"
   ],

@@ -3,7 +3,7 @@
   "name": "Division",
   "is_illegal": false,
   "is_custom": false,
-  "text": "You can Tribute all face-up \"Division(s)\" you control: Special Summon up to twice that many \"Machine Tokens\" (Machine/FIRE/Level 1/ATK 200/DEF 200), and each time 1 is destroyed, your opponent takes 500 damage. If this card is banished: You can target any number of Tokens you control; destroy them. You can only use each effect of \"Division\" once per turn.",
+  "text": "You can Tribute all face-up \"Division(s)\" you control: Special Summon up to twice that many \"Machine Tokens\" (Machine/FIRE/Level 1/ATK 200/DEF 200), and each time 1 is destroyed, your opponent takes 500 damage. If this card is banished: You can target any number of Tokens you control; destroy them.\nYou can only use each effect of \"Division\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/42427230.jpg"
   ],

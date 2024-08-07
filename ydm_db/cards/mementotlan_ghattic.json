@@ -3,7 +3,7 @@
   "name": "Mementotlan Ghattic",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is Normal or Special Summoned: You can target 1 \"Memento\" card in your GY, except \"Mementotlan Ghattic\"; add it to your hand. If this card is sent to the GY by a \"Memento\" monster\u0027s effect: You can Special Summon this card. You can only use each effect of \"Mementotlan Ghattic\" once per turn.",
+  "text": "If this card is Normal or Special Summoned: You can target 1 \"Memento\" card in your GY, except \"Mementotlan Ghattic\"; add it to your hand. If this card is sent to the GY by a \"Memento\" monster\u0027s effect: You can Special Summon this card.\nYou can only use each effect of \"Mementotlan Ghattic\" once per turn.",
   "images": ["https://images.ygoprodeck.com/images/cards/52918032.jpg"],
   "type": "Monster",
   "attribute": "DARK",

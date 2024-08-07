@@ -3,7 +3,7 @@
   "name": "Cattycorn",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If this card is Special Summoned while you control no card in your Field Zone: You can add 1 Field Spell from your Deck to your hand. If this card is destroyed by battle or card effect and sent to the GY: You can target 1 Field Spell in your GY; add 1 card with its name from your Deck to your hand. You can only use each effect of \"Cattycorn\" once per turn.",
+  "text": "If this card is Special Summoned while you control no card in your Field Zone: You can add 1 Field Spell from your Deck to your hand. If this card is destroyed by battle or card effect and sent to the GY: You can target 1 Field Spell in your GY; add 1 card with its name from your Deck to your hand.\nYou can only use each effect of \"Cattycorn\" once per turn.",
   "images": ["https://images.ygoprodeck.com/images/cards/61245403.jpg"],
   "type": "Monster",
   "attribute": "EARTH",

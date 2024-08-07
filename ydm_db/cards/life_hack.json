@@ -3,7 +3,7 @@
   "name": "Life Hack",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Target 1 face-up monster on the field; any damage your opponent takes this turn is halved, also that monster\u0027s ATK becomes equal to your opponent\u0027s current LP until the end of this turn. During your Main Phase: You can banish this card from your GY, then target 1 face-up monster on the field; any damage your opponent takes this turn is halved, also that monster\u0027s ATK becomes equal to your current LP until the end of this turn. You can only use each effect of \"Life Hack\" once per turn.",
+  "text": "Target 1 face-up monster on the field; any damage your opponent takes this turn is halved, also that monster\u0027s ATK becomes equal to your opponent\u0027s current LP until the end of this turn. During your Main Phase: You can banish this card from your GY, then target 1 face-up monster on the field; any damage your opponent takes this turn is halved, also that monster\u0027s ATK becomes equal to your current LP until the end of this turn.\nYou can only use each effect of \"Life Hack\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/83589191.jpg"
   ],

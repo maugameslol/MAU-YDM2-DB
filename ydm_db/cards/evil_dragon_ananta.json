@@ -3,7 +3,7 @@
   "name": "Evil Dragon Ananta",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by removing from play all Reptile-Type monsters from your side of the field and Graveyard.\nThis card\u0027s ATK and DEF are each equal to the number of monsters you removed x 600.\nDuring each of your End Phases, destroy 1 card on the field.",
+  "text": "This card Cannot be Normal Summoned/Set.\nThis card cannot be Special Summoned except by removing from play all Reptile-Type monsters from your side of the field and Graveyard.\nThis card\u0027s ATK and DEF are each equal to the number of monsters you removed x 600.\nDuring each of your End Phases, destroy 1 card on the field.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/8400623.jpg"
   ],

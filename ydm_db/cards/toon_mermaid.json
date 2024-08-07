@@ -3,7 +3,7 @@
   "name": "Toon Mermaid",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand), while you control \"Toon World\".\nCannot attack the turn it is Special Summoned.\nYou must pay 500 LP to declare an attack with this monster.\nIf \"Toon World\" on the field is destroyed, destroy this card.\nCan attack your opponent directly, unless they control a Toon monster, in which case this card must target a Toon monster for its attacks.",
+  "text": "Cannot be Normal Summoned/Set.\nMust first be Special Summoned (from your hand), while you control \"Toon World\".\nCannot attack the turn it is Special Summoned.\nYou must pay 500 LP to declare an attack with this monster.\nIf \"Toon World\" on the field is destroyed, destroy this card.\nCan attack your opponent directly, unless they control a Toon monster, in which case this card must target a Toon monster for its attacks.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/65458948.jpg"
   ],

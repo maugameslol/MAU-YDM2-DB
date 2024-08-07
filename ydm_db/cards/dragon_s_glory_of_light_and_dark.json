@@ -3,7 +3,7 @@
   "name": "Dragon\u0027s Glory of Light and Dark",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Activate 1 of these effects (but you can only use each effect of this card\u0027s name once per turn);\n\u25cf Shuffle 1 Level 8 Dragon monster from your hand into the Deck, and if you do, add 1 Level 8 Dragon monster with a different Attribute from your Deck to your hand.\n\u25cf Target 1 Dragon monster you control; it gains ATK equal to its Level x 200.\n\u25cf When a card or effect is activated that targets a Dragon monster(s) you control: Negate that effect.",
+  "text": "Activate 1 of these effects (but\nYou can only use each effect of this card\u0027s name once per turn);\n\u25cf Shuffle 1 Level 8 Dragon monster from your hand into the Deck, and if you do, add 1 Level 8 Dragon monster with a different Attribute from your Deck to your hand.\n\u25cf Target 1 Dragon monster you control; it gains ATK equal to its Level x 200.\n\u25cf When a card or effect is activated that targets a Dragon monster(s) you control: Negate that effect.",
   "images": ["https://images.ygoprodeck.com/images/cards/63295720.jpg"],
   "type": "Spell",
   "spell_type": "Quick-Play"

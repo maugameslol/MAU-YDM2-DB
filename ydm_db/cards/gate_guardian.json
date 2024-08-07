@@ -3,7 +3,7 @@
   "name": "Gate Guardian",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 \"Sanga of the Thunder\", \"Kazejin\", and \"Suijin\".",
+  "text": "Cannot be Normal Summoned/Set.\nMust first be Special Summoned (from your hand) by Tributing 1 \"Sanga of the Thunder\", \"Kazejin\", and \"Suijin\".",
   "images": [
     "https://images.ygoprodeck.com/images/cards/25833572.jpg"
   ],

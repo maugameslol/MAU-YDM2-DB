@@ -3,7 +3,7 @@
   "name": "Smile Potion",
   "is_illegal": false,
   "is_custom": false,
-  "text": "If your opponent controls a monster whose current ATK is higher than its original ATK, while you control no monsters: Draw 2 cards. You can only activate 1 \"Smile Potion\" per turn.",
+  "text": "If your opponent controls a monster whose current ATK is higher than its original ATK, while you control no monsters: Draw 2 cards.\nYou can only activate 1 \"Smile Potion\" per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/16720314.jpg"
   ],

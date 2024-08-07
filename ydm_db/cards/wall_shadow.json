@@ -3,7 +3,7 @@
   "name": "Wall Shadow",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Normal Summoned/Set. Must first be Special Summoned with \"Magical Labyrinth\".",
+  "text": "Cannot be Normal Summoned/Set.\nMust first be Special Summoned with \"Magical Labyrinth\".",
   "images": [
     "https://images.ygoprodeck.com/images/cards/63162310.jpg"
   ],

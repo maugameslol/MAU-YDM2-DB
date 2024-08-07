@@ -3,7 +3,7 @@
   "name": "Banishment of the Darklords",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Add 1 \"Darklord\" card from your Deck to your hand, except \"Banishment of the Darklords\". You can only activate 1 \"Banishment of the Darklords\" per turn.",
+  "text": "Add 1 \"Darklord\" card from your Deck to your hand, except \"Banishment of the Darklords\".\nYou can only activate 1 \"Banishment of the Darklords\" per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/87112784.jpg"
   ],
