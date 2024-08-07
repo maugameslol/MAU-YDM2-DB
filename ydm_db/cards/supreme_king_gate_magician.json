@@ -3,7 +3,7 @@
   "name": "Supreme King Gate Magician",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Monster Effect ]\nIf you have a \"Supreme King Gate\" card in your Pendulum Zone, except \"Supreme King Gate Magician\": You can send 1 \"Pendulum Dragon\", \"Xyz Dragon\", \"Synchro Dragon\", or \"Fusion Dragon\" monster from your hand or Extra Deck to the GY, and if you do, Special Summon this card from your hand.\nIf this card is Special Summoned: You can add 1 card that mentions \"Supreme King Z-ARC\" from your Deck to your hand, except a Spellcaster monster.\nYou can only use each effect of \"Supreme King Gate Magician\" once per turn.",
+  "text": "[ MONSTER EFFECT ]\nIf you have a \"Supreme King Gate\" card in your Pendulum Zone, except \"Supreme King Gate Magician\": You can send 1 \"Pendulum Dragon\", \"Xyz Dragon\", \"Synchro Dragon\", or \"Fusion Dragon\" monster from your hand or Extra Deck to the GY, and if you do, Special Summon this card from your hand.\nIf this card is Special Summoned: You can add 1 card that mentions \"Supreme King Z-ARC\" from your Deck to your hand, except a Spellcaster monster.\nYou can only use each effect of \"Supreme King Gate Magician\" once per turn.",
   "images": ["https://images.ygoprodeck.com/images/cards/14513273.jpg"],
   "type": "Monster",
   "attribute": "LIGHT",
@@ -16,7 +16,7 @@
   "def": 2000,
   "level": 7,
   "is_tuner": false,
-  "pendulum_text": "[ Pendulum Effect ]\n\"Supreme King Z-ARC\" you control cannot be banished by your opponent\u0027s card effects.\nDuring your Main Phase: You can destroy this card, and if you do, place 1 \"Supreme King Gate\" Pendulum Monster from your hand or Deck in your Pendulum Zone, except \"Supreme King Gate Magician\".\nYou can only use this effect of \"Supreme King Gate Magician\" once per turn.",
+  "pendulum_text": "[ PENDULUM EFFECT ]\n\"Supreme King Z-ARC\" you control cannot be banished by your opponent\u0027s card effects.\nDuring your Main Phase: You can destroy this card, and if you do, place 1 \"Supreme King Gate\" Pendulum Monster from your hand or Deck in your Pendulum Zone, except \"Supreme King Gate Magician\".\nYou can only use this effect of \"Supreme King Gate Magician\" once per turn.",
   "pendulum_scale_left_blue": 1,
   "pendulum_scale_right_red": 1
 }

@@ -1,0 +1,12 @@
+{
+  "id": 300302087,
+  "name": "A Bountiful Ocean (Skill Card)",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Mako / Skill\n[ SKILL ACTIVATION ]\nAt the start of the Duel, flip this card over.\n\n[ SKILL EFFECT ]\nWhile \"Umi\" is face-up on the field, apply the following:\n\u25cf Non-Effect WATER monsters you control are unaffected by non-WATER monster effects.\n\u25cf Once per turn, you can add 1 WATER monster from your GY to your hand, but for the rest of this turn, you cannot activate cards or effects, until you Normal Summon that monster or a card with its name.",
+  "images": [
+    "https://ms.yugipedia.com//d/d3/ABountifulOcean-SBC1-EN-C-1E.png"
+	],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

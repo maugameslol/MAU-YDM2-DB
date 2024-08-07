@@ -3,7 +3,7 @@
   "name": "Lector Pendulum, the Dracoverlord",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Monster Effect ]\nAt the start of the Damage Step, if this card battles a Pendulum Monster: Destroy both that monster and this card.",
+  "text": "[ MONSTER EFFECT ]\nAt the start of the Damage Step, if this card battles a Pendulum Monster: Destroy both that monster and this card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/7127502.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 0,
   "level": 4,
   "is_tuner": false,
-  "pendulum_text": "[ Pendulum Effect ]\nNegate the effects of face-up Pendulum Monsters while your opponent controls them.",
+  "pendulum_text": "[ PENDULUM EFFECT ]\nNegate the effects of face-up Pendulum Monsters while your opponent controls them.",
   "pendulum_scale_left_blue": 5,
   "pendulum_scale_right_red": 5
 }

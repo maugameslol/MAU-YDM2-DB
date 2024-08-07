@@ -1,0 +1,12 @@
+{
+  "id": 300302046,
+  "name": "Chemistry in Motion (Skill Card)",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Bastion / Skill\n[ SKILL ACTIVATION ]\nAt the start of the Duel, flip this card over.\n\n[ SKILL EFFECT ]\nOnce per turn, you can place 1 counter on this card, then apply the appropriate effect depending on the number of counters on this card.\n1: Discard 1 Dinosaur monster, then add 1 Dinosaur monster with a different Attribute from your Deck to your hand.\n2: Normal Summon 1 WIND or WATER Dinosaur monster from your hand.\n3: The names of all WATER Dinosaur monsters you currently control become \"Hydrogeddon\" (until the end of this turn), then add 1 \"Bonding - H2O\" from your Deck or GY to your hand.\n4: Remove all counters from this card, then change the Attributes/Types of all face-up monsters your opponent currently controls to FIRE/Pyro, until the end of this turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/300302046.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -3,7 +3,7 @@
   "name": "Performapal Gold Fang",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Monster Effect ]\nIf this card is Normal or Special Summoned: All \"Performapal\" monsters you currently control gain 200 ATK until the end of this turn.",
+  "text": "[ MONSTER EFFECT ]\nIf this card is Normal or Special Summoned: All \"Performapal\" monsters you currently control gain 200 ATK until the end of this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/64207696.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 700,
   "level": 4,
   "is_tuner": false,
-  "pendulum_text": "[ Pendulum Effect ]\nOnce per turn, if your \"Performapal\" monster destroys an opponent\u0027s monster by battle: Inflict 1000 damage to your opponent.",
+  "pendulum_text": "[ PENDULUM EFFECT ]\nOnce per turn, if your \"Performapal\" monster destroys an opponent\u0027s monster by battle: Inflict 1000 damage to your opponent.",
   "pendulum_scale_left_blue": 3,
   "pendulum_scale_right_red": 3
 }

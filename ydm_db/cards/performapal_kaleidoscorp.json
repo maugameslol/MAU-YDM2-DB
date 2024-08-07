@@ -3,7 +3,7 @@
   "name": "Performapal Kaleidoscorp",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Monster Effect ]\nOnce per turn: You can target 1 face-up monster you control; this turn, it can attack all Special Summoned monsters your opponent controls, once each.",
+  "text": "[ MONSTER EFFECT ]\nOnce per turn: You can target 1 face-up monster you control; this turn, it can attack all Special Summoned monsters your opponent controls, once each.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/78835747.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 2300,
   "level": 6,
   "is_tuner": false,
-  "pendulum_text": "[ Pendulum Effect ]\nAll LIGHT monsters you control gain 300 ATK.",
+  "pendulum_text": "[ PENDULUM EFFECT ]\nAll LIGHT monsters you control gain 300 ATK.",
   "pendulum_scale_left_blue": 4,
   "pendulum_scale_right_red": 4
 }

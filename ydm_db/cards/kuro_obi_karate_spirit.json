@@ -3,7 +3,7 @@
   "name": "Kuro-Obi Karate Spirit",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Monster Effect ]\nWhen this card is Normal Summoned: You can send to the GY all Spells/Traps your opponent controls in the same column as the card(s) in your Pendulum Zones.\nOnce per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return this card to the hand.",
+  "text": "[ MONSTER EFFECT ]\nWhen this card is Normal Summoned: You can send to the GY all Spells/Traps your opponent controls in the same column as the card(s) in your Pendulum Zones.\nOnce per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return this card to the hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/77511331.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 1000,
   "level": 5,
   "is_tuner": false,
-  "pendulum_text": "[ Pendulum Effect ]\nIf a monster(s) is Pendulum Summoned: Return this card from the Pendulum Zone to the hand.",
+  "pendulum_text": "[ PENDULUM EFFECT ]\nIf a monster(s) is Pendulum Summoned: Return this card from the Pendulum Zone to the hand.",
   "pendulum_scale_left_blue": 9,
   "pendulum_scale_right_red": 9
 }

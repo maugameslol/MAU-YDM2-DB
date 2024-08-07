@@ -1,0 +1,12 @@
+{
+  "id": 300302022,
+  "name": "Ancient Fusion (Skill Card)",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Dr. Crowler / Skill\n[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nOnce per Duel, you can discard 1 card to Fusion Summon 1 \"Ancient Gear\" Fusion Monster from your Extra Deck, using monsters from your field as Fusion Material. If 1 of those materials is an \"Ancient Gear Golem\" monster, you can also use monsters from your hand and/or Deck as the other material.\nYour opponent takes no damage for the rest of this turn. Any battle damage your opponent takes from that Fusion Monster is halved.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/300302022.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -3,7 +3,7 @@
   "name": "Abyss Actor - Superstar",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Monster Effect ]\nWhen Normal or Special Summoned, your opponent\u0027s Spell/Trap Cards and effects cannot be activated.\nOnce per turn: You can Set 1 \"Abyss Script\" Spell directly from your Deck, but it is sent to the GY during the End Phase.",
+  "text": "[ MONSTER EFFECT ]\nWhen Normal or Special Summoned, your opponent\u0027s Spell/Trap Cards and effects cannot be activated.\nOnce per turn: You can Set 1 \"Abyss Script\" Spell directly from your Deck, but it is sent to the GY during the End Phase.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/25629622.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 1800,
   "level": 7,
   "is_tuner": false,
-  "pendulum_text": "[ Pendulum Effect ]\nOnce per turn: You can Tribute 1 \"Abyss Actor\" monster, then target 1 \"Abyss Script\" Spell in your GY; add it to your hand.",
+  "pendulum_text": "[ PENDULUM EFFECT ]\nOnce per turn: You can Tribute 1 \"Abyss Actor\" monster, then target 1 \"Abyss Script\" Spell in your GY; add it to your hand.",
   "pendulum_scale_left_blue": 3,
   "pendulum_scale_right_red": 3
 }

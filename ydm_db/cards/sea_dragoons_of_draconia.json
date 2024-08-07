@@ -3,7 +3,7 @@
   "name": "Sea Dragoons of Draconia",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Flavor Text ]\nSilently creeping in from the deep sea, elite black ops marine troops of the Draconia Empire wage an endless battle against the hated Principality of Dinon on the sea\u0027s opposite shores.",
+  "text": "[ FLAVOR TEXT ]\nSilently creeping in from the deep sea, elite black ops marine troops of the Draconia Empire wage an endless battle against the hated Principality of Dinon on the sea\u0027s opposite shores.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/82114013.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 2100,
   "level": 3,
   "is_tuner": false,
-  "pendulum_text": "[ Pendulum Effect ]\nWhen a monster is destroyed by battle: You can Special Summon 1 Normal Monster from your hand.\nYou can only use this effect of \"Sea Dragoons of Draconia\" once per turn.",
+  "pendulum_text": "[ PENDULUM EFFECT ]\nWhen a monster is destroyed by battle: You can Special Summon 1 Normal Monster from your hand.\nYou can only use this effect of \"Sea Dragoons of Draconia\" once per turn.",
   "pendulum_scale_left_blue": 7,
   "pendulum_scale_right_red": 7
 }

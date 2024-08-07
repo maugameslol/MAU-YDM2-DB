@@ -3,7 +3,7 @@
   "name": "Amorphage Envy",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Monster Effect ]\nIf this card is Pendulum Summoned or flipped face-up, neither player can Special Summon monsters from the Extra Deck while this card is face-up on the field, except \"Amorphage\" monsters.",
+  "text": "[ MONSTER EFFECT ]\nIf this card is Pendulum Summoned or flipped face-up, neither player can Special Summon monsters from the Extra Deck while this card is face-up on the field, except \"Amorphage\" monsters.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/33300669.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 2050,
   "level": 4,
   "is_tuner": false,
-  "pendulum_text": "[ Pendulum Effect ]\nWhile you control an \"Amorphage\" monster, neither player can activate cards or effects as Chain Link 2 or higher.\nOnce per turn, during your Standby Phase, Tribute 1 monster or destroy this card.",
+  "pendulum_text": "[ PENDULUM EFFECT ]\nWhile you control an \"Amorphage\" monster, neither player can activate cards or effects as Chain Link 2 or higher.\nOnce per turn, during your Standby Phase, Tribute 1 monster or destroy this card.",
   "pendulum_scale_left_blue": 5,
   "pendulum_scale_right_red": 5
 }

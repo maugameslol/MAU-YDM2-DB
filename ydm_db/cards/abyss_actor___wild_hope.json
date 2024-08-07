@@ -3,7 +3,7 @@
   "name": "Abyss Actor - Wild Hope",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Monster Effect ]\nOnce per turn: You can make this card gain 100 ATK for each \"Abyss Actor\" monster you currently control with different names, until the end of this turn.\nIf this card is destroyed by battle or card effect: You can add 1 \"Abyss Actor\" card from your Deck to your hand, except \"Abyss Actor - Wild Hope\".\nYou can only use this effect of \"Abyss Actor - Wild Hope\" once per turn.",
+  "text": "[ MONSTER EFFECT ]\nOnce per turn: You can make this card gain 100 ATK for each \"Abyss Actor\" monster you currently control with different names, until the end of this turn.\nIf this card is destroyed by battle or card effect: You can add 1 \"Abyss Actor\" card from your Deck to your hand, except \"Abyss Actor - Wild Hope\".\nYou can only use this effect of \"Abyss Actor - Wild Hope\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/51391183.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 1200,
   "level": 4,
   "is_tuner": false,
-  "pendulum_text": "[ Pendulum Effect ]\nOnce per turn: You can target 1 \"Abyss Actor\" card in your other Pendulum Zone; its Pendulum Scale becomes 9 until the end of this turn, also you cannot Special Summon monsters for the rest of this turn, except \"Abyss Actor\" monsters (even if this card leaves the field).",
+  "pendulum_text": "[ PENDULUM EFFECT ]\nOnce per turn: You can target 1 \"Abyss Actor\" card in your other Pendulum Zone; its Pendulum Scale becomes 9 until the end of this turn, also you cannot Special Summon monsters for the rest of this turn, except \"Abyss Actor\" monsters (even if this card leaves the field).",
   "pendulum_scale_left_blue": 2,
   "pendulum_scale_right_red": 2
 }

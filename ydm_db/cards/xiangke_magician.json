@@ -3,7 +3,7 @@
   "name": "Xiangke Magician",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Monster Effect ]\nOnce per turn, during either player\u0027s turn: You can target 1 LIGHT monster on the field; that face-up monster has its effects negated until the end of this turn.",
+  "text": "[ MONSTER EFFECT ]\nOnce per turn, during either player\u0027s turn: You can target 1 LIGHT monster on the field; that face-up monster has its effects negated until the end of this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/71692913.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 500,
   "level": 7,
   "is_tuner": false,
-  "pendulum_text": "[ Pendulum Effect ]\nOnce per turn: You can target 1 face-up Xyz Monster you control; this turn, you can use it as an Xyz Material for an Xyz Summon using its Rank as if it were a Level (even if this card leaves the field).",
+  "pendulum_text": "[ PENDULUM EFFECT ]\nOnce per turn: You can target 1 face-up Xyz Monster you control; this turn, you can use it as an Xyz Material for an Xyz Summon using its Rank as if it were a Level (even if this card leaves the field).",
   "pendulum_scale_left_blue": 3,
   "pendulum_scale_right_red": 3
 }

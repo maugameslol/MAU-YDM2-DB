@@ -3,7 +3,7 @@
   "name": "Igknight Gallant",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Flavor Text ]\nA leader of the most dashing Igknight commando unit. His greatest challenge is keeping the hot tempers of his men under control.",
+  "text": "[ FLAVOR TEXT ]\nA leader of the most dashing Igknight commando unit. His greatest challenge is keeping the hot tempers of his men under control.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/96802306.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 2200,
   "level": 6,
   "is_tuner": false,
-  "pendulum_text": "[ Pendulum Effect ]\nIf you have an \"Igknight\" card in your other Pendulum Zone: You can destroy both cards in your Pendulum Zones, and if you do, add 1 FIRE Warrior-Type monster from your Deck or Graveyard to your hand.",
+  "pendulum_text": "[ PENDULUM EFFECT ]\nIf you have an \"Igknight\" card in your other Pendulum Zone: You can destroy both cards in your Pendulum Zones, and if you do, add 1 FIRE Warrior-Type monster from your Deck or Graveyard to your hand.",
   "pendulum_scale_left_blue": 2,
   "pendulum_scale_right_red": 2
 }

@@ -1,0 +1,12 @@
+{
+  "id": 300302031,
+  "name": "Here Goes Something! (Skill Card)",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Jaden / Skill\n[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nOnce per Duel, you can activate this Skill at the start of your Battle Phase, while you control exactly 1 \"Elemental HERO\" monster (and no other monsters).\nFor the rest of this turn, that 1 monster gains 800 ATK while battling an opponent\u0027s monster and can attack all monsters your opponent controls, once each, also you cannot Special Summon monsters for the rest of this turn.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/300302031.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

@@ -3,7 +3,7 @@
   "name": "Guiding Ariadne",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Monster Effect ]\nIf this card is destroyed by battle or card effect: You can reveal 3 Counter Traps from your Deck, your opponent chooses 1 for you to add to your hand, and you shuffle the rest back into your Deck.",
+  "text": "[ MONSTER EFFECT ]\nIf this card is destroyed by battle or card effect: You can reveal 3 Counter Traps from your Deck, your opponent chooses 1 for you to add to your hand, and you shuffle the rest back into your Deck.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/98301564.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 800,
   "level": 4,
   "is_tuner": false,
-  "pendulum_text": "[ Pendulum Effect ]\nApply these effects.\n\u25cf You do not pay LP to activate Counter Trap Cards.\n\u25cf You do not discard to activate Counter Trap Cards.",
+  "pendulum_text": "[ PENDULUM EFFECT ]\nApply these effects.\n\u25cf You do not pay LP to activate Counter Trap Cards.\n\u25cf You do not discard to activate Counter Trap Cards.",
   "pendulum_scale_left_blue": 3,
   "pendulum_scale_right_red": 3
 }

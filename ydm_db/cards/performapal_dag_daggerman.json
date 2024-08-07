@@ -3,7 +3,7 @@
   "name": "Performapal Dag Daggerman",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Monster Effect ]\nDuring your Main Phase, if this card was Pendulum Summoned this turn: You can send 1 \"Performapal\" monster from your hand to the Graveyard; draw 1 card.\nYou can only use this effect of \"Performapal Dag Daggerman\" once per turn.",
+  "text": "[ MONSTER EFFECT ]\nDuring your Main Phase, if this card was Pendulum Summoned this turn: You can send 1 \"Performapal\" monster from your hand to the Graveyard; draw 1 card.\nYou can only use this effect of \"Performapal Dag Daggerman\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/17540705.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 600,
   "level": 5,
   "is_tuner": false,
-  "pendulum_text": "[ Pendulum Effect ]\nDuring your Main Phase, if this card was activated this turn: You can target 1 \"Performapal\" monster in your Graveyard; add it to your hand.\nYou can only use this effect of \"Performapal Dag Daggerman\" once per turn.",
+  "pendulum_text": "[ PENDULUM EFFECT ]\nDuring your Main Phase, if this card was activated this turn: You can target 1 \"Performapal\" monster in your Graveyard; add it to your hand.\nYou can only use this effect of \"Performapal Dag Daggerman\" once per turn.",
   "pendulum_scale_left_blue": 2,
   "pendulum_scale_right_red": 2
 }

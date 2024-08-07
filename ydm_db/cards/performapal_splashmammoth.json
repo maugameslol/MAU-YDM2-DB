@@ -3,7 +3,7 @@
   "name": "Performapal Splashmammoth",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Monster Effect ]\nDuring your Main Phase: You can Fusion Summon 1 Dragon-Type Fusion Monster from your Extra Deck, using monsters you control as Fusion Materials.\nYou can only use this effect of \"Performapal Splashmammoth\" once per Duel.",
+  "text": "[ MONSTER EFFECT ]\nDuring your Main Phase: You can Fusion Summon 1 Dragon-Type Fusion Monster from your Extra Deck, using monsters you control as Fusion Materials.\nYou can only use this effect of \"Performapal Splashmammoth\" once per Duel.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/52963531.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 2300,
   "level": 6,
   "is_tuner": false,
-  "pendulum_text": "[ Pendulum Effect ]\nOnce per turn, when a Fusion Monster(s) is Special Summoned to your side of the field (except during the Damage Step): You can Special Summon 1 face-up \"Odd-Eyes\" Pendulum Monster from your Extra Deck.",
+  "pendulum_text": "[ PENDULUM EFFECT ]\nOnce per turn, when a Fusion Monster(s) is Special Summoned to your side of the field (except during the Damage Step): You can Special Summon 1 face-up \"Odd-Eyes\" Pendulum Monster from your Extra Deck.",
   "pendulum_scale_left_blue": 4,
   "pendulum_scale_right_red": 4
 }

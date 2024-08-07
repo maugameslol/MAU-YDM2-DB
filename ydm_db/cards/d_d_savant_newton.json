@@ -3,7 +3,7 @@
   "name": "D/D Savant Newton",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Monster Effect ]\nYou can discard this card, then target 1 \"D/D\" or \"Dark Contract\" card in your Graveyard, except \"D/D Savant Newton\"; add it to your hand.\nYou can only use this effect of \"D/D Savant Newton\" once per turn.",
+  "text": "[ MONSTER EFFECT ]\nYou can discard this card, then target 1 \"D/D\" or \"Dark Contract\" card in your Graveyard, except \"D/D Savant Newton\"; add it to your hand.\nYou can only use this effect of \"D/D Savant Newton\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/19302550.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 0,
   "level": 7,
   "is_tuner": false,
-  "pendulum_text": "[ Pendulum Effect ]\nYou cannot Pendulum Summon monsters, except \"D/D\" monsters.\nThis effect cannot be negated.\nOnce, while this card is in your Pendulum Zone, you can negate an activated Trap effect that would inflict damage to you, then destroy this card.",
+  "pendulum_text": "[ PENDULUM EFFECT ]\nYou cannot Pendulum Summon monsters, except \"D/D\" monsters.\nThis effect cannot be negated.\nOnce, while this card is in your Pendulum Zone, you can negate an activated Trap effect that would inflict damage to you, then destroy this card.",
   "pendulum_scale_left_blue": 10,
   "pendulum_scale_right_red": 10
 }

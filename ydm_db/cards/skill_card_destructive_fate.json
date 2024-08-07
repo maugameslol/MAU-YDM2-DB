@@ -1,0 +1,12 @@
+{
+  "id": 300302098,
+  "name": "Destructive Fate (Skill Card)",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Sartorius / Skill\n[ SKILL ACTIVATION ]\nAt the start of the Duel, flip this card over.\n\n[ SKILL EFFECT ]\nDuring your turn, when you would toss a coin(s) for the effect of a monster or Spell (once per turn for each card type), you may lose half your LP to declare the result(s) instead.\nDuring the End Phase of your 3rd turn, flip this card over.",
+  "images": [
+    "https://ms.yugipedia.com//9/96/DestructiveFate-SGX4-NA-C-1E.png"
+	],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

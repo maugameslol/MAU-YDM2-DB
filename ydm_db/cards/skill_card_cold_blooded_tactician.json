@@ -1,0 +1,12 @@
+{
+  "id": 300302060,
+  "name": "Cold-Blooded Tactician (Skill Card)",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Viper / Skill\n[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nOnce per turn, during your Main Phase, you can change the battle positions of monsters your opponent controls, up to the number of face-up Reptile monsters you control.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/300302060.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

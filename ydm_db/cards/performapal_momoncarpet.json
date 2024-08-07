@@ -3,7 +3,7 @@
   "name": "Performapal Momoncarpet",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Monster Effect ]\nFLIP: You can target 1 Set card on the field; destroy it.\nIf this card is Special Summoned: You can change it to face-down Defense Position.",
+  "text": "[ MONSTER EFFECT ]\nFLIP: You can target 1 Set card on the field; destroy it.\nIf this card is Special Summoned: You can change it to face-down Defense Position.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/20281581.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 100,
   "level": 3,
   "is_tuner": false,
-  "pendulum_text": "[ Pendulum Effect ]\nUnless you have a card in your other Pendulum Zone, destroy this card.\nWhile this card is in the Pendulum Zone, any battle damage you take becomes halved.",
+  "pendulum_text": "[ PENDULUM EFFECT ]\nUnless you have a card in your other Pendulum Zone, destroy this card.\nWhile this card is in the Pendulum Zone, any battle damage you take becomes halved.",
   "pendulum_scale_left_blue": 7,
   "pendulum_scale_right_red": 7
 }

@@ -3,7 +3,7 @@
   "name": "Ritual Beast Tamer Zeframpilica",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Monster Effect ]\nWhen this card is Normal or Pendulum Summoned: You can target 1 \"Ritual Beast\" or \"Zefra\" monster in your Graveyard, except \"Ritual Beast Tamer Zeframpilica\"; Special Summon it, but destroy it during the End Phase.\nYou can only Special Summon \"Ritual Beast Tamer Zeframpilica(s)\" once per turn.",
+  "text": "[ MONSTER EFFECT ]\nWhen this card is Normal or Pendulum Summoned: You can target 1 \"Ritual Beast\" or \"Zefra\" monster in your Graveyard, except \"Ritual Beast Tamer Zeframpilica\"; Special Summon it, but destroy it during the End Phase.\nYou can only Special Summon \"Ritual Beast Tamer Zeframpilica(s)\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/57777714.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 1500,
   "level": 3,
   "is_tuner": false,
-  "pendulum_text": "[ Pendulum Effect ]\nYou cannot Pendulum Summon monsters, except \"Ritual Beast\" or \"Zefra\" monsters.\nThis effect cannot be negated.",
+  "pendulum_text": "[ PENDULUM EFFECT ]\nYou cannot Pendulum Summon monsters, except \"Ritual Beast\" or \"Zefra\" monsters.\nThis effect cannot be negated.",
   "pendulum_scale_left_blue": 1,
   "pendulum_scale_right_red": 1
 }

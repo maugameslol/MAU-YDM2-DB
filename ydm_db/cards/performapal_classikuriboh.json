@@ -3,7 +3,7 @@
   "name": "Performapal Classikuriboh",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Monster Effect ]\nIf this card is destroyed by its own Pendulum Effect: End the Battle Phase.\nYou can only use each of the following effects of \"Performapal Classikuriboh\" once per turn.\nYou can discard this card, then target 1 card in your Pendulum Zone; its Pendulum Scale becomes 1 until the end of this turn.\nWhen you take battle damage while this card is in your GY: You can place this card in your Pendulum Zone.",
+  "text": "[ MONSTER EFFECT ]\nIf this card is destroyed by its own Pendulum Effect: End the Battle Phase.\nYou can only use each of the following effects of \"Performapal Classikuriboh\" once per turn.\nYou can discard this card, then target 1 card in your Pendulum Zone; its Pendulum Scale becomes 1 until the end of this turn.\nWhen you take battle damage while this card is in your GY: You can place this card in your Pendulum Zone.",
   "images": ["https://images.ygoprodeck.com/images/cards/55554175.jpg"],
   "type": "Monster",
   "attribute": "DARK",
@@ -16,7 +16,7 @@
   "def": 200,
   "level": 1,
   "is_tuner": false,
-  "pendulum_text": "[ Pendulum Effect ]\nWhen an opponent\u0027s monster declares a direct attack, this card is destroyed.",
+  "pendulum_text": "[ PENDULUM EFFECT ]\nWhen an opponent\u0027s monster declares a direct attack, this card is destroyed.",
   "pendulum_scale_left_blue": 8,
   "pendulum_scale_right_red": 8
 }

@@ -3,7 +3,7 @@
   "name": "Pazuzule",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Monster Effect ]\nPendulum Summons of your monsters cannot be negated.",
+  "text": "[ MONSTER EFFECT ]\nPendulum Summons of your monsters cannot be negated.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/77384395.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 500,
   "level": 1,
   "is_tuner": false,
-  "pendulum_text": "[ Pendulum Effect ]\nOnce per turn: You can target 1 card in your other Pendulum Zone; this card\u0027s Pendulum Scale becomes the Level of that Pendulum Monster Card until the end of this turn, also you cannot Special Summon for the rest of this turn, except by Pendulum Summon.",
+  "pendulum_text": "[ PENDULUM EFFECT ]\nOnce per turn: You can target 1 card in your other Pendulum Zone; this card\u0027s Pendulum Scale becomes the Level of that Pendulum Monster Card until the end of this turn, also you cannot Special Summon for the rest of this turn, except by Pendulum Summon.",
   "pendulum_scale_left_blue": 1,
   "pendulum_scale_right_red": 1
 }

@@ -1,0 +1,12 @@
+{
+  "id": 300302091,
+  "name": "A Terrible Fate (Skill Card)",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Arkana / Skill\n[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nOnce per Duel, during your End Phase, Tribute 1 face-up Spellcaster monster you control, then your opponent destroys 1 card they control or sends 1 card from their hand to the GY (their choice).",
+  "images": [
+    "https://ms.yugipedia.com//9/91/ATerribleFate-SBC1-EN-C-1E.png"
+	],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

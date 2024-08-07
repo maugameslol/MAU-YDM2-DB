@@ -3,7 +3,7 @@
   "name": "D/D Orthros",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Monster Effect ]\nWhen you take battle or effect damage: You can Special Summon this card from your hand.\nIf this card is Special Summoned to your field, you cannot Special Summon monsters for the rest of this turn, except Fiend-Type monsters.",
+  "text": "[ MONSTER EFFECT ]\nWhen you take battle or effect damage: You can Special Summon this card from your hand.\nIf this card is Special Summoned to your field, you cannot Special Summon monsters for the rest of this turn, except Fiend-Type monsters.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/72181263.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 1800,
   "level": 4,
   "is_tuner": true,
-  "pendulum_text": "[ Pendulum Effect ]\nOnce per turn: You can target 1 Spell/Trap Card on the field and 1 other \"D/D\" or \"Dark Contract\" card you control; destroy them.",
+  "pendulum_text": "[ PENDULUM EFFECT ]\nOnce per turn: You can target 1 Spell/Trap Card on the field and 1 other \"D/D\" or \"Dark Contract\" card you control; destroy them.",
   "pendulum_scale_left_blue": 3,
   "pendulum_scale_right_red": 3
 }

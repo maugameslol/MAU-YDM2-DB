@@ -3,7 +3,7 @@
   "name": "Magician of Hope",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ Monster Effect ]\n2 Level 4 monsters\nIf you can Pendulum Summon Level 4, you can Pendulum Summon this face-up card in your Extra Deck.\nYou can detach 1 material from this card; Special Summon 1 Level 7 or lower Pendulum Monster from your hand in Defense Position, but negate its effects, then you can place this face-up card in your Pendulum Zone.\nYou can only use this effect of \"Magician of Hope\" once per turn.\nIf this card is Pendulum Summoned: You can target 1 Pendulum Monster in your GY; attach it to this card as material.",
+  "text": "[ MONSTER EFFECT ]\n2 Level 4 monsters\nIf you can Pendulum Summon Level 4, you can Pendulum Summon this face-up card in your Extra Deck.\nYou can detach 1 material from this card; Special Summon 1 Level 7 or lower Pendulum Monster from your hand in Defense Position, but negate its effects, then you can place this face-up card in your Pendulum Zone.\nYou can only use this effect of \"Magician of Hope\" once per turn.\nIf this card is Pendulum Summoned: You can target 1 Pendulum Monster in your GY; attach it to this card as material.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/67865534.jpg"
   ],
@@ -17,7 +17,7 @@
   "has_effect": true,
   "def": 2000,
   "rank": 4,
-  "pendulum_text": "[ Pendulum Effect ]\nOnce per turn, when a monster declares an attack: You can negate that attack, then destroy this card.",
+  "pendulum_text": "[ PENDULUM EFFECT ]\nOnce per turn, when a monster declares an attack: You can negate that attack, then destroy this card.",
   "pendulum_scale_left_blue": 8,
   "pendulum_scale_right_red": 8
 }

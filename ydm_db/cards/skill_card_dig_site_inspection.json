@@ -1,0 +1,12 @@
+{
+  "id": 300302104,
+  "name": "Dig Site Inspection (Skill Card)",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Jim / Skill\n[ SKILL ACTIVATION ]\nAt the start of the Duel, flip this card over.\n\n[ SKILL EFFECT ]\nOnce per turn, during your Draw Phase, before you draw, you can excavate the top card of your Deck, and place it on the top or bottom of the Deck.\nAfter you placed a second card to the bottom of your Deck with this Skill, flip this card over.",
+  "images": [
+    "https://ms.yugipedia.com//c/c5/DigSiteInspection-SGX4-NA-C-1E.png"
+	],
+  "type": "Spell",
+  "spell_type": "Normal"
+}
