@@ -3,7 +3,7 @@
   "name": "Kwagar Hercules",
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Kuwagata ?\" + \"Hercules Beetle\"",
+  "text": "\"Kuwagata \u03b1\" + \"Hercules Beetle\"",
   "images": [
     "https://images.ygoprodeck.com/images/cards/95144193.jpg"
   ],

@@ -3,7 +3,7 @@
   "name": "Test Card",
   "is_illegal": true,
   "is_custom": true,
-  "text": "This card is a test card.\nAlpha \u03b1\nBeta \u03b2\nGamma \u03b3\nDelta \u03b4\nOmega \u03a9\n",
+  "text": "This card is a test card.\nAlpha \u03b1\nBeta \u03b2\nGamma \u03b3\nDelta \u03b4\nOmega \u03a9\nBullet \u2022\nBlack Circle \u25cf\nEnd",
   "images": [
     "https://images.ygoprodeck.com/images/cards/back_high.jpg"
   ],
