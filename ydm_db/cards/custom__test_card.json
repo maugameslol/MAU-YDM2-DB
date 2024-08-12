@@ -1,0 +1,12 @@
+{
+  "id": 900000000,
+  "name": "Test Card",
+  "is_illegal": true,
+  "is_custom": true,
+  "text": "This card is a test card. This symbol should be an alpha... \u03b1 ?",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/back_high.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}
