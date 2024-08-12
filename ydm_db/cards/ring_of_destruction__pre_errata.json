@@ -1,0 +1,13 @@
+{
+  "id": 511000824,
+  "name": "Ring of Destruction (Pre-Errata)",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Target 1 face-up monster; Destroy it, and if you do, inflict damage to both players equal to its ATK.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/83555666.jpg",
+    "https://images.ygoprodeck.com/images/cards/83555667.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

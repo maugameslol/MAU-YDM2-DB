@@ -1,0 +1,12 @@
+{
+  "id": 511000820,
+  "name": "Exchange of the Spirit (Pre-Errata)",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "While there are 15 or more cards in your Graveyard: Pay 1000 LP; Both players swap the card(s) in their Graveyard with the card(s) in their Deck. Then, both players shuffle their Deck.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/17484499.jpg"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

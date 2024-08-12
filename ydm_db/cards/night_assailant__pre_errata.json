@@ -1,9 +1,9 @@
 {
-  "id": 16226786,
-  "name": "Night Assailant",
+  "id": 16226796,
+  "name": "Night Assailant (Pre-Errata)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "FLIP: Target 1 monster your opponent controls; destroy that target.\nIf this card is sent from the hand to the GY: Target 1 Flip monster in your GY, except \"Night Assailant\"; add that target to your hand.",
+  "text": "FLIP: Target 1 monster your opponent controls; destroy that target.\nWhen this card is sent from the hand to the Graveyard: Target 1 Flip Effect Monster in your Graveyard, except this card; return that target to the hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/16226786.jpg"
   ],

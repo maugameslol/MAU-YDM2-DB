@@ -1,9 +1,9 @@
 {
-  "id": 32646477,
-  "name": "Dark Strike Fighter",
+  "id": 511000229,
+  "name": "Dark Strike Fighter (Pre-Errata)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "1 Tuner + 1 or more non-Tuner monsters\nDuring your Main Phase 1: You can Tribute 1 monster; inflict damage to your opponent equal to the Tributed monster\u0027s Level on the field x 200.\nYou can only use this effect of \"Dark Strike Fighter\" once per turn.",
+  "text": "1 Tuner + 1 or more non-Tuner monsters\nYou can Tribute 1 monster; inflict damage to your opponent equal to the Tributed monster\u0027s Level on the field x 200.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/32646477.jpg"
   ],
