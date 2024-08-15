@@ -1,0 +1,12 @@
+{
+  "id": 131191319,
+  "name": "Life Boost \u03b3 (Duel Links Skill)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Generic / Skill\n[ SKILL ACTIVATION ]\nFlip this card over at the start of the Duel.\n\n[ SKILL EFFECT ]\nIncrease your starting Life Points by 2500, but reduce your starting hand by 2 cards.",
+  "images": [
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/Customs/SkillCards/Duel_Links_LP_Boost_Gamma.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}
