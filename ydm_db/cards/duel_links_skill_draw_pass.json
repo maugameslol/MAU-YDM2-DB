@@ -1,0 +1,12 @@
+{
+  "id": 131191283,
+  "name": "Draw Pass (Duel Links Skill)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Generic / Skill\n[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nDuring your Draw Phase, you can flip this card over to activate this Skill: Instead of drawing, gain 300 LP.\nThis Skill can only be used three times per Duel.\n\n(This Skill has been adapted to work in our format, and it attempts to replicate its function in Yu-Gi-Oh! Duel Links.)",
+  "images": [
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/Customs/SkillCards/Duel_Links_Skill_Draw_Pass.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}
