@@ -3,7 +3,7 @@
   "name": "Tuning (Duel Links Skill)",
   "is_illegal": false,
   "is_custom": true,
-  "text": "Yusei Fudo / Skill\n[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\n\nIf you lose 1000 or more LP, you can activate this Skill during your next Draw Phase.\nDuring your Draw Phase, instead of drawing: Add 1 \"Synchron\" Tuner Monster to your hand. Then, send the top card of your Deck to the GY.\nThis Skill can be used once per Duel.\n\n(This Skill has been adapted to work in our format, and it attempts to replicate its function in Yu-Gi-Oh! Duel Links.)",
+  "text": "Yusei Fudo / Skill\n[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nIf you lose 1000 or more LP, you can activate this Skill during your next Draw Phase.\nDuring your Draw Phase, instead of drawing: Add 1 \"Synchron\" Tuner Monster to your hand. Then, send the top card of your Deck to the GY.\nThis Skill can be used once per Duel.\n\n(This Skill has been adapted to work in our format, and it attempts to replicate its function in Yu-Gi-Oh! Duel Links.)",
   "images": [
     "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/Customs/SkillCards/Duel_Links_Skill_Tuning.jpg",
     "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/Customs/SkillCards/Duel_Links_Skill_Tuning_alt1.jpg"
