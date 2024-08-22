@@ -1,0 +1,12 @@
+{
+  "id": 131191515,
+  "name": "Tunermorph: Normal (Duel Links Skill)",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Yusei Fudo / Skill\n[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nReveal 1 Tuner monster in you hand and select a Normal Monster on your side of the field. The selected monster is treated as a Tuner monster.\nThis Skill can only be used once per Duel.",
+  "images": [
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/Customs/SkillCards/Duel_Links_Skill_Tunermorph__Normal.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}
