@@ -1,7 +1,8 @@
 {
   "code": "IOCSE_RC",
   "type": "Sub-Set",
-  "pull_type": "full",
+  "pull_type": "distribution",
+  "distribution": "1_random_ultra_rare",
   "cards": [
     {
       "id": 69140098,

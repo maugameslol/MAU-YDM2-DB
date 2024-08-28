@@ -1,0 +1,14 @@
+{
+  "name": "The Lost Millennium: Special Edition",
+  "code": "TLM_SE",
+  "type": "Special Edition",
+  "date": "10-06-2005",
+  "image": "https://ms.yugipedia.com//8/89/TLM-PromoEN.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "TLM",
+	"TLM",
+    "TLM",
+    "TLMSE_RC"
+  ]
+}
