@@ -1,0 +1,20 @@
+{
+  "code": "FOTBSE_RC",
+  "type": "Sub-Set",
+  "pull_type": "distribution",
+  "distribution": "1_random_super_rare",
+  "cards": [
+    {
+      "id": 70969517,
+      "code": "FOTB-SE1",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18430390,
+      "code": "FOTB-SE2",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}

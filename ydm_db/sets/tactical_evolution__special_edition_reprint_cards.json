@@ -1,0 +1,20 @@
+{
+  "code": "TAEVSE_RC",
+  "type": "Sub-Set",
+  "pull_type": "distribution",
+  "distribution": "1_random_super_rare",
+  "cards": [
+    {
+      "id": 48948935,
+      "code": "TAEV-SE1",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22610082,
+      "code": "TAEV-SE2",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}

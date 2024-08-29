@@ -1,0 +1,14 @@
+{
+  "name": "Phantom Darkness: Special Edition",
+  "code": "PTDN_SE",
+  "type": "Special Edition",
+  "date": "12-03-2008",
+  "image": "https://ms.yugipedia.com//2/2b/PTDN-PromoEN.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "PTDN",
+	"PTDN",
+    "PTDN",
+    "PTDNSE_RC"
+  ]
+}

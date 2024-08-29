@@ -1,0 +1,14 @@
+{
+  "name": "Light of Destruction: Special Edition",
+  "code": "LODT_SE",
+  "type": "Special Edition",
+  "date": "18-06-2008",
+  "image": "https://ms.yugipedia.com//3/34/LODT-PromoEN.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "LODT",
+	"LODT",
+    "LODT",
+    "LODTSE_RC"
+  ]
+}

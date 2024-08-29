@@ -1,0 +1,14 @@
+{
+  "name": "Tactical Evolution: Special Edition",
+  "code": "TAEV_SE",
+  "type": "Special Edition",
+  "date": "12-09-2007",
+  "image": "https://ms.yugipedia.com//9/94/TAEV-PromoEN.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "TAEV",
+	"TAEV",
+    "LON",
+    "TAEVSE_RC"
+  ]
+}

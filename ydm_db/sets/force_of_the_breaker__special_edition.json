@@ -1,0 +1,14 @@
+{
+  "name": "Force of the Breaker: Special Edition",
+  "code": "FOTB_SE",
+  "type": "Special Edition",
+  "date": "12-06-2007",
+  "image": "https://ms.yugipedia.com//d/db/FOTBSE-PromoEN.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "FOTB",
+	"FOTB",
+    "IOC",
+    "FOTBSE_RC"
+  ]
+}

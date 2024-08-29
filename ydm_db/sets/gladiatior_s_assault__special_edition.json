@@ -1,0 +1,14 @@
+{
+  "name": "Gladiator\u0027s Assault: Special Edition",
+  "code": "GLAS_SE",
+  "type": "Special Edition",
+  "date": "12-12-2007",
+  "image": "https://ms.yugipedia.com//c/c8/GLAS-PromoEN.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "GLAS",
+	"GLAS",
+    "DCR",
+    "GLASSE_RC"
+  ]
+}
