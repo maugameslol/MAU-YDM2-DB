@@ -1,0 +1,32 @@
+{
+  "code": "EENSE_RC",
+  "type": "Sub-Set",
+  "pull_type": "distribution",
+  "distribution": "1_random_secret_rare",
+  "cards": [
+    {
+      "id": 48229808,
+      "code": "EEN-SE1",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61505339,
+      "code": "EEN-SE2",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 61441708,
+      "code": "EEN-SE3",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74388798,
+      "code": "EEN-SE4",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

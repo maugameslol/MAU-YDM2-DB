@@ -1,0 +1,14 @@
+{
+  "name": "Elemental Energy: Special Edition",
+  "code": "EEN_SE",
+  "type": "Special Edition",
+  "date": "30-11-2005",
+  "image": "https://ms.yugipedia.com//f/f0/EENSE-BoxEN.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "EEN",
+	"EEN",
+    "EEN",
+    "EENSE_RC"
+  ]
+}

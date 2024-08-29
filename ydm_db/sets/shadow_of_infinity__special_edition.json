@@ -1,0 +1,14 @@
+{
+  "name": "Shadow of Infinity: Special Edition",
+  "code": "SOI_SE",
+  "type": "Special Edition",
+  "date": "01-04-2006",
+  "image": "https://ms.yugipedia.com//2/29/SOISE-PromoEN.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "SOI",
+	"SOI",
+    "SOI",
+    "SOISE_RC"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "code": "SOISE_RC",
+  "type": "Sub-Set",
+  "pull_type": "distribution",
+  "distribution": "1_random_secret_rare",
+  "cards": [
+    {
+      "id": 41356845,
+      "code": "SOI-SE1",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34016756,
+      "code": "SOI-SE2",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59744639,
+      "code": "SOI-SE3",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48642904,
+      "code": "SOI-SE4",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

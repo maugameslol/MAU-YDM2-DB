@@ -1,0 +1,20 @@
+{
+  "code": "STONSE_RC",
+  "type": "Sub-Set",
+  "pull_type": "distribution",
+  "distribution": "1_random_super_rare",
+  "cards": [
+    {
+      "id": 1546123,
+      "code": "STON-SE1",
+      "rarity": "Super Rare",
+      "image_index": 1
+    },
+    {
+      "id": 55713623,
+      "code": "STON-SE2",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}
