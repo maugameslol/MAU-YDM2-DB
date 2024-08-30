@@ -1,0 +1,20 @@
+{
+  "code": "TDGSSE_RC",
+  "type": "Sub-Set",
+  "pull_type": "distribution",
+  "distribution": "1_random_super_rare",
+  "cards": [
+    {
+      "id": 54974237,
+      "code": "TDGS-SE1",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27346636,
+      "code": "TDGS-SE2",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Crossroads of Chaos: Special Edition",
+  "code": "CSOC_SE",
+  "type": "Special Edition",
+  "date": "09-12-2008",
+  "image": "https://ms.yugipedia.com//a/ad/CSOC-PromoEN.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "CSOC",
+	"CSOC",
+    "CSOC",
+    "CSOCSE_RC"
+  ]
+}

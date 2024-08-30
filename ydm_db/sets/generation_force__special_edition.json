@@ -1,0 +1,14 @@
+{
+  "name": "Generation Force: Special Edition",
+  "code": "GENF_SE",
+  "type": "Special Edition",
+  "date": "20-09-2011",
+  "image": "https://ms.yugipedia.com//a/a8/GENF-PromoEN.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "GENF",
+	"GENF",
+    "GENF",
+    "GENFSE_RC"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Crimson Crisis: Special Edition",
+  "code": "CRMS_SE",
+  "type": "Special Edition",
+  "date": "07-04-2009",
+  "image": "https://ms.yugipedia.com//b/b1/CRMS-PromoEN.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "CRMS",
+	"CRMS",
+    "CRMS",
+    "CRMSSE_RC"
+  ]
+}

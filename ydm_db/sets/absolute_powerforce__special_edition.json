@@ -1,0 +1,14 @@
+{
+  "name": "Absolute Powerforce: Special Edition",
+  "code": "ABPF_SE",
+  "type": "Special Edition",
+  "date": "30-03-2010",
+  "image": "https://ms.yugipedia.com//6/6a/ABPF-PromoEN.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "ABPF",
+	"ABPF",
+    "ABPF",
+    "ABPFSE_RC"
+  ]
+}

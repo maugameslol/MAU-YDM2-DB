@@ -1,0 +1,14 @@
+{
+  "name": "The Duelist Genesis: Special Edition",
+  "code": "TDGS_SE",
+  "type": "Special Edition",
+  "date": "07-10-2008",
+  "image": "https://ms.yugipedia.com//1/19/TDGS-PromoEN.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "TDGS",
+	"TDGS",
+    "TDGS",
+    "TDGSSE_RC"
+  ]
+}

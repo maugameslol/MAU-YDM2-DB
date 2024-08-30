@@ -1,0 +1,14 @@
+{
+  "name": "Hidden Arsenal 4: Special Edition (EU)",
+  "code": "HASE_EU",
+  "type": "Special Edition",
+  "date": "22-07-2011",
+  "image": "https://ms.yugipedia.com//c/c1/HASE-PromoEN.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "HA04",
+	"HA04",
+    "HA04",
+    "HASE_RC"
+  ]
+}

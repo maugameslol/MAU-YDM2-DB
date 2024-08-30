@@ -1,0 +1,14 @@
+{
+  "name": "Ancient Prophecy: Special Edition",
+  "code": "ANPR_SE",
+  "type": "Special Edition",
+  "date": "13-10-2009",
+  "image": "https://ms.yugipedia.com//4/45/ANPR-PromoEN.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "ANPR",
+	"ANPR",
+    "ANPR",
+    "ANPRSE_RC"
+  ]
+}

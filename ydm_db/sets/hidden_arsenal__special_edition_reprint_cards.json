@@ -1,0 +1,20 @@
+{
+  "code": "HASE_RC",
+  "type": "Sub-Set",
+  "pull_type": "distribution",
+  "distribution": "1_random_super_rare",
+  "cards": [
+    {
+      "id": 42737833,
+      "code": "HASE-001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7304544,
+      "code": "HASE-002",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}

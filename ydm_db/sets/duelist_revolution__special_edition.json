@@ -1,0 +1,14 @@
+{
+  "name": "Duelist Revolution: Special Edition",
+  "code": "DREV_SE",
+  "type": "Special Edition",
+  "date": "21-09-2010",
+  "image": "https://ms.yugipedia.com//4/40/DREV-PromoEN.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "DREV",
+	"DREV",
+    "DREV",
+    "DREVSE_RC"
+  ]
+}

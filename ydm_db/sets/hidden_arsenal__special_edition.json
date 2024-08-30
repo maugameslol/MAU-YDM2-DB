@@ -1,0 +1,14 @@
+{
+  "name": "Hidden Arsenal: Special Edition (NA)",
+  "code": "HASE_NA",
+  "type": "Special Edition",
+  "date": "26-07-2011",
+  "image": "https://ms.yugipedia.com//4/4d/HASE-PromoNA.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "HA01",
+	"HA02",
+    "HA03",
+    "HASE_RC"
+  ]
+}

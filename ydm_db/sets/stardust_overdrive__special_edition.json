@@ -1,0 +1,14 @@
+{
+  "name": "Stardust Overdrive: Special Edition",
+  "code": "SOVR_SE",
+  "type": "Special Edition",
+  "date": "15-12-2009",
+  "image": "https://ms.yugipedia.com//d/d8/SOVR-PromoEN.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "SOVR",
+	"SOVR",
+    "SOVR",
+    "SOVRSE_RC"
+  ]
+}
