@@ -1,0 +1,19 @@
+{
+  "name": "Speed Duel: Booster Pack Compilation v2 (Custom)",
+  "code": "SDBPC2_P",
+  "type": "8 + 1 Card Compilation (Custom)",
+  "date": "01-09-2024",
+  "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "SDBPC2",
+	"SDBPC2",
+    "SDBPC2",
+    "SDBPC2",
+	"SDBPC2",
+    "SDBPC2",
+    "SDBPC2",
+	"SDBPC2",
+	"SDBPC2_SC"
+  ]
+}

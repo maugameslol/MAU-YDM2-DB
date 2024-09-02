@@ -1,0 +1,38 @@
+{
+  "name": "custom__1_card__speed_duel_booster_pack",
+  "pulls": [
+    {
+      "weight": 8,
+      "entries": [
+        {
+          "count": 1,
+          "rarities": [
+            "Common"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 3,
+      "entries": [
+        {
+          "count": 1,
+          "rarities": [
+            "Super Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 1,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}
