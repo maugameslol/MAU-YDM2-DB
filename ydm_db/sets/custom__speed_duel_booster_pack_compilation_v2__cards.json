@@ -5,36 +5,6 @@
   "distribution": "custom__1_card__speed_duel_booster_pack",
   "cards": [
     {
-      "id": 300101001,
-      "code": "SBLS-S01",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 300101002,
-      "code": "SBLS-S02",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 300101003,
-      "code": "SBLS-S03",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 300101004,
-      "code": "SBLS-S04",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 300101005,
-      "code": "SBLS-S05",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
       "id": 78193831,
       "code": "SBLS-001",
       "rarity": "Common",
@@ -302,36 +272,6 @@
       "id": 82324105,
       "code": "SBLS-045",
       "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300102001,
-      "code": "SBAD-S01",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 300102002,
-      "code": "SBAD-S02",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 300102003,
-      "code": "SBAD-S03",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 300102004,
-      "code": "SBAD-S04",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 300102005,
-      "code": "SBAD-S05",
-      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
@@ -605,36 +545,6 @@
       "image_index": 0
     },
     {
-      "id": 300103001,
-      "code": "SBSC-S01",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 300103002,
-      "code": "SBSC-S02",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 300103003,
-      "code": "SBSC-S03",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 300103004,
-      "code": "SBSC-S04",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 300103005,
-      "code": "SBSC-S05",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
       "id": 7802006,
       "code": "SBSC-001",
       "rarity": "Common",
@@ -902,36 +812,6 @@
       "id": 32207100,
       "code": "SBSC-045",
       "rarity": "Common",
-      "image_index": 0
-    },
-    {
-      "id": 300104001,
-      "code": "SBTK-S01",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 300104002,
-      "code": "SBTK-S02",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 300104003,
-      "code": "SBTK-S03",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 300104004,
-      "code": "SBTK-S04",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 300104005,
-      "code": "SBTK-S05",
-      "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
