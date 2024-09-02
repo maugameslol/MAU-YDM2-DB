@@ -1,0 +1,53 @@
+{
+  "name": "custom__1_card__booster_pack_old",
+  "pulls": [
+    {
+      "weight": 929,
+      "entries": [
+        {
+          "count": 8,
+          "rarities": [
+            "Common",
+            "Short Print",
+            "Super Short Print",
+            "Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 276,
+      "entries": [
+        {
+          "count": 1,
+          "rarities": [
+            "Super Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 115,
+      "entries": [
+        {
+          "count": 1,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 60,
+      "entries": [
+        {
+          "count": 1,
+          "rarities": [
+            "Secret Rare",
+            "Ultimate Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}

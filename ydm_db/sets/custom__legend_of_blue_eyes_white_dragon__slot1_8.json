@@ -2,7 +2,7 @@
   "code": "LOB_SUB",
   "type": "Sub-Set",
   "pull_type": "distribution",
-  "distribution": "custom__1_card__booster_pack",
+  "distribution": "custom__1_card__booster_pack_old",
   "cards": [
     {
       "id": 39111158,
