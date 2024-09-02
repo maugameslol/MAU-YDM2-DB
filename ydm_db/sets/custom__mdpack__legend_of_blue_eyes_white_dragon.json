@@ -1,0 +1,19 @@
+{
+  "name": "Legend of Blue Eyes White Dragon (Custom)",
+  "code": "LOB_MDP",
+  "type": "\"Master Duel\"-like Pack (Custom)",
+  "date": "08-03-2002",
+  "image": "https://images.ygoprodeck.com/images/sets/LOB.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "LOB_SUB",
+    "LOB_SUB",
+    "LOB_SUB",
+    "LOB_SUB",
+    "LOB_SUB",
+    "LOB_SUB",
+    "LOB_SUB",
+    "LOB_SUB",
+    "LOB_SUB"
+  ]
+}
