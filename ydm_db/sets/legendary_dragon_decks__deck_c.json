@@ -1,0 +1,316 @@
+{
+  "name": "Legendary Dragon Decks (Dimensional Dragons Deck)",
+  "code": "LEDD_C",
+  "type": "Legendary Decks",
+  "date": "05-10-2017",
+  "image": "https://images.ygoprodeck.com/images/sets/LEDD.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 14105623,
+      "code": "LEDD-C00",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 16178681,
+      "code": "LEDD-C01",
+      "rarity": "Common",
+      "image_index": 1
+    },
+    {
+      "id": 16178681,
+      "code": "LEDD-C01",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 96733134,
+      "code": "LEDD-C02",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93149655,
+      "code": "LEDD-C03",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93149655,
+      "code": "LEDD-C03",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21250202,
+      "code": "LEDD-C04",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 21250202,
+      "code": "LEDD-C04",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67754901,
+      "code": "LEDD-C05",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67754901,
+      "code": "LEDD-C05",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59762399,
+      "code": "LEDD-C06",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86157908,
+      "code": "LEDD-C07",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86157908,
+      "code": "LEDD-C07",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40318957,
+      "code": "LEDD-C08",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40318957,
+      "code": "LEDD-C08",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16617334,
+      "code": "LEDD-C09",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73511233,
+      "code": "LEDD-C10",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73511233,
+      "code": "LEDD-C10",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88935103,
+      "code": "LEDD-C11",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 88935103,
+      "code": "LEDD-C11",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23851033,
+      "code": "LEDD-C12",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27813661,
+      "code": "LEDD-C13",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 27813661,
+      "code": "LEDD-C13",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 48144509,
+      "code": "LEDD-C14",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16494704,
+      "code": "LEDD-C15",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82768499,
+      "code": "LEDD-C16",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82768499,
+      "code": "LEDD-C16",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37469904,
+      "code": "LEDD-C17",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37469904,
+      "code": "LEDD-C17",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60434189,
+      "code": "LEDD-C18",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 60434189,
+      "code": "LEDD-C18",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83461421,
+      "code": "LEDD-C19",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 83461421,
+      "code": "LEDD-C19",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96598015,
+      "code": "LEDD-C20",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73628505,
+      "code": "LEDD-C21",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 73628505,
+      "code": "LEDD-C21",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 15582767,
+      "code": "LEDD-C22",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77826734,
+      "code": "LEDD-C23",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 77826734,
+      "code": "LEDD-C23",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42378577,
+      "code": "LEDD-C24",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 42378577,
+      "code": "LEDD-C24",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41209827,
+      "code": "LEDD-C25",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 43387895,
+      "code": "LEDD-C26",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53262004,
+      "code": "LEDD-C27",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 49820233,
+      "code": "LEDD-C28",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82044280,
+      "code": "LEDD-C29",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70771599,
+      "code": "LEDD-C30",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 80696379,
+      "code": "LEDD-C31",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16195942,
+      "code": "LEDD-C32",
+      "rarity": "Ultra Rare",
+      "image_index": 1
+    },
+    {
+      "id": 42160203,
+      "code": "LEDD-C33",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 16691074,
+      "code": "LEDD-C34",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}
