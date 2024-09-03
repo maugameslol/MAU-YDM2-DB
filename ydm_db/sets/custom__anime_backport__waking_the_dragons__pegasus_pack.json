@@ -1,6 +1,6 @@
 {
-  "name": "Anime Backport: Waking the Dragons Arc (Custom)",
-  "code": "ACBPWO_GP",
+  "name": "Anime Backport: Waking the Dragons Arc (Pegasus Pack) (Custom)",
+  "code": "ACBPWO_PP",
   "type": "\"Master Duel\"-like Pack (Custom)",
   "date": "02-09-2024",
   "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
@@ -10,9 +10,9 @@
     "ACBPWO_GS1",
     "ACBPWO_GS1",
     "ACBPWO_GS1",
-    "ACBPWO_GS1",
-    "ACBPWO_GS1",
-    "ACBPWO_GS1",
-    "ACBPWO_GS8"
+    "ACBPWO_DS1",
+    "ACBPWO_DS1",
+    "ACBPWO_DS1",
+    "ACBPWO_DS8"
   ]
 }

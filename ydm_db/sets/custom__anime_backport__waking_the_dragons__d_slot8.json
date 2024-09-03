@@ -1,0 +1,98 @@
+{
+  "code": "ACBPWO_DS8",
+  "type": "Sub-Set",
+  "pull_type": "distribution",
+  "distribution": "custom__md_pack__slot8",
+  "cards": [
+    {
+      "id": 16392422,
+      "code": "ACBPWO-D02",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 53183600,
+      "code": "ACBPWO-D03",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 90960358,
+      "code": "ACBPWO-D04",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 64631466,
+      "code": "ACBPWO-D06",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42386471,
+      "code": "ACBPWO-D07",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79875176,
+      "code": "ACBPWO-D15",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66765023,
+      "code": "ACBPWO-D16",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89997728,
+      "code": "ACBPWO-D23",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15259703,
+      "code": "ACBPWO-D24",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41426869,
+      "code": "ACBPWO-D26",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88032456,
+      "code": "ACBPWO-D27",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23446369,
+      "code": "ACBPWO-D28",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79447365,
+      "code": "ACBPWO-D30",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50045299,
+      "code": "ACBPWO-D31",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 63519819,
+      "code": "ACBPWO-D34",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}
