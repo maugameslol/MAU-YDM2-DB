@@ -5,196 +5,322 @@
   "distribution": "custom__md_pack__slot8",
   "cards": [
     {
-      "id": 75347539,
-      "code": "ACBPWO-A04",
+      "id": 21593977,
+      "code": "ACBPWO-013",
       "rarity": "Rare",
       "image_index": 0
     },
     {
-      "id": 46986414,
-      "code": "ACBPWO-A06",
+      "id": 2460565,
+      "code": "ACBPWO-014",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74131780,
+      "code": "ACBPWO-018",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
-      "id": 38033121,
-      "code": "ACBPWO-A07",
+      "id": 26202165,
+      "code": "ACBPWO-019",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78010363,
+      "code": "ACBPWO-020",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 15744417,
+      "code": "ACBPWO-021",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
-      "id": 44632120,
-      "code": "ACBPWO-A14",
+      "id": 11091375,
+      "code": "ACBPWO-022",
       "rarity": "Rare",
       "image_index": 0
     },
     {
-      "id": 71036835,
-      "code": "ACBPWO-A15",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 34419588,
-      "code": "ACBPWO-A16",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 7021574,
-      "code": "ACBPWO-A17",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 70914287,
-      "code": "ACBPWO-A18",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 65240384,
-      "code": "ACBPWO-A19",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 50287060,
-      "code": "ACBPWO-A21",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 71413901,
-      "code": "ACBPWO-A25",
+      "id": 7634581,
+      "code": "ACBPWO-025",
       "rarity": "Super Rare",
       "image_index": 0
     },
     {
-      "id": 16404809,
-      "code": "ACBPWO-A27",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 34710660,
-      "code": "ACBPWO-A28",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 5405694,
-      "code": "ACBPWO-A29",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 78193831,
-      "code": "ACBPWO-A30",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 79571449,
-      "code": "ACBPWO-A32",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 87880531,
-      "code": "ACBPWO-A33",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 6309986,
-      "code": "ACBPWO-A34",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 95286165,
-      "code": "ACBPWO-A35",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 15381252,
-      "code": "ACBPWO-A36",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 72892473,
-      "code": "ACBPWO-A37",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 5318639,
-      "code": "ACBPWO-A39",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 99789342,
-      "code": "ACBPWO-A40",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 55761792,
-      "code": "ACBPWO-A41",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 44095762,
-      "code": "ACBPWO-A46",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 42776960,
-      "code": "ACBPWO-A50",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 4796100,
-      "code": "ACBPWO-A51",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 43892408,
-      "code": "ACBPWO-A52",
+      "id": 82103466,
+      "code": "ACBPWO-026",
       "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
-      "id": 66889139,
-      "code": "ACBPWO-A53",
+      "id": 3078380,
+      "code": "ACBPWO-027",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 79853073,
+      "code": "ACBPWO-030",
       "rarity": "Rare",
       "image_index": 0
     },
     {
-      "id": 75380687,
-      "code": "ACBPWO-A54",
+      "id": 84636823,
+      "code": "ACBPWO-031",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11384280,
+      "code": "ACBPWO-036",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34022290,
+      "code": "ACBPWO-039",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18175965,
+      "code": "ACBPWO-043",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 50834074,
+      "code": "ACBPWO-049",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80280944,
+      "code": "ACBPWO-050",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94568601,
+      "code": "ACBPWO-051",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14457896,
+      "code": "ACBPWO-052",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91512835,
+      "code": "ACBPWO-054",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52040216,
+      "code": "ACBPWO-057",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 12493482,
+      "code": "ACBPWO-060",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 94004268,
+      "code": "ACBPWO-062",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69279219,
+      "code": "ACBPWO-069",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 32807846,
+      "code": "ACBPWO-070",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83764718,
+      "code": "ACBPWO-072",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 24094653,
+      "code": "ACBPWO-073",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55144522,
+      "code": "ACBPWO-074",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41139112,
+      "code": "ACBPWO-075",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 66788016,
+      "code": "ACBPWO-076",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78794994,
+      "code": "ACBPWO-079",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5556668,
+      "code": "ACBPWO-082",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 72302403,
+      "code": "ACBPWO-088",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55569674,
+      "code": "ACBPWO-090",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 5758500,
+      "code": "ACBPWO-091",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 69243953,
+      "code": "ACBPWO-092",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81954378,
+      "code": "ACBPWO-093",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 54447022,
+      "code": "ACBPWO-096",
       "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
-      "id": 83743222,
-      "code": "ACBPWO-A55",
+      "id": 86308219,
+      "code": "ACBPWO-103",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 18144506,
+      "code": "ACBPWO-105",
       "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
-      "id": 62873545,
-      "code": "ACBPWO-A56",
+      "id": 29228529,
+      "code": "ACBPWO-107",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 2047519,
+      "code": "ACBPWO-109",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 29549364,
+      "code": "ACBPWO-113",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 60082869,
+      "code": "ACBPWO-115",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 51452091,
+      "code": "ACBPWO-116",
       "rarity": "Ultra Rare",
       "image_index": 0
-    }
+    },
+    {
+      "id": 38960450,
+      "code": "ACBPWO-118",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 74701381,
+      "code": "ACBPWO-119",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22359980,
+      "code": "ACBPWO-121",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 87639778,
+      "code": "ACBPWO-123",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49868263,
+      "code": "ACBPWO-127",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 86239173,
+      "code": "ACBPWO-128",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41721210,
+      "code": "ACBPWO-129",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44373896,
+      "code": "ACBPWO-130",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
   ]
 }
