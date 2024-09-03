@@ -1,0 +1,128 @@
+{
+  "code": "ACBPWO_BS8",
+  "type": "Sub-Set",
+  "pull_type": "distribution",
+  "distribution": "custom__md_pack__slot8",
+  "cards": [
+    {
+      "id": 31553716,
+      "code": "ACBPWO-B01",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89631139,
+      "code": "ACBPWO-B02",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73398797,
+      "code": "ACBPWO-B06",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14898066,
+      "code": "ACBPWO-B11",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 62873545,
+      "code": "ACBPWO-B12",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52824910,
+      "code": "ACBPWO-B13",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55713623,
+      "code": "ACBPWO-B17",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 59750328,
+      "code": "ACBPWO-B19",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 9786492,
+      "code": "ACBPWO-B20",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68005187,
+      "code": "ACBPWO-B21",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57728570,
+      "code": "ACBPWO-B26",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 85758066,
+      "code": "ACBPWO-B27",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 57470761,
+      "code": "ACBPWO-B28",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83555666,
+      "code": "ACBPWO-B29",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 22804644,
+      "code": "ACBPWO-B30",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 91998119,
+      "code": "ACBPWO-B31",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 58293343,
+      "code": "ACBPWO-B32",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 11443677,
+      "code": "ACBPWO-B33",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23995346,
+      "code": "ACBPWO-B34",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84687358,
+      "code": "ACBPWO-B35",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

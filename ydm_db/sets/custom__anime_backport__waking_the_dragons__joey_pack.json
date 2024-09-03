@@ -1,0 +1,18 @@
+{
+  "name": "Anime Backport: Waking the Dragons Arc (Joey Pack) (Custom)",
+  "code": "ACBPWO_JP",
+  "type": "\"Master Duel\"-like Pack (Custom)",
+  "date": "02-09-2024",
+  "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "ACBPWO_GS1",
+    "ACBPWO_GS1",
+    "ACBPWO_GS1",
+    "ACBPWO_GS1",
+    "ACBPWO_CS1",
+    "ACBPWO_CS1",
+    "ACBPWO_CS1",
+    "ACBPWO_CS8"
+  ]
+}
