@@ -1,0 +1,12 @@
+{
+  "id": 83764719,
+  "name": "Placeholder (Monster Reborn)",
+  "is_illegal": true,
+  "is_custom": true,
+  "text": "This card is unusable, replace with \"Monster Reborn.\" This card only exists to prevent errors.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/back_high.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Normal"
+}

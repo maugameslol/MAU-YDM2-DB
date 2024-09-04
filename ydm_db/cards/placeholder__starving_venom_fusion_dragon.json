@@ -1,7 +1,7 @@
 {
   "id": 41209828,
   "name": "Placeholder (Starving Venom Fusion Dragon)",
-  "is_illegal": false,
+  "is_illegal": true,
   "is_custom": true,
   "text": "This card is unusable, replace with \"Starving Venom Fusion Dragon.\" This card only exists to prevent errors.",
   "images": [
