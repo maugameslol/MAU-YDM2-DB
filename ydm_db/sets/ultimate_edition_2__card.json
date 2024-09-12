@@ -1,0 +1,13 @@
+{
+  "code": "UE02_C",
+  "type": "Sub-Set",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 62873545,
+      "code": "UE02-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

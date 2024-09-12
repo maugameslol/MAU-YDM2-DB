@@ -1,0 +1,13 @@
+{
+  "name": "Light and Darkness Power Pack",
+  "code": "LDPP",
+  "type": "Special Edition",
+  "date": "14-11-2007",
+  "image": "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/ProductImages/Boxes/LDPP_box.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "DR04",
+	"DR04",
+    "LDPP_C"
+  ]
+}

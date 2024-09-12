@@ -1,0 +1,13 @@
+{
+  "code": "UE01_C",
+  "type": "Sub-Set",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 23995346,
+      "code": "JMP-EN005",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

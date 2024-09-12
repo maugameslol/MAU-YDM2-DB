@@ -1,0 +1,13 @@
+{
+  "code": "LDPP_C",
+  "type": "Sub-Set",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 47297616,
+      "code": "LDPP-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

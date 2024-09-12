@@ -1,0 +1,13 @@
+{
+  "name": "Ultimate Edition 2",
+  "code": "UE02",
+  "type": "Special Edition",
+  "date": "11-11-2006",
+  "image": "https://ms.yugipedia.com//3/31/UE02-PromoEN.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "DR3",
+	"DR3",
+    "UE02_C"
+  ]
+}
