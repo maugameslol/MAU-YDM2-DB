@@ -7,6 +7,7 @@
   "images": [
     "https://images.ygoprodeck.com/images/cards/300201002.jpg"
   ],
-  "type": "Spell",
-  "spell_type": "Normal"
+  "type": "Skill",
+  "skill_type": "Normal",
+  "character": "Yami Yugi"
 }
