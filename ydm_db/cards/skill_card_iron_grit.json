@@ -3,10 +3,11 @@
   "name": "Iron Grit (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Joey / Skill\n[ SKILL ACTIVATION ]\nAt the start of the Duel, flip this card over.\n\n[ SKILL EFFECT ]\n\"Gearfried the Iron Knight(s)\" you control are unaffected by card effects.",
+  "text": "[ SKILL ACTIVATION ]\nAt the start of the Duel, flip this card over.\n\n[ SKILL EFFECT ]\n\"Gearfried the Iron Knight(s)\" you control are unaffected by card effects.",
   "images": [
     "https://ms.yugipedia.com//2/20/IronGrit-SBC1-EN-C-1E.png"
 	],
-  "type": "Spell",
-  "spell_type": "Normal"
+  "type": "Skill",
+  "skill_type": "",
+  "character": "Joey"
 }

@@ -3,10 +3,11 @@
   "name": "Prescience (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Ishizu / Skill\n[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nIf your opponent\u0027s LP is more than twice your LP, activate this Skill.\nYou may look at the top card of both your and your opponent\u0027s Deck at any time.",
+  "text": "[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nIf your opponent\u0027s LP is more than twice your LP, activate this Skill.\nYou may look at the top card of both your and your opponent\u0027s Deck at any time.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300201004.jpg"
   ],
-  "type": "Spell",
-  "spell_type": "Normal"
+  "type": "Skill",
+  "skill_type": "",
+  "character": "Ishizu"
 }

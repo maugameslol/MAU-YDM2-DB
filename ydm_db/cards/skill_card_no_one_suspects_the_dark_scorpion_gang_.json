@@ -3,10 +3,11 @@
   "name": "No One Suspects the Dark Scorpion Gang! (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Don Zaloog / Skill\n[ SKILL ACTIVATION ]\nAt the start of the Duel, flip this card over.\n\n[ SKILL EFFECT ]\nOnce per Duel, during your Main Phase, if you control \"Don Zaloog\", you can discard 1 card to Special Summon 2 \"Dark Scorpion\" monsters with different names from your hand and Deck (1 from each).\n\"Don Zaloog\" and \"Dark Scorpion\" monsters you control can attack directly, but when they do so using this Skill, the battle damage inflicted to your opponent becomes 400.\nYou cannot Summon or Set any monsters except \"Don Zaloog\" and/or \"Dark Scorpion\" monsters.",
+  "text": "[ SKILL ACTIVATION ]\nAt the start of the Duel, flip this card over.\n\n[ SKILL EFFECT ]\nOnce per Duel, during your Main Phase, if you control \"Don Zaloog\", you can discard 1 card to Special Summon 2 \"Dark Scorpion\" monsters with different names from your hand and Deck (1 from each).\n\"Don Zaloog\" and \"Dark Scorpion\" monsters you control can attack directly, but when they do so using this Skill, the battle damage inflicted to your opponent becomes 400.\nYou cannot Summon or Set any monsters except \"Don Zaloog\" and/or \"Dark Scorpion\" monsters.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300302068.jpg"
   ],
-  "type": "Spell",
-  "spell_type": "Normal"
+  "type": "Skill",
+  "skill_type": "",
+  "character": "Don Zaloog"
 }

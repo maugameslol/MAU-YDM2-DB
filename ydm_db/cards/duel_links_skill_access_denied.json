@@ -3,10 +3,11 @@
   "name": "Access Denied (Duel Links Skill)",
   "is_illegal": false,
   "is_custom": true,
-  "text": "Yugi Muto / Skill\n[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nCan be used from your 5th turn and onward, when you have 1000 or less Life Points. Until the end of your opponent\u0027s next turn, neither player can Summon an Effect Monster nor activate the effects of their monsters.\nThis Skill can only be used once per Duel.",
+  "text": "[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nCan be used from your 5th turn and onward, when you have 1000 or less Life Points. Until the end of your opponent\u0027s next turn, neither player can Summon an Effect Monster nor activate the effects of their monsters.\nThis Skill can only be used once per Duel.",
   "images": [
     "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/Customs/SkillCards/Duel_Links_Skill_Access_Denied.jpg"
   ],
-  "type": "Spell",
-  "spell_type": "Normal"
+  "type": "Skill",
+  "skill_type": "",
+  "character": "Yugi Muto"
 }

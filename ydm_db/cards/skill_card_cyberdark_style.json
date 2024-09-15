@@ -3,10 +3,11 @@
   "name": "Cyberdark Style (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Zane / Skill\n[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nOnce per turn, choose 3 \"Cyberdark\" monsters from your Deck.\nYour opponent randomly adds 1 of them to your hand.\nShuffle the other 2 along with 1 card from your hand back into your Deck, then flip this card over.\nThis Skill can be used up to three times, once when your LP are 3000 or less, once when your LP are 2000 or less, and once when your LP are 1000 or less.",
+  "text": "[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nOnce per turn, choose 3 \"Cyberdark\" monsters from your Deck.\nYour opponent randomly adds 1 of them to your hand.\nShuffle the other 2 along with 1 card from your hand back into your Deck, then flip this card over.\nThis Skill can be used up to three times, once when your LP are 3000 or less, once when your LP are 2000 or less, and once when your LP are 1000 or less.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300302028.jpg"
   ],
-  "type": "Spell",
-  "spell_type": "Normal"
+  "type": "Skill",
+  "skill_type": "",
+  "character": "Zane"
 }

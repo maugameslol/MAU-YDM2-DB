@@ -3,10 +3,11 @@
   "name": "Slimey Slimes (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Strings / Skill\n[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nOnce per turn, during your Main Phase, you can destroy 1 \"Jam Breeding Machine\" you control and 1 Spell/Trap your opponent controls.\nOnce per turn, during your Standby Phase, if you Special Summoned \"Revival Jam\" by it\u0027s own effect this turn, draw 3 cards.",
+  "text": "[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nOnce per turn, during your Main Phase, you can destroy 1 \"Jam Breeding Machine\" you control and 1 Spell/Trap your opponent controls.\nOnce per turn, during your Standby Phase, if you Special Summoned \"Revival Jam\" by it\u0027s own effect this turn, draw 3 cards.",
   "images": [
     "https://ms.yugipedia.com//9/99/SlimeySlimes-SBC1-EN-C-1E.png"
 	],
-  "type": "Spell",
-  "spell_type": "Normal"
+  "type": "Skill",
+  "skill_type": "",
+  "character": "Strings"
 }

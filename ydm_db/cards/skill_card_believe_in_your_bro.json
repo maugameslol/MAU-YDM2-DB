@@ -3,10 +3,11 @@
   "name": "Believe in your Bro (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Jaden \u0026 Syrus / Skill\n[ SKILL ACTIVATION ]\nAt the start of the Duel, flip this card over.\n\n[ SKILL EFFECT ]\nOnce per turn, you can activate 1 of these Skills based on the face-up monster(s) you control:\n\u25cf \"Elemental HERO\": Discard 1 Trap, then add 1 Level 6 or lower Machine \"roid\" monster from your GY to your hand, then you can destroy 1 monster your opponent controls whose ATK is less than or equal to the added card\u0027s.\n\u25cf Machine \"roid\": Discard 1 Spell, then Special Summon 1 Level 6 or lower Machine \"roid\" or \"Elemental HERO\" monster from your Deck in Defense Position, but negate its effects.\n\u25cf Both: Discard 1 card, then Fusion Summon 1 Fusion Monster using only \"roid\" and \"Elemental HERO\" monsters you control.\nEach of these Skills can only be used once per Duel.",
+  "text": "[ SKILL ACTIVATION ]\nAt the start of the Duel, flip this card over.\n\n[ SKILL EFFECT ]\nOnce per turn, you can activate 1 of these Skills based on the face-up monster(s) you control:\n\u25cf \"Elemental HERO\": Discard 1 Trap, then add 1 Level 6 or lower Machine \"roid\" monster from your GY to your hand, then you can destroy 1 monster your opponent controls whose ATK is less than or equal to the added card\u0027s.\n\u25cf Machine \"roid\": Discard 1 Spell, then Special Summon 1 Level 6 or lower Machine \"roid\" or \"Elemental HERO\" monster from your Deck in Defense Position, but negate its effects.\n\u25cf Both: Discard 1 card, then Fusion Summon 1 Fusion Monster using only \"roid\" and \"Elemental HERO\" monsters you control.\nEach of these Skills can only be used once per Duel.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300302044.jpg"
   ],
-  "type": "Spell",
-  "spell_type": "Normal"
+  "type": "Skill",
+  "skill_type": "",
+  "character": "Jaden \u0026 Syrus"
 }

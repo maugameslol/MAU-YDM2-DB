@@ -3,10 +3,11 @@
   "name": "Looking into the Future (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Aster / Skill\n[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nDuring your Main Phase, you can look at the top 3 cards of your Deck and return them in any order.\nYou cannot activate Spell Cards the turn you use this Skill.\nFlip this card over at the end of the turn you activated this Skill.",
+  "text": "[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nDuring your Main Phase, you can look at the top 3 cards of your Deck and return them in any order.\nYou cannot activate Spell Cards the turn you use this Skill.\nFlip this card over at the end of the turn you activated this Skill.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300302034.jpg"
   ],
-  "type": "Spell",
-  "spell_type": "Normal"
+  "type": "Skill",
+  "skill_type": "",
+  "character": "Aster"
 }

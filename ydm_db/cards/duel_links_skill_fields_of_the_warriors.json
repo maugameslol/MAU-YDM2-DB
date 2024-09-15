@@ -7,6 +7,7 @@
   "images": [
     "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/Customs/SkillCards/Duel_Links_Skill_Fields_Of_The_Warriors.jpg"
   ],
-  "type": "Spell",
-  "spell_type": "Field"
+  "type": "Skill",
+  "skill_type": "Field Spell",
+  "character": "Joey"
 }

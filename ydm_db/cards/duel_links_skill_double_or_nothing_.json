@@ -3,10 +3,11 @@
   "name": "Double or Nothing! (Duel Links Skill)",
   "is_illegal": false,
   "is_custom": true,
-  "text": "Yuma \u0026 Astral / Skill\n[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill. You must begin the Duel with an Extra Deck that contains no other monsters other than Xyz Monsters.\n\n[ SKILL EFFECT ]\nDuring your Main Phase, if you control a \"Number 98: Antitopian\" or a LIGHT \"Utopia\" or \"Utopic\" Xyz Monster in your Monster Zone; Add 1 \"Double or Nothing!\" to your hand from your Deck, and if you do, shuffle 1 card from your hand into your Deck.\nThis Skill can be used once per Duel.\n\n(This Skill has been adapted to work in our format, and it attempts to replicate its function in Yu-Gi-Oh! Duel Links.)",
+  "text": "[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill. You must begin the Duel with an Extra Deck that contains no other monsters other than Xyz Monsters.\n\n[ SKILL EFFECT ]\nDuring your Main Phase, if you control a \"Number 98: Antitopian\" or a LIGHT \"Utopia\" or \"Utopic\" Xyz Monster in your Monster Zone; Add 1 \"Double or Nothing!\" to your hand from your Deck, and if you do, shuffle 1 card from your hand into your Deck.\nThis Skill can be used once per Duel.\n\n(This Skill has been adapted to work in our format, and it attempts to replicate its function in Yu-Gi-Oh! Duel Links.)",
   "images": [
     "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/Customs/SkillCards/Duel_Links_Skill_Double_or_Nothing_.jpg"
   ],
-  "type": "Spell",
-  "spell_type": "Normal"
+  "type": "Skill",
+  "skill_type": "",
+  "character": "Yuma \u0026 Astral"
 }

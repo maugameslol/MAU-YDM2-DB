@@ -3,10 +3,11 @@
   "name": "Destiny Draw: Monster Reborn (Duel Links Skill)",
   "is_illegal": false,
   "is_custom": true,
-  "text": "Generic / Skill\n[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nIf your Life Points are at 2500 or below, or if your opponent controls a monster with 3000 ATK or more (regardless of your Life Points), you can activate this Skill during your next Draw Phase.\nDuring your Draw Phase, add 1 \"Monster Reborn\" from your Deck to your hand instead of drawing.\nThis Skill can only be used once per Duel.\n\n(This Skill has been adapted to work in our format, and it attempts to replicate its function in Yu-Gi-Oh! Duel Links.)",
+  "text": "[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nIf your Life Points are at 2500 or below, or if your opponent controls a monster with 3000 ATK or more (regardless of your Life Points), you can activate this Skill during your next Draw Phase.\nDuring your Draw Phase, add 1 \"Monster Reborn\" from your Deck to your hand instead of drawing.\nThis Skill can only be used once per Duel.\n\n(This Skill has been adapted to work in our format, and it attempts to replicate its function in Yu-Gi-Oh! Duel Links.)",
   "images": [
     "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/Customs/SkillCards/Duel_Links_Skill_Destiny_Draw__Monster_Reborn.jpg"
   ],
-  "type": "Spell",
-  "spell_type": "Normal"
+  "type": "Skill",
+  "skill_type": "",
+  "character": "Generic"
 }

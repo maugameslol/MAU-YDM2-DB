@@ -3,10 +3,11 @@
   "name": "Dinosaur Kingdom (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Rex / Skill / Field Spell\n[ SKILL ACTIVATION ]\nAt the start of the Duel, place this card in your Field Zone and flip it over.\n\n[ SKILL EFFECT ]\nAll Dinosaur monsters on the field gain 300 ATK and DEF.",
+  "text": "[ SKILL ACTIVATION ]\nAt the start of the Duel, place this card in your Field Zone and flip it over.\n\n[ SKILL EFFECT ]\nAll Dinosaur monsters on the field gain 300 ATK and DEF.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300203001.jpg"
   ],
-  "type": "Spell",
-  "spell_type": "Field"
+  "type": "Skill",
+  "skill_type": "Field Spell",
+  "character": "Rex"
 }

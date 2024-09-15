@@ -3,10 +3,11 @@
   "name": "Armed and Ready! (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Chazz / Skill\n[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nOnce per Duel, during your Main Phase, you can send 1 \"LV\" monster you control to the GY, then Special Summon the \"LV\" monster mentioned in its text from your hand, Deck, or GY, as if it were Summoned by the sent monster\u0027s effect.",
+  "text": "[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nOnce per Duel, during your Main Phase, you can send 1 \"LV\" monster you control to the GY, then Special Summon the \"LV\" monster mentioned in its text from your hand, Deck, or GY, as if it were Summoned by the sent monster\u0027s effect.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300302023.jpg"
   ],
-  "type": "Spell",
-  "spell_type": "Normal"
+  "type": "Skill",
+  "skill_type": "",
+  "character": "Chazz"
 }

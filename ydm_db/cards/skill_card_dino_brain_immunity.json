@@ -3,10 +3,11 @@
   "name": "Dino Brain Immunity (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Hassleberry / Skill\n[ SKILL ACTIVATION ]\nAt the start of the Duel, flip this card over.\n\n[ SKILL EFFECT ]\nApply the following Skills.\n\u25cf The battle positions of Dinosaur monsters cannot be changed by Trap Cards or effects.\n\u25cf Level 7 or higher Dinosaur monsters on the field cannot be targeted by Spell Cards or effects.",
+  "text": "[ SKILL ACTIVATION ]\nAt the start of the Duel, flip this card over.\n\n[ SKILL EFFECT ]\nApply the following Skills.\n\u25cf The battle positions of Dinosaur monsters cannot be changed by Trap Cards or effects.\n\u25cf Level 7 or higher Dinosaur monsters on the field cannot be targeted by Spell Cards or effects.",
   "images": [
     "https://ms.yugipedia.com//3/3c/DinoBrainImmunity-SGX4-NA-C-1E.png"
 	],
-  "type": "Spell",
-  "spell_type": "Normal"
+  "type": "Skill",
+  "skill_type": "",
+  "character": "Hassleberry"
 }

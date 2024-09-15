@@ -3,10 +3,11 @@
   "name": "Archfiend\u0027s Promotion (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Titan / Skill\n[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nOnce per turn, during your Main Phase, if you control \"Vilepawn Archfiend\" and your opponent controls no card in its same column, you can Tribute it to Special Summon 1 Level 8 or lower \"Archfiend\" monster from your hand or Deck that has \"Queen\", \"Bishop\" , \"Rook\", or \"Knight\" in its name.",
+  "text": "[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nOnce per turn, during your Main Phase, if you control \"Vilepawn Archfiend\" and your opponent controls no card in its same column, you can Tribute it to Special Summon 1 Level 8 or lower \"Archfiend\" monster from your hand or Deck that has \"Queen\", \"Bishop\" , \"Rook\", or \"Knight\" in its name.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300302058.jpg"
   ],
-  "type": "Spell",
-  "spell_type": "Normal"
+  "type": "Skill",
+  "skill_type": "",
+  "character": "Titan"
 }

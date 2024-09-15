@@ -3,10 +3,11 @@
   "name": "Hyper Metamorphosis (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Weevil / Skill\n[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nYou can activate this Skill while you control a Level 3 or lower Insect Normal Monster.\nDiscard 2 cards and Tribute 1 Level 3 or lower Insect Normal Monster you control to Special Summon 1 \"Perfectly Ultimate Great Moth\" from your hand or Deck, ignoring its Summoning conditions.\nAny damage your opponent takes for the rest of this turn is halved.",
+  "text": "[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nYou can activate this Skill while you control a Level 3 or lower Insect Normal Monster.\nDiscard 2 cards and Tribute 1 Level 3 or lower Insect Normal Monster you control to Special Summon 1 \"Perfectly Ultimate Great Moth\" from your hand or Deck, ignoring its Summoning conditions.\nAny damage your opponent takes for the rest of this turn is halved.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300203003.jpg"
   ],
-  "type": "Spell",
-  "spell_type": "Normal"
+  "type": "Skill",
+  "skill_type": "",
+  "character": "Weevil"
 }

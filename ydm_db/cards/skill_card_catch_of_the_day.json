@@ -3,10 +3,11 @@
   "name": "Catch of the Day (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Mako / Skill\n[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nOnce per Duel, If you control \"The Legendary Fisherman\", you can activate \"Umi\" directly from your Deck or GY.\nOnce per turn, at the end of your Battle Phase, if \"The Legendary Fisherman\" you control destroys a monster by battle or inflicts battle damage to your opponent, you can Special Summon 1 Level 4 or lower WATER monster from your Deck or GY in Defense Position.",
+  "text": "[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nOnce per Duel, If you control \"The Legendary Fisherman\", you can activate \"Umi\" directly from your Deck or GY.\nOnce per turn, at the end of your Battle Phase, if \"The Legendary Fisherman\" you control destroys a monster by battle or inflicts battle damage to your opponent, you can Special Summon 1 Level 4 or lower WATER monster from your Deck or GY in Defense Position.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300102003.jpg"
   ],
-  "type": "Spell",
-  "spell_type": "Normal"
+  "type": "Skill",
+  "skill_type": "",
+  "character": "Mako"
 }

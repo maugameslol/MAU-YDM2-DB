@@ -3,10 +3,11 @@
   "name": "A Card Entrusted (Duel Links Skill)",
   "is_illegal": false,
   "is_custom": true,
-  "text": "Yami Yugi / Skill\n[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nReveal this card and shuffle it into your Deck as a Normal Spell. As a Normal Spell, it has the following effect:\n\u25cf Special Summon 1 \"Metal Fiend Token\" (Fiend/DARK/Level 1/ATK 0/DEF 0). It cannot attack. Your opponent takes any battle damage you would have taken from battles involving it. Once per turn, during your Standby Phase, pay 1000 LP or destroy this Token.\n\n(This Skill has been adapted to work in our format, and it attempts to replicate its function in Yu-Gi-Oh! Duel Links.)",
+  "text": "[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nReveal this card and shuffle it into your Deck as a Normal Spell. As a Normal Spell, it has the following effect:\n\u25cf Special Summon 1 \"Metal Fiend Token\" (Fiend/DARK/Level 1/ATK 0/DEF 0). It cannot attack. Your opponent takes any battle damage you would have taken from battles involving it. Once per turn, during your Standby Phase, pay 1000 LP or destroy this Token.\n\n(This Skill has been adapted to work in our format, and it attempts to replicate its function in Yu-Gi-Oh! Duel Links.)",
   "images": [
     "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/Customs/SkillCards/Duel_Links_Skill_A_Card_Entrusted.jpg"
   ],
-  "type": "Spell",
-  "spell_type": "Normal"
+  "type": "Skill",
+  "skill_type": "Normal Spell",
+  "character": "Yami Yugi"
 }

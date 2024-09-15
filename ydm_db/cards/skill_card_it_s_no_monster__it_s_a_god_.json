@@ -3,10 +3,11 @@
   "name": "It\u0027s No Monster, It\u0027s a God! (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Kaiba / Skill\n[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nActivate this Skill during your Main Phase.\nDiscard any number of cards (min. 1), then add 1 \"Obelisk the Tormentor\" from your Deck or GY to your hand.\nThis Skill can only be used once per Duel.",
+  "text": "[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nActivate this Skill during your Main Phase.\nDiscard any number of cards (min. 1), then add 1 \"Obelisk the Tormentor\" from your Deck or GY to your hand.\nThis Skill can only be used once per Duel.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300302012.jpg"
   ],
-  "type": "Spell",
-  "spell_type": "Normal"
+  "type": "Skill",
+  "skill_type": "",
+  "character": "Kaiba"
 }

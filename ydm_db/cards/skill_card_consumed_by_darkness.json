@@ -3,10 +3,11 @@
   "name": "Consumed By Darkness (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Yubel / Skill\n[ SKILL ACTIVATION ]\nDuring your turn, you can flip this card over and place it in your Field Spell Zone.\n\n[ SKILL EFFECT ]\nAll \"Crystal Beast\" monsters on the field and in the GY become DARK.\nIf an \"Ultimate Crystal\" monster attacks, negate the effects of the attack target during that Battle Phase.\nDuring damage calculation, if a \"Crystal Beast\" monster you control battles and you would take damage: You can send 1 \"Crystal Beast\" monster from your Deck to the GY; you take no battle damage from that battle.",
+  "text": "[ SKILL ACTIVATION ]\nDuring your turn, you can flip this card over and place it in your Field Spell Zone.\n\n[ SKILL EFFECT ]\nAll \"Crystal Beast\" monsters on the field and in the GY become DARK.\nIf an \"Ultimate Crystal\" monster attacks, negate the effects of the attack target during that Battle Phase.\nDuring damage calculation, if a \"Crystal Beast\" monster you control battles and you would take damage: You can send 1 \"Crystal Beast\" monster from your Deck to the GY; you take no battle damage from that battle.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300302025.jpg"
   ],
-  "type": "Spell",
-  "spell_type": "Normal"
+  "type": "Skill",
+  "skill_type": "Field Spell",
+  "character": "Yubel"
 }

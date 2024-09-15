@@ -3,10 +3,11 @@
   "name": "Magician\u0027s Scales (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Sartorius / Skill\n[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nOnce per Duel, you can Tribute 1 \"Arcana Force\" monster and add 1 Normal Spell from your Deck to your hand, also for the rest of the Duel, you cannot Summon any monsters, except \"Arcana Force\" monsters.",
+  "text": "[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nOnce per Duel, you can Tribute 1 \"Arcana Force\" monster and add 1 Normal Spell from your Deck to your hand, also for the rest of the Duel, you cannot Summon any monsters, except \"Arcana Force\" monsters.",
   "images": [
     "https://ms.yugipedia.com//6/61/MagiciansScales-SGX4-NA-C-1E.png"
 	],
-  "type": "Spell",
-  "spell_type": "Normal"
+  "type": "Skill",
+  "skill_type": "",
+  "character": "Sartorius"
 }

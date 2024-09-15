@@ -3,10 +3,11 @@
   "name": "Royal Flush (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Yami Yugi / Skill\n[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nOnce per turn, if you control \"Queen\u0027s Knight\", you can pay 1000 LP to Normal Summon 1 \"King\u0027s Knight\" in addition to your Normal Summon or Set.\n\"King\u0027s Knight\" and \"Jack\u0027s Knight\" you control cannot attack directly the turn you use this Skill.",
+  "text": "[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nOnce per turn, if you control \"Queen\u0027s Knight\", you can pay 1000 LP to Normal Summon 1 \"King\u0027s Knight\" in addition to your Normal Summon or Set.\n\"King\u0027s Knight\" and \"Jack\u0027s Knight\" you control cannot attack directly the turn you use this Skill.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300101004.jpg"
   ],
-  "type": "Spell",
-  "spell_type": "Normal"
+  "type": "Skill",
+  "skill_type": "",
+  "character": "Yami Yugi"
 }
