@@ -11,7 +11,7 @@
   "attribute": "EARTH",
   "atk": 2700,
   "species": "Beast",
-  "ability": "Synchro",
+  "ability": "",
   "has_effect": true,
   "is_pendulum": false,
   "monster_type": "Synchro",
