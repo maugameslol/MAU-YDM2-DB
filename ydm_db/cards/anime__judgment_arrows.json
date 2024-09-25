@@ -1,0 +1,17 @@
+{
+  "id": 511009503,
+  "name": "Judgment Arrows",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Target 1 monster in either GY; Special Summon it.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/83764719.jpg"
+  ],
+  "type": "Spell",
+  "spell_type": "Link",
+  "link_arrows": [
+    "Top",
+    "Top-Left",
+    "Top-Right"
+  ]
+}
