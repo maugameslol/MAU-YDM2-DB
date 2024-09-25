@@ -1,11 +1,11 @@
 {
   "id": 511009503,
   "name": "Judgment Arrows",
-  "is_illegal": false,
+  "is_illegal": true,
   "is_custom": true,
-  "text": "Target 1 monster in either GY; Special Summon it.",
+  "text": "You can only control 1 \"Judgment Arrows\" in your Spell \u0026 Trap Zones a Link Monster points to.\nIf a Link Monster this card points to battles, its ATK is doubled during damage calculation only.\nWhen this card leaves the field while it points to a monster(s), destroy all those monsters. ",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/83764719.jpg"
+    "https://ms.yugipedia.com//b/be/JudgmentArrows-JP-Anime-VR.png"
   ],
   "type": "Spell",
   "spell_type": "Link",
