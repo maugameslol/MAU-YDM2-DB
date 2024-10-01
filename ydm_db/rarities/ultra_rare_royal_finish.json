@@ -10,11 +10,7 @@
       "type": "inverted"
     },
     {
-      "image": "royal_finish_passive",
-      "type": "inverted"
-    },
-    {
-      "image": "royal_finish_active",
+      "image": "royal_finish",
       "type": "inverted"
     },
     {

@@ -1,0 +1,13 @@
+{
+  "rarity": "Common - Glossy Finish",
+  "layers": [
+    {
+      "image": "glossy_finish_center",
+      "type": "inverted"
+    },
+    {
+      "image": "glossy_finish_border",
+      "type": "normal"
+    }
+  ]
+}
