@@ -1,0 +1,21 @@
+{
+  "rarity": "Ultra Rare - Royal Finish",
+  "layers": [
+    {
+      "image": "rare",
+      "type": "normal"
+    },
+    {
+    "image": "royal_finish_borders",
+    "type": "inverted"
+    },
+    {
+      "image": "ultra_rare",
+      "type": "normal"
+    },
+    {
+    "image": "royal_finish_crystal",
+    "type": "normal"
+    }
+  ]
+}
