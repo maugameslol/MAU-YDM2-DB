@@ -6,12 +6,8 @@
       "type": "normal"
     },
     {
-    "image": "royal_finish_borders",
+    "image": "royal_finish_border",
     "type": "inverted"
-    },
-    {
-    "image": "royal_finish_borders2",
-    "type": "normal"
     },
     {
       "image": "royal_finish",
@@ -19,10 +15,14 @@
     },
     {
       "image": "royal_finish_foil",
-      "type": "normal"
+      "type": "inverted"
     },
     {
-    "image": "royal_finish_crystal",
+    "image": "royal_finish_crystal_passive",
+    "type": "inverted"
+    },
+    {
+    "image": "royal_finish_crystal_active",
     "type": "normal"
     }
   ]
