@@ -10,7 +10,15 @@
     "type": "inverted"
     },
     {
-      "image": "ultra_rare",
+    "image": "royal_finish_borders2",
+    "type": "normal"
+    },
+    {
+      "image": "royal_finish",
+      "type": "inverted"
+    },
+    {
+      "image": "royal_finish_foil",
       "type": "normal"
     },
     {
