@@ -1,6 +1,7 @@
 {
   "id": 87602890,
   "name": "Zaborg the Mega Monarch",
+  "archetype": "Monarch",
   "is_illegal": false,
   "is_custom": false,
   "text": "You can Tribute Summon this card by Tributing 1 Tribute Summoned monster.\nIf this card is Tribute Summoned: Target 1 monster on the field; destroy it, then, if it was a LIGHT monster, both players send as many cards as possible from their Extra Deck to the GY, but not more than the original Level/Rank of that destroyed monster.\nIf this card was Tribute Summoned by Tributing a LIGHT monster, add this additional effect.\n\u25cf You choose the cards your opponent sends to the GY.",
