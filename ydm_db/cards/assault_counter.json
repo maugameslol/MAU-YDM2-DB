@@ -1,6 +1,7 @@
 {
   "id": 76407432,
   "name": "Assault Counter",
+  "archetype": "Counter",
   "is_illegal": false,
   "is_custom": false,
   "text": "Activate only while you control an \"/Assault Mode\" monster.\nNegate the activation of a Spell Card, Trap Card, or Effect Monster\u0027s effect and destroy it.",
