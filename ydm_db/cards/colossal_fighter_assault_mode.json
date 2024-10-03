@@ -4,7 +4,7 @@
   "archetype": "/Assault Mode",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card Cannot be Normal Summoned/Set.\nThis card cannot be Special Summoned except with \"Assault Mode Activate\".\nWhen this card is Special Summoned, you can send up to 2 Warrior-Type monsters from your Deck to the Graveyard.\nAll monsters your opponent controls lose 100 ATK for every Warrior-Type monster in your Graveyard.\nWhen this card on the field is destroyed, you can Special Summon 1 \"Colossal Fighter\" from your Graveyard.",
+  "text": "Cannot be Normal Summoned/Set.\nThis card cannot be Special Summoned except with \"Assault Mode Activate\".\nWhen this card is Special Summoned, you can send up to 2 Warrior-Type monsters from your Deck to the Graveyard.\nAll monsters your opponent controls lose 100 ATK for every Warrior-Type monster in your Graveyard.\nWhen this card on the field is destroyed, you can Special Summon 1 \"Colossal Fighter\" from your Graveyard.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/38898779.jpg"
   ],

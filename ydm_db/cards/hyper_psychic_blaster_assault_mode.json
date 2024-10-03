@@ -4,7 +4,7 @@
   "archetype": "/Assault Mode",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card Cannot be Normal Summoned/Set.\nThis card cannot be Special Summoned except with \"Assault Mode Activate\".\nIf this card battles a monster, at the end of the Damage Step, inflict damage to your opponent equal to that monster\u0027s DEF and gain Life Points equal to its ATK.\nWhen this card on the field is destroyed, you can Special Summon 1 \"Hyper Psychic Blaster\" from your Graveyard.",
+  "text": "Cannot be Normal Summoned/Set.\nThis card cannot be Special Summoned except with \"Assault Mode Activate\".\nIf this card battles a monster, at the end of the Damage Step, inflict damage to your opponent equal to that monster\u0027s DEF and gain Life Points equal to its ATK.\nWhen this card on the field is destroyed, you can Special Summon 1 \"Hyper Psychic Blaster\" from your Graveyard.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/37169670.jpg"
   ],
