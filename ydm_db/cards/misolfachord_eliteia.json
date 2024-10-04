@@ -3,7 +3,7 @@
   "name": "MiSolfachord Eliteia",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ MONSTER EFFECT ]\nWhile you have an even Pendulum Scale in your Pendulum Zone, you take no damage from battles involving your \"Solfachord\" Pendulum Monsters.\nIf this card is Normal or Special Summoned: You can target 1 Spell/Trap your opponent controls; return it to the hand.\nYou can only use this effect of \"MiSolfachord Eliteia\" once per turn.",
+  "text": "While you have an even Pendulum Scale in your Pendulum Zone, you take no damage from battles involving your \"Solfachord\" Pendulum Monsters.\nIf this card is Normal or Special Summoned: You can target 1 Spell/Trap your opponent controls; return it to the hand.\nYou can only use this effect of \"MiSolfachord Eliteia\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/28115467.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 400,
   "level": 3,
   "is_tuner": false,
-  "pendulum_text": "[ PENDULUM EFFECT ]\nPendulum Summons of your \"Solfachord\" Pendulum Monsters cannot be negated.",
+  "pendulum_text": "Pendulum Summons of your \"Solfachord\" Pendulum Monsters cannot be negated.",
   "pendulum_scale_left_blue": 6,
   "pendulum_scale_right_red": 6
 }

@@ -3,7 +3,7 @@
   "name": "Mythical Beast Jackal",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ MONSTER EFFECT ]\nEach time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves.\nYou can remove 3 Spell Counters from your field and Tribute this card; Special Summon 1 \"Mythical Beast\" Effect Monster from your Deck, except \"Mythical Beast Jackal\".",
+  "text": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves.\nYou can remove 3 Spell Counters from your field and Tribute this card; Special Summon 1 \"Mythical Beast\" Effect Monster from your Deck, except \"Mythical Beast Jackal\".",
   "images": [
     "https://images.ygoprodeck.com/images/cards/91182675.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 1400,
   "level": 1,
   "is_tuner": false,
-  "pendulum_text": "[ PENDULUM EFFECT ]\nIf you have no cards in your other Pendulum Zone: You can target 1 card you control that you can place a Spell Counter on; destroy this card, and if you do, place 1 Spell Counter on that card.\nYou can only use this effect of \"Mythical Beast Jackal\" once per turn.\n",
+  "pendulum_text": "If you have no cards in your other Pendulum Zone: You can target 1 card you control that you can place a Spell Counter on; destroy this card, and if you do, place 1 Spell Counter on that card.\nYou can only use this effect of \"Mythical Beast Jackal\" once per turn.\n",
   "pendulum_scale_left_blue": 4,
   "pendulum_scale_right_red": 4
 }

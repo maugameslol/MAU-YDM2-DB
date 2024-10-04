@@ -3,7 +3,7 @@
   "name": "Lancephorhynchus",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ FLAVOR TEXT ]\nThis primordial species survived extinction by evolving an offensive lance that can pierce anything, although its diet still consists mainly of fish.",
+  "text": "This primordial species survived extinction by evolving an offensive lance that can pierce anything, although its diet still consists mainly of fish.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/48940337.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 800,
   "level": 6,
   "is_tuner": false,
-  "pendulum_text": "[ PENDULUM EFFECT ]\nIf a Normal Monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "pendulum_text": "If a Normal Monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
   "pendulum_scale_left_blue": 7,
   "pendulum_scale_right_red": 7
 }

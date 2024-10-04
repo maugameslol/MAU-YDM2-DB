@@ -3,7 +3,7 @@
   "name": "Symphonic Warrior Guitaar",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ MONSTER EFFECT ]\nWhen this card is Normal Summoned: You can target 1 \"Symphonic Warrior\" monster in your Graveyard; Special Summon it.",
+  "text": "When this card is Normal Summoned: You can target 1 \"Symphonic Warrior\" monster in your Graveyard; Special Summon it.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/12525049.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 100,
   "level": 3,
   "is_tuner": false,
-  "pendulum_text": "[ PENDULUM EFFECT ]\nYou can discard 1 card; Special Summon 1 \"Symphonic Warrior\" monster from your Deck, except \"Symphonic Warrior Guitaar\".\nYou can only use this effect of \"Symphonic Warrior Guitaar\" once per turn.",
+  "pendulum_text": "You can discard 1 card; Special Summon 1 \"Symphonic Warrior\" monster from your Deck, except \"Symphonic Warrior Guitaar\".\nYou can only use this effect of \"Symphonic Warrior Guitaar\" once per turn.",
   "pendulum_scale_left_blue": 7,
   "pendulum_scale_right_red": 7
 }

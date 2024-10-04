@@ -3,7 +3,7 @@
   "name": "Rain Bozu",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ MONSTER EFFECT ]\nGains ATK during your turn only, and gains DEF during your opponent\u0027s turn only, each equal to the difference between the number of cards in the Extra Decks x 200.\nIf this card attacks, it is changed to Defense Position at the end of the Battle Phase.\nIf this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.",
+  "text": "Gains ATK during your turn only, and gains DEF during your opponent\u0027s turn only, each equal to the difference between the number of cards in the Extra Decks x 200.\nIf this card attacks, it is changed to Defense Position at the end of the Battle Phase.\nIf this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/95568112.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 0,
   "level": 7,
   "is_tuner": false,
-  "pendulum_text": "[ PENDULUM EFFECT ]\nOnce per turn: You can target 1 face-up monster you control; it gains ATK equal to the difference between the number of cards in the Extra Decks x 100, until the end of this turn (even if this card leaves the field).",
+  "pendulum_text": "Once per turn: You can target 1 face-up monster you control; it gains ATK equal to the difference between the number of cards in the Extra Decks x 100, until the end of this turn (even if this card leaves the field).",
   "pendulum_scale_left_blue": 8,
   "pendulum_scale_right_red": 8
 }

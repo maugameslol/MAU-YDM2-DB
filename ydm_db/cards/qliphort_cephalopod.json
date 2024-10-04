@@ -3,7 +3,7 @@
   "name": "Qliphort Cephalopod",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ MONSTER EFFECT ]\nYou can Normal Summon this card without Tributing.\nIf this card is Normal Summoned without Tributing, or is Special Summoned, its Level becomes 4 and its original ATK becomes 1800.\nIf this card is Normal Summoned/Set, it is unaffected by activated effects from any monster whose original Level/Rank is lower than this card\u0027s current Level.\nWhen this card is Tribute Summoned by Tributing a \"Qli\" monster(s): You can activate this effect; if your opponent has more monsters in their Graveyard than you do, you gain LP equal to the difference x 300, and if you do, inflict the same amount of damage to your opponent.",
+  "text": "You can Normal Summon this card without Tributing.\nIf this card is Normal Summoned without Tributing, or is Special Summoned, its Level becomes 4 and its original ATK becomes 1800.\nIf this card is Normal Summoned/Set, it is unaffected by activated effects from any monster whose original Level/Rank is lower than this card\u0027s current Level.\nWhen this card is Tribute Summoned by Tributing a \"Qli\" monster(s): You can activate this effect; if your opponent has more monsters in their Graveyard than you do, you gain LP equal to the difference x 300, and if you do, inflict the same amount of damage to your opponent.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/87588741.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 1000,
   "level": 7,
   "is_tuner": false,
-  "pendulum_text": "[ PENDULUM EFFECT ]\nYou can only Special Summon \"Qli\" monsters.\nThis effect cannot be negated.\nAll monsters your opponent controls lose 300 ATK.\n",
+  "pendulum_text": "You can only Special Summon \"Qli\" monsters.\nThis effect cannot be negated.\nAll monsters your opponent controls lose 300 ATK.\n",
   "pendulum_scale_left_blue": 9,
   "pendulum_scale_right_red": 9
 }

@@ -3,7 +3,7 @@
   "name": "Performapal King Bear",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ MONSTER EFFECT ]\nCannot be destroyed by Spell/Trap effects while in face-up Attack Position.\nThis card gains 100 ATK for each \"Performapal\" card you control, during your Battle Phase only.",
+  "text": "Cannot be destroyed by Spell/Trap effects while in face-up Attack Position.\nThis card gains 100 ATK for each \"Performapal\" card you control, during your Battle Phase only.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/67808837.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 1000,
   "level": 6,
   "is_tuner": false,
-  "pendulum_text": "[ PENDULUM EFFECT ]\nOnce per turn, during the End Phase, if this card was activated this turn: You can destroy this card, and if you do, add 1 Level 7 or higher monster to your hand, that is either in your Graveyard or face-up in your Extra Deck.",
+  "pendulum_text": "Once per turn, during the End Phase, if this card was activated this turn: You can destroy this card, and if you do, add 1 Level 7 or higher monster to your hand, that is either in your Graveyard or face-up in your Extra Deck.",
   "pendulum_scale_left_blue": 7,
   "pendulum_scale_right_red": 7
 }

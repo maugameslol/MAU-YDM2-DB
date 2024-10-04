@@ -3,7 +3,7 @@
   "name": "Nobledragon Magician",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ MONSTER EFFECT ]\nCannot be used as Synchro Material, except for the Synchro Summon of a Dragon Synchro Monster.\nIf this card is used as Synchro Material, unless all other Synchro Materials are \"Odd-Eyes\" monsters, place this card on the bottom of the Deck.\nIf this card is in your hand or GY: You can target 1 Level 7 or higher \"Odd-Eyes\" monster you control; reduce its Level by 3, and if you do, Special Summon this card.",
+  "text": "Cannot be used as Synchro Material, except for the Synchro Summon of a Dragon Synchro Monster.\nIf this card is used as Synchro Material, unless all other Synchro Materials are \"Odd-Eyes\" monsters, place this card on the bottom of the Deck.\nIf this card is in your hand or GY: You can target 1 Level 7 or higher \"Odd-Eyes\" monster you control; reduce its Level by 3, and if you do, Special Summon this card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/88935103.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 1400,
   "level": 3,
   "is_tuner": true,
-  "pendulum_text": "[ PENDULUM EFFECT ]\nUnless you have a \"Magician\" card in your other Pendulum Zone, destroy this card.",
+  "pendulum_text": "Unless you have a \"Magician\" card in your other Pendulum Zone, destroy this card.",
   "pendulum_scale_left_blue": 5,
   "pendulum_scale_right_red": 5
 }

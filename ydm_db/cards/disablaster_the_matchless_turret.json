@@ -3,7 +3,7 @@
   "name": "Disablaster the Matchless Turret",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ MONSTER EFFECT ]\nYou can Special Summon this card (from your hand) to a column with no cards.\nYou can only Special Summon \"Disablaster the Matchless Turret\" once per turn this way.\nNegate all cards and effects activated in this card\u0027s column.\nIf this card in the Monster Zone is destroyed: You can place it in your Pendulum Zone.",
+  "text": "You can Special Summon this card (from your hand) to a column with no cards.\nYou can only Special Summon \"Disablaster the Matchless Turret\" once per turn this way.\nNegate all cards and effects activated in this card\u0027s column.\nIf this card in the Monster Zone is destroyed: You can place it in your Pendulum Zone.",
   "images": [
   "https://images.ygoprodeck.com/images/cards/58707981.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 2000,
   "level": 5,
   "is_tuner": false,
-  "pendulum_text": "[ PENDULUM EFFECT ]\nNegate all cards and effects activated in this card\u0027s column.",
+  "pendulum_text": "Negate all cards and effects activated in this card\u0027s column.",
   "pendulum_scale_left_blue": 5,
   "pendulum_scale_right_red": 5
 }

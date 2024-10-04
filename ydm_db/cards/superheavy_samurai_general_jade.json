@@ -3,7 +3,7 @@
   "name": "Superheavy Samurai General Jade",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ MONSTER EFFECT ]\nYou can Tribute Summon this card by Tributing 1 \"Superheavy Samurai\" monster.\nWhen this card is Normal or Special Summoned: You can change its battle position.\nThis card can attack while in face-up Defense Position.\nIf it does, apply its DEF for damage calculation.",
+  "text": "You can Tribute Summon this card by Tributing 1 \"Superheavy Samurai\" monster.\nWhen this card is Normal or Special Summoned: You can change its battle position.\nThis card can attack while in face-up Defense Position.\nIf it does, apply its DEF for damage calculation.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/42880485.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 2800,
   "level": 8,
   "is_tuner": false,
-  "pendulum_text": "[ PENDULUM EFFECT ]\nYou cannot Pendulum Summon monsters, except \"Superheavy Samurai\" monsters.\nThis effect cannot be negated.\nOnce per turn: You can target 1 \"Superheavy Samurai\" monster you control; increase its Level by 1 (even if this card leaves the field).",
+  "pendulum_text": "You cannot Pendulum Summon monsters, except \"Superheavy Samurai\" monsters.\nThis effect cannot be negated.\nOnce per turn: You can target 1 \"Superheavy Samurai\" monster you control; increase its Level by 1 (even if this card leaves the field).",
   "pendulum_scale_left_blue": 1,
   "pendulum_scale_right_red": 1
 }

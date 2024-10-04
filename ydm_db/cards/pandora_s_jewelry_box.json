@@ -3,7 +3,7 @@
   "name": "Pandora\u0027s Jewelry Box",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ MONSTER EFFECT ]\nWhile you have no cards in your Extra Deck, draw 2 cards instead of 1 for your normal draw during your Draw Phase.",
+  "text": "While you have no cards in your Extra Deck, draw 2 cards instead of 1 for your normal draw during your Draw Phase.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/15936370.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 1500,
   "level": 4,
   "is_tuner": false,
-  "pendulum_text": "[ PENDULUM EFFECT ]\nWhile you have no cards in your Extra Deck: You can target 1 card in your opponent\u0027s Pendulum Zone; destroy it, and if you do, place this card in your opponent\u0027s Pendulum Zone.",
+  "pendulum_text": "While you have no cards in your Extra Deck: You can target 1 card in your opponent\u0027s Pendulum Zone; destroy it, and if you do, place this card in your opponent\u0027s Pendulum Zone.",
   "pendulum_scale_left_blue": 4,
   "pendulum_scale_right_red": 4
 }

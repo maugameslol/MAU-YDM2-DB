@@ -3,7 +3,7 @@
   "name": "Abyss Actor - Twinkle Little Star",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ MONSTER EFFECT ]\nCannot be destroyed by battle during your turn.\nThis card can make up to 3 attacks on monsters during each Battle Phase.",
+  "text": "Cannot be destroyed by battle during your turn.\nThis card can make up to 3 attacks on monsters during each Battle Phase.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/7279373.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 1000,
   "level": 4,
   "is_tuner": false,
-  "pendulum_text": "[ PENDULUM EFFECT ]\nYou cannot Pendulum Summon monsters, except \"Abyss Actor\" monsters.\nThis effect cannot be negated.\nOnce per turn: You can target 1 \"Abyss Actor\" monster you control; this turn, it can make up to 3 attacks on monsters during each Battle Phase, also other monsters you control cannot attack for the rest of this turn (even if this card leaves the field).",
+  "pendulum_text": "You cannot Pendulum Summon monsters, except \"Abyss Actor\" monsters.\nThis effect cannot be negated.\nOnce per turn: You can target 1 \"Abyss Actor\" monster you control; this turn, it can make up to 3 attacks on monsters during each Battle Phase, also other monsters you control cannot attack for the rest of this turn (even if this card leaves the field).",
   "pendulum_scale_left_blue": 9,
   "pendulum_scale_right_red": 9
 }

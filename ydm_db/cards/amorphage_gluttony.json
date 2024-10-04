@@ -3,7 +3,7 @@
   "name": "Amorphage Gluttony",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ MONSTER EFFECT ]\nIf this card is Pendulum Summoned or flipped face-up, neither player can Special Summon monsters from the Extra Deck while this card is face-up on the field, except \"Amorphage\" monsters.",
+  "text": "If this card is Pendulum Summoned or flipped face-up, neither player can Special Summon monsters from the Extra Deck while this card is face-up on the field, except \"Amorphage\" monsters.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/34522216.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 1850,
   "level": 2,
   "is_tuner": false,
-  "pendulum_text": "[ PENDULUM EFFECT ]\nWhile you control an \"Amorphage\" monster, monsters cannot activate their effects, except \"Amorphage\" monsters.\nOnce per turn, during your Standby Phase, Tribute 1 monster or destroy this card.",
+  "pendulum_text": "While you control an \"Amorphage\" monster, monsters cannot activate their effects, except \"Amorphage\" monsters.\nOnce per turn, during your Standby Phase, Tribute 1 monster or destroy this card.",
   "pendulum_scale_left_blue": 5,
   "pendulum_scale_right_red": 5
 }

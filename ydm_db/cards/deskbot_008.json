@@ -3,7 +3,7 @@
   "name": "Deskbot 008",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ MONSTER EFFECT ]\nThis card gains 500 ATK for each \"Deskbot\" card in your Graveyard.\nYour opponent cannot target face-up \"Deskbot\" cards with card effects, except this one.\nThis card can make up to 2 attacks on monsters during each Battle Phase.",
+  "text": "This card gains 500 ATK for each \"Deskbot\" card in your Graveyard.\nYour opponent cannot target face-up \"Deskbot\" cards with card effects, except this one.\nThis card can make up to 2 attacks on monsters during each Battle Phase.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/24573625.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 500,
   "level": 8,
   "is_tuner": false,
-  "pendulum_text": "[ PENDULUM EFFECT ]\nYou cannot Pendulum Summon monsters, except \"Deskbot\" monsters.\nThis effect cannot be negated.",
+  "pendulum_text": "You cannot Pendulum Summon monsters, except \"Deskbot\" monsters.\nThis effect cannot be negated.",
   "pendulum_scale_left_blue": 1,
   "pendulum_scale_right_red": 1
 }

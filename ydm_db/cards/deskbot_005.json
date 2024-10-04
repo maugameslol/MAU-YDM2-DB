@@ -3,7 +3,7 @@
   "name": "Deskbot 005",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ MONSTER EFFECT ]\nIf this card is Normal or Special Summoned: You can target 1 Spell/Trap Card on the field; destroy it.\nThis card gains 500 ATK for each face-up \"Deskbot\" monster in your Extra Deck.\nIf this card in the Pendulum Zone is destroyed: You can target 1 \"Deskbot\" monster in your Graveyard; Special Summon it.\nYou can only use this effect of \"Deskbot 005\" once per turn.",
+  "text": "If this card is Normal or Special Summoned: You can target 1 Spell/Trap Card on the field; destroy it.\nThis card gains 500 ATK for each face-up \"Deskbot\" monster in your Extra Deck.\nIf this card in the Pendulum Zone is destroyed: You can target 1 \"Deskbot\" monster in your Graveyard; Special Summon it.\nYou can only use this effect of \"Deskbot 005\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/10117149.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 500,
   "level": 5,
   "is_tuner": false,
-  "pendulum_text": "[ PENDULUM EFFECT ]\nYou cannot Pendulum Summon monsters, except \"Deskbot\" monsters.\nThis effect cannot be negated.",
+  "pendulum_text": "You cannot Pendulum Summon monsters, except \"Deskbot\" monsters.\nThis effect cannot be negated.",
   "pendulum_scale_left_blue": 10,
   "pendulum_scale_right_red": 10
 }

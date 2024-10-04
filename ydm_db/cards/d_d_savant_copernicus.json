@@ -3,7 +3,7 @@
   "name": "D/D Savant Copernicus",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ MONSTER EFFECT ]\nIf this card is Normal or Special Summoned: You can send 1 \"D/D\" or \"Dark Contract\" card from your Deck to the Graveyard, except \"D/D Savant Copernicus\".\nYou can only use this effect of \"D/D Savant Copernicus\" once per turn.",
+  "text": "If this card is Normal or Special Summoned: You can send 1 \"D/D\" or \"Dark Contract\" card from your Deck to the Graveyard, except \"D/D Savant Copernicus\".\nYou can only use this effect of \"D/D Savant Copernicus\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/46796664.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 0,
   "level": 4,
   "is_tuner": false,
-  "pendulum_text": "[ PENDULUM EFFECT ]\nYou cannot Pendulum Summon monsters, except \"D/D\" monsters.\nThis effect cannot be negated.\nOnce, while this card is in your Pendulum Zone, you can negate an activated Spell effect that would inflict damage to you, then destroy this card.",
+  "pendulum_text": "You cannot Pendulum Summon monsters, except \"D/D\" monsters.\nThis effect cannot be negated.\nOnce, while this card is in your Pendulum Zone, you can negate an activated Spell effect that would inflict damage to you, then destroy this card.",
   "pendulum_scale_left_blue": 1,
   "pendulum_scale_right_red": 1
 }

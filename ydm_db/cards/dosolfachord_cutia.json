@@ -3,7 +3,7 @@
   "name": "DoSolfachord Cutia",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ MONSTER EFFECT ]\nWhile you have an even Pendulum Scale in your Pendulum Zone, \"Solfachord\" Pendulum Monsters you control gain ATK equal to 100 x their own Pendulum Scale.\nIf this card is Normal or Special Summoned: You can add 1 \"Solfachord\" Pendulum Monster from your Deck to your hand, except \"DoSolfachord Cutia\".\nYou can only use this effect of \"DoSolfachord Cutia\" once per turn.",
+  "text": "While you have an even Pendulum Scale in your Pendulum Zone, \"Solfachord\" Pendulum Monsters you control gain ATK equal to 100 x their own Pendulum Scale.\nIf this card is Normal or Special Summoned: You can add 1 \"Solfachord\" Pendulum Monster from your Deck to your hand, except \"DoSolfachord Cutia\".\nYou can only use this effect of \"DoSolfachord Cutia\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/55226153.jpg"
   ],
@@ -18,7 +18,7 @@
   "def": 400,
   "level": 1,
   "is_tuner": false,
-  "pendulum_text": "[ PENDULUM EFFECT ]\nPendulum Summons of your \"Solfachord\" Pendulum Monsters cannot be negated.",
+  "pendulum_text": "Pendulum Summons of your \"Solfachord\" Pendulum Monsters cannot be negated.",
   "pendulum_scale_left_blue": 8,
   "pendulum_scale_right_red": 8
 }
