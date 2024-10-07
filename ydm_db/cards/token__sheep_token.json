@@ -1,0 +1,24 @@
+{
+  "id": 73915052,
+  "name": "Sheep Token",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Special Summoned with the effect of \"Scapegoat\".\nThis Token cannot be used for a Tribute Summon.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/73915052.jpg",
+    "https://images.ygoprodeck.com/images/cards/73915053.jpg",
+    "https://images.ygoprodeck.com/images/cards/73915054.jpg",
+    "https://images.ygoprodeck.com/images/cards/73915055.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "EARTH",
+  "atk": 0,
+  "species": "Beast",
+  "monster_type": "Token",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 0,
+  "level": 1,
+  "is_tuner": false
+}

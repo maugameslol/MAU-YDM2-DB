@@ -1,0 +1,21 @@
+{
+  "id": 44330098,
+  "name": "Emissary of Darkness Token",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Special Summoned with the effect of \"Gorz the Emissary of Darkness\".\nThe ATK and DEF of this Token are each equal to the amount of battle damage a player took when \"Gorz the Emissary of Darkness\" is Special Summoned.",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/44330099.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": -1,
+  "species": "Fairy",
+  "monster_type": "Token",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": -1,
+  "level": 7,
+  "is_tuner": false
+}

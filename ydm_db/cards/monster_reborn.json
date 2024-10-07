@@ -2,6 +2,7 @@
   "id": 83764718,
   "name": "Monster Reborn",
   "is_illegal": false,
+  "limit": 1,
   "is_custom": false,
   "text": "Target 1 monster in either GY; Special Summon it.",
   "images": [

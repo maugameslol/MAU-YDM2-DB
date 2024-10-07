@@ -2,6 +2,7 @@
   "id": 82732705,
   "name": "Skill Drain",
   "is_illegal": false,
+  "limit": 2,
   "is_custom": false,
   "text": "Activate by paying 1000 LP.\nNegate the effects of all face-up monsters while they are face-up on the field (but their effects can still be activated).",
   "images": [
