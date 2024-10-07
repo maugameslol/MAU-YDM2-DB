@@ -2,6 +2,7 @@
   "id": 53129443,
   "name": "Dark Hole",
   "is_illegal": false,
+  "limit": 1,
   "is_custom": false,
   "text": "Destroy all monsters on the field.",
   "images": [

@@ -2,6 +2,7 @@
   "id": 9596126,
   "name": "Chaos Sorcerer",
   "is_illegal": false,
+  "limit": 1,
   "is_custom": false,
   "text": "Cannot be Normal Summoned/Set.\nMust first be Special Summoned (from your hand) by banishing 1 LIGHT and 1 DARK monster from your GY.\nOnce per turn: You can target 1 face-up monster on the field; banish that target.\nThis card cannot attack the turn you activate this effect.",
   "images": [

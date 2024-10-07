@@ -2,6 +2,7 @@
   "id": 12580477,
   "name": "Raigeki",
   "is_illegal": false,
+  "limit": 1,
   "is_custom": false,
   "text": "Destroy all monsters your opponent controls.",
   "images": [

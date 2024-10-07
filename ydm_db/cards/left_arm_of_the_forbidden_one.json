@@ -2,6 +2,7 @@
   "id": 7902349,
   "name": "Left Arm of the Forbidden One",
   "is_illegal": false,
+  "limit": 1,
   "is_custom": false,
   "text": "A forbidden left arm sealed by magic. Whosoever breaks this seal will know infinite power.",
   "images": [

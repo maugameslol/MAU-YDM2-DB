@@ -2,6 +2,7 @@
   "id": 511000819,
   "name": "Chaos Emperor Dragon - Envoy of the End (Pre-Errata)",
   "is_illegal": false,
+  "limit": 0,
   "is_custom": false,
   "text": "Cannot be Normal Summoned/Set.\nMust first be Special Summoned (from your hand) by banishing 1 LIGHT and 1 DARK monster from your GY.\nYou can pay 1000 LP; send all cards in both players\u0027 hands and on the field  to the GY, then, inflict 300 damage to your opponent for each card sent this way.",
   "images": [

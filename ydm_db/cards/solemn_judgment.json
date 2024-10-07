@@ -2,6 +2,7 @@
   "id": 41420027,
   "name": "Solemn Judgment",
   "is_illegal": false,
+  "limit": 1,
   "is_custom": false,
   "text": "When a monster(s) would be Summoned, OR a Spell/Trap Card is activated: Pay half your LP; negate the Summon or activation, and if you do, destroy that card.",
   "images": [

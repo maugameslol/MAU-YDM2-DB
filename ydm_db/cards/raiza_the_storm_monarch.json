@@ -3,6 +3,7 @@
   "name": "Raiza the Storm Monarch",
   "archetype": "Monarch",
   "is_illegal": false,
+  "limit": 1,
   "is_custom": false,
   "text": "\u2460: If this card is Tribute Summoned: Target 1 card on the field; place that target on the top of the Deck.",
   "images": [

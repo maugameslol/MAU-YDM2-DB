@@ -2,6 +2,7 @@
   "id": 55144522,
   "name": "Pot of Greed",
   "is_illegal": false,
+  "limit": 1,
   "is_custom": false,
   "text": "Draw 2 cards.",
   "images": [

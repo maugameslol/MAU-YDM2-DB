@@ -2,6 +2,7 @@
   "id": 53582587,
   "name": "Torrential Tribute",
   "is_illegal": false,
+  "limit": 1,
   "is_custom": false,
   "text": "When a monster(s) is Summoned: Destroy all monsters on the field.",
   "images": [

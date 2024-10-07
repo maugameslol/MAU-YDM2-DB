@@ -2,6 +2,7 @@
   "id": 23615409,
   "name": "Insect Barrier",
   "is_illegal": false,
+  "limit": 1,
   "is_custom": false,
   "text": "Insect-Type monsters your opponent controls cannot declare an attack.",
   "images": [

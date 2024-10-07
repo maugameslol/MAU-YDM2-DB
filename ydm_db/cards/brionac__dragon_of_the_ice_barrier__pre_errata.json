@@ -2,6 +2,7 @@
   "id": 511002993,
   "name": "Brionac, Dragon of the Ice Barrier (Pre-Errata)",
   "is_illegal": false,
+  "limit": 1,
   "is_custom": false,
   "text": "1 Tuner + 1+ non-Tuner monsters\nYou can discard any number of cards, then target an equal number of cards on the field; return those cards to the hand.",
   "images": [

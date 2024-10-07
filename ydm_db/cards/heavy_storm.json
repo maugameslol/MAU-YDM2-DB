@@ -2,6 +2,7 @@
   "id": 19613556,
   "name": "Heavy Storm",
   "is_illegal": false,
+  "limit": 1,
   "is_custom": false,
   "text": "Destroy all Spell and Trap Cards on the field.",
   "images": [

@@ -2,6 +2,7 @@
   "id": 44656491,
   "name": "Messenger of Peace",
   "is_illegal": false,
+  "limit": 2,
   "is_custom": false,
   "text": "Monsters with 1500 or more ATK cannot declare an attack. Once per turn, during your Standby Phase, pay 100 LP or destroy this card.",
   "images": [

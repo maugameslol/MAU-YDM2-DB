@@ -2,6 +2,7 @@
   "id": 70342110,
   "name": "Dimensional Prison",
   "is_illegal": false,
+  "limit": 1,
   "is_custom": false,
   "text": "When an opponent\u0027s monster declares an attack: Target that attacking monster; banish that target.",
   "images": [

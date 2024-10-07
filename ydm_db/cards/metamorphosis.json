@@ -2,6 +2,7 @@
   "id": 46411259,
   "name": "Metamorphosis",
   "is_illegal": false,
+  "limit": 0,
   "is_custom": false,
   "text": "Tribute 1 monster. Special Summon 1 Fusion Monster from your Extra Deck with the same Level as the Tributed monster.",
   "images": [

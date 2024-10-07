@@ -2,6 +2,7 @@
   "id": 18144506,
   "name": "Harpie\u0027s Feather Duster",
   "is_illegal": false,
+  "limit": 0,
   "is_custom": false,
   "text": "Destroy all Spell and Trap Cards your opponent controls.",
   "images": [

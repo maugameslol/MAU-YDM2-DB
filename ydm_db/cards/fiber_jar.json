@@ -2,6 +2,7 @@
   "id": 78706415,
   "name": "Fiber Jar",
   "is_illegal": false,
+  "limit": 0,
   "is_custom": false,
   "text": "FLIP: Each player shuffles all cards from their hand, field, and Graveyard into the Deck, then draws 5 cards.",
   "images": [

@@ -2,6 +2,7 @@
   "id": 79575620,
   "name": "Injection Fairy Lily",
   "is_illegal": false,
+  "limit": 1,
   "is_custom": false,
   "text": "If this card attacks or is attacked, during damage calculation (in either player\u0027s turn): You can pay 2000 LP once per battle; this card gains 3000 ATK during that damage calculation only.",
   "images": [

@@ -2,6 +2,7 @@
   "id": 511002995,
   "name": "Brain Control (Pre-Errata)",
   "is_illegal": false,
+  "limit": 1,
   "is_custom": false,
   "text": "Pay 800 LP, then target 1 face-up monster your opponent controls; take control of that target until the End Phase.",
   "images": [

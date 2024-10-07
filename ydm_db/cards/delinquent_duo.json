@@ -2,6 +2,7 @@
   "id": 44763025,
   "name": "Delinquent Duo",
   "is_illegal": false,
+  "limit": 0,
   "is_custom": false,
   "text": "Pay 1000 LP; your opponent discards 1 random card, and if they have any other cards in their hand, discard 1 more card of their choice.",
   "images": [

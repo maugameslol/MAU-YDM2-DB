@@ -2,6 +2,7 @@
   "id": 69015963,
   "name": "Cyber-Stein",
   "is_illegal": false,
+  "limit": 0,
   "is_custom": false,
   "text": "You can pay 5000 LP; Special Summon 1 Fusion Monster from your Extra Deck in Attack Position.",
   "images": [

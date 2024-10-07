@@ -2,6 +2,7 @@
   "id": 70095154,
   "name": "Cyber Dragon",
   "is_illegal": false,
+  "limit": 1,
   "is_custom": false,
   "text": "If only your opponent controls a monster, you can Special Summon this card (from your hand).",
   "images": [

@@ -2,6 +2,7 @@
   "id": 55773067,
   "name": "Drop Off",
   "is_illegal": false,
+  "limit": 1,
   "is_custom": false,
   "text": "When your opponent draws for their normal draw in their Draw Phase: Your opponent discards 1 card they just drew.",
   "images": [

@@ -2,6 +2,7 @@
   "id": 42829885,
   "name": "The Forceful Sentry",
   "is_illegal": false,
+  "limit": 0,
   "is_custom": false,
   "text": "Look at your opponent\u0027s hand. Select 1 card among them and return it to his/her Deck. The Deck is then shuffled.",
   "images": [

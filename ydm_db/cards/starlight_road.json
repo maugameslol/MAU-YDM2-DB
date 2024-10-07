@@ -2,6 +2,7 @@
   "id": 58120309,
   "name": "Starlight Road",
   "is_illegal": false,
+  "limit": 0,
   "is_custom": false,
   "text": "When a card or effect is activated that would destroy 2 or more cards you control: Negate the effect, and if you do, destroy that card, then you can Special Summon 1 \"Stardust Dragon\" from your Extra Deck.",
   "images": [
