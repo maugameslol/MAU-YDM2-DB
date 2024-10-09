@@ -2,7 +2,7 @@
   "code": "ACBPWO_GS8",
   "type": "Sub-Set",
   "pull_type": "distribution",
-  "distribution": "custom__md_pack__slot8",
+  "distribution": "custom__master_pack__slot8",
   "cards": [
     {
       "id": 48179391,

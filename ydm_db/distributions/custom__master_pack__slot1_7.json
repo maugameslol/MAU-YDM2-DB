@@ -1,0 +1,115 @@
+{
+  "name": "custom__master_pack__slot1_7",
+  "pulls": [
+    {
+      "weight": 4950,
+      "entries": [
+        {
+          "count": 1,
+          "rarities": [
+            "Common"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 3150,
+      "entries": [
+        {
+          "count": 1,
+          "rarities": [
+            "Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 675,
+      "entries": [
+        {
+          "count": 1,
+          "rarities": [
+            "Super Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 550,
+      "entries": [
+        {
+          "count": 1,
+          "rarities": [
+            "Common - Glossy Finish"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 350,
+      "entries": [
+        {
+          "count": 1,
+          "rarities": [
+            "Rare - Glossy Finish"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 225,
+      "entries": [
+        {
+          "count": 1,
+          "rarities": [
+            "Ultra Rare"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 67,
+      "entries": [
+        {
+          "count": 1,
+          "rarities": [
+            "Super Rare - Glossy Finish"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 22,
+      "entries": [
+        {
+          "count": 1,
+          "rarities": [
+            "Ultra Rare - Glossy Finish"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 7,
+      "entries": [
+        {
+          "count": 1,
+          "rarities": [
+            "Super Rare - Royal Finish"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 2,
+      "entries": [
+        {
+          "count": 1,
+          "rarities": [
+            "Ultra Rare - Royal Finish"
+          ]
+        }
+      ]
+    }
+  ]
+}
