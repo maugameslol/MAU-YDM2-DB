@@ -2,6 +2,10 @@
   "rarity": "Rare",
   "layers": [
     {
+      "image": "hologram",
+      "type": "inverted"
+    },
+    {
       "image": "rare",
       "type": "normal"
     }
