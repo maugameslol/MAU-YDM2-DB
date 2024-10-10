@@ -2,11 +2,11 @@
   "rarity": "Rare",
   "layers": [
     {
-      "image": "hologram",
+      "image": "hologram_gold",
       "type": "inverted"
     },
     {
-      "image": "hologram_shine",
+      "image": "hologram_gold_shine",
       "type": "normal"
     }
   ]
