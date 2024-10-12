@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins 2005 (Gilford the Lightning)",
+  "code": "CT2_1",
+  "type": "Collectible Tin",
+  "date": "05-09-2005",
+  "image": "https://ms.yugipedia.com//2/2b/CT2-PromoEN-Ver1.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "SOD",
+	"RDS",
+    "FET",
+	"DB1",
+	"DR1",
+    "CT2_1_C"
+  ]
+}

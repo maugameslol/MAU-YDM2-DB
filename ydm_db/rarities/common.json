@@ -1,5 +1,5 @@
 {
-  "rarity": "Speed Duel Common",
+  "rarity": "Common",
   "layers": [
     {
       "image": "hologram_silver",
@@ -7,10 +7,6 @@
     },
     {
       "image": "hologram_silver_shine",
-      "type": "normal"
-    },
-    {
-      "image": "speed_duel_logo_white",
       "type": "normal"
     }
   ]

@@ -2,11 +2,15 @@
   "rarity": "Speed Duel Ultra Rare",
   "layers": [
     {
-      "image": "speed_duel_logo_white",
+      "image": "hologram_gold",
+      "type": "inverted"
+    },
+    {
+      "image": "hologram_gold_shine",
       "type": "normal"
     },
     {
-      "image": "rare",
+      "image": "speed_duel_logo_white",
       "type": "normal"
     },
     {

@@ -2,7 +2,11 @@
   "rarity": "Super Rare - Royal Finish",
   "layers": [
     {
-      "image": "rare",
+      "image": "hologram_gold",
+      "type": "inverted"
+    },
+    {
+      "image": "hologram_gold_shine",
       "type": "normal"
     },
     {

@@ -2,7 +2,15 @@
   "rarity": "Ultimate Rare",
   "layers": [
     {
-      "image": "rare",
+      "image": "hologram_gold",
+      "type": "inverted"
+    },
+    {
+      "image": "hologram_gold_shine",
+      "type": "normal"
+    },
+    {
+      "image": "ultimate_rare",
       "type": "normal"
     },
     {

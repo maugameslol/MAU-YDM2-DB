@@ -2,7 +2,11 @@
   "rarity": "Ghost Rare",
   "layers": [
     {
-      "image": "rare",
+      "image": "hologram_gold",
+      "type": "inverted"
+    },
+    {
+      "image": "hologram_gold_shine",
       "type": "normal"
     },
     {
@@ -10,7 +14,7 @@
       "type": "normal"
     },
     {
-      "image": "ghost_rare",
+      "image": "ghost_rare_art_passive",
       "type": "inverted"
     }
   ]
