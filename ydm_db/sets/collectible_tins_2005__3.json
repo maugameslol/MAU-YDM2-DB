@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins 2005 (Vorse Raider)",
+  "code": "CT2_3",
+  "type": "Collectible Tin",
+  "date": "05-09-2005",
+  "image": "https://ms.yugipedia.com//6/69/CT2-PromoEN-Ver3.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "SOD",
+	"RDS",
+    "FET",
+	"DB1",
+	"DR1",
+    "CT2_3_C"
+  ]
+}

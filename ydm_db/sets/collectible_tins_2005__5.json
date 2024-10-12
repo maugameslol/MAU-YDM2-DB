@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins 2005 (Rocket Warrior)",
+  "code": "CT2_5",
+  "type": "Collectible Tin",
+  "date": "05-09-2005",
+  "image": "https://ms.yugipedia.com//b/ba/CT2-PromoEN-Ver5.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "SOD",
+	"RDS",
+    "FET",
+	"DB1",
+	"DR1",
+    "CT2_5_C"
+  ]
+}

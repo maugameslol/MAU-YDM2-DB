@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins 2005 (Exarion Universe)",
+  "code": "CT2_2",
+  "type": "Collectible Tin",
+  "date": "05-09-2005",
+  "image": "https://ms.yugipedia.com//c/ca/CT2-PromoEN-Ver2.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "SOD",
+	"RDS",
+    "FET",
+	"DB1",
+	"DR1",
+    "CT2_2_C"
+  ]
+}
