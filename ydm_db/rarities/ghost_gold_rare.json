@@ -10,11 +10,19 @@
       "type": "normal"
     },
     {
-      "image": "ghost_gold_rare_active",
+      "image": "gold_rare_border_active",
       "type": "normal"
     },
     {
-      "image": "ghost_gold_rare_passive",
+      "image": "gold_rare_border_passive",
+      "type": "inverted"
+    },
+    {
+      "image": "ghost_rare_art_active",
+      "type": "normal"
+    },
+    {
+      "image": "ghost_rare_art_passive",
       "type": "inverted"
     }
   ]
