@@ -24,11 +24,11 @@
     "STOR",
     "STOR",
     "STOR",
-    "STOR",
-    "STOR",
-    "STOR",
-    "STOR",
-    "STOR",
-    "STOR"
+    "STOR_UR",
+    "STOR_UR",
+    "STOR_UR",
+    "STOR_UR",
+    "STOR_SCR",
+    "STOR_SCR"
   ]
 }

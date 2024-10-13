@@ -24,11 +24,11 @@
     "MFC",
     "MFC",
     "MFC",
-    "MFC",
-    "MFC",
-    "MFC",
-    "MFC",
-    "MFC",
-    "MFC"
+    "MFC_UR",
+    "MFC_UR",
+    "MFC_UR",
+    "MFC_UR",
+    "MFC_SCR",
+    "MFC_SCR"
   ]
 }
