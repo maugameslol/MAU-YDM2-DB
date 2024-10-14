@@ -1,0 +1,16 @@
+{
+  "name": "Token Pack (Custom)",
+  "code": "TKPMC",
+  "type": "Reprint Pack (Custom)",
+  "date": "13-10-2024",
+  "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 73915051,
+      "code": "TKPMC-001",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

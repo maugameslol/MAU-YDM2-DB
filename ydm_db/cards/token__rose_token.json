@@ -1,0 +1,21 @@
+{
+  "id": 71645243,
+  "name": "Rose Token",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Special Summoned with the effect of \"Black Garden\".",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/71645243.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 800,
+  "species": "Plant",
+  "monster_type": "Token",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 800,
+  "level": 2,
+  "is_tuner": false
+}

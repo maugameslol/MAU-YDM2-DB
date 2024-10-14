@@ -1,0 +1,13 @@
+{
+  "rarity": "Short Print",
+  "layers": [
+    {
+      "image": "hologram_gold",
+      "type": "inverted"
+    },
+    {
+      "image": "hologram_gold_shine",
+      "type": "normal"
+    }
+  ]
+}
