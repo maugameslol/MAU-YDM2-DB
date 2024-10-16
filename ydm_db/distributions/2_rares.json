@@ -1,5 +1,5 @@
 {
-  "name": "world_championship_2011_card_pack",
+  "name": "2_rares",
   "pulls": [
     {
       "weight": 1,
@@ -7,7 +7,7 @@
         {
           "count": 2,
           "rarities": [
-            "Super Rare"
+            "Rare"
           ]
         }
       ]
