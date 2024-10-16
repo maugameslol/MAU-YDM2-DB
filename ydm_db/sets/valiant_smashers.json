@@ -10,7 +10,19 @@
   {
     "id": 23288411,
     "code": "VASM-EN001",
+    "rarity": "Ultra Rare",
+    "image_index": 0
+  },
+  {
+    "id": 23288411,
+    "code": "VASM-EN001",
     "rarity": "Collector's Rare",
+    "image_index": 0
+  },
+  {
+    "id": 23288411,
+    "code": "VASM-EN001",
+    "rarity": "Quarter Century Secret Rare",
     "image_index": 0
   },
   {
@@ -166,7 +178,7 @@
   {
     "id": 15982593,
     "code": "VASM-EN019",
-    "rarity": "Starlight Rare",
+    "rarity": "Quarter Century Secret Rare",
     "image_index": 0
   },
   {
@@ -388,7 +400,7 @@
   {
     "id": 59509952,
     "code": "VASM-EN048",
-    "rarity": "Starlight Rare",
+    "rarity": "Quarter Century Secret Rare",
     "image_index": 0
   },
   {

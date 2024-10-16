@@ -1,45 +1,45 @@
 {
   "name": "Noble Knights of the Round Table Power-Up Pack",
-  "code": "NKRT",
-  "type": "Special Pack",
+  "code": "NKRT_PUP",
+  "type": "Power-Up Pack",
   "date": "11-20-2014",
   "image": "https://ms.yugipedia.com//c/c0/NKRT-BoosterEN.png",
   "pull_type": "distribution",
-  "distribution": "star_pack",
+  "distribution": "3_platinum_rares",
   "cards": [
     {
       "id": 97268402,
-      "code": "NKRT-001",
+      "code": "NKRT-039",
       "rarity": "Platinum Rare",
       "image_index": 0
     },
     {
       "id": 5318639,
-      "code": "NKRT-002",
+      "code": "NKRT-040",
       "rarity": "Platinum Rare",
       "image_index": 0
     },
     {
       "id": 75500286,
-      "code": "NKRT-003",
+      "code": "NKRT-041",
       "rarity": "Platinum Rare",
       "image_index": 0
     },
     {
       "id": 27243130,
-      "code": "NKRT-004",
+      "code": "NKRT-042",
       "rarity": "Platinum Rare",
       "image_index": 0
     },
     {
       "id": 53582587,
-      "code": "NKRT-005",
+      "code": "NKRT-043",
       "rarity": "Platinum Rare",
       "image_index": 0
     },
     {
       "id": 94192409,
-      "code": "NKRT-006",
+      "code": "NKRT-044",
       "rarity": "Platinum Rare",
       "image_index": 0
     }

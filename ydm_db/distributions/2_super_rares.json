@@ -1,0 +1,16 @@
+{
+  "name": "2_super_rares",
+  "pulls": [
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 2,
+          "rarities": [
+            "Super Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}
