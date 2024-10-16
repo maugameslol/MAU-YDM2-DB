@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins 2010 Wave 2 (Shooting Star Dragon)",
+  "code": "CT07_4",
+  "type": "Collectible Tin",
+  "date": "02-11-2010",
+  "image": "https://ms.yugipedia.com//2/2d/CT07-PromoEN-Ver4.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "ABPF",
+	"TSHD",
+    "TSHD",
+	"DREV",
+	"SOVR",
+    "CT07_4_P"
+  ]
+}

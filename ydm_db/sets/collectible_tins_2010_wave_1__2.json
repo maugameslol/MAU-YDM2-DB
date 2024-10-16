@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins 2010 Wave 1 (Black-Winged Dragon)",
+  "code": "CT07_2",
+  "type": "Collectible Tin",
+  "date": "31-08-2010",
+  "image": "https://ms.yugipedia.com//d/d0/CT07-PromoEN-Ver2.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "ANPR",
+	"ABPF",
+    "ABPF",
+	"TSHD",
+	"TSHD",
+    "CT07_2_P"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins 2010 Wave 1 (Dragon Knight Draco-Equiste)",
+  "code": "CT07_3",
+  "type": "Collectible Tin",
+  "date": "31-08-2010",
+  "image": "https://ms.yugipedia.com//b/bc/CT07-PromoEN-Ver3.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "ANPR",
+	"ABPF",
+    "ABPF",
+	"TSHD",
+	"TSHD",
+    "CT07_3_P"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "code": "CT07_5_P",
+  "type": "Sub-Set",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 97489701,
+      "code": "CT07-005",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 80304126,
+      "code": "CT07-022",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21208154,
+      "code": "CT07-023",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 13893596,
+      "code": "CT07-024",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70902743,
+      "code": "CT07-025",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}
