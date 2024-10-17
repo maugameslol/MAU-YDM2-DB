@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins 2006 Wave 2 (Uria, Lord of Searing Flames)",
+  "code": "CT03_5",
+  "type": "Collectible Tin",
+  "date": "01-11-2006",
+  "image": "https://ms.yugipedia.com//7/71/CT03-PromoEN-Ver5.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "CRV",
+    "EEN",
+	"SOI",
+	"EOJ",
+	"POTD",
+    "CT03_5_C"
+  ]
+}

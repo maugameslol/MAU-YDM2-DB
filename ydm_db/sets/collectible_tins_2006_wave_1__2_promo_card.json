@@ -1,0 +1,13 @@
+{
+  "code": "CT03_2_C",
+  "type": "Sub-Set",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 70095154,
+      "code": "CT03-002",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins 2007 Wave 2 (Volcanic Doomfire)",
+  "code": "CT04_4",
+  "type": "Collectible Tin",
+  "date": "15-11-2007",
+  "image": "https://ms.yugipedia.com//b/b8/CT04-PromoEN-Ver4.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "POTD",
+	"CDIP",
+    "STON",
+	"FOTB",
+	"TAEV",
+    "CT04_4_C"
+  ]
+}

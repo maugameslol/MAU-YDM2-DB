@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins 2007 Wave 1 (Elemental HERO Grand Neos)",
+  "code": "CT04_1",
+  "type": "Collectible Tin",
+  "date": "29-08-2007",
+  "image": "https://ms.yugipedia.com//b/bd/CT04-PromoEN-Ver1.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "EEN",
+	"POTD",
+    "CDIP",
+	"STON",
+	"FOTB",
+    "CT04_1_C"
+  ]
+}

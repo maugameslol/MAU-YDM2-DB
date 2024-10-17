@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins 2007 Wave 1 (Destiny HERO - Plasma)",
+  "code": "CT04_3",
+  "type": "Collectible Tin",
+  "date": "29-08-2007",
+  "image": "https://ms.yugipedia.com//4/4e/CT04-PromoEN-Ver3.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "EEN",
+	"POTD",
+    "CDIP",
+	"STON",
+	"FOTB",
+    "CT04_3_C"
+  ]
+}

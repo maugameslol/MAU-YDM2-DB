@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins 2006 Wave 1 (Cyber Dragon)",
+  "code": "CT03_2",
+  "type": "Collectible Tin",
+  "date": "11-09-2006",
+  "image": "https://ms.yugipedia.com//6/62/CT03-PromoEN-Ver2.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "CRV",
+	"CRV",
+    "EEN",
+	"SOI",
+	"EOJ",
+    "CT03_2_C"
+  ]
+}

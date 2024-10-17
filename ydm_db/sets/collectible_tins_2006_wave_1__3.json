@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins 2006 Wave 1 (Raviel, Lord of Phantasms)",
+  "code": "CT03_3",
+  "type": "Collectible Tin",
+  "date": "11-09-2006",
+  "image": "https://ms.yugipedia.com//e/ee/CT03-PromoEN-Ver3.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "CRV",
+	"CRV",
+    "EEN",
+	"SOI",
+	"EOJ",
+    "CT03_3_C"
+  ]
+}

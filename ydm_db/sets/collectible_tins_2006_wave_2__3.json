@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins 2006 Wave 2 (Hamon, Lord of Striking Thunder)",
+  "code": "CT03_6",
+  "type": "Collectible Tin",
+  "date": "01-11-2006",
+  "image": "https://ms.yugipedia.com//d/de/CT03-PromoEN-Ver6.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "CRV",
+    "EEN",
+	"SOI",
+	"EOJ",
+	"POTD",
+    "CT03_6_C"
+  ]
+}

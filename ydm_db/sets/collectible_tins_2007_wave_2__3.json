@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins 2007 Wave 2 (Elemental HERO Plasma Vice)",
+  "code": "CT04_6",
+  "type": "Collectible Tin",
+  "date": "15-11-2007",
+  "image": "https://ms.yugipedia.com//0/05/CT04-PromoEN-Ver6.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "POTD",
+	"CDIP",
+    "STON",
+	"FOTB",
+	"TAEV",
+    "CT04_6_C"
+  ]
+}

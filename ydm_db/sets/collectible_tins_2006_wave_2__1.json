@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins 2006 Wave 2 (Elemental HERO Shining Flare Wingman)",
+  "code": "CT03_4",
+  "type": "Collectible Tin",
+  "date": "01-11-2006",
+  "image": "https://ms.yugipedia.com//8/86/CT03-PromoEN-Ver4.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "CRV",
+    "EEN",
+	"SOI",
+	"EOJ",
+	"POTD",
+    "CT03_4_C"
+  ]
+}

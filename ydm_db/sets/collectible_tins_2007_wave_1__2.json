@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins 2007 Wave 1 (Crystal Beast Sapphire Pegasus)",
+  "code": "CT04_2",
+  "type": "Collectible Tin",
+  "date": "29-08-2007",
+  "image": "https://ms.yugipedia.com//6/6a/CT04-PromoEN-Ver2.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "EEN",
+	"POTD",
+    "CDIP",
+	"STON",
+	"FOTB",
+    "CT04_2_C"
+  ]
+}

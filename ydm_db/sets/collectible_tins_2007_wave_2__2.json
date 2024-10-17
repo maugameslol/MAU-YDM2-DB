@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins 2007 Wave 2 (Rainbow Dragon)",
+  "code": "CT04_5",
+  "type": "Collectible Tin",
+  "date": "15-11-2007",
+  "image": "https://ms.yugipedia.com//a/a5/CT04-PromoEN-Ver5.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "POTD",
+	"CDIP",
+    "STON",
+	"FOTB",
+	"TAEV",
+    "CT04_5_C"
+  ]
+}
