@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins Exclusive 2009 (Jack Atlas)",
+  "code": "CT06S_4",
+  "type": "Collectible Tin",
+  "date": "22-09-2009",
+  "image": "https://ms.yugipedia.com//c/c3/CT06S-PromoEN-Jack.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "ANPR",
+	"ANPR",
+    "RGBT",
+	"CRMS",
+	"CSOC",
+    "CT06S_4_C"
+  ]
+}

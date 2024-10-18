@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins 2009 Wave 2 (Earthbound Immortal Wiraqocha Rasca)",
+  "code": "CT06_4",
+  "type": "Collectible Tin",
+  "date": "03-11-2009",
+  "image": "https://ms.yugipedia.com//8/8b/CT06-PromoEN-Ver4.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "SOVR",
+	"SOVR",
+    "ANPR",
+	"RGBT",
+	"CRMS",
+    "CT06_4_C"
+  ]
+}

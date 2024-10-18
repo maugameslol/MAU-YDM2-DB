@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins 2009 Wave 1 (Ancient Fairy Dragon)",
+  "code": "CT06_2",
+  "type": "Collectible Tin",
+  "date": "18-08-2009",
+  "image": "https://ms.yugipedia.com//2/2c/CT06-PromoEN-AncientFairyDragon.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "ANPR",
+	"ANPR",
+    "CRMS",
+	"CRMS",
+	"RGBT",
+    "CT06_2_C"
+  ]
+}

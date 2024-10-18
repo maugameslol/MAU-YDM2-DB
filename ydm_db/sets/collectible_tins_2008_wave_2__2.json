@@ -1,0 +1,17 @@
+{
+  "name": "Collectible Tins 2008 Wave 2 (Turbo Warrior)",
+  "code": "CT05_4",
+  "type": "Collectible Tin",
+  "date": "03-11-2008",
+  "image": "https://ms.yugipedia.com//3/3f/CT05-PromoEN-Ver4.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "PTDN",
+    "LODT",
+	"TDGS",
+	"CSOC",
+	"CSOC",
+	"TKN3_2",
+    "CT05_4_C"
+  ]
+}

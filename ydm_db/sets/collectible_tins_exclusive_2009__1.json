@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins Exclusive 2009 (Crow Hogan)",
+  "code": "CT06S_1",
+  "type": "Collectible Tin",
+  "date": "22-09-2009",
+  "image": "https://ms.yugipedia.com//7/77/CT06S-PromoEN-Crow.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "ANPR",
+	"ANPR",
+    "RGBT",
+	"CRMS",
+	"CSOC",
+    "CT06S_1_C"
+  ]
+}

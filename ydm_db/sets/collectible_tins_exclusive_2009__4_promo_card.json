@@ -1,0 +1,13 @@
+{
+  "code": "CT06S_4_C",
+  "type": "Sub-Set",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 52352005,
+      "code": "CT06-S04",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

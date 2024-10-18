@@ -1,0 +1,17 @@
+{
+  "name": "Collectible Tins Exclusive 2008 (White)",
+  "code": "CT05S_1",
+  "type": "Collectible Tin",
+  "date": "23-09-2008",
+  "image": "https://ms.yugipedia.com//7/79/CT05S-PromoEN-Ver1.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "PTDN",
+	"LODT",
+    "LODT",
+	"TDGS",
+	"TDGS",
+	"TKN3_2",
+    "CT05S_1_C"
+  ]
+}

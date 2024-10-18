@@ -1,0 +1,16 @@
+{
+  "name": "3_commons",
+  "pulls": [
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 3,
+          "rarities": [
+            "Common"
+          ]
+        }
+      ]
+    }
+  ]
+}

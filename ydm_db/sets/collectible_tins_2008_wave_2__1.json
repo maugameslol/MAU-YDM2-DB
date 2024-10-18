@@ -1,0 +1,17 @@
+{
+  "name": "Collectible Tins 2008 Wave 2 (Black Rose Dragon)",
+  "code": "CT05_3",
+  "type": "Collectible Tin",
+  "date": "03-11-2008",
+  "image": "https://ms.yugipedia.com//5/58/CT05-PromoEN-Ver3.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "PTDN",
+    "LODT",
+	"TDGS",
+	"CSOC",
+	"CSOC",
+	"TKN3_2",
+    "CT05_3_C"
+  ]
+}

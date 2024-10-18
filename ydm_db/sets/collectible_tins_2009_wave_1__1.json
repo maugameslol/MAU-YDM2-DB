@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins 2009 Wave 1 (Power Tool Dragon)",
+  "code": "CT06_1",
+  "type": "Collectible Tin",
+  "date": "18-08-2009",
+  "image": "https://ms.yugipedia.com//1/1b/CT06-PromoEN-PowerToolDragon.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "ANPR",
+	"ANPR",
+    "CRMS",
+	"CRMS",
+	"RGBT",
+    "CT06_1_C"
+  ]
+}

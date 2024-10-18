@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins 2009 Wave 2 (Majestic Star Dragon)",
+  "code": "CT06_3",
+  "type": "Collectible Tin",
+  "date": "03-11-2009",
+  "image": "https://ms.yugipedia.com//4/42/CT06-PromoEN-Ver3.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "SOVR",
+	"SOVR",
+    "ANPR",
+	"RGBT",
+	"CRMS",
+    "CT06_3_C"
+  ]
+}

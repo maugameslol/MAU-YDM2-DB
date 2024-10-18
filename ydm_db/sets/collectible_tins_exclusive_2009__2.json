@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins Exclusive 2009 (Yusei Fudo)",
+  "code": "CT06S_2",
+  "type": "Collectible Tin",
+  "date": "22-09-2009",
+  "image": "https://ms.yugipedia.com//b/b9/CT06S-PromoEN-Yusei.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "ANPR",
+	"ANPR",
+    "RGBT",
+	"CRMS",
+	"CSOC",
+    "CT06S_2_C"
+  ]
+}

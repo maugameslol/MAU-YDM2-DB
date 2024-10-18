@@ -1,0 +1,17 @@
+{
+  "name": "Collectible Tins 2008 Wave 1 (Red Dragon Archfiend)",
+  "code": "CT05_2",
+  "type": "Collectible Tin",
+  "date": "18-08-2008",
+  "image": "https://ms.yugipedia.com//0/01/CT05-PromoEN-Ver2.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "PTDN",
+	"PTDN",
+    "LODT",
+	"TDGS",
+	"TDGS",
+	"TKN3_1",
+    "CT05_2_C"
+  ]
+}
