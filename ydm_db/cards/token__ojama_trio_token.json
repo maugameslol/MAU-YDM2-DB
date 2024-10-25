@@ -1,0 +1,23 @@
+{
+  "id": 29843092,
+  "name": "Ojama Token",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Special Summoned with the effect of \"Ojama Trio\".\nThis Token cannot be used as a Tribute for a Tribute Summon.\nWhen it is destroyed, the controller takes 300 damage",
+  "images": [
+    "https://images.ygoprodeck.com/images/cards/29843092.jpg",
+    "https://images.ygoprodeck.com/images/cards/29843093.jpg",
+    "https://images.ygoprodeck.com/images/cards/29843094.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 0,
+  "species": "Beast",
+  "monster_type": "Token",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 1000,
+  "level": 2,
+  "is_tuner": false
+}
