@@ -1,6 +1,7 @@
 {
   "id": 70781052,
   "name": "Summoned Skull",
+  "archetypes": ["Archfiend"],
   "is_illegal": false,
   "is_custom": false,
   "text": "A fiend with dark powers for confusing the enemy. Among the Fiend-Type monsters, this monster boasts considerable force.\n\n(This card is always treated as an \"Archfiend\" card.)",
@@ -14,7 +15,6 @@
   "attribute": "DARK",
   "atk": 2500,
   "species": "Fiend",
-  "archetype": "Archfiend",
   "monster_type": "",
   "is_pendulum": false,
   "ability": "",

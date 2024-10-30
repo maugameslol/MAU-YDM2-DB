@@ -1,7 +1,7 @@
 {
   "id": 77336644,
   "name": "Red Dragon Archfiend/Assault Mode",
-  "archetype": "/Assault Mode / Red Dragon Archfiend",
+  "archetypes": ["/Assault Mode", "Red Dragon Archfiend"],
   "is_illegal": false,
   "is_custom": false,
   "text": "Cannot be Normal Summoned/Set.\nThis card cannot be Special Summoned except with \"Assault Mode Activate\".\nIf this card attacks, destroy all other monsters after damage calculation.\nWhen this card on the field is destroyed, you can Special Summon 1 \"Red Dragon Archfiend\" from your Graveyard.",

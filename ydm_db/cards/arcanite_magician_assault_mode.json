@@ -1,7 +1,7 @@
 {
   "id": 14553285,
   "name": "Arcanite Magician/Assault Mode",
-  "archetype": "/Assault Mode",
+  "archetypes": ["/Assault Mode"],
   "is_illegal": false,
   "is_custom": false,
   "text": "Cannot be Normal Summoned/Set.\nThis card cannot be Special Summoned except with \"Assault Mode Activate\".\nWhen this card is Special Summoned, place 2 Spell Counters on it. This card gains 1000 ATK for each Spell Counter on it.\nYou can remove 2 Spell Counters from this card to destroy all cards your opponent controls.\nWhen this card on the field is destroyed, you can Special Summon 1 \"Arcanite Magician\" from your Graveyard.",

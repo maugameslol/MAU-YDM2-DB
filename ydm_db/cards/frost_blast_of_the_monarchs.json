@@ -1,7 +1,7 @@
 {
   "id": 99940363,
   "name": "Frost Blast of the Monarchs",
-  "archetype": "Monarch",
+  "archetypes": ["Monarch"],
   "is_illegal": false,
   "is_custom": false,
   "text": "\u2460: If you control a monster with 2400 or more ATK and 1000 DEF: Target 1 Set card on the field; destroy it.\n\u2461: You can banish this card and 1 \"Monarch\" Spell/Trap Card from your Graveyard, then target 1 Set card on the field; destroy it.",

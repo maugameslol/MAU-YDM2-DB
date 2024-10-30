@@ -1,7 +1,7 @@
 {
   "id": 23689697,
   "name": "Mobius the Mega Monarch",
-  "archetype": "Monarch",
+  "archetypes": ["Monarch"],
   "is_illegal": false,
   "is_custom": false,
   "text": "You can Tribute Summon this card by Tributing 1 Tribute Summoned monster.\n\u2460: When this card is Tribute Summoned: You can target up to 3 Spell/Trap Cards on the field; destroy those targets.\nIf this card was Tribute Summoned by Tributing a WATER monster, add this additional effect.\n\u25cf Your opponent cannot activate the targeted cards in response to this effect\u0027s activation.",

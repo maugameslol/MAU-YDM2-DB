@@ -1,7 +1,7 @@
 {
   "id": 73580471,
   "name": "Black Rose Dragon",
-  "archetype": "Rose Dragon",
+  "archetypes": ["Rose Dragon"],
   "is_illegal": false,
   "limit": 1,
   "is_custom": false,

@@ -1,7 +1,7 @@
 {
   "id": 65612386,
   "name": "Angmarl the Fiendish Monarch",
-  "archetype": "Monarch",
+  "archetypes": ["Monarch"],
   "is_illegal": false,
   "is_custom": false,
   "text": "\u2460: When this card is Tribute Summoned: You can banish 1 Spell Card from your Graveyard; add 1 card with the same name as the banished Spell Card from your Deck to your hand.",

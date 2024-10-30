@@ -1,7 +1,7 @@
 {
   "id": 18235309,
   "name": "Escalation of the Monarchs",
-  "archetype": "Monarch",
+  "archetypes": ["Monarch"],
   "is_illegal": false,
   "is_custom": false,
   "text": "\u2460: Once per turn, during your opponent\u0027s Main Phase or your opponent\u0027s Battle Phase, you can: Immediately after this effect resolves, Tribute Summon 1 monster.",

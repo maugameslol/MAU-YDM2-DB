@@ -1,7 +1,7 @@
 {
   "id": 3611830,
   "name": "Endymion, the Mighty Master of Magic",
-  "archetype": "Endymion / Prophecy",
+  "archetypes": ["Endymion", "Prophecy"],
   "is_illegal": false,
   "is_custom": false,
   "text": "\u2460: Once per turn, when a Spell/Trap Card or effect is activated (Quick Effect): You can return 1 card you control with a Spell Counter to the hand, and if you do, negate the activation, and if you do that, destroy it. Then, you can place the same number of Spell Counters on this card that the returned card had.\n\u2461: While this card has a Spell Counter, your opponent cannot target it with card effects, also it cannot be destroyed by your opponent\u0027s card effects.\n\u2462: When this card with a Spell Counter is destroyed by battle: You can add 1 Normal Spell from your Deck to your hand.",
