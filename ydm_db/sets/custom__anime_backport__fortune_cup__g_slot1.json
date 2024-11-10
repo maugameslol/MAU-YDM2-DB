@@ -1,0 +1,44 @@
+{
+  "code": "ACBPFC_GS1",
+  "type": "Sub-Set",
+  "pull_type": "distribution",
+  "distribution": "custom__master_pack__slot1_7",
+  "cards": [
+    {
+      "id": 63436931,
+      "code": "ACBPFC-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 70902743,
+      "code": "ACBPFC-002",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 44508094,
+      "code": "ACBPFC-003",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 73580471,
+      "code": "ACBPFC-004",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 25862681,
+      "code": "ACBPFC-005",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 31006879,
+      "code": "ACBPFC-006",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

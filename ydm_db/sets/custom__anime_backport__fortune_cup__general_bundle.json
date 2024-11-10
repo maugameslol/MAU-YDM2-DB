@@ -1,0 +1,21 @@
+{
+  "name": "Anime Backport: Fortune Cup Arc (Bundle) (Custom)",
+  "code": "ACBPFC_GB",
+  "type": "10 Pack Bundle + 1 Promo Card (Custom)",
+  "date": "09-11-2024",
+  "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "ACBPFC_GP",
+    "ACBPFC_GP",
+    "ACBPFC_GP",
+    "ACBPFC_GP",
+    "ACBPFC_GP",
+    "ACBPFC_GP",
+    "ACBPFC_GP",
+    "ACBPFC_GP",
+    "ACBPFC_GP",
+    "ACBPFC_GP",
+    "ACBPFC_SU"
+  ]
+}

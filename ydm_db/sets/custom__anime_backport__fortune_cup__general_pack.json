@@ -1,0 +1,18 @@
+{
+  "name": "Anime Backport: Fortune Cup Arc (Custom)",
+  "code": "ACBPFC_GP",
+  "type": "\"Master Duel\"-like Pack (Custom)",
+  "date": "09-11-2024",
+  "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+    "ACBPFC_GS1",
+    "ACBPFC_GS1",
+    "ACBPFC_GS1",
+    "ACBPFC_GS1",
+    "ACBPFC_GS1",
+    "ACBPFC_GS1",
+    "ACBPFC_GS1",
+    "ACBPFC_GS8"
+  ]
+}
