@@ -3,7 +3,7 @@
   "code": "ACBPWO_JP",
   "type": "\"Master Duel\"-like Pack (Custom)",
   "date": "02-09-2024",
-  "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
+  "image": "https://github.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/blob/7a099d9502c062d921063b4025555cf0c2673a0c/Customs/PackImages/ACBPWO/ACBPWO_JP.jpg",
   "pull_type": "composition",
   "sub_sets": [
     "ACBPWO_GS1",
@@ -13,6 +13,7 @@
     "ACBPWO_CS1",
     "ACBPWO_CS1",
     "ACBPWO_CS1",
+    "ACBPWO_CS8",
     "ACBPWO_CS8"
   ]
 }
