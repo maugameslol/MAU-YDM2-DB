@@ -1,0 +1,55 @@
+{
+  "name": "custom__condensed_master_pack__slot1_7",
+  "pulls": [
+    {
+      "weight": 22,
+      "entries": [
+        {
+          "count": 1,
+          "rarities": [
+            "Common",
+            "Common - Glossy Finish"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 14,
+      "entries": [
+        {
+          "count": 1,
+          "rarities": [
+            "Rare",
+            "Rare - Glossy Finish"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 3,
+      "entries": [
+        {
+          "count": 1,
+          "rarities": [
+            "Super Rare",
+            "Super Rare - Glossy Finish",
+            "Super Rare - Royal Finish"
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 1,
+          "rarities": [
+            "Ultra Rare",
+            "Ultra Rare - Glossy Finish",
+            "Ultra Rare - Royal Finish"
+          ]
+        }
+      ]
+    }
+  ]
+}
