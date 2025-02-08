@@ -1,0 +1,22 @@
+{
+  "name": "Gladiator\u0027s Assault (Case of 12)",
+  "code": "GLAS_C12",
+  "type": "Booster Case of 12 (Series 5)",
+  "date": "14-11-2007",
+  "image": "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/ProductImages/Misc/Case_Box_TnT_DAMA.JPG",
+  "pull_type": "composition",
+  "sub_sets": [
+    "GLAS_B",
+    "GLAS_B",
+    "GLAS_B",
+    "GLAS_B",
+    "GLAS_B",
+    "GLAS_B",
+    "GLAS_B",
+    "GLAS_B",
+    "GLAS_B",
+    "GLAS_B",
+    "GLAS_B",
+    "GLAS_B"
+  ]
+}

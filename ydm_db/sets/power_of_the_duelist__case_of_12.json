@@ -1,0 +1,22 @@
+{
+  "name": "Power of the Duelist (Case of 12)",
+  "code": "POTD_C12",
+  "type": "Booster Case of 12 (Series 5)",
+  "date": "16-08-2006",
+  "image": "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/ProductImages/Misc/Case_Box_TnT_DAMA.JPG",
+  "pull_type": "composition",
+  "sub_sets": [
+    "POTD_B",
+    "POTD_B",
+    "POTD_B",
+    "POTD_B",
+    "POTD_B",
+    "POTD_B",
+    "POTD_B",
+    "POTD_B",
+    "POTD_B",
+    "POTD_B",
+    "POTD_B",
+    "POTD_B"
+  ]
+}

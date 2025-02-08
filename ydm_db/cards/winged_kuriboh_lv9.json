@@ -1,6 +1,7 @@
 {
   "id": 33776734,
   "name": "Winged Kuriboh LV9",
+  "archetypes": ["Kuriboh", "Winged Kuriboh", "LV"],
   "is_illegal": false,
   "is_custom": false,
   "text": "Activate only as Chain Link 3 or higher (Quick Effect): You can Special Summon this card from your hand.\nSpell Cards that have been activated are banished instead of being sent to the GY.\nThe ATK/DEF of this card are each equal to the number of Spells in your opponent\u0027s GY x 500.\nYou can only control 1 \"Winged Kuriboh LV9\".",

@@ -1,0 +1,22 @@
+{
+  "name": "Phantom Darkness (Case of 12)",
+  "code": "PTDN_C12",
+  "type": "Booster Case of 12 (Series 5)",
+  "date": "13-02-2008",
+  "image": "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/ProductImages/Misc/Case_Box_TnT_DAMA.JPG",
+  "pull_type": "composition",
+  "sub_sets": [
+    "PTDN_B",
+    "PTDN_B",
+    "PTDN_B",
+    "PTDN_B",
+    "PTDN_B",
+    "PTDN_B",
+    "PTDN_B",
+    "PTDN_B",
+    "PTDN_B",
+    "PTDN_B",
+    "PTDN_B",
+    "PTDN_B"
+  ]
+}

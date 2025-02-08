@@ -1,0 +1,22 @@
+{
+  "name": "Cyberdark Impact (Case of 12)",
+  "code": "CDIP_C12",
+  "type": "Booster Case of 12 (Series 5)",
+  "date": "15-11-2006",
+  "image": "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/ProductImages/Misc/Case_Box_TnT_DAMA.JPG",
+  "pull_type": "composition",
+  "sub_sets": [
+    "CDIP_B",
+    "CDIP_B",
+    "CDIP_B",
+    "CDIP_B",
+    "CDIP_B",
+    "CDIP_B",
+    "CDIP_B",
+    "CDIP_B",
+    "CDIP_B",
+    "CDIP_B",
+    "CDIP_B",
+    "CDIP_B"
+  ]
+}

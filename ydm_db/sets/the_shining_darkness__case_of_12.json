@@ -1,0 +1,22 @@
+{
+  "name": "The Shining Darkness (Case of 12)",
+  "code": "TSHD_C12",
+  "type": "Booster Case of 12 (Series 6)",
+  "date": "07-05-2010",
+  "image": "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/ProductImages/Misc/Case_Box_TnT_DAMA.JPG",
+  "pull_type": "composition",
+  "sub_sets": [
+    "TSHD_B",
+    "TSHD_B",
+    "TSHD_B",
+    "TSHD_B",
+    "TSHD_B",
+    "TSHD_B",
+    "TSHD_B",
+    "TSHD_B",
+    "TSHD_B",
+    "TSHD_B",
+    "TSHD_B",
+    "TSHD_B"
+  ]
+}

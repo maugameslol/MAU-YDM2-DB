@@ -1,0 +1,22 @@
+{
+  "name": "Force of the Breaker (Case of 12)",
+  "code": "FOTB_C12",
+  "type": "Booster Case fo 12 (Series 5)",
+  "date": "16-05-2007",
+  "image": "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/ProductImages/Misc/Case_Box_TnT_DAMA.JPG",
+  "pull_type": "composition",
+  "sub_sets": [
+    "FOTB_B",
+    "FOTB_B",
+    "FOTB_B",
+    "FOTB_B",
+    "FOTB_B",
+    "FOTB_B",
+    "FOTB_B",
+    "FOTB_B",
+    "FOTB_B",
+    "FOTB_B",
+    "FOTB_B",
+    "FOTB_B"
+  ]
+}

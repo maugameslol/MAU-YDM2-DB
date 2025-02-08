@@ -1,0 +1,22 @@
+{
+  "name": "Absolute Powerforce (Case of 12)",
+  "code": "ABPF_C12",
+  "type": "Booster Case of 12 (Series 6)",
+  "date": "12-02-2010",
+  "image": "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/ProductImages/Misc/Case_Box_TnT_DAMA.JPG",
+  "pull_type": "composition",
+  "sub_sets": [
+    "ABPF_B",
+    "ABPF_B",
+    "ABPF_B",
+    "ABPF_B",
+    "ABPF_B",
+    "ABPF_B",
+    "ABPF_B",
+    "ABPF_B",
+    "ABPF_B",
+    "ABPF_B",
+    "ABPF_B",
+    "ABPF_B"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Tactical Evolution (Case of 12)",
+  "code": "TAEV_C12",
+  "type": "Booster Case of 12 (Series 5)",
+  "date": "15-08-2007",
+  "image": "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/ProductImages/Misc/Case_Box_TnT_DAMA.JPG",
+  "pull_type": "composition",
+  "sub_sets": [
+    "TAEV_B",
+    "TAEV_B",
+    "TAEV_B",
+    "TAEV_B",
+    "TAEV_B",
+    "TAEV_B",
+    "TAEV_B",
+    "TAEV_B",
+    "TAEV_B",
+    "TAEV_B",
+    "TAEV_B",
+    "TAEV_B"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Raging Battle (Case of 12)",
+  "code": "RGBT_C12",
+  "type": "Booster Case of 12 (Series 6)",
+  "date": "12-05-2009",
+  "image": "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/ProductImages/Misc/Case_Box_TnT_DAMA.JPG",
+  "pull_type": "composition",
+  "sub_sets": [
+    "RGBT_B",
+    "RGBT_B",
+    "RGBT_B",
+    "RGBT_B",
+    "RGBT_B",
+    "RGBT_B",
+    "RGBT_B",
+    "RGBT_B",
+    "RGBT_B",
+    "RGBT_B",
+    "RGBT_B",
+    "RGBT_B"
+  ]
+}

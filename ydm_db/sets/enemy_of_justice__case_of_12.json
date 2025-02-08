@@ -1,0 +1,22 @@
+{
+  "name": "Enemy of Justice (Case of 12)",
+  "code": "EOJ_C12",
+  "type": "Booster Case of 12 (Series 4)",
+  "date": "17-05-2006",
+  "image": "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/ProductImages/Misc/Case_Box_TnT_DAMA.JPG",
+  "pull_type": "composition",
+  "sub_sets": [
+    "EOJ_B",
+    "EOJ_B",
+    "EOJ_B",
+    "EOJ_B",
+    "EOJ_B",
+    "EOJ_B",
+    "EOJ_B",
+    "EOJ_B",
+    "EOJ_B",
+    "EOJ_B",
+    "EOJ_B",
+    "EOJ_B"
+  ]
+}

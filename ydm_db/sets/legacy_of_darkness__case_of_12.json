@@ -1,0 +1,22 @@
+{
+  "name": "Legacy of Darkness (Case of 12)",
+  "code": "LOD_C12",
+  "type": "Booster Case of 12 (Series 1-3)",
+  "date": "06-06-2003",
+  "image": "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/ProductImages/Misc/Case_Box_TnT_DAMA.JPG",
+  "pull_type": "composition",
+  "sub_sets": [
+    "LOD_B",
+    "LOD_B",
+    "LOD_B",
+    "LOD_B",
+    "LOD_B",
+    "LOD_B",
+    "LOD_B",
+    "LOD_B",
+    "LOD_B",
+    "LOD_B",
+    "LOD_B",
+    "LOD_B"
+  ]
+}

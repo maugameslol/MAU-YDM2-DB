@@ -1,6 +1,7 @@
 {
   "id": 74677422,
   "name": "Red-Eyes Black Dragon",
+  "archetypes": ["Red-Eyes"],
   "is_illegal": false,
   "is_custom": false,
   "text": "\u0027\u0027A ferocious dragon with a deadly attack.\u0027\u0027",

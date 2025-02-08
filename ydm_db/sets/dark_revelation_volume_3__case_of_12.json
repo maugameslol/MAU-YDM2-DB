@@ -1,0 +1,22 @@
+{
+  "name": "Dark Revelation Volume 3 (Case of 12)",
+  "code": "DR3_C12",
+  "type": "Reprint Case of 12",
+  "date": "25-11-2006",
+  "image": "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/ProductImages/Misc/Case_Box_TnT_DAMA.JPG",
+  "pull_type": "composition",
+  "sub_sets": [
+    "DR3_B",
+    "DR3_B",
+    "DR3_B",
+    "DR3_B",
+    "DR3_B",
+    "DR3_B",
+    "DR3_B",
+    "DR3_B",
+    "DR3_B",
+    "DR3_B",
+    "DR3_B",
+    "DR3_B"
+  ]
+}

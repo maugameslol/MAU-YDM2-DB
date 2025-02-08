@@ -1,0 +1,22 @@
+{
+  "name": "Starstrike Blast (Case of 12)",
+  "code": "STBL_C12",
+  "type": "Booster Case of 12 (Series 7)",
+  "date": "11-11-2010",
+  "image": "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/ProductImages/Misc/Case_Box_TnT_DAMA.JPG",
+  "pull_type": "composition",
+  "sub_sets": [
+    "STBL_B",
+    "STBL_B",
+    "STBL_B",
+    "STBL_B",
+    "STBL_B",
+    "STBL_B",
+    "STBL_B",
+    "STBL_B",
+    "STBL_B",
+    "STBL_B",
+    "STBL_B",
+    "STBL_B"
+  ]
+}

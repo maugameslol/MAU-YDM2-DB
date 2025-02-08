@@ -1,6 +1,7 @@
 {
   "id": 57116033,
   "name": "Winged Kuriboh",
+  "archetypes": ["Kuriboh", "Winged Kuriboh", "LV"],
   "is_illegal": false,
   "is_custom": false,
   "text": "If this card on the field is destroyed and sent to the GY: For the rest of this turn, you take no battle damage.",

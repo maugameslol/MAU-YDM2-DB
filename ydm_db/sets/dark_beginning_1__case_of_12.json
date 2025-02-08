@@ -1,0 +1,22 @@
+{
+  "name": "Dark Beginning 1 (Case of 12)",
+  "code": "DB1_C12",
+  "type": "Reprint Case of 12",
+  "date": "12-10-2004",
+  "image": "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/ProductImages/Misc/Case_Box_TnT_DAMA.JPG",
+  "pull_type": "composition",
+  "sub_sets": [
+    "DB1_B",
+    "DB1_B",
+    "DB1_B",
+    "DB1_B",
+    "DB1_B",
+    "DB1_B",
+    "DB1_B",
+    "DB1_B",
+    "DB1_B",
+    "DB1_B",
+    "DB1_B",
+    "DB1_B"
+  ]
+}

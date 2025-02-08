@@ -1,0 +1,20 @@
+{
+  "name": "Speed Duel: Battle City Finals",
+  "code": "SBC2",
+  "type": "Speed Duel Collector\u0027s Set",
+  "date": "13-12-2024",
+  "image": "https://ms.yugipedia.com//7/76/SBC2-BoxEN.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "SBC2_A",
+    "SBC2_B",
+    "SBC2_C",
+    "SBC2_D",
+    "SBC2_E",
+    "SBC2_F",
+    "SBC2_G",
+    "SBC2_H",
+    "SBC2_I",
+    "SBC2_PP"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Crimson Crisis (Case of 12)",
+  "code": "CRMS_C12",
+  "type": "Booster Case of 12 (Series 6)",
+  "date": "03-03-2009",
+  "image": "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/ProductImages/Misc/Case_Box_TnT_DAMA.JPG",
+  "pull_type": "composition",
+  "sub_sets": [
+    "CRMS_B",
+    "CRMS_B",
+    "CRMS_B",
+    "CRMS_B",
+    "CRMS_B",
+    "CRMS_B",
+    "CRMS_B",
+    "CRMS_B",
+    "CRMS_B",
+    "CRMS_B",
+    "CRMS_B",
+    "CRMS_B"
+  ]
+}

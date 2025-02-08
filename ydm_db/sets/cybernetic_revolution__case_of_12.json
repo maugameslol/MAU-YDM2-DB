@@ -1,0 +1,22 @@
+{
+  "name": "Cybernetic Revolution (Case of 12)",
+  "code": "CRV_C12",
+  "type": "Booster Case of 12 (Series 4)",
+  "date": "17-08-2005",
+  "image": "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/ProductImages/Misc/Case_Box_TnT_DAMA.JPG",
+  "pull_type": "composition",
+  "sub_sets": [
+    "CRV_B",
+    "CRV_B",
+    "CRV_B",
+    "CRV_B",
+    "CRV_B",
+    "CRV_B",
+    "CRV_B",
+    "CRV_B",
+    "CRV_B",
+    "CRV_B",
+    "CRV_B",
+    "CRV_B"
+  ]
+}

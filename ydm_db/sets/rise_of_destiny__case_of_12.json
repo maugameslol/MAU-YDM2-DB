@@ -1,0 +1,22 @@
+{
+  "name": "Rise of Destiny (Case of 12)",
+  "code": "RDS_C12",
+  "type": "Booster Case of 12 (Series 4)",
+  "date": "20-11-2004",
+  "image": "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/ProductImages/Misc/Case_Box_TnT_DAMA.JPG",
+  "pull_type": "composition",
+  "sub_sets": [
+    "RDS_B",
+    "RDS_B",
+    "RDS_B",
+    "RDS_B",
+    "RDS_B",
+    "RDS_B",
+    "RDS_B",
+    "RDS_B",
+    "RDS_B",
+    "RDS_B",
+    "RDS_B",
+    "RDS_B"
+  ]
+}

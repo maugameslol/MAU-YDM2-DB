@@ -1,0 +1,22 @@
+{
+  "name": "Dark Revelation Volume 1 (Case of 12)",
+  "code": "DR1_C12",
+  "type": "Reprint Case of 12",
+  "date": "19-03-2005",
+  "image": "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/ProductImages/Misc/Case_Box_TnT_DAMA.JPG",
+  "pull_type": "composition",
+  "sub_sets": [
+    "DR1_B",
+    "DR1_B",
+    "DR1_B",
+    "DR1_B",
+    "DR1_B",
+    "DR1_B",
+    "DR1_B",
+    "DR1_B",
+    "DR1_B",
+    "DR1_B",
+    "DR1_B",
+    "DR1_B"
+  ]
+}

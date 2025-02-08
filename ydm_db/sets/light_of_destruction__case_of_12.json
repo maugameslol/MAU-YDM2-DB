@@ -1,0 +1,22 @@
+{
+  "name": "Light of Destruction (Case of 12)",
+  "code": "LODT_C12",
+  "type": "Booster Case of 12 (Series 5)",
+  "date": "13-05-2008",
+  "image": "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/ProductImages/Misc/Case_Box_TnT_DAMA.JPG",
+  "pull_type": "composition",
+  "sub_sets": [
+    "LODT_B",
+    "LODT_B",
+    "LODT_B",
+    "LODT_B",
+    "LODT_B",
+    "LODT_B",
+    "LODT_B",
+    "LODT_B",
+    "LODT_B",
+    "LODT_B",
+    "LODT_B",
+    "LODT_B"
+  ]
+}

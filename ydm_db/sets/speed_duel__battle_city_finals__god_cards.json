@@ -1,0 +1,25 @@
+{
+  "code": "SBC2_PC",
+  "type": "Sub-Set",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 10000020,
+      "code": "SBC2-A01",
+      "rarity": "Speed Duel Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10000000,
+      "code": "SBC2-B01",
+      "rarity": "Speed Duel Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 10000010,
+      "code": "SBC2-D01",
+      "rarity": "Speed Duel Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

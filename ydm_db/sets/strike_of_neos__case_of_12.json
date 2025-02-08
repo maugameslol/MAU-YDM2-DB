@@ -1,0 +1,22 @@
+{
+  "name": "Strike of Neos (Case of 12)",
+  "code": "STON_C12",
+  "type": "Booster Case of 12 (Series 5)",
+  "date": "28-02-2007",
+  "image": "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/ProductImages/Misc/Case_Box_TnT_DAMA.JPG",
+  "pull_type": "composition",
+  "sub_sets": [
+    "STON_B",
+    "STON_B",
+    "STON_B",
+    "STON_B",
+    "STON_B",
+    "STON_B",
+    "STON_B",
+    "STON_B",
+    "STON_B",
+    "STON_B",
+    "STON_B",
+    "STON_B"
+  ]
+}
