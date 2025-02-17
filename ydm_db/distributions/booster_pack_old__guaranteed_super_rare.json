@@ -1,0 +1,30 @@
+{
+  "name": "booster_pack_old__guaranteed_super_rare",
+  "pulls": [
+    {
+      "weight": 1,
+      "entries": [
+        {
+          "count": 7,
+          "rarities": [
+            "Common",
+            "Short Print",
+            "Super Short Print"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Rare"
+          ]
+        },
+        {
+          "count": 1,
+          "rarities": [
+            "Super Rare"
+          ]
+        }
+      ]
+    }
+  ]
+}
