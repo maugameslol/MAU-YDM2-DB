@@ -1,7 +1,7 @@
 {
-  "name": "Elemental Energy (Boosted Box)",
+  "name": "Elemental Energy (Boosted Ratio Box)",
   "code": "EEN_BRB",
-  "type": "Boosted Booster Box (Series 4)",
+  "type": "Boosted Ratio Booster Box (Series 4)",
   "date": "16-11-2005",
   "image": "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/ProductImages/Boxes/EEN_box.jpg",
   "pull_type": "composition",
