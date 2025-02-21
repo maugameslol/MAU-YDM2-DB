@@ -2,7 +2,7 @@
   "name": "booster_pack_old_with_ghost_rare__super_rare_or_higher",
   "pulls": [
     {
-      "weight": 1200,
+      "weight": 240,
       "entries": [
         {
           "count": 7,
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "weight": 115,
+      "weight": 23,
       "entries": [
         {
           "count": 7,
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "weight": 60,
+      "weight": 12,
       "entries": [
         {
           "count": 7,
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "weight": 5,
+      "weight": 1,
       "entries": [
         {
           "count": 7,
