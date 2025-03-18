@@ -1,0 +1,136 @@
+{
+  "name": "Speed Duel: Battle City Finals (Mai Valentine)",
+  "code": "SBC2_H",
+  "type": "Speed Duel Collector\u0027s Set",
+  "date": "13-12-2024",
+  "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 4991081,
+      "code": "SBC2-H01",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+	{
+      "id": 68815132,
+      "code": "SBC2-H02",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 75064463,
+      "code": "SBC2-H03",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 90238142,
+      "code": "SBC2-H04",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 91932350,
+      "code": "SBC2-H05",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 27927359,
+      "code": "SBC2-H06",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 80316585,
+      "code": "SBC2-H07",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 12206212,
+      "code": "SBC2-H08",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 84539520,
+      "code": "SBC2-H09",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 29654737,
+      "code": "SBC2-H10",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+	{
+      "id": 94004268,
+      "code": "SBC2-H11",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 15951532,
+      "code": "SBC2-H12",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 19337371,
+      "code": "SBC2-H13",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 90219263,
+      "code": "SBC2-H14",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 75782277,
+      "code": "SBC2-H15",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 57312333,
+      "code": "SBC2-H16",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 36100154,
+      "code": "SBC2-H17",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 77778835,
+      "code": "SBC2-H18",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 83407038,
+      "code": "SBC2-H19",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+	{
+      "id": 22359980,
+      "code": "SBC2-H20",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+	{
+      "id": 59744639,
+      "code": "SBC2-H21",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    }
+  ]
+}

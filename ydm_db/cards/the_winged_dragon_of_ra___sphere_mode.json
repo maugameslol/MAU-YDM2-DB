@@ -1,9 +1,10 @@
 {
   "id": 10000080,
   "name": "The Winged Dragon of Ra - Sphere Mode",
+  "archetypes": ["The Winged Dragon of Ra"],
   "is_illegal": false,
   "is_custom": false,
-  "text": "Cannot be Special Summoned. Requires 3 Tributes from either side of the field to Normal Summon to that side of the field (cannot be Normal Set), then shift control to this card\u0027s owner during the End Phase of the next turn.\nCannot attack.\nYour opponent cannot target this card for attacks or by card effects.\nYou can Tribute this card; Special Summon 1 \"The Winged Dragon of Ra\" from your hand or Deck, ignoring its Summoning conditions, and if you do, its ATK/DEF become 4000.",
+  "text": "Cannot be Special Summoned. Requires 3 Tributes from either side of the field to Normal Summon to that side of the field (cannot be Normal Set), then shift control to this card\u0027s owner during the End Phase of the next turn.\nCannot attack.\n\u2460Your opponent cannot target this card for attacks or by card effects.\n\u2461You can Tribute this card; Special Summon 1 \"The Winged Dragon of Ra\" from your hand or Deck, ignoring its Summoning conditions, and if you do, its ATK/DEF become 4000.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/10000080.jpg"
   ],

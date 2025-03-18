@@ -1,0 +1,154 @@
+{
+  "name": "Speed Duel: Battle City Finals (Yami Bakura)",
+  "code": "SBC2_E",
+  "type": "Speed Duel Collector\u0027s Set",
+  "date": "13-12-2024",
+  "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 31829185,
+      "code": "SBC2-E01",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+	{
+      "id": 53982768,
+      "code": "SBC2-E02",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 56647086,
+      "code": "SBC2-E03",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 78700060,
+      "code": "SBC2-E04",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 84290642,
+      "code": "SBC2-E05",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 26202165,
+      "code": "SBC2-E06",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 81035362,
+      "code": "SBC2-E07",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 89258225,
+      "code": "SBC2-E08",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 5257687,
+      "code": "SBC2-E09",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 58616392,
+      "code": "SBC2-E10",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+	{
+      "id": 98336111,
+      "code": "SBC2-E11",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 16226786,
+      "code": "SBC2-E12",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 94212438,
+      "code": "SBC2-E13",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 31893528,
+      "code": "SBC2-E14",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 67287533,
+      "code": "SBC2-E15",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 94772232,
+      "code": "SBC2-E16",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 30170981,
+      "code": "SBC2-E17",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 14386013,
+      "code": "SBC2-E18",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 15866454,
+      "code": "SBC2-E19",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+	{
+      "id": 70828912,
+      "code": "SBC2-E20",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+	{
+      "id": 81439173,
+      "code": "SBC2-E21",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+	{
+      "id": 19230407,
+      "code": "SBC2-E22",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+	{
+      "id": 40771118,
+      "code": "SBC2-E23",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+	{
+      "id": 79852326,
+      "code": "SBC2-E24",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    }
+  ]
+}
