@@ -3,7 +3,7 @@
   "name": "Gradius\u0027 Option",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This card Cannot be Normal Summoned/Set.\nThis monster can only be Special Summoned by selecting 1 face-up \"Gradius\" on your side of the field.\nThe ATK and DEF of this card becomes the same as the ATK and DEF of the selected \"Gradius\".\nIf the selected \"Gradius\" is removed from the field, destroy this card.",
+  "text": "This card cannot be Normal Summoned/Set.\nThis monster can only be Special Summoned by selecting 1 face-up \"Gradius\" on your side of the field.\nThe ATK and DEF of this card becomes the same as the ATK and DEF of the selected \"Gradius\".\nIf the selected \"Gradius\" is removed from the field, destroy this card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/14291024.jpg"
   ],
