@@ -1,0 +1,13 @@
+{
+  "id": 121191373,
+  "name": "Noah\u0027s Arc (Skill Card)",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "[ SKILL ACTIVATION ]\nAt the start of the Duel, flip this card over.\n\n[ SKILL EFFECT ]\nOnce per Duel, you can add 1 \"Shinato, King of a Higher Plane\" or \"Shinato\u0027s Ark\" from your Deck to your hand, then place 1 card from your hand on the bottom of the Deck. Apply the following Skills:\n\u25cf Once per turn, if you control a Level 5 or higher Spirit monster or \"Shinato, King of a Higher Plane\", you can add 1 Spirit monster from your GY to your hand.\n\u25cf During your turn, you can Normal Summon 1 Spirit monster with the same original name as a monster that was Normal Summoned during your previous turn, in addition to your Normal Summon this turn.",
+  "images": [
+    "https://ms.yugipedia.com//6/6a/NoahsArc-SBC2-NA-C-1E.png"
+	],
+  "type": "Skill",
+  "skill_type": "",
+  "character": "Noah"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 121191368,
+  "name": "Deserts Peril (Skill Card)",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "[ SKILL ACTIVATION ]\nAt the start of the Duel, flip this card over.\n\n[ SKILL EFFECT ]\nTwice per Duel, you can apply the following Skill:\n\u25cf Flip all monsters you control face-down and shuffle them in your Main Monster Zone, then you can change the battle position of 1 monster you control. This Skill can only be used once per turn.",
+  "images": [
+    "https://ms.yugipedia.com//b/b4/DesertsPeril-SBC2-NA-C-1E.png"
+	],
+  "type": "Skill",
+  "skill_type": "",
+  "character": "Odion"
+}

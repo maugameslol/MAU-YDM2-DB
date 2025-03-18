@@ -1,0 +1,13 @@
+{
+  "id": 121191369,
+  "name": "Harpie\u0027s Kaleidoscope (Skill Card)",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "[ SKILL ACTIVATION ]\nAt the start of the Duel, flip this card over.\n\n[ SKILL EFFECT ]\n\"Harpie Lady Sisters\" monsters you control cannot be destroyed by your opponent\u0027s Monster or Trap effects, also they gain the following effect:\n\u25cf Once per turn, during your Main Phase: You can place 2 WIND Winged Beast monsters from your GY on the bottom of the Deck in any order, then target 1 monster your opponent controls; return it to the hand.",
+  "images": [
+    "https://ms.yugipedia.com//c/c8/HarpiesKaleidoscope-SBC2-NA-C-1E.png"
+	],
+  "type": "Skill",
+  "skill_type": "",
+  "character": "Mai"
+}

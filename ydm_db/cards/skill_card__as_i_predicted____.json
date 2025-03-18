@@ -1,0 +1,13 @@
+{
+  "id": 121191359,
+  "name": "As I Predicted...! (Skill Card)",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "[ SKILL ACTIVATION ]\nAt the start of the Duel, flip this card over.\n\n[ SKILL EFFECT ]\nDuring your Draw Phase, instead of conducting your normal draw, you may look at the top 2 cards of your Deck, add 1 to your hand, then send the other to the GY. If you do, skip your next Battle Phase. Apply the following Skills:\n\u25cf Only you need 15 or more cards in your GY to activate \"Exchange of the Spirit\".\n\u25cf If you have 15 or more cards in your GY, you can banish 1 \"Exchange of the Spirit\" from your GY to activate its effect.",
+  "images": [
+    "https://ms.yugipedia.com//1/15/AsIPredicted-SBC2-NA-C-1E.png"
+	],
+  "type": "Skill",
+  "skill_type": "",
+  "character": "Ishizu"
+}

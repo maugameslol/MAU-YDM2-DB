@@ -1,0 +1,13 @@
+{
+  "id": 121191360,
+  "name": "Royal Temple of the Kings (Skill Card)",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "[ SKILL ACTIVATION ]\nAt the start of the Duel, place this card in your Field Zone and flip it over.\n\n[ SKILL EFFECT ]\n\"Royal Temple of the Kings\" is unaffected by your opponent\u0027s card effects. \"Mystical Beast of Serket\" cannot be destroyed by its own effect. Once per turn: You can pay 500 LP; this turn, you can activate a Continuous Trap Card with an effect that Special Summons itself as a monster, the turn it was Set.",
+  "images": [
+    "https://ms.yugipedia.com//8/84/RoyalTempleoftheKings-SBC2-NA-C-1E.png"
+	],
+  "type": "Skill",
+  "skill_type": "Field Spell",
+  "character": "Odion"
+}

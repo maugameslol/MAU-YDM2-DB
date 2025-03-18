@@ -1,0 +1,130 @@
+{
+  "name": "Speed Duel: Battle City Finals (Skill Cards)",
+  "code": "SBC2_S",
+  "type": "Speed Duel Collector\u0027s Set",
+  "date": "13-12-2024",
+  "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 121191354,
+      "code": "SBC2-S01",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 121191355,
+      "code": "SBC2-S02",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 121191356,
+      "code": "SBC2-S03",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 121191357,
+      "code": "SBC2-S04",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 121191358,
+      "code": "SBC2-S05",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 121191359,
+      "code": "SBC2-S06",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 121191360,
+      "code": "SBC2-S07",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 121191361,
+      "code": "SBC2-S08",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 121191362,
+      "code": "SBC2-S09",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 121191363,
+      "code": "SBC2-S10",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+	{
+      "id": 121191364,
+      "code": "SBC2-S11",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 121191365,
+      "code": "SBC2-S12",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 121191366,
+      "code": "SBC2-S13",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 121191367,
+      "code": "SBC2-S14",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 121191368,
+      "code": "SBC2-S15",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 121191369,
+      "code": "SBC2-S16",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 121191370,
+      "code": "SBC2-S17",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 121191371,
+      "code": "SBC2-S18",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+    {
+      "id": 121191372,
+      "code": "SBC2-S19",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    },
+	{
+      "id": 121191373,
+      "code": "SBC2-S20",
+      "rarity": "Speed Duel Common",
+      "image_index": 0
+    }
+  ]
+}

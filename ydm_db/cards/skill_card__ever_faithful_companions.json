@@ -1,0 +1,13 @@
+{
+  "id": 121191362,
+  "name": "Ever Faithful Companions (Skill Card)",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "[ SKILL ACTIVATION ]\nAt the start of the Duel, flip this card over.\n\n[ SKILL EFFECT ]\nIf only your opponent controls a monster, you can Special Summon 1 \"Dark Magician\" or 1 \"Dark Magician Girl\" from your hand. Once per Duel, while you control a monster whose original name is \"Dark Magician\" or \"Dark Magician Girl\", you can add 1 \"Dark Magician\" or 1 card that mentions it from your Deck to your hand.",
+  "images": [
+    "https://ms.yugipedia.com//0/08/EverFaithfulCompanions-SBC2-NA-C-1E.png"
+	],
+  "type": "Skill",
+  "skill_type": "",
+  "character": "Yami Yugi"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 121191367,
+  "name": "Keeper of the Valley (Skill Card)",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "[ SKILL ACTIVATION ]\nAt the start of the Duel, flip this card over.\n\n[ SKILL EFFECT ]\nOnce per Duel, you can discard 1 card to add 1 Spell/Trap that mentions \"Necrovalley\" from your GY to your hand. Apply the following Skill:\n\u25cf Your GY is unaffected by \"Necrovalley\".",
+  "images": [
+    "https://ms.yugipedia.com//c/c9/KeeperoftheValley-SBC2-NA-C-1E.png"
+	],
+  "type": "Skill",
+  "skill_type": "",
+  "character": "Ishizu"
+}
