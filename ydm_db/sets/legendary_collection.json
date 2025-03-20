@@ -1,0 +1,17 @@
+{
+  "name": "Legendary Collection",
+  "code": "LC01",
+  "type": "Legendary Collection",
+  "date": "05-10-2010",
+  "image": "https://images.ygoprodeck.com/images/sets/LC01.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+  "LOB",
+  "MRD",
+  "SRL",
+  "PSV",
+  "DCR",
+  "IOC",
+  "LC01_PC"
+  ]
+}

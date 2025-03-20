@@ -1,0 +1,16 @@
+{
+  "name": "Legendary Collection 2: The Duel Academy Years",
+  "code": "LC02",
+  "type": "Legendary Collection",
+  "date": "04-10-2011",
+  "image": "https://images.ygoprodeck.com/images/sets/LC02.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+  "LCGX",
+  "LCGX",
+  "LCGX",
+  "LCGX",
+  "LCGX",
+  "LC02_PC"
+  ]
+}

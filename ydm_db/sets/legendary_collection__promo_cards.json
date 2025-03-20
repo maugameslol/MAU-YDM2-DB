@@ -1,0 +1,43 @@
+{
+  "code": "LC01_PC",
+  "type": "Sub-Set",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 10000000,
+      "code": "LC01-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 10000020,
+      "code": "LC01-002",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 10000010,
+      "code": "LC01-003",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 89631139,
+      "code": "LC01-004",
+      "rarity": "Ultra Rare",
+      "image_index": 2
+    },
+	{
+      "id": 46986414,
+      "code": "LC01-005",
+      "rarity": "Ultra Rare",
+      "image_index": 2
+    },
+	{
+      "id": 74677422,
+      "code": "LC01-006",
+      "rarity": "Ultra Rare",
+      "image_index": 4
+    }
+  ]
+}

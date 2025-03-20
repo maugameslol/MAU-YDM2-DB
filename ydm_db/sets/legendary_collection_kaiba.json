@@ -1,0 +1,16 @@
+{
+  "name": "Legendary Collection Kaiba",
+  "code": "LC06",
+  "type": "Legendary Collection",
+  "date": "08-03-2018",
+  "image": "https://images.ygoprodeck.com/images/sets/LC06.jpg",
+  "pull_type": "composition",
+  "sub_sets": [
+  "LCKC",
+  "LCKC",
+  "LCKC",
+  "LCKC",
+  "LCKC",
+  "LC06_PC"
+  ]
+}

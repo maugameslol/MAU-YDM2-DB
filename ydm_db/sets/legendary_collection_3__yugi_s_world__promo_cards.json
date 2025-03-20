@@ -1,0 +1,31 @@
+{
+  "code": "LC03_PC",
+  "type": "Sub-Set",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 48179391,
+      "code": "LC03-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 31829185,
+      "code": "LC03-002",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 34022290,
+      "code": "LC03-003",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 99267150,
+      "code": "LC03-004",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

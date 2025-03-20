@@ -1,0 +1,85 @@
+{
+  "code": "LC02_PC",
+  "type": "Sub-Set",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 6007213,
+      "code": "LC02-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 32491822,
+      "code": "LC02-002",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 69890967,
+      "code": "LC02-003",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 85771019,
+      "code": "LC02-004",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 11260714,
+      "code": "LC02-005",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 47664723,
+      "code": "LC02-006",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 35050257,
+      "code": "LC02-007",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 4611269,
+      "code": "LC02-008",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 39984786,
+      "code": "LC02-009",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 3642509,
+      "code": "LC02-010",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 54283059,
+      "code": "LC02-011",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 72549351,
+      "code": "LC02-012",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 24449083,
+      "code": "LC02-013",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}
