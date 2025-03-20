@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins 2011 Wave 2 (Galaxy-Eyes Photon Dragon)",
+  "code": "CT08_3",
+  "type": "Collectible Tin",
+  "date": "01-11-2011",
+  "image": "https://ms.yugipedia.com//b/b6/CT08-PromoEN-Ver3.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "STOR",
+	"STOR",
+    "EXVC",
+	"EXVC",
+	"GENF",
+    "CT08_3_P"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "code": "CT08_3_P",
+  "type": "Sub-Set",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 93717133,
+      "code": "CT08-003",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 42009836,
+      "code": "CT08-012",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 34022290,
+      "code": "CT08-013",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 36521459,
+      "code": "CT08-014",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 84749824,
+      "code": "CT08-015",
+      "rarity": "Super Rare",
+      "image_index": 0
+    }
+  ]
+}

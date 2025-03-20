@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins 2011 Wave 2 (Number 10: Illumiknight)",
+  "code": "CT08_4",
+  "type": "Collectible Tin",
+  "date": "01-11-2011",
+  "image": "https://ms.yugipedia.com//7/72/CT08-PromoEN-Ver4.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "STOR",
+	"STOR",
+    "EXVC",
+	"EXVC",
+	"GENF",
+    "CT08_4_P"
+  ]
+}

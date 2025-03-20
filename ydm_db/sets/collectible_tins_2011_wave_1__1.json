@@ -1,0 +1,16 @@
+{
+  "name": "Collectible Tins 2011 Wave 1 (Number 17: Leviathan Dragon)",
+  "code": "CT08_1",
+  "type": "Collectible Tin",
+  "date": "30-08-2011",
+  "image": "https://ms.yugipedia.com//a/a5/CT08-PromoEN-Ver1.png",
+  "pull_type": "composition",
+  "sub_sets": [
+    "STOR",
+	"STOR",
+    "HA04",
+	"HA04",
+	"EXVC",
+    "CT08_1_P"
+  ]
+}
