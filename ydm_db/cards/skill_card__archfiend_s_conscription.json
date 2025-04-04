@@ -3,7 +3,9 @@
   "name": "Archfiend\u0027s Conscription (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nYou cannot Summon/Set non-Fiend monsters.\nOnce per turn, during your Main Phase, you can roll a six-sided die. If you do, you lose LP equal to the result x 200, but if the result is 2, 3, or 4, you can Special Summon 1 \"Archfiend\" monster with a Level equal to the result from your hand, Deck, or GY.",
+  "text": "",
+  "skill_activation": "Flip this card over when you activate this Skill.",
+  "skill_effect": "You cannot Summon/Set non-Fiend monsters.\nOnce per turn, during your Main Phase, you can roll a six-sided die. If you do, you lose LP equal to the result x 200, but if the result is 2, 3, or 4, you can Special Summon 1 \"Archfiend\" monster with a Level equal to the result from your hand, Deck, or GY.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300302057.jpg"
   ],

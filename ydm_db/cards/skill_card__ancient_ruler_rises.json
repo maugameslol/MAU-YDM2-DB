@@ -3,7 +3,9 @@
   "name": "Ancient Ruler Rises (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ SKILL ACTIVATION ]\nAt the start of the Duel, flip this card over.\n\n[ SKILL EFFECT ]\nApply the following Skills:\n\u25cf Once per turn, you can send 1 Level 2 Zombie monster from your Deck to the GY and place 1 of your \"The First Sarcophagus\", \"The Second Sarcophagus\", or \"The Third Sarcophagus\" from your Deck, GY, or that is banished, face-up in your Spell \u0026 Trap Zone. (This is treated as being placed by the effect of \"The First Sarcophagus\".)\n\u25cf Each \"Spirit of the Pharaoh\" you control gains ATK equal to the total number of \"Pharaoh\u0027s Servant\" and \"Pharaonic Protector\" on your field and in your GY x 900.",
+  "text": "",
+  "skill_activation": "At the start of the Duel, flip this card over.",
+  "skill_effect": "Apply the following Skills:\n\u25cf Once per turn, you can send 1 Level 2 Zombie monster from your Deck to the GY and place 1 of your \"The First Sarcophagus\", \"The Second Sarcophagus\", or \"The Third Sarcophagus\" from your Deck, GY, or that is banished, face-up in your Spell \u0026 Trap Zone. (This is treated as being placed by the effect of \"The First Sarcophagus\".)\n\u25cf Each \"Spirit of the Pharaoh\" you control gains ATK equal to the total number of \"Pharaoh\u0027s Servant\" and \"Pharaonic Protector\" on your field and in your GY x 900.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300302056.jpg"
   ],

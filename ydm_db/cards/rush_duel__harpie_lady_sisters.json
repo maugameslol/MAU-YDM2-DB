@@ -4,7 +4,10 @@
   "is_illegal": false,
   "is_custom": false,
   "is_rush": true,
-  "text": "You can Maximum Summon this card together with \"Harpie Lady Sisters [L]\" and \"Harpie Lady Sisters [R]\".\n[REQUIREMENT]\nShuffle 2 WIND Winged Beast from your GY into the Deck.\n[EFFECT]\n1 face-up monster on your field gains 500 ATK until the end of this turn. Then, if this card is in Maximum Mode, inflict 500 damage to your opponent.",
+  "text": "You can Maximum Summon this card together with \"Harpie Lady Sisters [L]\" and \"Harpie Lady Sisters [R]\".",
+  "rush_requirement_text": "Shuffle 2 WIND Winged Beast from your GY into the Deck.",
+  "rush_effect_type": "",
+  "rush_effect_text": "1 face-up monster on your field gains 500 ATK until the end of this turn. Then, if this card is in Maximum Mode, inflict 500 damage to your opponent.",
   "images": [
     "https://images.rushcard.io/images/card/936321.jpg"
   ],

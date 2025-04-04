@@ -1,0 +1,25 @@
+{
+  "id": 120280001,
+  "name": "Magician of Black Chaos (Rush Duel)",
+  "is_illegal": false,
+  "is_custom": false,
+  "is_rush": true,
+  "text": "This card\u0027s name becomes \"Dark Magician\" while in the Graveyard. ",
+  "rush_requirement_text": "None",
+  "rush_effect_type": "",
+  "rush_effect_text": "None",
+  "images": [
+    "https://ms.yugipedia.com//e/e1/MagicianofBlackChaos-RDSD0E-JP-OP.png"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 2800,
+  "species": "Spellcaster",
+  "monster_type": "Ritual",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2600,
+  "level": 8,
+  "is_tuner": false
+}

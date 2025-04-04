@@ -3,7 +3,9 @@
   "name": "Cards of the Swords of Protection (Duel Links Skill)",
   "is_illegal": false,
   "is_custom": true,
-  "text": "[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nYou can use any of the following Skills once per Duel.\n\u25cf Send 1 \"Swords of Revealing Light\" from your field that has been activated during this turn to the Graveyard and draw 1 card.\n\u25cf During your Draw Phase, instead of drawing, you can send 1 \"Swords of Revealing Light\" from your field to the GY; Search your Deck for any card, reveal it to your opponent, and add it to your hand.\n\n(This Skill has been adapted to work in our format, and it attempts to replicate its function in Yu-Gi-Oh! Duel Links.)",
+  "text": "(This Skill has been adapted to work in our format, and it attempts to replicate its function in Yu-Gi-Oh! Duel Links.)",
+  "skill_activation": "Flip this card over when you activate this Skill.",
+  "skill_effect": "You can use any of the following Skills once per Duel.\n\u25cf Send 1 \"Swords of Revealing Light\" from your field that has been activated during this turn to the Graveyard and draw 1 card.\n\u25cf During your Draw Phase, instead of drawing, you can send 1 \"Swords of Revealing Light\" from your field to the GY; Search your Deck for any card, reveal it to your opponent, and add it to your hand.",
   "images": [
     "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/Customs/SkillCards/Duel_Links_Skill_Cards_of_the_Swords_of_Protection.jpg"
   ],

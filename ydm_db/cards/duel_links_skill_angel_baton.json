@@ -3,7 +3,9 @@
   "name": "Angel Baton (Duel Links Skill)",
   "is_illegal": false,
   "is_custom": true,
-  "text": "[ SKILL ACTIVATION ]\nFlip this card over on your 4th turn.\n\n[ SKILL EFFECT ]\nDuring your Draw Phase, instead of drawing: You can draw 2 cards, then send 1 card from your hand to the GY. After resolving this Skill, flip this card over.",
+  "text": "(This Skill has been adapted to work in our format, and it attempts to replicate its function in Yu-Gi-Oh! Duel Links.)",
+  "skill_activation": "Flip this card over on your 4th turn.",
+  "skill_effect": "During your Draw Phase, instead of drawing: You can draw 2 cards, then send 1 card from your hand to the GY. After resolving this Skill, flip this card over.",
   "images": [
     "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/Customs/SkillCards/Duel_Links_Skill_Angel_Baton.jpg"
   ],

@@ -3,7 +3,9 @@
   "name": "Card of Sanctity (Duel Links Skill)",
   "is_illegal": false,
   "is_custom": true,
-  "text": "[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nDuring your End Phase, if you Normal Summoned \"Slifer the Sky Dragon\" this turn, activate this Skill. Both players draw until they have 6 cards in their hands.\n\n(This Skill has been adapted to work in our format, and it attempts to replicate its function in Yu-Gi-Oh! Duel Links.)",
+  "text": "(This Skill has been adapted to work in our format, and it attempts to replicate its function in Yu-Gi-Oh! Duel Links.)",
+  "skill_activation": "Flip this card over when you activate this Skill.",
+  "skill_effect": "During your End Phase, if you Normal Summoned \"Slifer the Sky Dragon\" this turn, activate this Skill. Both players draw until they have 6 cards in their hands.",
   "images": [
     "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/Customs/SkillCards/Duel_Links_Skill_Card_of_Sanctity.jpg"
   ],

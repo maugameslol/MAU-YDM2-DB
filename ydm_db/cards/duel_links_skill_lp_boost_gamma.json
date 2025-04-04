@@ -3,7 +3,9 @@
   "name": "LP Boost \u03b3 (Duel Links Skill)",
   "is_illegal": false,
   "is_custom": true,
-  "text": "[ SKILL ACTIVATION ]\nFlip this card over at the start of the Duel.\n\n[ SKILL EFFECT ]\nIncrease your starting Life Points by 2500, but reduce your starting hand by 2 cards.",
+  "text": "(This Skill has been adapted to work in our format, and it attempts to replicate its function in Yu-Gi-Oh! Duel Links.)",
+  "skill_activation": "Flip this card over at the start of the Duel.",
+  "skill_effect": "Increase your starting Life Points by 2500, but reduce your starting hand by 2 cards.",
   "images": [
     "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/Customs/SkillCards/Duel_Links_Skill_LP_Boost_Gamma.jpg"
   ],
