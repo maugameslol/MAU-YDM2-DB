@@ -3,7 +3,9 @@
   "name": "I\u0027ve Got Dino DNA! (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ SKILL ACTIVATION ]\nAt the start of the Duel, flip this card over.\n\n[ SKILL EFFECT ]\nDuring each of your Draw Phases, you gain 200 LP.\nDuring your Draw Phase, if you draw a Dinosaur monster for your normal draw, you can reveal it and place it on the bottom of your Deck, then draw 1 card.\nOnce per turn, during your Main Phase, you can make 1 Dinosaur monster you control gain 200 ATK until the end of this turn.",
+  "text": "",
+  "skill_activation": "At the start of the Duel, flip this card over.",
+  "skill_effect": "During each of your Draw Phases, you gain 200 LP.\nDuring your Draw Phase, if you draw a Dinosaur monster for your normal draw, you can reveal it and place it on the bottom of your Deck, then draw 1 card.\nOnce per turn, during your Main Phase, you can make 1 Dinosaur monster you control gain 200 ATK until the end of this turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300302032.jpg"
   ],

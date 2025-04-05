@@ -3,7 +3,9 @@
   "name": "Battle City Bestie (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ SKILL ACTIVATION ]\nAt the start of the Duel, flip this card over.\n\n[ SKILL EFFECT ]\nApply the following Skills:\n\u25cf You take no battle damage during your turn.\n\u25cf Once per turn, during your End Phase, if your opponent activated a card or effect this turn, draw 1 card.",
+  "text": "",
+  "skill_activation": "At the start of the Duel, flip this card over.",
+  "skill_effect": "Apply the following Skills:\n\u25cf You take no battle damage during your turn.\n\u25cf Once per turn, during your End Phase, if your opponent activated a card or effect this turn, draw 1 card.",
   "images": [
     "https://ms.yugipedia.com//3/31/BattleCityBestie-SBC2-NA-C-1E.png"
 	],

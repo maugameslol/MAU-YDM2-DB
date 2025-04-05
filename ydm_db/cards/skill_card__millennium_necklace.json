@@ -3,7 +3,9 @@
   "name": "Millennium Necklace (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nAt the start of the opponent\u0027s turn, before they draw, you may look at the top 3 cards of their Deck and rearrange them in any order.\nThis Skill can only be used once per Duel.",
+  "text": "",
+  "skill_activation": "Flip this card over when you activate this Skill.",
+  "skill_effect": "At the start of the opponent\u0027s turn, before they draw, you may look at the top 3 cards of their Deck and rearrange them in any order.\nThis Skill can only be used once per Duel.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300201006.jpg"
   ],

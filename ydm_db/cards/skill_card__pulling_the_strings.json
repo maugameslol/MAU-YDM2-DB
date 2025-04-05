@@ -3,7 +3,9 @@
   "name": "Pulling the Strings (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ SKILL ACTIVATION ]\nAt the start of the Duel, flip this card over.\n\n[ SKILL EFFECT ]\nApply the following Skills:\n\u25cf Once per turn, you can give control of 1 face-up monster you control to your opponent, and if you do, it cannot be Tributed.\n\u25cf Once per Duel, during your opponent\u0027s End Phase, you can destroy 1 monster your opponent controls that you own, and if you do, inflict 500 damage to your opponent, also for the rest of this Duel, you take no damage from cards you own.",
+  "text": "",
+  "skill_activation": "At the start of the Duel, flip this card over.",
+  "skill_effect": "Apply the following Skills:\n\u25cf Once per turn, you can give control of 1 face-up monster you control to your opponent, and if you do, it cannot be Tributed.\n\u25cf Once per Duel, during your opponent\u0027s End Phase, you can destroy 1 monster your opponent controls that you own, and if you do, inflict 500 damage to your opponent, also for the rest of this Duel, you take no damage from cards you own.",
   "images": [
     "https://ms.yugipedia.com//a/ab/PullingtheStrings-SBC2-NA-C-1E.png"
 	],

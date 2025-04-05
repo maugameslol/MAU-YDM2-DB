@@ -3,7 +3,9 @@
   "name": "Premature Material (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nOnce per Duel, lose 800 LP and reveal 1 Fusion Monster in your Extra Deck, then Special Summon 1 Normal Monster from your GY whose name is mentioned on that Fusion Monster as material, but its ATK/DEF become 0.",
+  "text": "",
+  "skill_activation": "Flip this card over when you activate this Skill.",
+  "skill_effect": "Once per Duel, lose 800 LP and reveal 1 Fusion Monster in your Extra Deck, then Special Summon 1 Normal Monster from your GY whose name is mentioned on that Fusion Monster as material, but its ATK/DEF become 0.",
   "images": [
     "https://ms.yugipedia.com//7/72/PrematureMaterial-SBC1-EN-C-1E.png"
 	],

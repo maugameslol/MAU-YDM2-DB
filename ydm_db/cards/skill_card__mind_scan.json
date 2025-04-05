@@ -3,7 +3,9 @@
   "name": "Mind Scan (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "(TCG/OCG ADJUSTED)\n[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nAt the start of the 3rd turn, if your LP is 6000 or higher, activate this Skill (count both players\u0027 turns).\nYou may look at your opponent\u0027s Set Spell \u0026 Trap Cards at anytime. If your LP drops below 6000, flip this card over.\n\n\u00A73(SPEED DUEL)\n[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nAt the start of the 3rd turn, if your LP is 3000 or higher, activate this Skill (count both players\u0027 turns).\nYou may look at your opponent\u0027s Set Spell \u0026 Trap Cards at anytime. If your LP drops below 3000, flip this card over.\u00A7r",
+  "text": "",
+  "skill_activation": "Flip this card over when you activate this Skill.",
+  "skill_effect": "At the start of the 3rd turn, if your LP is 3000 or higher, activate this Skill (count both players\u0027 turns).\nYou may look at your opponent\u0027s Set Spell \u0026 Trap Cards at anytime. If your LP drops below 3000, flip this card over.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300201008.jpg"
   ],

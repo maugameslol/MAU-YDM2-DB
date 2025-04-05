@@ -3,7 +3,9 @@
   "name": "Gravekeeper\u0027s Lot (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nIf you lose 1800 or more LP, you can activate this Skill during your next Draw Phase.\nDuring your Draw Phase, you may search your Deck for a \"Gravekeeper\u0027s\" card, reveal it to your opponent, and add it to your hand instead of drawing.\nIf you do that, flip this card over.",
+  "text": "",
+  "skill_activation": "Flip this card over when you activate this Skill.",
+  "skill_effect": "If you lose 1800 or more LP, you can activate this Skill during your next Draw Phase.\nDuring your Draw Phase, you may search your Deck for a \"Gravekeeper\u0027s\" card, reveal it to your opponent, and add it to your hand instead of drawing.\nIf you do that, flip this card over.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300201005.jpg"
   ],

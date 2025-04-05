@@ -3,7 +3,9 @@
   "name": "Ectoplasmic Fortification! (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nOnce per turn, if you control a Zombie monster, you can place 1 counter on this card.\nAll Zombie monsters you control gain 100 ATK and lose 100 DEF for each counter on this card.\nAny battle damage you take from battles involving your Zombie monster is doubled.",
+  "text": "",
+  "skill_activation": "Flip this card over when you activate this Skill.",
+  "skill_effect": "Once per turn, if you control a Zombie monster, you can place 1 counter on this card.\nAll Zombie monsters you control gain 100 ATK and lose 100 DEF for each counter on this card.\nAny battle damage you take from battles involving your Zombie monster is doubled.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300101001.jpg"
   ],

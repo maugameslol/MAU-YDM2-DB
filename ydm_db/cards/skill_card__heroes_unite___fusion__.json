@@ -3,7 +3,9 @@
   "name": "HEROES UNITE - FUSION!! (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nActivate this Skill during your Main Phase.\nDiscard 1 card, then Fusion Summon 1 \"Elemental HERO\" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material.\nIf Summoning an \"Elemental HERO\" Fusion Monster this way that requires 3 or more materials, and you control 2 \"Elemental HERO\" monsters that are mentioned on it as materials, you can also use monsters in your Deck as Fusion Material.\nThis Skill can only be used once per Duel.",
+  "text": "",
+  "skill_activation": "Flip this card over when you activate this Skill.",
+  "skill_effect": "Activate this Skill during your Main Phase.\nDiscard 1 card, then Fusion Summon 1 \"Elemental HERO\" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material.\nIf Summoning an \"Elemental HERO\" Fusion Monster this way that requires 3 or more materials, and you control 2 \"Elemental HERO\" monsters that are mentioned on it as materials, you can also use monsters in your Deck as Fusion Material.\nThis Skill can only be used once per Duel.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300302050.jpg"
   ],

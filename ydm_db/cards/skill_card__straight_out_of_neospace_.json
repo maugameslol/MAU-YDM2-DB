@@ -3,7 +3,9 @@
   "name": "Straight out of Neospace! (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ SKILL ACTIVATION ]\nAt the start of the Duel, flip this card over.\n\n[ SKILL EFFECT ]\nIf only your opponent controls a monster, you can Special Summon 1 \"Elemental HERO Neos\" from your hand, also for the rest of this turn, you cannot Special Summon, except \"Elemental HERO\" or \"Neo-Spacian\" monsters.\nDuring your End Phase, if a Fusion Monster you control is returned to your Extra Deck, you can Special Summon 1 \"Elemental HERO Neos\" from your Deck.",
+  "text": "",
+  "skill_activation": "At the start of the Duel, flip this card over.",
+  "skill_effect": "If only your opponent controls a monster, you can Special Summon 1 \"Elemental HERO Neos\" from your hand, also for the rest of this turn, you cannot Special Summon, except \"Elemental HERO\" or \"Neo-Spacian\" monsters.\nDuring your End Phase, if a Fusion Monster you control is returned to your Extra Deck, you can Special Summon 1 \"Elemental HERO Neos\" from your Deck.",
   "images": [
     "https://ms.yugipedia.com//8/8f/StraightoutofNeoSpace-SGX4-NA-C-1E.png"
 	],

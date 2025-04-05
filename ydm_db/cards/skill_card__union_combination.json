@@ -3,7 +3,9 @@
   "name": "Union Combination (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nOnce per turn, during your Main Phase, you can place 1 card from your hand on the bottom of your Deck, then Special Summon 1 LIGHT Machine Fusion Monster from your Extra Deck, that cannot be Fusion Summoned, by banishing Fusion Materials mentioned on it from your field or your GY, ignoring its Summoning conditions.\nFor the rest of this turn, your opponent takes no damage.\n\n\u00A7cThis text is unofficial and has been altered in order to describe the card\u0027s presumed intended functionality in the TCG Speed Duel format.\u00A7r",
+  "text": "This text is unofficial and has been altered in order to describe the card\u0027s presumed intended functionality in the TCG Speed Duel format.",
+  "skill_activation": "Flip this card over when you activate this Skill.",
+  "skill_effect": "Once per turn, during your Main Phase, you can place 1 card from your hand on the bottom of your Deck, then Special Summon 1 LIGHT Machine Fusion Monster from your Extra Deck, that cannot be Fusion Summoned, by banishing Fusion Materials mentioned on it from your field or your GY, ignoring its Summoning conditions.\nFor the rest of this turn, your opponent takes no damage.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300302020.jpg"
   ],

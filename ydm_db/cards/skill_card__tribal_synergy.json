@@ -3,7 +3,9 @@
   "name": "Tribal Synergy (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ SKILL ACTIVATION ]\nAt the start of the Duel, flip this card over.\n\n[ SKILL EFFECT ]\nIf you have an \"Amazoness\" monster and a \"Harpie\" monster in your hand, reveal them and draw 1 card.\nIf you control an \"Amazoness\" monster and a \"Harpie\" monster, draw 2 cards.\nEach of these Skills can only be used once per Duel.",
+  "text": "",
+  "skill_activation": "At the start of the Duel, flip this card over.",
+  "skill_effect": "If you have an \"Amazoness\" monster and a \"Harpie\" monster in your hand, reveal them and draw 1 card.\nIf you control an \"Amazoness\" monster and a \"Harpie\" monster, draw 2 cards.\nEach of these Skills can only be used once per Duel.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300202009.jpg"
   ],

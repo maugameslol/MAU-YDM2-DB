@@ -3,7 +3,9 @@
   "name": "Red-Eye Inferno (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ SKILL ACTIVATION ]\nAt the start of the Duel, flip this card over.\n\n[ SKILL EFFECT ]\nYou can Tribute Summon \"Red-Eyes Black Dragon\" for 1 less Tribute for each monster your opponent controls. You can discard 1 Spell, then apply 1 of these Skills (but you can only use each of these Skills once per Duel).\n\u25cf If you control a \"Red-Eyes Black Dragon\", inflict 800 damage to your opponent, also \"Red-Eyes Black Dragon\" you control cannot declare an attack this turn.\n\u25cf Fusion Summon 1 Fusion Monster that mentions \"Red-Eyes Black Dragon\" as material, using monsters from your hand or field as material, and if you do, it cannot be destroyed by your opponent's card effects until the end of this turn.",
+  "text": "",
+  "skill_activation": "At the start of the Duel, flip this card over.",
+  "skill_effect": "You can Tribute Summon \"Red-Eyes Black Dragon\" for 1 less Tribute for each monster your opponent controls. You can discard 1 Spell, then apply 1 of these Skills (but you can only use each of these Skills once per Duel).\n\u25cf If you control a \"Red-Eyes Black Dragon\", inflict 800 damage to your opponent, also \"Red-Eyes Black Dragon\" you control cannot declare an attack this turn.\n\u25cf Fusion Summon 1 Fusion Monster that mentions \"Red-Eyes Black Dragon\" as material, using monsters from your hand or field as material, and if you do, it cannot be destroyed by your opponent's card effects until the end of this turn.",
   "images": [
     "https://ms.yugipedia.com//2/2e/RedEyeInferno-SBC2-NA-C-1E.png"
 	],

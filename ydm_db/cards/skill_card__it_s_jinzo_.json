@@ -3,7 +3,9 @@
   "name": "It\u0027s Jinzo! (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ SKILL ACTIVATION ]\nAt the start of the Duel, flip this card over.\n\n[ SKILL EFFECT ]\n\"Jinzo\" monsters you control are unaffected by your opponent\u0027s Skill Cards.\nOnce per turn, during your Main Phase, if you control \"Jinzo\", you can look at 1 face-down card in your opponent\u0027s Spell \u0026 Trap Zones, and if it is a Trap, draw 1 card.",
+  "text": "",
+  "skill_activation": "At the start of the Duel, flip this card over.",
+  "skill_effect": "\"Jinzo\" monsters you control are unaffected by your opponent\u0027s Skill Cards.\nOnce per turn, during your Main Phase, if you control \"Jinzo\", you can look at 1 face-down card in your opponent\u0027s Spell \u0026 Trap Zones, and if it is a Trap, draw 1 card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300302011.jpg"
   ],

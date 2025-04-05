@@ -3,7 +3,9 @@
   "name": "Unlocking the Power (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ SKILL ACTIVATION ]\nAt the start of the Duel, flip this card over.\n\n[ SKILL EFFECT ]\nWhen you Special Summon \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", or \"Raviel, Lord of Phantasms\" using the method mentioned on that card, you can use face-up Fiend monsters, Continuous Spells, and/or Continuous Traps you control, regardless of the card type the text requires.",
+  "text": "",
+  "skill_activation": "At the start of the Duel, flip this card over.",
+  "skill_effect": "When you Special Summon \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", or \"Raviel, Lord of Phantasms\" using the method mentioned on that card, you can use face-up Fiend monsters, Continuous Spells, and/or Continuous Traps you control, regardless of the card type the text requires.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300302073.jpg"
   ],

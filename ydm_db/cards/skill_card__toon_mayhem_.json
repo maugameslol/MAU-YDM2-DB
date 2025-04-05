@@ -3,7 +3,9 @@
   "name": "Toon Mayhem! (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ SKILL ACTIVATION ]\nAt the start of the Duel, flip this card over.\n\n[ SKILL EFFECT ]\nThe first time each \"Toon World\" in your Spell \u0026 Trap Zone would be destroyed each turn, it is not destroyed.",
+  "text": "",
+  "skill_activation": "At the start of the Duel, flip this card over.",
+  "skill_effect": "The first time each \"Toon World\" in your Spell \u0026 Trap Zone would be destroyed each turn, it is not destroyed.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300204004.jpg"
   ],

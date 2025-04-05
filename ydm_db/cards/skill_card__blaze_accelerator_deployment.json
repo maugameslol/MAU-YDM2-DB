@@ -3,7 +3,9 @@
   "name": "Blaze Accelerator Deployment (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nOnce per turn, you can change the name of 1 \"Blaze Accelerator\" you control to \"Tri-Blaze Accelerator\".\nThis Skill can be used twice per Duel.",
+  "text": "",
+  "skill_activation": "Flip this card over when you activate this Skill.",
+  "skill_effect": "Once per turn, you can change the name of 1 \"Blaze Accelerator\" you control to \"Tri-Blaze Accelerator\".\nThis Skill can be used twice per Duel.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300302024.jpg"
   ],

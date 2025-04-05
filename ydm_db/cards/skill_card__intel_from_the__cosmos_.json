@@ -3,7 +3,9 @@
   "name": "Intel from the \"Cosmos\" (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ SKILL ACTIVATION ]\nAt the start of the Duel, flip this card over.\n\n[ SKILL EFFECT ]\nYour opponent must reveal all cards they draw during their Draw Phase.",
+  "text": "",
+  "skill_activation": "At the start of the Duel, flip this card over.",
+  "skill_effect": "Your opponent must reveal all cards they draw during their Draw Phase.",
   "images": [
     "https://ms.yugipedia.com//c/cb/IntelfromtheCosmos-SBC1-EN-C-1E.png"
 	],

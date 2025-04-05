@@ -3,7 +3,9 @@
   "name": "Ruthless Means (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nOnce per Duel, during your Main Phase, if you control an \"Evil HERO\" monster, you can discard 1 card to make 1 face-up monster your opponent controls lose ATK equal to its own DEF, or lose DEF equal to its own ATK (your choice).",
+  "text": "",
+  "skill_activation": "Flip this card over when you activate this Skill.",
+  "skill_effect": "Once per Duel, during your Main Phase, if you control an \"Evil HERO\" monster, you can discard 1 card to make 1 face-up monster your opponent controls lose ATK equal to its own DEF, or lose DEF equal to its own ATK (your choice).",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300302071.jpg"
   ],

@@ -3,7 +3,9 @@
   "name": "Mokey Mokey Madness (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nApply the following Skill.\n\u25cf If all monsters you control are \"Mokey Mokey\" monsters (min. 1), Effect Monsters cannot attack the turn they are Summoned.\nOnce per Duel, if you control 2 or more Fairy monsters, you can place 1 \"Mokey Mokey\" Continuous Spell from your Deck face-up in your Spell \u0026 Trap Zone, and if you do, destroy 1 monster you control. Once per Duel, you can discard 1 card to Fusion Summon 1 \"Mokey Mokey King\" from your Extra Deck, using monsters from your hand or field as Fusion Material.",
+  "text": "",
+  "skill_activation": "Flip this card over when you activate this Skill.",
+  "skill_effect": "Apply the following Skill.\n\u25cf If all monsters you control are \"Mokey Mokey\" monsters (min. 1), Effect Monsters cannot attack the turn they are Summoned.\nOnce per Duel, if you control 2 or more Fairy monsters, you can place 1 \"Mokey Mokey\" Continuous Spell from your Deck face-up in your Spell \u0026 Trap Zone, and if you do, destroy 1 monster you control. Once per Duel, you can discard 1 card to Fusion Summon 1 \"Mokey Mokey King\" from your Extra Deck, using monsters from your hand or field as Fusion Material.",
   "images": [
     "https://ms.yugipedia.com//1/11/MokeyMokeyMadness-SGX4-NA-C-1E.png"
 	],

@@ -3,7 +3,9 @@
   "name": "Even the Odds (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ SKILL ACTIVATION ]\nActivate this Skill only if your opponent controls exactly 3 cards and you control no cards.\n\n[ SKILL EFFECT ]\nDuring your Main Phase, you can add 1 card from your Deck to your hand, then place 1 card from your hand on the bottom of the Deck. This Skill can only be used once per Duel.",
+  "text": "",
+  "skill_activation": "Activate this Skill only if your opponent controls exactly 3 cards and you control no cards.",
+  "skill_effect": "During your Main Phase, you can add 1 card from your Deck to your hand, then place 1 card from your hand on the bottom of the Deck. This Skill can only be used once per Duel.",
   "images": [
     "https://ms.yugipedia.com//a/a8/EventheOdds-SBC2-NA-C-1E.png"
 	],

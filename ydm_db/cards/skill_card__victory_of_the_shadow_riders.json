@@ -3,7 +3,9 @@
   "name": "Victory of the Shadow Riders (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ SKILL ACTIVATION ]\nAt the start of the Duel, place this card face-down in your center Spell \u0026 Trap Zone.\nYou draw 1 less card at the beginning of the Duel.\nAt the start of your first turn of the Duel, flip this card over.\n\n[ SKILL EFFECT ]\nWhen this Skill is activated, add 1 \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", or \"Raviel, Lord of Phantasms\" from your Deck to your hand.\nOnce per turn, you can discard 1 card, then Special Summon 1 Fiend monster with 0 ATK/DEF from your GY.",
+  "text": "",
+  "skill_activation": "At the start of the Duel, place this card face-down in your center Spell \u0026 Trap Zone.\nYou draw 1 less card at the beginning of the Duel.\nAt the start of your first turn of the Duel, flip this card over.",
+  "skill_effect": "When this Skill is activated, add 1 \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", or \"Raviel, Lord of Phantasms\" from your Deck to your hand.\nOnce per turn, you can discard 1 card, then Special Summon 1 Fiend monster with 0 ATK/DEF from your GY.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300302075.jpg"
   ],

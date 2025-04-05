@@ -3,7 +3,7 @@
   "name": "Double or Nothing! (Duel Links Skill)",
   "is_illegal": false,
   "is_custom": true,
-  "text": "You must begin the Duel with an Extra Deck that contains no other monsters other than Xyz Monsters.\n(This Skill has been adapted to work in our format, and it attempts to replicate its function in Yu-Gi-Oh! Duel Links.)",
+  "text": "(This Skill has been adapted to work in our format, and it attempts to replicate its function in Yu-Gi-Oh! Duel Links.)\nYou must begin the Duel with an Extra Deck that contains no other monsters other than Xyz Monsters.",
   "skill_activation": "Flip this card over when you activate this Skill.",
   "skill_effect": "During your Main Phase, if you control a \"Number 98: Antitopian\" or a LIGHT \"Utopia\" or \"Utopic\" Xyz Monster in your Monster Zone; Add 1 \"Double or Nothing!\" to your hand from your Deck, and if you do, shuffle 1 card from your hand into your Deck.\nThis Skill can be used once per Duel.",
   "images": [

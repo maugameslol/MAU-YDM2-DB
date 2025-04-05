@@ -3,7 +3,9 @@
   "name": "Cyber Blade Fusion (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ SKILL ACTIVATION ]\nFlip this card over when you activate this Skill.\n\n[ SKILL EFFECT ]\nOnce per turn, you can discard 1 card to Fusion Summon 1 \"Cyber Blader\" by sending either \"Etoile Cyber\" or \"Blade Skater\" from your field to the GY as 1 Fusion Material, and the other material from your hand, field, or Deck to the GY.\nThat \"Cyber Blader\" gains 400 ATK.\nThis Skill can be used twice per Duel.",
+  "text": "",
+  "skill_activation": "Flip this card over when you activate this Skill.",
+  "skill_effect": "Once per turn, you can discard 1 card to Fusion Summon 1 \"Cyber Blader\" by sending either \"Etoile Cyber\" or \"Blade Skater\" from your field to the GY as 1 Fusion Material, and the other material from your hand, field, or Deck to the GY.\nThat \"Cyber Blader\" gains 400 ATK.\nThis Skill can be used twice per Duel.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300302027.jpg"
   ],

@@ -3,7 +3,9 @@
   "name": "Tribal Unity (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ SKILL ACTIVATION ]\nAt the start of the Duel, flip this card over.\n\n[ SKILL EFFECT ]\n\"Harpie\" monsters are also treated as \"Amazoness\" monsters and vice-versa, while they are on the field or GY. Once per Duel, you can discard 1 monster to make 1 \"Harpie\" or \"Amazoness\" monster you control gain ATK equal to the Level of the discarded monster x 200.",
+  "text": "",
+  "skill_activation": "At the start of the Duel, flip this card over.",
+  "skill_effect": "\"Harpie\" monsters are also treated as \"Amazoness\" monsters and vice-versa, while they are on the field or GY. Once per Duel, you can discard 1 monster to make 1 \"Harpie\" or \"Amazoness\" monster you control gain ATK equal to the Level of the discarded monster x 200.",
   "images": [
     "https://ms.yugipedia.com//7/7a/TribalUnity-SBC2-NA-C-1E.png"
 	],

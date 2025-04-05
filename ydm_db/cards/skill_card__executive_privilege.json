@@ -3,7 +3,9 @@
   "name": "Executive Privilege (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ SKILL ACTIVATION ]\nAt the start of the Duel, flip this card over.\n\n[ SKILL EFFECT ]\n\"Obelisk the Tormentor\" can attack all monsters your opponent controls, once each. Once per turn, during your Main Phase, you can activate 1 of these Skills:\n\u25cf Reveal 1 \"Obelisk the Tormentor\" and \"Blue-Eyes White Dragon\" in your hand, place them on the bottom of the Deck in any order, then draw 2 cards.\n\u25cf Once per Duel, discard 1 card, then add 1 \"Obelisk the Tormentor\" from your Deck to your hand.",
+  "text": "",
+  "skill_activation": "At the start of the Duel, flip this card over.",
+  "skill_effect": "\"Obelisk the Tormentor\" can attack all monsters your opponent controls, once each. Once per turn, during your Main Phase, you can activate 1 of these Skills:\n\u25cf Reveal 1 \"Obelisk the Tormentor\" and \"Blue-Eyes White Dragon\" in your hand, place them on the bottom of the Deck in any order, then draw 2 cards.\n\u25cf Once per Duel, discard 1 card, then add 1 \"Obelisk the Tormentor\" from your Deck to your hand.",
   "images": [
     "https://ms.yugipedia.com//0/08/ExecutivePrivilege-SBC2-NA-C-1E.png"
 	],

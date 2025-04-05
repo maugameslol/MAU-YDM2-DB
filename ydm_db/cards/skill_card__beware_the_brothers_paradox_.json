@@ -3,7 +3,9 @@
   "name": "Beware the Brothers Paradox! (Skill Card)",
   "is_illegal": false,
   "is_custom": false,
-  "text": "[ SKILL ACTIVATION ]\nIf you have no cards in your Extra Deck, reveal 1 \"Gate Guardian\", \"Sanga of the Thunder\", \"Kazejin\", or \"Suijin\" in your hand to flip this card over.\n\n[ SKILL EFFECT ]\nApply the following Skills:\n\u25cf You can Normal Summon Level 7 monsters for 1 less Tribute.\n\u25cf You can Tribute Summon 1 Level 7 monster face-up, in addition to your Normal Summon/Set.\n\u25cf Your opponent takes no effect damage.\n\u25cf You can only attack with 1 monster each turn, but that monster can make a second attack on monsters during each Battle Phase.",
+  "text": "",
+  "skill_activation": "If you have no cards in your Extra Deck, reveal 1 \"Gate Guardian\", \"Sanga of the Thunder\", \"Kazejin\", or \"Suijin\" in your hand to flip this card over.",
+  "skill_effect": "Apply the following Skills:\n\u25cf You can Normal Summon Level 7 monsters for 1 less Tribute.\n\u25cf You can Tribute Summon 1 Level 7 monster face-up, in addition to your Normal Summon/Set.\n\u25cf Your opponent takes no effect damage.\n\u25cf You can only attack with 1 monster each turn, but that monster can make a second attack on monsters during each Battle Phase.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/300302045.jpg"
   ],
