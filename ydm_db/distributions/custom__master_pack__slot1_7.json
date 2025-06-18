@@ -7,7 +7,8 @@
         {
           "count": 1,
           "rarities": [
-            "Common"
+            "Common",
+			"Normal"
           ]
         }
       ]
@@ -40,7 +41,8 @@
         {
           "count": 1,
           "rarities": [
-            "Common - Glossy Finish"
+            "Common - Glossy Finish",
+			"Normal - Glossy Finish"
           ]
         }
       ]
