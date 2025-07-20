@@ -1,12 +1,14 @@
 {
   "id": 84013237,
   "name": "Number 39: Utopia",
+  "archetypes": ["Number", "Utopia"],
   "is_illegal": false,
   "is_custom": false,
-  "text": "2 Level 4 monsters\nWhen a monster declares an attack: You can detach 1 material from this card; negate the attack.\nIf this card is targeted for an attack, while it has no material: Destroy this card.",
+  "text": "2 Level 4 monsters\n\u2460: When a monster declares an attack: You can detach 1 material from this card; negate the attack.\n\u2461: If this card is targeted for an attack, while it has no material: Destroy this card.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/84013237.jpg",
-    "https://images.ygoprodeck.com/images/cards/84013238.jpg"
+    "https://images.ygoprodeck.com/images/cards/84013238.jpg",
+	"https://images.ygoprodeck.com/images/cards/84013239.jpg"
   ],
   "type": "Monster",
   "attribute": "LIGHT",

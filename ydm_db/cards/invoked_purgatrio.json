@@ -1,9 +1,11 @@
 {
   "id": 12307878,
   "name": "Invoked Purgatrio",
+  "archetypes": ["Invoked"],
+  "mentions": ["Aleister the Invoker"],
   "is_illegal": false,
   "is_custom": false,
-  "text": "\"Aleister the Invoker\" + 1 FIRE monster\nThis card gains 200 ATK for each card your opponent controls. This card can attack all monsters your opponent controls, once each. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "text": "\"Aleister the Invoker\" + 1 FIRE monster\n\u2460: This card gains 200 ATK for each card your opponent controls. This card can attack all monsters your opponent controls, once each.\n\u2461: If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/12307878.jpg"
   ],

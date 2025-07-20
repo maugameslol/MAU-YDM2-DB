@@ -1,6 +1,8 @@
 {
   "id": 48791583,
   "name": "Invoked Magellanica",
+  "archetypes": ["Invoked"],
+  "mentions": ["Aleister the Invoker"],
   "is_illegal": false,
   "is_custom": false,
   "text": "\"Aleister the Invoker\" + 1 EARTH monster",

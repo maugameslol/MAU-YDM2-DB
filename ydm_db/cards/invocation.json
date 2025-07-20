@@ -1,9 +1,10 @@
 {
   "id": 74063034,
   "name": "Invocation",
+  "mentions": ["Invoked"],
   "is_illegal": false,
   "is_custom": false,
-  "text": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand as Fusion Material. If Summoning an \"Invoked\" Fusion Monster this way, you can also banish monsters from your field and/or either player\u0027s GY as Fusion Material. If this card is in your GY: You can target 1 of your banished \"Aleister the Invoker\"; shuffle this card into the Deck, and if you do, add that card to your hand. You can only use this effect of \"Invocation\" once per turn.",
+  "text": "\u2460: Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand as Fusion Material. If Summoning an \"Invoked\" Fusion Monster this way, you can also banish monsters from your field and/or either player\u0027s GY as Fusion Material.\n\u2461: If this card is in your GY: You can target 1 of your banished \"Aleister the Invoker\"; shuffle this card into the Deck, and if you do, add that card to your hand. You can only use this effect of \"Invocation\" once per turn.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/74063034.jpg"
   ],
