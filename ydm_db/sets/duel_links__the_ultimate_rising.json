@@ -1,0 +1,71 @@
+{
+  "name": "Duel Links: The Ultimate Rising",
+  "code": "DLTUR",
+  "type": "Duel Links Main Booster Pack",
+  "date": "27-10-2016",
+  "image": "https://ms.yugipedia.com//7/7e/TheUltimateRising.png",
+  "pull_type": "distribution",
+  "distribution": "speed_duel_booster_pack",
+  "cards": [
+    {
+      "id": 57617178,
+      "code": "DLTUR-001",
+      "rarity": "Speed Duel Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14644902,
+      "code": "DLTUR-002",
+      "rarity": "Speed Duel Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 7089711,
+      "code": "DLTUR-003",
+      "rarity": "Speed Duel Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33245030,
+      "code": "DLTUR-004",
+      "rarity": "Speed Duel Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 48305365,
+      "code": "DLTUR-005",
+      "rarity": "Speed Duel Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 23995346,
+      "code": "DLTUR-006",
+      "rarity": "Speed Duel Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 71453557,
+      "code": "DLTUR-007",
+      "rarity": "Speed Duel Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33550694,
+      "code": "DLTUR-008",
+      "rarity": "Speed Duel Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 77414722,
+      "code": "DLTUR-009",
+      "rarity": "Speed Duel Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 96008713,
+      "code": "DLTUR-010",
+      "rarity": "Speed Duel Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}
