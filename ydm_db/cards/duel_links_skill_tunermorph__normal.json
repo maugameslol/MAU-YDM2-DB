@@ -5,7 +5,7 @@
   "is_custom": true,
   "text": "(This Skill has been adapted to work in our format, and it attempts to replicate its function in Yu-Gi-Oh! Duel Links.)",
   "skill_activation": "Flip this card over when you activate this Skill.",
-  "skill_effect": "Reveal 1 Tuner monster in you hand and select a Normal Monster on your side of the field. The selected monster is treated as a Tuner monster.\nThis Skill can only be used once per Duel.",
+  "skill_effect": "Reveal 1 Tuner monster in your hand and select a Normal Monster on your side of the field.\nThe selected monster is treated as a Tuner monster.\nThis Skill can only be used once per Duel.",
   "images": [
     "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/main/Customs/SkillCards/Duel_Links_Skill_Tunermorph__Normal.jpg"
   ],
