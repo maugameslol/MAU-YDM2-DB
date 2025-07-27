@@ -66,6 +66,78 @@
       "code": "DLTUR-010",
       "rarity": "Speed Duel Ultra Rare",
       "image_index": 0
+    },
+    {
+      "id": 1525329,
+      "code": "DLTUR-011",
+      "rarity": "Speed Duel Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 83994646,
+      "code": "DLTUR-012",
+      "rarity": "Speed Duel Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 30113682,
+      "code": "DLTUR-013",
+      "rarity": "Speed Duel Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78574395,
+      "code": "DLTUR-014",
+      "rarity": "Speed Duel Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 33904024,
+      "code": "DLTUR-015",
+      "rarity": "Speed Duel Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 45939841,
+      "code": "DLTUR-016",
+      "rarity": "Speed Duel Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 78986941,
+      "code": "DLTUR-017",
+      "rarity": "Speed Duel Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 68427465,
+      "code": "DLTUR-018",
+      "rarity": "Speed Duel Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 27827272,
+      "code": "DLTUR-019",
+      "rarity": "Speed Duel Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 56948373,
+      "code": "DLTUR-020",
+      "rarity": "Speed Duel Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81210420,
+      "code": "DLTUR-021",
+      "rarity": "Speed Duel Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 17814387,
+      "code": "DLTUR-022",
+      "rarity": "Speed Duel Super Rare",
+      "image_index": 0
     }
   ]
 }

@@ -1,0 +1,13 @@
+{
+  "rarity": "Normal",
+  "layers": [
+    {
+      "image": "hologram_silver",
+      "type": "inverted"
+    },
+    {
+      "image": "hologram_silver_shine",
+      "type": "normal"
+    }
+  ]
+}
