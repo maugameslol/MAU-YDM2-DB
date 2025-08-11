@@ -1,9 +1,11 @@
 {
   "id": 83257450,
   "name": "The Unstoppable Exodia Incarnate",
+  "archetypes": ["Exodia"],
+  "mentions": ["Exodd", "Forbidden One", "Obliterate!!!"],
   "is_illegal": false,
   "is_custom": false,
-  "text": "5 \"Forbidden One\" monsters\nThis card on the field cannot be destroyed by your opponent\u0027s card effects.\nOnce per turn, if this card battles, during damage calculation: It gains ATK equal to your current LP.\nOnce per turn, when a Spell/Trap Card or effect is activated (Quick effect): You can negate the activation.\nOnce per turn, during the End Phase: You can Set 1 \"Exodo\" Spell/Trap or \"Obliterate!!!\" directly from your Deck.\nOnce per turn, during your Standby Phase: You lose 1000 LP.",
+  "text": "5 \"Forbidden One\" monsters\n\u2460: Cannot be destroyed by an opponent\u0027s card effects.\n\u2461: Once per turn, if this card battles, during damage calculation: You can make this card gain ATK equal to your LP.\n\u2462: Once per turn, when a Spell/Trap Card or effect is activated (Quick Effect): You can negate that activation.\n\u2463: Once per turn, during the End Phase: You can Set 1 \"Exodd\" or \"Obliterate!!!\" Spell/Trap from your Deck.\n\u2464: Once per turn, during your Standby Phase: Lose 1000 LP.",
   "images": ["https://images.ygoprodeck.com/images/cards/83257450.jpg"],
   "type": "Monster",
   "attribute": "DARK",
