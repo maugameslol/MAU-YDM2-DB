@@ -1,6 +1,8 @@
 {
   "id": 37445295,
   "name": "Shaddoll Falco",
+  "archetypes": ["Shaddoll"],
+  "mentions": ["Shaddoll"],
   "is_illegal": false,
   "is_custom": false,
   "text": "FLIP: You can target 1 \"Shaddoll\" monster in your GY, except \"Shaddoll Falco\"; Special Summon it in face-down Defense Position.\nIf this card is sent to the GY by a card effect: You can Special Summon it in face-down Defense Position. You can only use 1 \"Shaddoll Falco\" effect per turn, and only once that turn.",

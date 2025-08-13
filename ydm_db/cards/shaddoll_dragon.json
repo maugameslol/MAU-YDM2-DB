@@ -1,6 +1,7 @@
 {
   "id": 77723643,
   "name": "Shaddoll Dragon",
+  "archetypes": ["Shaddoll"],
   "is_illegal": false,
   "is_custom": false,
   "text": "FLIP: You can target 1 card your opponent controls; return it to the hand.\nIf this card is sent to the GY by a card effect: You can target 1 Spell/Trap on the field; destroy it. You can only use 1 \"Shaddoll Dragon\" effect per turn, and only once that turn.",
