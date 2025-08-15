@@ -1,6 +1,7 @@
 {
   "id": 2204140,
   "name": "Book of Life",
+  "limit": 1,
   "is_illegal": false,
   "is_custom": false,
   "text": "Target 1 Zombie monster in your GY and 1 monster in your opponent\u0027s GY; Special Summon the first target, also banish the second target.",
