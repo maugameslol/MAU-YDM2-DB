@@ -1,6 +1,8 @@
 {
   "id": 83629030,
   "name": "Toon Cyber Dragon",
+  "archetypes": ["Cyber Dragon", "Toon"],
+  "archetypes": ["Toon World"],
   "is_illegal": false,
   "is_custom": false,
   "text": "If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand).\nCannot attack the turn it is Summoned.\nWhile you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack your opponent directly.",

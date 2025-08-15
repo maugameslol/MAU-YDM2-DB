@@ -1,6 +1,7 @@
 {
   "id": 5832914,
   "name": "Toon Briefcase",
+  "archetypes": ["Toon"],
   "is_illegal": false,
   "is_custom": false,
   "text": "When your opponent Summons a monster(s) while you control a Toon monster: Shuffle that monster(s) into the Deck.",

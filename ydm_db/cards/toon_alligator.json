@@ -1,6 +1,7 @@
 {
   "id": 59383041,
   "name": "Toon Alligator",
+  "archetypes": ["Toon"],
   "is_illegal": false,
   "is_custom": false,
   "text": "An alligator monster straight from the cartoons.",

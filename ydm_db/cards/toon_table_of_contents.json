@@ -1,6 +1,8 @@
 {
   "id": 89997728,
   "name": "Toon Table of Contents",
+  "archetypes": ["Toon"],
+  "mentions": ["Toon"],
   "is_illegal": false,
   "is_custom": false,
   "text": "Add 1 \"Toon\" card from your Deck to your hand.",

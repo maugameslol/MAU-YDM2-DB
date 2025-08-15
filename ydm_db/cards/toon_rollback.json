@@ -1,6 +1,7 @@
 {
   "id": 70560957,
   "name": "Toon Rollback",
+  "archetypes": ["Toon"],
   "is_illegal": false,
   "is_custom": false,
   "text": "Target 1 Toon monster you control; it can make a second attack during each Battle Phase this turn.",
