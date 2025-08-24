@@ -1,13 +1,14 @@
 {
-  "name": "custom__9_random_jump_promos",
+  "name": "custom__5_random_jump_promos",
   "pulls": [
     {
       "weight": 1,
       "entries": [
         {
-          "count": 9,
+          "count": 5,
           "rarities": [
             "Ultra Rare",
+			"Secret Rare",
 			"Prismatic Secret Rare"
           ]
         }

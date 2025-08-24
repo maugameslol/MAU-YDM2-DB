@@ -5,7 +5,7 @@
   "date": "30-01-2025",
   "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
   "pull_type": "distribution",
-  "distribution": "custom__9_random_jump_promos",
+  "distribution": "custom__5_random_jump_promos",
   "cards": [
     {
       "id": 89631139,
@@ -26,7 +26,7 @@
       "image_index": 0
     },
 	{
-      "id": 50287060,
+      "id": 10000000,
       "code": "JMP-004",
       "rarity": "Prismatic Secret Rare",
       "image_index": 0
@@ -34,7 +34,7 @@
 	{
       "id": 23995346,
       "code": "JMP-005",
-      "rarity": "Ultra Rare",
+      "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
@@ -70,7 +70,7 @@
 	{
       "id": 44910027,
       "code": "JUMP-011",
-      "rarity": "Ultra Rare",
+      "rarity": "Secret Rare",
       "image_index": 0
     },
 	{
@@ -158,6 +158,174 @@
       "image_index": 0
     },
 	{
+      "id": 38109772,
+      "code": "JUMP-026",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 5861892,
+      "code": "JUMP-027",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 64681432,
+      "code": "JUMP-028",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 15341821,
+      "code": "JUMP-029",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 88264978,
+      "code": "JUMP-030",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 79229522,
+      "code": "JUMP-031",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 78651105,
+      "code": "JUMP-032",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 98777036,
+      "code": "JUMP-033",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 31038159,
+      "code": "JUMP-034",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 7634581,
+      "code": "JUMP-035",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 60417395,
+      "code": "JUMP-036",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 10000000,
+      "code": "JUMP-037",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 33093439,
+      "code": "JUMP-038",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 95453143,
+      "code": "JUMP-039",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 9666558,
+      "code": "JUMP-040",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 88071625,
+      "code": "JUMP-041",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 66094973,
+      "code": "JUMP-042",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 36521459,
+      "code": "JUMP-043",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 88643579,
+      "code": "JUMP-044",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 10000010,
+      "code": "JUMP-045",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 87259077,
+      "code": "JUMP-046",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 43366227,
+      "code": "JUMP-047",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 37115575,
+      "code": "JUMP-048",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 46986414,
+      "code": "JUMP-049",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 63468625,
+      "code": "JUMP-050",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 90953320,
+      "code": "JUMP-051",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 4545683,
+      "code": "JUMP-052",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 68140974,
+      "code": "JUMP-053",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
       "id": 80316585,
       "code": "SP1-001",
       "rarity": "Ultra Rare",
@@ -184,6 +352,12 @@
 	{
       "id": 54912977,
       "code": "SP2-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 72144675,
+      "code": "JMPS-001",
       "rarity": "Ultra Rare",
       "image_index": 0
     }
