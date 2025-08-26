@@ -8,7 +8,7 @@
   "images": [
     "https://images.ygoprodeck.com/images/cards/18144507.jpg",
     "https://images.ygoprodeck.com/images/cards/18144506.jpg",
-    "https://github.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/blob/main/Replicas/Harpie_s_Feather_Duster_3.png"
+    "https://raw.githubusercontent.com/maugameslol/MAU-YDM2-CUSTOM-IMAGES/refs/heads/main/Replicas/Harpie_s_Feather_Duster_3.png"
   ],
   "type": "Spell",
   "spell_type": "Normal"
