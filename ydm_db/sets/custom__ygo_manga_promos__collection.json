@@ -1,0 +1,101 @@
+{
+  "name": "Manga Promos - Collection (Custom)",
+  "code": "YGOMPCC",
+  "type": "Promotional Cards (Custom)",
+  "date": "27-08-2025",
+  "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
+  "pull_type": "distribution",
+  "distribution": "custom__5_random_jump_promos",
+  "cards": [
+    {
+      "id": 10000020,
+      "code": "YMA-001",
+      "rarity": "Prismatic Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 81332143,
+      "code": "JUMP-007",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 55948544,
+      "code": "JUMP-008",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 47297616,
+      "code": "YG01-001",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 71564252,
+      "code": "YG02-001",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    },
+	{
+      "id": 33776734,
+      "code": "YG03-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 24857466,
+      "code": "YR01-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 40854197,
+      "code": "YG04-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 44330098,
+      "code": "YR01-003",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 56784842,
+      "code": "YR04-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 17573739,
+      "code": "YR05-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 55690251,
+      "code": "YG05-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 22061412,
+      "code": "YG06-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 75326861,
+      "code": "YF01-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 28348537,
+      "code": "YG07-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}
